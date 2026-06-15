@@ -21,6 +21,12 @@ const cls = (v) => Number(v) < 0 ? "neg" : "pos";
 const pill = (s) => `<span class="pill ${s}">${s}</span>`;
 const dataBase = window.location.pathname.includes("/frontend/") ? "../data" : "./data";
 const shortDate = (v) => v ? String(v).slice(0, 10) : "n/a";
+const avg = (values) => values.length ? values.reduce((sum, v) => sum + v, 0) / values.length : 0;
+const stdev = (values) => {
+  if (values.length < 2) return 0;
+  const m = avg(values);
+  return Math.sqrt(values.reduce((sum, v) => sum + (v - m) ** 2, 0) / (values.length - 1));
+};
 
 async function loadJson(path) {
   const res = await fetch(path, { cache: "no-store" });
@@ -98,7 +104,7 @@ function renderPulse() {
     ["Paper NAV", money.format(portfolio.nav), `${money.format(portfolio.inceptionPnl)} since paper start`, cls(portfolio.inceptionPnl)],
     ["Latest Day PnL", money.format(portfolio.dailyPnl), `Last close-to-close paper day: ${shortDate(portfolio.paperEnd || portfolio.backtestEnd)}`, cls(portfolio.dailyPnl)],
     ["Sharpe", Number(portfolio.sharpe).toFixed(2), "Use with drawdown and cost controls", "warn"],
-    ["Drawdown", pct(portfolio.drawdown, 2), "Aggregate strategy book", "warn"],
+    ["Drawdown", pct(portfolio.drawdown, 2), "Since paper start", "warn"],
     ["VaR / ES", `${money.format(portfolio.var95)} / ${money.format(portfolio.es95)}`, "95% tail risk estimate", "warn"],
     ["Turnover", pct(portfolio.turnover, 1), "Rebalance discipline input", "info"],
     ["Cost drag", `${Number(portfolio.costDragBps).toFixed(2)} bps`, "5 bps buy, 5 bps sell", "pos"],
@@ -129,6 +135,32 @@ function renderBacktestSummary() {
       <article class="pulse-card"><span>${label}</span><strong class="${color}">${value}</strong><small>${note}</small></article>
     `).join("");
   }
+}
+
+function renderBacktestDiagnostics() {
+  const nav = backtestNavSeries.map(Number).filter((value) => Number.isFinite(value));
+  const target = $("backtestDiagnosticsTable");
+  if (!target || nav.length < 2) return;
+
+  const pnls = nav.slice(1).map((value, idx) => value - nav[idx]);
+  const returns = nav.slice(1).map((value, idx) => nav[idx] ? value / nav[idx] - 1 : 0);
+  const positiveRate = pnls.filter((value) => value > 0).length / pnls.length * 100;
+  const bestPnl = Math.max(...pnls);
+  const worstPnl = Math.min(...pnls);
+  const avgPnl = avg(pnls);
+  const annualVol = stdev(returns) * Math.sqrt(252) * 100;
+  const totalReturn = nav[0] ? (nav.at(-1) / nav[0] - 1) * 100 : 0;
+
+  const rows = [
+    ["Trading days", pnls.length.toLocaleString(), "Completed close-to-close observations"],
+    ["Positive days", pct(positiveRate, 1), "Share of days with positive portfolio PnL"],
+    ["Best day", `<span class="pos">${money.format(bestPnl)}</span>`, "Largest one-day modeled gain"],
+    ["Worst day", `<span class="neg">${money.format(worstPnl)}</span>`, "Largest one-day modeled loss"],
+    ["Avg daily PnL", money.format(avgPnl), "Mean daily net PnL over full backtest"],
+    ["Annualized vol", pct(annualVol, 1), "Volatility of daily portfolio returns"],
+    ["Total return", pct(totalReturn, 1), "Full-period return after modeled costs"],
+  ];
+  table("backtestDiagnosticsTable", ["Metric", "Value", "Interpretation"], rows);
 }
 
 function renderDecisions() {
@@ -430,7 +462,7 @@ function setView(view) {
 
 function renderAll() {
   renderPulse(); renderBacktestSummary(); renderDecisions(); renderFactors(); renderWatchlist(); renderHotspots(); renderCorrelationPlot();
-  renderStrategyBook(); renderPaperLedger(); renderProxyTable(); renderRiskContribution(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderValidation(); renderWorkflow(); renderCharts();
+  renderStrategyBook(); renderPaperLedger(); renderProxyTable(); renderRiskContribution(); renderBacktestDiagnostics(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderValidation(); renderWorkflow(); renderCharts();
 }
 
 document.addEventListener("DOMContentLoaded", async () => {

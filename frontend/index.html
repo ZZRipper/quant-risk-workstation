@@ -124,12 +124,9 @@
         <div class="risk-grid">
           <section class="panel"><div class="panel-title"><div><p class="label">Research Result</p><h2>Full Historical Backtest</h2></div></div><canvas id="backtestChart" height="290"></canvas></section>
           <section class="panel">
-            <div class="panel-title"><div><p class="label">Timing Controls</p><h2>No-Lookahead Convention</h2></div></div>
-            <div class="decision-stack">
-              <article class="decision"><p><b>Signal timing:</b> each strategy scores stocks using information available before the evaluated return period.</p></article>
-              <article class="decision"><p><b>Trading rule:</b> t-1 signal selects day t top holdings; day t close-to-close return creates day t PnL.</p></article>
-              <article class="decision"><p><b>Known limitation:</b> current S&P 100-style universe is not point-in-time, so survivorship bias is still a research limitation.</p></article>
-            </div>
+            <div class="panel-title"><div><p class="label">Backtest Monitor</p><h2>Full-Period Diagnostics</h2></div></div>
+            <div class="table-wrap"><table id="backtestDiagnosticsTable"></table></div>
+            <p class="meta-line">Timing: t-1 signal selects day t holdings. Limitation: current S&P 100-style universe is not point-in-time.</p>
           </section>
         </div>
         <div class="risk-grid single">
