@@ -2,6 +2,9 @@ const money = new Intl.NumberFormat("en-US", { style: "currency", currency: "USD
 
 let portfolio = {};
 let strategies = [];
+let paperPositions = [];
+let paperTrades = [];
+let paperPnlLedger = [];
 let factors = [];
 let proxies = [];
 let navSeries = [];
@@ -25,11 +28,22 @@ async function loadJson(path) {
   return res.json();
 }
 
+async function loadOptionalJson(path, fallback) {
+  try {
+    return await loadJson(path);
+  } catch (_err) {
+    return fallback;
+  }
+}
+
 async function loadData() {
   try {
-    [portfolio, strategies, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyCorrelation] = await Promise.all([
+    [portfolio, strategies, paperPositions, paperTrades, paperPnlLedger, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyCorrelation] = await Promise.all([
       loadJson(`${dataBase}/portfolio.json`),
       loadJson(`${dataBase}/strategies.json`),
+      loadOptionalJson(`${dataBase}/paper_positions.json`, []),
+      loadOptionalJson(`${dataBase}/paper_trades.json`, []),
+      loadOptionalJson(`${dataBase}/paper_pnl_ledger.json`, []),
       loadJson(`${dataBase}/factor_exposures.json`),
       loadJson(`${dataBase}/risk_proxies.json`),
       loadJson(`${dataBase}/nav_series.json`),
@@ -45,6 +59,9 @@ async function loadData() {
     if (!d) throw err;
     portfolio = d.portfolio;
     strategies = d.strategies;
+    paperPositions = d.paperPositions || [];
+    paperTrades = d.paperTrades || [];
+    paperPnlLedger = d.paperPnlLedger || [];
     factors = d.factorExposures;
     proxies = d.riskProxies;
     navSeries = d.navSeries;
@@ -213,6 +230,49 @@ function renderStrategyBook() {
   table("strategyTable", ["ID", "Strategy", "Latest Top Holdings", "Target", "Current", "Drift", "Capital", "Daily PnL", "126D Sharpe", "126D DD", "Cost", "Engine", "Decision", "Status"], rows);
 }
 
+function renderPaperLedger() {
+  const latestPositionDate = paperPositions.length ? paperPositions.at(-1).date : "";
+  const positionRows = paperPositions
+    .filter((row) => row.date === latestPositionDate)
+    .slice(0, 30)
+    .map((row) => [
+      row.date,
+      row.strategyId,
+      row.ticker,
+      pct(Number(row.weight) * 100, 1),
+      money.format(row.notional),
+    ]);
+  table("paperPositionsTable", ["Date", "Strategy", "Ticker", "Stock Weight", "Notional"], positionRows);
+
+  const tradeRows = [...paperTrades]
+    .slice(-40)
+    .reverse()
+    .map((row) => [
+      row.date,
+      row.strategyId,
+      row.ticker,
+      `<span class="${row.side === "BUY" ? "pos" : "neg"}">${row.side}</span>`,
+      pct(Number(row.weightChange) * 100, 1),
+      money.format(row.notional),
+      money.format(row.cost),
+    ]);
+  table("paperTradesTable", ["Date", "Strategy", "Ticker", "Side", "Weight Change", "Notional", "Cost"], tradeRows);
+
+  const pnlRows = [...paperPnlLedger]
+    .slice(-40)
+    .reverse()
+    .map((row) => [
+      row.date,
+      row.strategyId,
+      `<span class="${cls(row.grossPnl)}">${money.format(row.grossPnl)}</span>`,
+      money.format(row.cost),
+      `<span class="${cls(row.netPnl)}">${money.format(row.netPnl)}</span>`,
+      money.format(row.navAfter),
+      pct(row.turnover, 1),
+    ]);
+  table("paperPnlTable", ["Date", "Strategy", "Gross PnL", "Cost", "Net PnL", "Strategy NAV", "Turnover"], pnlRows);
+}
+
 function renderProxyTable() {
   const rows = proxies.map((p) => [
     `<strong>${p.ticker}</strong>`, p.factor, p.purpose,
@@ -370,7 +430,7 @@ function setView(view) {
 
 function renderAll() {
   renderPulse(); renderBacktestSummary(); renderDecisions(); renderFactors(); renderWatchlist(); renderHotspots(); renderCorrelationPlot();
-  renderStrategyBook(); renderProxyTable(); renderRiskContribution(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderValidation(); renderWorkflow(); renderCharts();
+  renderStrategyBook(); renderPaperLedger(); renderProxyTable(); renderRiskContribution(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderValidation(); renderWorkflow(); renderCharts();
 }
 
 document.addEventListener("DOMContentLoaded", async () => {

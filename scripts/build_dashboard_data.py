@@ -125,6 +125,72 @@ def build_market_cards(data_source: str) -> list[dict[str, str]]:
     ]
 
 
+def build_paper_ledgers(
+    market_data,
+    strategies: list[dict[str, object]],
+    backtest_results,
+    strategy_weights: list[float],
+    paper_start_idx: int,
+) -> tuple[list[dict[str, object]], list[dict[str, object]], list[dict[str, object]]]:
+    positions = []
+    trades = []
+    pnl_ledger = []
+
+    for idx, strategy in enumerate(strategies):
+        result = backtest_results[idx]
+        strategy_id = str(strategy["id"])
+        strategy_name = str(strategy["name"])
+        sleeve = str(strategy["sleeve"])
+        capital = INITIAL_CAPITAL * strategy_weights[idx] / 100
+
+        for day in range(paper_start_idx, len(market_data.dates)):
+            date = market_data.dates[day]
+            nav_before = result.nav_series[day]
+            nav_after = result.nav_series[day + 1]
+            gross_pnl = result.daily_pnls[day] + result.daily_costs[day]
+            net_pnl = result.daily_pnls[day]
+
+            pnl_ledger.append({
+                "date": date,
+                "strategyId": strategy_id,
+                "strategy": strategy_name,
+                "sleeve": sleeve,
+                "navBefore": round(nav_before, 2),
+                "grossPnl": round(gross_pnl, 2),
+                "cost": round(result.daily_costs[day], 2),
+                "netPnl": round(net_pnl, 2),
+                "navAfter": round(nav_after, 2),
+                "turnover": round(result.turnover[day] * 100, 2),
+            })
+
+            for ticker, weight in sorted(result.daily_weights[day].items()):
+                if weight <= 0:
+                    continue
+                positions.append({
+                    "date": date,
+                    "strategyId": strategy_id,
+                    "strategy": strategy_name,
+                    "ticker": ticker,
+                    "weight": round(weight, 6),
+                    "notional": round(nav_before * weight, 2),
+                    "strategyCapital": round(capital, 2),
+                })
+
+            for trade in result.daily_trades[day]:
+                trades.append({
+                    "date": date,
+                    "strategyId": strategy_id,
+                    "strategy": strategy_name,
+                    "ticker": trade["ticker"],
+                    "side": trade["side"],
+                    "weightChange": round(float(trade["weightChange"]), 6),
+                    "notional": round(float(trade["notional"]), 2),
+                    "cost": round(float(trade["cost"]), 2),
+                })
+
+    return positions, trades, pnl_ledger
+
+
 def build() -> None:
     data_source = os.environ.get("DASHBOARD_DATA_SOURCE", "auto")
     market_data = load_market_data(days=BACKTEST_DAYS, source=data_source)
@@ -243,9 +309,19 @@ def build() -> None:
         market_data.dates,
         window_days=CORRELATION_WINDOW_DAYS,
     )
+    paper_positions, paper_trades, paper_pnl_ledger = build_paper_ledgers(
+        market_data,
+        strategies,
+        backtest_results,
+        weights,
+        paper_start_idx,
+    )
 
     write_json("portfolio.json", portfolio)
     write_json("strategies.json", strategies)
+    write_json("paper_positions.json", paper_positions)
+    write_json("paper_trades.json", paper_trades)
+    write_json("paper_pnl_ledger.json", paper_pnl_ledger)
     write_json("strategy_validation.json", validation_rows)
     write_json("strategy_correlation.json", strategy_correlation)
     write_json("factor_exposures.json", factors)
@@ -261,6 +337,9 @@ def build() -> None:
     bundle = {
         "portfolio": portfolio,
         "strategies": strategies,
+        "paperPositions": paper_positions,
+        "paperTrades": paper_trades,
+        "paperPnlLedger": paper_pnl_ledger,
         "strategyValidation": validation_rows,
         "strategyCorrelation": strategy_correlation,
         "factorExposures": factors,

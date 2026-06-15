@@ -25,6 +25,8 @@ class BacktestResult:
     daily_costs: list[float]
     nav_series: list[float]
     turnover: list[float]
+    daily_weights: list[dict[str, float]]
+    daily_trades: list[list[dict[str, float | str]]]
     latest_weights: dict[str, float]
     signal_score: int
     sharpe: float
@@ -79,6 +81,25 @@ def transaction_cost(prev_weights: dict[str, float], target_weights: dict[str, f
     return cost, turnover
 
 
+def trade_list(prev_weights: dict[str, float], target_weights: dict[str, float], capital: float) -> list[dict[str, float | str]]:
+    trades = []
+    for ticker in sorted(set(prev_weights) | set(target_weights)):
+        diff = target_weights.get(ticker, 0.0) - prev_weights.get(ticker, 0.0)
+        if abs(diff) < 1e-12:
+            continue
+        side = "BUY" if diff > 0 else "SELL"
+        notional = abs(diff) * capital
+        cost_bps = BUY_COST_BPS if side == "BUY" else SELL_COST_BPS
+        trades.append({
+            "ticker": ticker,
+            "side": side,
+            "weightChange": diff,
+            "notional": notional,
+            "cost": notional * cost_bps / 10_000,
+        })
+    return trades
+
+
 def run_backtest(strategy, market_data, capital: float, top_n: int = 10) -> BacktestResult:
     """Run a long-only daily-rebalanced strategy.
 
@@ -99,6 +120,8 @@ def run_backtest(strategy, market_data, capital: float, top_n: int = 10) -> Back
     daily_pnls = []
     daily_costs = []
     turnover_series = []
+    daily_weights = []
+    daily_trades = []
     prev_weights = {ticker: 0.0 for ticker in strategy.holdings}
     latest_weights = prev_weights
 
@@ -108,6 +131,7 @@ def run_backtest(strategy, market_data, capital: float, top_n: int = 10) -> Back
         else:
             scores = strategy.signal(market_data, day)
             target_weights = top_n_equal_weight(scores, top_n=top_n, max_weight=strategy.max_weight)
+        trades = trade_list(prev_weights, target_weights, nav[-1])
         cost, day_turnover = transaction_cost(prev_weights, target_weights, nav[-1])
         gross_return = sum(
             target_weights.get(ticker, 0.0) * market_data.stock_returns[ticker][day]
@@ -121,6 +145,8 @@ def run_backtest(strategy, market_data, capital: float, top_n: int = 10) -> Back
         daily_pnls.append(pnl)
         daily_costs.append(cost)
         turnover_series.append(day_turnover)
+        daily_weights.append(target_weights)
+        daily_trades.append(trades)
         prev_weights = target_weights
         latest_weights = target_weights
 
@@ -137,6 +163,8 @@ def run_backtest(strategy, market_data, capital: float, top_n: int = 10) -> Back
         daily_costs=daily_costs,
         nav_series=nav,
         turnover=turnover_series,
+        daily_weights=daily_weights,
+        daily_trades=daily_trades,
         latest_weights=latest_weights,
         signal_score=signal_score,
         sharpe=sharpe(daily_returns),
