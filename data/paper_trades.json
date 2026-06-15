@@ -1,0 +1,7262 @@
+[
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ACN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ADBE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "AMD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "AMZN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "CRM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "IBM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "MSFT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ORCL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8245.89,
+    "cost": 4.12
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ACN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8009.65,
+    "cost": 4.0
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "MSFT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8009.65,
+    "cost": 4.0
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8009.65,
+    "cost": 4.0
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "QCOM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8009.65,
+    "cost": 4.0
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ADBE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7761.91,
+    "cost": 3.88
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7761.91,
+    "cost": 3.88
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "GEV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7761.91,
+    "cost": 3.88
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "INTU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7761.91,
+    "cost": 3.88
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "PLTR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7761.91,
+    "cost": 3.88
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "TSLA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7761.91,
+    "cost": 3.88
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ADBE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7959.78,
+    "cost": 3.98
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "AMD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7959.78,
+    "cost": 3.98
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "GEV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7959.78,
+    "cost": 3.98
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "INTU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7959.78,
+    "cost": 3.98
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "META",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7959.78,
+    "cost": 3.98
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "MSFT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7959.78,
+    "cost": 3.98
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7959.78,
+    "cost": 3.98
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7959.78,
+    "cost": 3.98
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "AAPL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7910.94,
+    "cost": 3.96
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ACN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7910.94,
+    "cost": 3.96
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "AVGO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7910.94,
+    "cost": 3.96
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "META",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7910.94,
+    "cost": 3.96
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7910.94,
+    "cost": 3.96
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7910.94,
+    "cost": 3.96
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-02",
+    "strategy": "WQ Alpha 004 - Rank Momentum",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 20381.03,
+    "cost": 10.19
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-02",
+    "strategy": "WQ Alpha 004 - Rank Momentum",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 20381.03,
+    "cost": 10.19
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "ABT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10543.32,
+    "cost": 5.27
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10543.32,
+    "cost": 5.27
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "BRK-B",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10543.32,
+    "cost": 5.27
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "C",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10543.32,
+    "cost": 5.27
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "CAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10543.32,
+    "cost": 5.27
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10543.32,
+    "cost": 5.27
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "MRK",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10543.32,
+    "cost": 5.27
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "WFC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10543.32,
+    "cost": 5.27
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "ABBV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "ABT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "AMAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "CAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "DE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "DHR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "JNJ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "LOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "MRK",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "SPG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10597.33,
+    "cost": 5.3
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "ABT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "AMGN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "CL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "DHR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "KO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "LOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "MDLZ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "MDT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "MMM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "PG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "USB",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10491.72,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "CL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "GD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "JNJ",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "LMT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "MDLZ",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "MMM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "PG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "SBUX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "TMUS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "UNH",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "USB",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10500.19,
+    "cost": 5.25
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "GD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "KO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "LMT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "SBUX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "TMUS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "TSLA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "USB",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "VZ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10652.72,
+    "cost": 5.33
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AVGO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "CL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "CMCSA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "DUK",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "INTU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "KO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MCD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "NVDA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "PG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TSLA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TXN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "UNP",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5393.53,
+    "cost": 2.7
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AMAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AMD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AVGO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "EMR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "GE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "HD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "INTU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LIN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "NKE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "NVDA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "PG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "SBUX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "SPG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TMO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TXN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5316.66,
+    "cost": 2.66
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "CL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "COP",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "EMR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "HD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "KO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LIN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MDLZ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "NKE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "PG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "PM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "SBUX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "SPG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "T",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TMO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TMUS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "VZ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "WMT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5249.04,
+    "cost": 2.62
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "BA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "CL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "COP",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "GEV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "HON",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "KO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MDLZ",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "PM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "QCOM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "T",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TMUS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TXN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "VZ",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "WMT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5184.11,
+    "cost": 2.59
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "AMAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "BA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "CMCSA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "PM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "SCHW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "T",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TSLA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "TXN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "ticker": "VZ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 5295.14,
+    "cost": 2.65
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "MS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11607.5,
+    "cost": 5.8
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11607.5,
+    "cost": 5.8
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11331.61,
+    "cost": 5.67
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11331.61,
+    "cost": 5.67
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11059.72,
+    "cost": 5.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11059.72,
+    "cost": 5.53
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11703.9,
+    "cost": 5.85
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11703.9,
+    "cost": 5.85
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13581.1,
+    "cost": 6.79
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "UNH",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13581.1,
+    "cost": 6.79
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13233.25,
+    "cost": 6.62
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13233.25,
+    "cost": 6.62
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "AVGO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13625.11,
+    "cost": 6.81
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13625.11,
+    "cost": 6.81
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "AMAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13888.81,
+    "cost": 6.94
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "IBM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13888.81,
+    "cost": 6.94
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13888.81,
+    "cost": 6.94
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13888.81,
+    "cost": 6.94
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "BLK",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7398.31,
+    "cost": 3.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "CL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7398.31,
+    "cost": 3.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "JNJ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7398.31,
+    "cost": 3.7
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7398.31,
+    "cost": 3.7
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "CL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7423.72,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "GOOGL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7423.72,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "JNJ",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7423.72,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "TSLA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7423.72,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "BNY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7353.46,
+    "cost": 3.68
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "GEV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7353.46,
+    "cost": 3.68
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "JNJ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7353.46,
+    "cost": 3.68
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7353.46,
+    "cost": 3.68
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "CL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7389.42,
+    "cost": 3.69
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "GOOGL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7389.42,
+    "cost": 3.69
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "BNY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7487.47,
+    "cost": 3.74
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "ticker": "ISRG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7487.47,
+    "cost": 3.74
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "BLK",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10925.85,
+    "cost": 5.46
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "GOOG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10925.85,
+    "cost": 5.46
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "GOOGL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10925.85,
+    "cost": 5.46
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "HON",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10925.85,
+    "cost": 5.46
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10925.85,
+    "cost": 5.46
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "NVDA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10925.85,
+    "cost": 5.46
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10925.85,
+    "cost": 5.46
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "TXN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10925.85,
+    "cost": 5.46
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "BLK",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "GOOG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "GOOGL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "NFLX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "QCOM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "SBUX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "TSLA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10931.96,
+    "cost": 5.47
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "GILD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10634.67,
+    "cost": 5.32
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "HON",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10634.67,
+    "cost": 5.32
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10634.67,
+    "cost": 5.32
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "NFLX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10634.67,
+    "cost": 5.32
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "NVDA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10634.67,
+    "cost": 5.32
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "PLTR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10634.67,
+    "cost": 5.32
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "T",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10634.67,
+    "cost": 5.32
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "TXN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10634.67,
+    "cost": 5.32
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "ADBE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "CRM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "GILD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "META",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "MSFT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "NVDA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "ORCL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "TXN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11007.63,
+    "cost": 5.5
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "GEV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10986.99,
+    "cost": 5.49
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10986.99,
+    "cost": 5.49
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10986.99,
+    "cost": 5.49
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10986.99,
+    "cost": 5.49
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "AMT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "BA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CRM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CVS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "DIS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "GM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "HD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "MMM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "QCOM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "SBUX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "TMO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UBER",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "USB",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "WFC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3427.37,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "ACN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "BA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CMCSA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "COST",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CRM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "DIS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "HON",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "ISRG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "NFLX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PLTR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "SBUX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "TMO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UBER",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNP",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3424.82,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "ABBV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "ACN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CMCSA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "COST",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CRM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CSCO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CVS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "DIS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "HD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "LOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "MSFT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "NEE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "NFLX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PFE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "SCHW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNH",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNP",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3402.59,
+    "cost": 1.7
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CMCSA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CRM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CSCO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "HD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "LIN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "LOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "MDT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "MSFT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PEP",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PFE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PLTR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "SCHW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3415.86,
+    "cost": 1.71
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "ABBV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "AVGO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "BMY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CMCSA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "CSCO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "DHR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "DUK",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "GM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "LIN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "MDT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "NVDA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PEP",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "PG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "SCHW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "TXN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3445.58,
+    "cost": 1.72
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "BLK",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6852.81,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "CVX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6852.81,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GOOG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6852.81,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GOOGL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6852.81,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "META",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6852.81,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "MO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6852.81,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6852.81,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6852.81,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "AAPL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "ADBE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "CVX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GILD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GOOG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GOOGL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "LMT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6810.6,
+    "cost": 3.41
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GEV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GILD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "LMT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "META",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "MO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "ORCL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "T",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6675.89,
+    "cost": 3.34
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "AAPL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6804.21,
+    "cost": 3.4
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6804.21,
+    "cost": 3.4
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "HD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6804.21,
+    "cost": 3.4
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "INTU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6804.21,
+    "cost": 3.4
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "LMT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6804.21,
+    "cost": 3.4
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6804.21,
+    "cost": 3.4
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6804.21,
+    "cost": 3.4
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "NKE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6804.21,
+    "cost": 3.4
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "AVGO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "AXP",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "BAC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "EMR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GEV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GILD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "GS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "META",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "WFC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6768.8,
+    "cost": 3.38
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "ABBV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "AMT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "DHR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "GM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "GS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "WFC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12808.92,
+    "cost": 6.4
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "CSCO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12691.19,
+    "cost": 6.35
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "GE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12691.19,
+    "cost": 6.35
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "GM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12691.19,
+    "cost": 6.35
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "GS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12691.19,
+    "cost": 6.35
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "MDT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12691.19,
+    "cost": 6.35
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12691.19,
+    "cost": 6.35
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "TMO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12691.19,
+    "cost": 6.35
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "WFC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12691.19,
+    "cost": 6.35
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "AMT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12431.98,
+    "cost": 6.22
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "BAC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12431.98,
+    "cost": 6.22
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12431.98,
+    "cost": 6.22
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "MDT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12431.98,
+    "cost": 6.22
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "SPG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12431.98,
+    "cost": 6.22
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "TMO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12431.98,
+    "cost": 6.22
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "AMT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12900.66,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12900.66,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12900.66,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "DHR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12900.66,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "GE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12900.66,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "SPG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12900.66,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12970.61,
+    "cost": 6.49
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12970.61,
+    "cost": 6.49
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12970.61,
+    "cost": 6.49
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12970.61,
+    "cost": 6.49
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "USB",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12970.61,
+    "cost": 6.49
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "WFC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12970.61,
+    "cost": 6.49
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "ADBE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AMD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AMZN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "CRM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "HON",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "INTU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "META",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "MSFT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "ORCL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7531.14,
+    "cost": 3.77
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AAPL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7349.35,
+    "cost": 3.67
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7349.35,
+    "cost": 3.67
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "IBM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7349.35,
+    "cost": 3.67
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "INTU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7349.35,
+    "cost": 3.67
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "MSFT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7349.35,
+    "cost": 3.67
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7349.35,
+    "cost": 3.67
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "QCOM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7349.35,
+    "cost": 3.67
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "T",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7349.35,
+    "cost": 3.67
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AAPL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "CAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "CRM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "GEV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "PLTR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "TSLA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7147.08,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AMD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "CAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "CRM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "INTU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "META",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "MSFT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7438.7,
+    "cost": 3.72
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AAPL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7427.16,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "ACN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7427.16,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AMZN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7427.16,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AVGO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7427.16,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "GEV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7427.16,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "META",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7427.16,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7427.16,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7427.16,
+    "cost": 3.71
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12898.69,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12898.69,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "GM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12898.69,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12898.69,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "UPS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12898.69,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "WFC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12898.69,
+    "cost": 6.45
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "C",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12789.51,
+    "cost": 6.39
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "DHR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12789.51,
+    "cost": 6.39
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "GM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12789.51,
+    "cost": 6.39
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12789.51,
+    "cost": 6.39
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "TMO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12789.51,
+    "cost": 6.39
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12789.51,
+    "cost": 6.39
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "BAC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12528.79,
+    "cost": 6.26
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12528.79,
+    "cost": 6.26
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12528.79,
+    "cost": 6.26
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "DE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12528.79,
+    "cost": 6.26
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12528.79,
+    "cost": 6.26
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12528.79,
+    "cost": 6.26
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "TMO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12528.79,
+    "cost": 6.26
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "WFC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12528.79,
+    "cost": 6.26
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "AMGN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "DHR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "MDT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "UNH",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "USB",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12604.5,
+    "cost": 6.3
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "AMGN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12733.69,
+    "cost": 6.37
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12733.69,
+    "cost": 6.37
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12733.69,
+    "cost": 6.37
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "SPG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12733.69,
+    "cost": 6.37
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 16353.42,
+    "cost": 8.18
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 16353.42,
+    "cost": 8.18
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "CVS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 15925.89,
+    "cost": 7.96
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 15925.89,
+    "cost": 7.96
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 15512.28,
+    "cost": 7.76
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 15512.28,
+    "cost": 7.76
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 16302.19,
+    "cost": 8.15
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 16302.19,
+    "cost": 8.15
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "AAPL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 16408.2,
+    "cost": 8.2
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "AMAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 16408.2,
+    "cost": 8.2
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 16408.2,
+    "cost": 8.2
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 16408.2,
+    "cost": 8.2
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "FDX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7113.99,
+    "cost": 3.56
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "GOOG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7113.99,
+    "cost": 3.56
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "PLTR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7113.99,
+    "cost": 3.56
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "WFC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7113.99,
+    "cost": 3.56
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "FDX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7072.48,
+    "cost": 3.54
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7072.48,
+    "cost": 3.54
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7072.48,
+    "cost": 3.54
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "RTX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7072.48,
+    "cost": 3.54
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "FDX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6863.57,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "GOOG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6863.57,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "HD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6863.57,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6863.57,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "SCHW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6863.57,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "TXN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 6863.57,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "UPS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6863.57,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "WFC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 6863.57,
+    "cost": 3.43
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "ACN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7146.78,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "BAC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7146.78,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "BLK",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7146.78,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "FDX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7146.78,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "HD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7146.78,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7146.78,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7146.78,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "TXN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7146.78,
+    "cost": 3.57
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "ACN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7262.09,
+    "cost": 3.63
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "BLK",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7262.09,
+    "cost": 3.63
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "FDX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7262.09,
+    "cost": 3.63
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 7262.09,
+    "cost": 3.63
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "JNJ",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7262.09,
+    "cost": 3.63
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "LMT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7262.09,
+    "cost": 3.63
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "MDT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7262.09,
+    "cost": 3.63
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "ticker": "MRK",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 7262.09,
+    "cost": 3.63
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "CRM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "GM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "GS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "MRK",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "MS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11044.35,
+    "cost": 5.52
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "GS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10957.08,
+    "cost": 5.48
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10957.08,
+    "cost": 5.48
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "MRK",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10957.08,
+    "cost": 5.48
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10957.08,
+    "cost": 5.48
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "ORCL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10957.08,
+    "cost": 5.48
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "TMO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10957.08,
+    "cost": 5.48
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10626.53,
+    "cost": 5.31
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "GS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10626.53,
+    "cost": 5.31
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "MMM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10626.53,
+    "cost": 5.31
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "TMO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10626.53,
+    "cost": 5.31
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "AMD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "AMGN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "C",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "FDX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "GD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "GM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "MMM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "UPS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11116.31,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11111.72,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "AMGN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11111.72,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11111.72,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11111.72,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "FDX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11111.72,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "GD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11111.72,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 11111.72,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 11111.72,
+    "cost": 5.56
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13431.38,
+    "cost": 6.72
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "ORCL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13431.38,
+    "cost": 6.72
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "ABBV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13120.5,
+    "cost": 6.56
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13120.5,
+    "cost": 6.56
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13120.5,
+    "cost": 6.56
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13120.5,
+    "cost": 6.56
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "ABBV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12839.18,
+    "cost": 6.42
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12839.18,
+    "cost": 6.42
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "CVS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12839.18,
+    "cost": 6.42
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 12839.18,
+    "cost": 6.42
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "GE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13628.93,
+    "cost": 6.81
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13628.93,
+    "cost": 6.81
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13727.73,
+    "cost": 6.86
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13727.73,
+    "cost": 6.86
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "COP",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8600.75,
+    "cost": 4.3
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "ISRG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8600.75,
+    "cost": 4.3
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "MDT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8600.75,
+    "cost": 4.3
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "MO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8600.75,
+    "cost": 4.3
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "NFLX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8600.75,
+    "cost": 4.3
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "SBUX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8600.75,
+    "cost": 4.3
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "MO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8652.26,
+    "cost": 4.33
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "NFLX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8652.26,
+    "cost": 4.33
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "AMZN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8586.41,
+    "cost": 4.29
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "LOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8586.41,
+    "cost": 4.29
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "NFLX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8586.41,
+    "cost": 4.29
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "T",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8586.41,
+    "cost": 4.29
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "AMZN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8632.28,
+    "cost": 4.32
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "ISRG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8632.28,
+    "cost": 4.32
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "LOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8632.28,
+    "cost": 4.32
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "UBER",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8632.28,
+    "cost": 4.32
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "AMZN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8718.57,
+    "cost": 4.36
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "DIS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 8718.57,
+    "cost": 4.36
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "NEE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8718.57,
+    "cost": 4.36
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "ticker": "UBER",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8718.57,
+    "cost": 4.36
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "AAPL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 9648.94,
+    "cost": 4.82
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 9648.94,
+    "cost": 4.82
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "CVS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 9648.94,
+    "cost": 4.82
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "TXN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 9648.94,
+    "cost": 4.82
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 9337.31,
+    "cost": 4.67
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "TXN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 9337.31,
+    "cost": 4.67
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "GS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 9756.66,
+    "cost": 4.88
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "TXN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 9756.66,
+    "cost": 4.88
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "C",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 9912.0,
+    "cost": 4.96
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "GS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 9912.0,
+    "cost": 4.96
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AAPL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ABBV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ACN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ADBE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AMAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AMD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AMT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AVGO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "BKNG",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "BMY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "GE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "NEE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "TXN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3134.96,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ABBV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ACN",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AMT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "BKNG",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "BMY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CRM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CSCO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "INTU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "NEE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "QCOM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "TSLA",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3141.68,
+    "cost": 1.57
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AAPL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ADBE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AVGO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CRM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CSCO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "GEV",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "GM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "HON",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "INTU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "PLTR",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "UPS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3056.04,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ADBE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AMD",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AVGO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "COP",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CRM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CVX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "GEV",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "GM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "INTU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MSFT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "NOW",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ORCL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "QCOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "TSLA",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "UPS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "XOM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3227.79,
+    "cost": 1.61
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "AAPL",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ABT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "COP",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CRM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "CVX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "INTU",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "LMT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MRK",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MSFT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "MU",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "NKE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "NOW",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "TMO",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "ticker": "XOM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3209.2,
+    "cost": 1.6
+  }
+]

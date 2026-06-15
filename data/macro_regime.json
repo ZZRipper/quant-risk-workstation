@@ -5,20 +5,20 @@
   "riskTone": "Inflationary expansion",
   "growth": {
     "direction": "Rising",
-    "score": 0.1316
+    "score": 0.0394
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.0183
+    "score": 0.013
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.097
+    "score": -0.1145
   },
   "indicators": [
     {
-      "name": "Equity proxy 3m",
-      "value": "10.81%",
+      "name": "Industrial production 6m",
+      "value": "1.60%",
       "signal": "growth"
     },
     {
@@ -38,22 +38,22 @@
     },
     {
       "name": "Rates proxy 3m",
-      "value": "-0.01%",
+      "value": "-0.46%",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "0.54%",
+      "value": "-0.44%",
       "signal": "inflation"
     },
     {
       "name": "Credit proxy 3m",
-      "value": "0.58%",
+      "value": "0.69%",
       "signal": "stress"
     },
     {
       "name": "Volatility proxy 3m",
-      "value": "-10.28%",
+      "value": "-12.14%",
       "signal": "stress"
     }
   ],
@@ -77,5 +77,5 @@
   "warnings": [
     "Monitor rates beta and long-duration growth exposure."
   ],
-  "fallbackReason": "Missing FRED series: INDPRO, T10YIE, DGS10, BAA10YM, VIXCLS"
+  "fallbackReason": "Missing FRED series: T10YIE, DGS10, BAA10YM, VIXCLS"
 }
