@@ -43,10 +43,11 @@ PAPER_START_DATE = "2026-06-09"
 BUY_COST_BPS = 5
 SELL_COST_BPS = 5
 TARGET_WEIGHT = 5.0
-BACKTEST_DAYS = 1260
+BACKTEST_DAYS = 2520
 TOP_N_HOLDINGS = 10
 CORRELATION_WINDOW_DAYS = 63
 RISK_STATUS_WINDOW_DAYS = 126
+VALIDATION_SPLIT_RATIO = 0.60
 
 
 FACTOR_LIMITS = {
@@ -302,7 +303,13 @@ def build() -> None:
         "universeSize": len(strategy_universe),
         "candidateUniverseSize": len(LARGE_CAP_UNIVERSE),
     }
-    validation_rows = build_strategy_validation(strategies, backtest_results, market_data, macro_regime)
+    validation_rows = build_strategy_validation(
+        strategies,
+        backtest_results,
+        market_data,
+        macro_regime,
+        split_ratio=VALIDATION_SPLIT_RATIO,
+    )
     strategy_correlation = build_strategy_correlation(
         strategies,
         strategy_returns,

@@ -11,7 +11,7 @@ from math import sqrt
 from pathlib import Path
 from statistics import mean, pstdev
 
-from risk_metrics import TRADING_DAYS, factor_betas
+from risk_metrics import TRADING_DAYS, drawdown, factor_betas, sharpe
 
 
 SIGNAL_DEFINITIONS = {
@@ -137,6 +137,18 @@ def _hit_rate(returns: list[float]) -> float:
     return sum(1 for value in active if value > 0) / len(active)
 
 
+def _nav_from_returns(returns: list[float]) -> list[float]:
+    nav = [1.0]
+    for value in returns:
+        nav.append(nav[-1] * (1 + value))
+    return nav
+
+
+def _period_return(returns: list[float]) -> float:
+    nav = _nav_from_returns(returns)
+    return nav[-1] / nav[0] - 1 if nav else 0.0
+
+
 def _max_abs_factor(strategy_returns: list[float], factor_returns: dict[str, list[float]]) -> tuple[str, float]:
     betas = factor_betas(strategy_returns, factor_returns)
     if not betas:
@@ -181,16 +193,47 @@ def _validation_status(sharpe: float, drawdown: float, avg_daily_cost_bps: float
     return "Watch", "Performance is acceptable but not strong enough for approval without further testing."
 
 
+def _oos_status(
+    is_sharpe: float,
+    oos_sharpe: float,
+    is_drawdown: float,
+    oos_drawdown: float,
+) -> tuple[str, str]:
+    sharpe_decay = oos_sharpe - is_sharpe
+    drawdown_deterioration = oos_drawdown - is_drawdown
+
+    if oos_sharpe >= 0.50 and oos_drawdown > -20 and sharpe_decay > -1.00:
+        return "Pass", "OOS performance remains positive with acceptable drawdown degradation."
+    if oos_sharpe <= 0 or oos_drawdown <= -25:
+        return "Fail", "OOS performance or drawdown indicates the signal may not generalize."
+    if sharpe_decay <= -1.25 or drawdown_deterioration <= -10:
+        return "Watch", "OOS performance materially decays versus the research period."
+    return "Watch", "OOS performance is usable but needs monitoring before more capital is assigned."
+
+
 def build_strategy_validation(
     strategies: list[dict[str, object]],
     backtest_results: dict[int, object],
     market_data,
     macro_regime: dict[str, object],
+    split_ratio: float = 0.60,
 ) -> list[dict[str, object]]:
     rows = []
+    split_idx = max(1, min(len(market_data.dates) - 1, int(len(market_data.dates) * split_ratio)))
+    split_date = market_data.dates[split_idx]
     for idx, strategy in enumerate(strategies):
         result = backtest_results[idx]
         returns = result.daily_returns
+        is_returns = returns[:split_idx]
+        oos_returns = returns[split_idx:]
+        is_nav = _nav_from_returns(is_returns)
+        oos_nav = _nav_from_returns(oos_returns)
+        is_sharpe = sharpe(is_returns)
+        oos_sharpe = sharpe(oos_returns)
+        is_drawdown = drawdown(is_nav) * 100
+        oos_drawdown = drawdown(oos_nav) * 100
+        oos_hit_rate = _hit_rate(oos_returns)
+        oos_validation_status, oos_reason = _oos_status(is_sharpe, oos_sharpe, is_drawdown, oos_drawdown)
         factor_name, factor_beta = _max_abs_factor(returns, market_data.factor_returns)
         macro_fit, macro_reason = _macro_fit(str(strategy["sleeve"]), macro_regime)
         annual_return = _annual_return(returns)
@@ -211,12 +254,27 @@ def build_strategy_validation(
             "intuition": definition.get("intuition", ""),
             "backtestStart": market_data.dates[0],
             "backtestEnd": market_data.dates[-1],
+            "inSampleStart": market_data.dates[0],
+            "inSampleEnd": market_data.dates[split_idx - 1],
+            "outOfSampleStart": split_date,
+            "outOfSampleEnd": market_data.dates[-1],
+            "splitRatio": round(split_ratio, 2),
             "observations": len(returns),
+            "isObservations": len(is_returns),
+            "oosObservations": len(oos_returns),
             "latestHoldings": strategy["holdings"],
             "annualReturn": round(annual_return * 100, 2),
             "annualVol": round(annual_vol * 100, 2),
             "sharpe": round(result.sharpe, 2),
             "maxDrawdown": round(result.drawdown, 2),
+            "inSampleReturn": round(_period_return(is_returns) * 100, 2),
+            "outOfSampleReturn": round(_period_return(oos_returns) * 100, 2),
+            "inSampleSharpe": round(is_sharpe, 2),
+            "outOfSampleSharpe": round(oos_sharpe, 2),
+            "sharpeDecay": round(oos_sharpe - is_sharpe, 2),
+            "inSampleDrawdown": round(is_drawdown, 2),
+            "outOfSampleDrawdown": round(oos_drawdown, 2),
+            "outOfSampleHitRate": round(oos_hit_rate * 100, 1),
             "hitRate": round(hit_rate * 100, 1),
             "avgTurnover": round(average_turnover * 100, 2),
             "avgDailyCostBps": round(avg_daily_cost_bps, 3),
@@ -229,6 +287,8 @@ def build_strategy_validation(
             "dashboardAction": strategy["action"],
             "validationStatus": validation_status,
             "validationReason": reason,
+            "oosValidationStatus": oos_validation_status,
+            "oosValidationReason": oos_reason,
         })
     return rows
 
@@ -249,15 +309,16 @@ def write_validation_report(
         f"- Macro regime: {macro_regime.get('quadrant', 'N/A')} ({macro_regime.get('riskTone', 'N/A')})",
         f"- Macro source: {macro_regime.get('source', 'N/A')}",
         f"- Fallback note: {macro_regime.get('fallbackReason', 'none')}",
+        f"- IS/OOS split: {rows[0].get('inSampleStart', 'N/A')} to {rows[0].get('inSampleEnd', 'N/A')} / {rows[0].get('outOfSampleStart', 'N/A')} to {rows[0].get('outOfSampleEnd', 'N/A')}" if rows else "- IS/OOS split: N/A",
         "",
         "## Validation Table",
         "",
-        "| ID | Strategy | Latest Top Holdings | Signal | Data | Sharpe | Max DD | Hit Rate | Avg Cost bps/day | Macro Fit | Status | Reason |",
-        "|---|---|---|---|---|---:|---:|---:|---:|---|---|---|",
+        "| ID | Strategy | IS Sharpe | OOS Sharpe | Sharpe Decay | IS DD | OOS DD | OOS Hit Rate | OOS Status | Reason |",
+        "|---|---|---:|---:|---:|---:|---:|---:|---|---|",
     ]
     for row in rows:
         lines.append(
-            "| {id} | {name} | {latestHoldings} | {signal} | {dataFields} | {sharpe:.2f} | {maxDrawdown:.2f}% | {hitRate:.1f}% | {avgDailyCostBps:.3f} | {macroFit} | {validationStatus} | {validationReason} |".format(**row)
+            "| {id} | {name} | {inSampleSharpe:.2f} | {outOfSampleSharpe:.2f} | {sharpeDecay:.2f} | {inSampleDrawdown:.2f}% | {outOfSampleDrawdown:.2f}% | {outOfSampleHitRate:.1f}% | {oosValidationStatus} | {oosValidationReason} |".format(**row)
         )
 
     lines.extend([

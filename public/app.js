@@ -384,20 +384,24 @@ function renderStress() {
 }
 
 function renderValidation() {
+  const first = strategyValidation[0] || {};
+  const split = $("validationSplit");
+  if (split) {
+    split.textContent = `Research period: ${shortDate(first.inSampleStart)} to ${shortDate(first.inSampleEnd)} · OOS validation: ${shortDate(first.outOfSampleStart)} to ${shortDate(first.outOfSampleEnd)}`;
+  }
   const rows = strategyValidation.map((s) => [
     `<strong>${s.id}</strong>`,
     `<strong>${s.name}</strong><br><span>${s.sleeve}</span>`,
-    s.signal,
-    s.dataFields,
-    Number(s.sharpe).toFixed(2),
-    pct(s.maxDrawdown),
-    pct(s.hitRate),
-    `${Number(s.avgDailyCostBps).toFixed(3)} bps`,
-    `${s.macroFit}<br><span>${s.macroReason}</span>`,
-    s.dominantFactor ? `${s.dominantFactor}<br><span>${Number(s.dominantFactorBeta).toFixed(3)}</span>` : "N/A",
-    `<strong>${s.validationStatus}</strong><br><span>${s.validationReason}</span>`,
+    Number(s.inSampleSharpe).toFixed(2),
+    Number(s.outOfSampleSharpe).toFixed(2),
+    `<span class="${cls(s.sharpeDecay)}">${Number(s.sharpeDecay).toFixed(2)}</span>`,
+    pct(s.inSampleDrawdown, 1),
+    pct(s.outOfSampleDrawdown, 1),
+    pct(s.outOfSampleHitRate, 1),
+    pct(s.outOfSampleReturn, 1),
+    `<strong>${s.oosValidationStatus}</strong><br><span>${s.oosValidationReason}</span>`,
   ]);
-  table("validationTable", ["ID", "Strategy", "Signal", "Data", "Sharpe", "Max DD", "Hit Rate", "Avg Cost", "Macro Fit", "Dominant Factor", "Validation"], rows);
+  table("validationTable", ["ID", "Strategy", "IS Sharpe", "OOS Sharpe", "Decay", "IS DD", "OOS DD", "OOS Hit", "OOS Return", "Validation"], rows);
 }
 
 function renderWorkflow() {
