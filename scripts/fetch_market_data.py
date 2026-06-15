@@ -142,7 +142,7 @@ def _load_yahoo_market_data(days: int = 1260) -> MarketData:
         auto_adjust=True,
         progress=False,
         group_by="column",
-        threads=True,
+        threads=False,
     )
     if raw.empty:
         raise RuntimeError("Yahoo Finance returned an empty dataset")

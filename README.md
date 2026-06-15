@@ -83,11 +83,11 @@ This repo includes `netlify.toml`.
 Netlify settings:
 
 ```text
-Build command: python3 -m pip install -r requirements.txt && python3 scripts/build_dashboard_data.py && python3 scripts/prepare_public.py
+Build command: python3 scripts/prepare_public.py
 Publish directory: public
 ```
 
-After connecting the GitHub repo, every push will rebuild the data and update the same public Netlify link.
+After connecting the GitHub repo, every push will publish the committed dashboard data and update the same public Netlify link. Regenerate Yahoo data locally before committing when you want to refresh the dashboard numbers.
 
 ### Render
 
@@ -96,11 +96,11 @@ This repo includes `render.yaml`.
 Render will use:
 
 ```text
-Build command: python3 -m pip install -r requirements.txt && python3 scripts/build_dashboard_data.py && python3 scripts/prepare_public.py
+Build command: python3 scripts/prepare_public.py
 Static publish path: public
 ```
 
-After connecting the GitHub repo, every push will update the same public Render link.
+After connecting the GitHub repo, every push will update the same public Render link using the committed `data/*.json` files.
 
 ## Optional: Yahoo Finance Data
 
