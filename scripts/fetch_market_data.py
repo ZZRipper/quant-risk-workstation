@@ -8,7 +8,8 @@ the dashboard remains runnable offline.
 from __future__ import annotations
 
 from dataclasses import dataclass
-from datetime import date, timedelta
+from datetime import date, datetime, time, timedelta
+from zoneinfo import ZoneInfo
 
 
 # Current S&P 100-style universe. This is intentionally still not a
@@ -31,6 +32,9 @@ LARGE_CAP_UNIVERSE = [
 ETF_PROXIES = [
     "SPY", "QQQ", "IWM", "TLT", "HYG", "LQD", "GLD", "DBC", "UUP",
 ]
+
+MARKET_TIMEZONE = ZoneInfo("America/New_York")
+DAILY_BAR_READY_TIME = time(17, 0)
 
 
 RISK_PROXIES = [
@@ -157,6 +161,17 @@ def _load_yahoo_market_data(days: int = 1260) -> MarketData:
     volume = raw["Volume"] if "Volume" in raw else prices * 0 + 1
 
     prices = prices.dropna(axis=1, how="all").ffill().dropna(how="all")
+    if len(prices.index):
+        now_et = datetime.now(MARKET_TIMEZONE)
+        latest_date = prices.index[-1].date()
+        if latest_date == now_et.date() and now_et.time() < DAILY_BAR_READY_TIME:
+            prices = prices.iloc[:-1]
+            high = high.reindex(prices.index)
+            low = low.reindex(prices.index)
+            volume = volume.reindex(prices.index)
+            if prices.empty:
+                raise RuntimeError("Yahoo Finance only returned an incomplete current-day bar")
+
     high = high.reindex(prices.index).reindex(columns=prices.columns).ffill()
     low = low.reindex(prices.index).reindex(columns=prices.columns).ffill()
     volume = volume.reindex(prices.index).reindex(columns=prices.columns).fillna(0)
