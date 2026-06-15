@@ -14,7 +14,7 @@
           <h1>Risk Operations Cockpit</h1>
         </div>
         <div class="run-meta">
-          <span>Backtest window <b id="backtestWindow">Loading</b></span>
+          <span>Paper start <b id="paperWindow">Loading</b></span>
           <span>Initial model capital <b>$1,000,000</b></span>
           <span class="demo-flag">Data-driven prototype</span>
         </div>
@@ -28,11 +28,11 @@
         <button class="mode" data-view="validation">Validation</button>
         <button class="mode" data-view="market">Market</button>
         <button class="mode" data-view="workflow">Workflow</button>
-        <button id="refreshBtn" class="refresh">Refresh Sample</button>
+        <button id="refreshBtn" class="refresh">Refresh Data</button>
       </nav>
 
       <section class="notice">
-        <strong>Data note:</strong> Dashboard reads from <code>data/*.json</code>. Top-level NAV/PnL are historical backtest metrics, not live cash results from 2026-06-09. Strategies are stock-level alpha books; ETFs are risk proxies and benchmark comparisons only.
+        <strong>Data note:</strong> Dashboard reads from <code>data/*.json</code>. Cockpit NAV/PnL show paper-portfolio results since 2026-06-09; full historical backtest results are kept in the Backtest and Validation sections.
       </section>
 
       <section id="view-cockpit" class="view active">
@@ -54,7 +54,7 @@
           </section>
           <section class="panel nav-panel">
             <div class="panel-title">
-              <div><p class="label">Backtest State</p><h2>NAV, Drawdown And Cost Drag</h2></div>
+              <div><p class="label">Paper Portfolio State</p><h2>NAV, Drawdown And Cost Drag</h2></div>
               <select id="chartMetric"><option value="nav">NAV</option><option value="drawdown">Drawdown</option><option value="pnl">Daily PnL</option></select>
             </div>
             <canvas id="navChart" height="250"></canvas>
@@ -107,7 +107,7 @@
 
       <section id="view-backtest" class="view">
         <div class="risk-grid">
-          <section class="panel"><div class="panel-title"><div><p class="label">Research Result</p><h2>Gross Vs Net Backtest</h2></div></div><canvas id="backtestChart" height="290"></canvas></section>
+          <section class="panel"><div class="panel-title"><div><p class="label">Research Result</p><h2>Full Historical Backtest</h2></div></div><canvas id="backtestChart" height="290"></canvas></section>
           <section class="panel"><div class="panel-title"><div><p class="label">Stress Testing</p><h2>Period Diagnostics</h2></div></div><div class="table-wrap"><table id="stressTable"></table></div></section>
         </div>
       </section>

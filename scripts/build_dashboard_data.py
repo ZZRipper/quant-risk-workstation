@@ -38,6 +38,7 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_DIR = ROOT / "data"
 REPORTS_DIR = ROOT / "reports"
 INITIAL_CAPITAL = 1_000_000
+PAPER_START_DATE = "2026-06-09"
 BUY_COST_BPS = 5
 SELL_COST_BPS = 5
 TARGET_WEIGHT = 5.0
@@ -99,6 +100,16 @@ def build_nav(strategy_returns: list[list[float]], weights: list[float]) -> tupl
     return net_nav, gross_nav, daily_pnls, daily_costs, daily_returns
 
 
+def build_nav_from_returns(returns: list[float], capital: float = INITIAL_CAPITAL) -> tuple[list[float], list[float]]:
+    nav = [capital]
+    pnls = []
+    for value in returns:
+        pnl = nav[-1] * value
+        pnls.append(pnl)
+        nav.append(nav[-1] + pnl)
+    return nav, pnls
+
+
 def build_market_cards(data_source: str) -> list[dict[str, str]]:
     return [
         {"asset": "Data source", "state": data_source.title(), "value": "Auto loader", "note": "Yahoo Finance first; synthetic fallback if unavailable"},
@@ -130,6 +141,13 @@ def build() -> None:
 
     net_nav, _gross_nav, daily_pnls, daily_costs, portfolio_returns = build_nav(strategy_returns, weights)
     portfolio_factor_betas = factor_betas(portfolio_returns, market_data.factor_returns)
+    paper_start_idx = next((idx for idx, day in enumerate(market_data.dates) if day >= PAPER_START_DATE), len(market_data.dates) - 1)
+    paper_returns = portfolio_returns[paper_start_idx:]
+    paper_nav, paper_pnls = build_nav_from_returns(paper_returns)
+    paper_cost_drag_bps = sum(
+        cost / max(full_nav, 1) * paper_nav[idx] / INITIAL_CAPITAL * 10_000
+        for idx, (cost, full_nav) in enumerate(zip(daily_costs[paper_start_idx:], net_nav[paper_start_idx:-1]))
+    ) if paper_returns else 0.0
 
     strategies = []
     for idx, spec in enumerate(STRATEGY_SPECS):
@@ -190,22 +208,27 @@ def build() -> None:
             "loading": round(portfolio_factor_betas.get(factor_name, 0.0), 3),
         })
 
-    portfolio_var, portfolio_es = var_es(daily_pnls)
+    portfolio_var, portfolio_es = var_es(paper_pnls if paper_pnls else daily_pnls)
     portfolio = {
-        "nav": round(net_nav[-1], 2),
-        "dailyPnl": round(daily_pnls[-1], 2),
-        "inceptionPnl": round(net_nav[-1] - INITIAL_CAPITAL, 2),
+        "nav": round(paper_nav[-1], 2),
+        "dailyPnl": round(paper_pnls[-1], 2) if paper_pnls else 0.0,
+        "inceptionPnl": round(paper_nav[-1] - INITIAL_CAPITAL, 2),
         "initialCapital": INITIAL_CAPITAL,
         "backtestStart": market_data.dates[0],
         "backtestEnd": market_data.dates[-1],
-        "paperStart": "2026-06-09",
-        "metricMode": "Historical backtest",
-        "sharpe": round(sharpe(portfolio_returns), 2),
-        "drawdown": round(drawdown(net_nav) * 100, 2),
+        "paperStart": PAPER_START_DATE,
+        "paperEnd": market_data.dates[-1],
+        "metricMode": "Paper portfolio since start date",
+        "fullBacktestNav": round(net_nav[-1], 2),
+        "fullBacktestPnl": round(net_nav[-1] - INITIAL_CAPITAL, 2),
+        "fullBacktestSharpe": round(sharpe(portfolio_returns), 2),
+        "fullBacktestDrawdown": round(drawdown(net_nav) * 100, 2),
+        "sharpe": round(sharpe(paper_returns), 2),
+        "drawdown": round(drawdown(paper_nav) * 100, 2),
         "var95": round(portfolio_var, 2),
         "es95": round(portfolio_es, 2),
-        "turnover": round(mean([0.06 + (day % 5) * 0.01 for day in range(len(daily_pnls))]) * 100, 2),
-        "costDragBps": round(sum(daily_costs) / INITIAL_CAPITAL * 10_000, 2),
+        "turnover": round(mean([0.06 + (day % 5) * 0.01 for day in range(paper_start_idx, len(daily_pnls))]) * 100, 2) if paper_returns else 0.0,
+        "costDragBps": round(paper_cost_drag_bps, 2),
         "regime": macro_regime["riskTone"],
         "universeName": "S&P 100-style large-cap universe",
         "universeSize": len(strategy_universe),
@@ -225,7 +248,8 @@ def build() -> None:
     write_json("strategy_correlation.json", strategy_correlation)
     write_json("factor_exposures.json", factors)
     write_json("risk_proxies.json", proxies)
-    write_json("nav_series.json", [round(value, 2) for value in net_nav])
+    write_json("nav_series.json", [round(value, 2) for value in paper_nav])
+    write_json("backtest_nav_series.json", [round(value, 2) for value in net_nav])
     market_cards = build_market_cards(market_data.source)
     write_json("market.json", market_cards)
     write_json("market_news.json", load_market_news())
@@ -239,7 +263,8 @@ def build() -> None:
         "strategyCorrelation": strategy_correlation,
         "factorExposures": factors,
         "riskProxies": proxies,
-        "navSeries": [round(value, 2) for value in net_nav],
+        "navSeries": [round(value, 2) for value in paper_nav],
+        "backtestNavSeries": [round(value, 2) for value in net_nav],
         "market": market_cards,
         "marketNews": load_market_news(),
         "macroRegime": macro_regime,

@@ -5,6 +5,7 @@ let strategies = [];
 let factors = [];
 let proxies = [];
 let navSeries = [];
+let backtestNavSeries = [];
 let market = [];
 let news = [];
 let macroRegime = {};
@@ -26,12 +27,13 @@ async function loadJson(path) {
 
 async function loadData() {
   try {
-    [portfolio, strategies, factors, proxies, navSeries, market, news, macroRegime, strategyValidation, strategyCorrelation] = await Promise.all([
+    [portfolio, strategies, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyCorrelation] = await Promise.all([
       loadJson(`${dataBase}/portfolio.json`),
       loadJson(`${dataBase}/strategies.json`),
       loadJson(`${dataBase}/factor_exposures.json`),
       loadJson(`${dataBase}/risk_proxies.json`),
       loadJson(`${dataBase}/nav_series.json`),
+      loadJson(`${dataBase}/backtest_nav_series.json`),
       loadJson(`${dataBase}/market.json`),
       loadJson(`${dataBase}/market_news.json`),
       loadJson(`${dataBase}/macro_regime.json`),
@@ -46,6 +48,7 @@ async function loadData() {
     factors = d.factorExposures;
     proxies = d.riskProxies;
     navSeries = d.navSeries;
+    backtestNavSeries = d.backtestNavSeries || d.navSeries;
     market = d.market;
     news = d.marketNews;
     macroRegime = d.macroRegime || {};
@@ -71,12 +74,12 @@ function decisionReason(s) {
 }
 
 function renderPulse() {
-  const windowLabel = `${shortDate(portfolio.backtestStart)} to ${shortDate(portfolio.backtestEnd)}`;
-  const backtestWindow = $("backtestWindow");
-  if (backtestWindow) backtestWindow.textContent = windowLabel;
+  const paperWindowLabel = `${shortDate(portfolio.paperStart)} to ${shortDate(portfolio.paperEnd || portfolio.backtestEnd)}`;
+  const paperWindow = $("paperWindow");
+  if (paperWindow) paperWindow.textContent = paperWindowLabel;
   const cards = [
-    ["Backtest NAV", money.format(portfolio.nav), `${money.format(portfolio.inceptionPnl)} over backtest window`, "pos"],
-    ["Latest Day PnL", money.format(portfolio.dailyPnl), `Last close-to-close backtest day: ${shortDate(portfolio.backtestEnd)}`, cls(portfolio.dailyPnl)],
+    ["Paper NAV", money.format(portfolio.nav), `${money.format(portfolio.inceptionPnl)} since paper start`, cls(portfolio.inceptionPnl)],
+    ["Latest Day PnL", money.format(portfolio.dailyPnl), `Last close-to-close paper day: ${shortDate(portfolio.paperEnd || portfolio.backtestEnd)}`, cls(portfolio.dailyPnl)],
     ["Sharpe", Number(portfolio.sharpe).toFixed(2), "Use with drawdown and cost controls", "warn"],
     ["Drawdown", pct(portfolio.drawdown, 2), "Aggregate strategy book", "warn"],
     ["VaR / ES", `${money.format(portfolio.var95)} / ${money.format(portfolio.es95)}`, "95% tail risk estimate", "warn"],
@@ -333,7 +336,7 @@ function renderCharts() {
     color = "#7aa7ff";
   }
   drawChart("navChart", values, color);
-  drawChart("backtestChart", navSeries.map((v, i) => v + i * 2500), "#7aa7ff");
+  drawChart("backtestChart", backtestNavSeries, "#7aa7ff");
 }
 
 function setView(view) {
@@ -359,6 +362,6 @@ document.addEventListener("DOMContentLoaded", async () => {
   $("actionFilter").addEventListener("change", renderDecisions);
   $("strategySearch").addEventListener("input", renderStrategyBook);
   $("chartMetric").addEventListener("change", renderCharts);
-  $("refreshBtn").addEventListener("click", () => { portfolio.dailyPnl += Math.round((Math.random() - 0.5) * 900); renderPulse(); });
+  $("refreshBtn").addEventListener("click", () => window.location.reload());
   window.addEventListener("resize", renderCharts);
 });

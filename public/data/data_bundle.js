@@ -1,23 +1,28 @@
 window.DASHBOARD_DATA = {
   "portfolio": {
-    "nav": 1848077.54,
-    "dailyPnl": 48692.41,
-    "inceptionPnl": 848077.54,
+    "nav": 994476.07,
+    "dailyPnl": 26202.05,
+    "inceptionPnl": -5523.93,
     "initialCapital": 1000000,
     "backtestStart": "2021-06-07",
     "backtestEnd": "2026-06-11",
     "paperStart": "2026-06-09",
-    "metricMode": "Historical backtest",
-    "sharpe": 0.8,
-    "drawdown": -29.37,
-    "var95": -65099.5,
-    "es95": -74167.56,
+    "metricMode": "Paper portfolio since start date",
+    "sharpe": -1.25,
+    "drawdown": -3.17,
+    "var95": -21115.64,
+    "es95": -21115.64,
     "turnover": 8.0,
-    "costDragBps": 557.04,
+    "costDragBps": 1.33,
     "regime": "Inflationary expansion",
     "universeName": "S&P 100-style large-cap universe",
     "universeSize": 101,
-    "candidateUniverseSize": 101
+    "candidateUniverseSize": 101,
+    "paperEnd": "2026-06-11",
+    "fullBacktestNav": 1848077.54,
+    "fullBacktestPnl": 848077.54,
+    "fullBacktestSharpe": 0.8,
+    "fullBacktestDrawdown": -29.37
   },
   "strategies": [
     {
@@ -1721,6 +1726,179 @@ window.DASHBOARD_DATA = {
     }
   ],
   "navSeries": [
+    1000000.0,
+    989389.65,
+    968274.01,
+    994476.07
+  ],
+  "market": [
+    {
+      "asset": "Data source",
+      "state": "Yahoo",
+      "value": "Auto loader",
+      "note": "Yahoo Finance first; synthetic fallback if unavailable"
+    },
+    {
+      "asset": "Equity",
+      "state": "Risk-on",
+      "value": "+0.8%",
+      "note": "Large-cap breadth is constructive; market beta near warning band"
+    },
+    {
+      "asset": "Rates",
+      "state": "Neutral",
+      "value": "-4 bps",
+      "note": "Rates beta is inside limit"
+    },
+    {
+      "asset": "Credit",
+      "state": "Watch",
+      "value": "+7 bps",
+      "note": "Credit beta is moderate; watch cyclical stock baskets"
+    },
+    {
+      "asset": "FX",
+      "state": "USD firm",
+      "value": "+0.3%",
+      "note": "USD beta is slightly negative"
+    },
+    {
+      "asset": "Commodities",
+      "state": "Mixed",
+      "value": "-0.4%",
+      "note": "Commodity beta is inside limit"
+    },
+    {
+      "asset": "Volatility",
+      "state": "Elevated",
+      "value": "VIX 18.7",
+      "note": "Vol beta close to warning band"
+    },
+    {
+      "asset": "Macro",
+      "state": "Event risk",
+      "value": "CPI pending",
+      "note": "Avoid high-turnover rebalance before release"
+    },
+    {
+      "asset": "ETF proxies",
+      "state": "Coverage OK",
+      "value": "9 proxies",
+      "note": "Used only for benchmark and factor comparison"
+    }
+  ],
+  "marketNews": [
+    {
+      "time": "10:21 AM",
+      "source": "News API placeholder",
+      "headline": "Semiconductor leadership remains concentrated; watch overlap across momentum and quality books.",
+      "tickers": "NVDA, AVGO, AMD",
+      "impact": "High"
+    },
+    {
+      "time": "10:14 AM",
+      "source": "Macro feed placeholder",
+      "headline": "Rates drift lower before inflation release; duration-sensitive growth exposure should be reviewed.",
+      "tickers": "ADBE, SNOW, DDOG",
+      "impact": "Medium"
+    },
+    {
+      "time": "09:58 AM",
+      "source": "News sentiment placeholder",
+      "headline": "Airlines and consumer cyclicals trade weaker on credit-spread concerns.",
+      "tickers": "DAL, AAL, CCL",
+      "impact": "High"
+    },
+    {
+      "time": "09:43 AM",
+      "source": "Broker feed placeholder",
+      "headline": "Mega-cap earnings revisions remain positive but correlation among winners is rising.",
+      "tickers": "MSFT, META, AMZN",
+      "impact": "Medium"
+    }
+  ],
+  "macroRegime": {
+    "source": "Partial FRED + Yahoo ETF proxy",
+    "quadrant": "Rising growth + rising inflation",
+    "businessCycle": "Recovery",
+    "riskTone": "Inflationary expansion",
+    "growth": {
+      "direction": "Rising",
+      "score": 0.1316
+    },
+    "inflation": {
+      "direction": "Rising",
+      "score": 0.0183
+    },
+    "stress": {
+      "direction": "Falling",
+      "score": -0.097
+    },
+    "indicators": [
+      {
+        "name": "Equity proxy 3m",
+        "value": "10.81%",
+        "signal": "growth"
+      },
+      {
+        "name": "Payrolls 6m",
+        "value": "0.35%",
+        "signal": "growth"
+      },
+      {
+        "name": "Unemployment 6m change",
+        "value": "-0.20 pts",
+        "signal": "growth"
+      },
+      {
+        "name": "CPI YoY",
+        "value": "4.27%",
+        "signal": "inflation"
+      },
+      {
+        "name": "Rates proxy 3m",
+        "value": "-0.01%",
+        "signal": "inflation"
+      },
+      {
+        "name": "Commodity proxy 3m",
+        "value": "0.54%",
+        "signal": "inflation"
+      },
+      {
+        "name": "Credit proxy 3m",
+        "value": "0.58%",
+        "signal": "stress"
+      },
+      {
+        "name": "Volatility proxy 3m",
+        "value": "-10.28%",
+        "signal": "stress"
+      }
+    ],
+    "guidance": [
+      {
+        "sleeve": "Value / Commodity-sensitive",
+        "tilt": "Prefer",
+        "reason": "Nominal growth and inflation proxies are both firming."
+      },
+      {
+        "sleeve": "Long Duration / Growth",
+        "tilt": "Reduce",
+        "reason": "Rising inflation can pressure duration-sensitive equities."
+      },
+      {
+        "sleeve": "Momentum",
+        "tilt": "Neutral",
+        "reason": "Can work, but monitor reversal risk when rates move."
+      }
+    ],
+    "warnings": [
+      "Monitor rates beta and long-duration growth exposure."
+    ],
+    "fallbackReason": "Missing FRED series: INDPRO, T10YIE, DGS10, BAA10YM, VIXCLS"
+  },
+  "backtestNavSeries": [
     1000000,
     999970.0,
     999892.72,
@@ -2982,172 +3160,5 @@ window.DASHBOARD_DATA = {
     1838625.24,
     1799385.14,
     1848077.54
-  ],
-  "market": [
-    {
-      "asset": "Data source",
-      "state": "Yahoo",
-      "value": "Auto loader",
-      "note": "Yahoo Finance first; synthetic fallback if unavailable"
-    },
-    {
-      "asset": "Equity",
-      "state": "Risk-on",
-      "value": "+0.8%",
-      "note": "Large-cap breadth is constructive; market beta near warning band"
-    },
-    {
-      "asset": "Rates",
-      "state": "Neutral",
-      "value": "-4 bps",
-      "note": "Rates beta is inside limit"
-    },
-    {
-      "asset": "Credit",
-      "state": "Watch",
-      "value": "+7 bps",
-      "note": "Credit beta is moderate; watch cyclical stock baskets"
-    },
-    {
-      "asset": "FX",
-      "state": "USD firm",
-      "value": "+0.3%",
-      "note": "USD beta is slightly negative"
-    },
-    {
-      "asset": "Commodities",
-      "state": "Mixed",
-      "value": "-0.4%",
-      "note": "Commodity beta is inside limit"
-    },
-    {
-      "asset": "Volatility",
-      "state": "Elevated",
-      "value": "VIX 18.7",
-      "note": "Vol beta close to warning band"
-    },
-    {
-      "asset": "Macro",
-      "state": "Event risk",
-      "value": "CPI pending",
-      "note": "Avoid high-turnover rebalance before release"
-    },
-    {
-      "asset": "ETF proxies",
-      "state": "Coverage OK",
-      "value": "9 proxies",
-      "note": "Used only for benchmark and factor comparison"
-    }
-  ],
-  "marketNews": [
-    {
-      "time": "10:21 AM",
-      "source": "News API placeholder",
-      "headline": "Semiconductor leadership remains concentrated; watch overlap across momentum and quality books.",
-      "tickers": "NVDA, AVGO, AMD",
-      "impact": "High"
-    },
-    {
-      "time": "10:14 AM",
-      "source": "Macro feed placeholder",
-      "headline": "Rates drift lower before inflation release; duration-sensitive growth exposure should be reviewed.",
-      "tickers": "ADBE, SNOW, DDOG",
-      "impact": "Medium"
-    },
-    {
-      "time": "09:58 AM",
-      "source": "News sentiment placeholder",
-      "headline": "Airlines and consumer cyclicals trade weaker on credit-spread concerns.",
-      "tickers": "DAL, AAL, CCL",
-      "impact": "High"
-    },
-    {
-      "time": "09:43 AM",
-      "source": "Broker feed placeholder",
-      "headline": "Mega-cap earnings revisions remain positive but correlation among winners is rising.",
-      "tickers": "MSFT, META, AMZN",
-      "impact": "Medium"
-    }
-  ],
-  "macroRegime": {
-    "source": "Partial FRED + Yahoo ETF proxy",
-    "quadrant": "Rising growth + rising inflation",
-    "businessCycle": "Recovery",
-    "riskTone": "Inflationary expansion",
-    "growth": {
-      "direction": "Rising",
-      "score": 0.1316
-    },
-    "inflation": {
-      "direction": "Rising",
-      "score": 0.0183
-    },
-    "stress": {
-      "direction": "Falling",
-      "score": -0.097
-    },
-    "indicators": [
-      {
-        "name": "Equity proxy 3m",
-        "value": "10.81%",
-        "signal": "growth"
-      },
-      {
-        "name": "Payrolls 6m",
-        "value": "0.35%",
-        "signal": "growth"
-      },
-      {
-        "name": "Unemployment 6m change",
-        "value": "-0.20 pts",
-        "signal": "growth"
-      },
-      {
-        "name": "CPI YoY",
-        "value": "4.27%",
-        "signal": "inflation"
-      },
-      {
-        "name": "Rates proxy 3m",
-        "value": "-0.01%",
-        "signal": "inflation"
-      },
-      {
-        "name": "Commodity proxy 3m",
-        "value": "0.54%",
-        "signal": "inflation"
-      },
-      {
-        "name": "Credit proxy 3m",
-        "value": "0.58%",
-        "signal": "stress"
-      },
-      {
-        "name": "Volatility proxy 3m",
-        "value": "-10.28%",
-        "signal": "stress"
-      }
-    ],
-    "guidance": [
-      {
-        "sleeve": "Value / Commodity-sensitive",
-        "tilt": "Prefer",
-        "reason": "Nominal growth and inflation proxies are both firming."
-      },
-      {
-        "sleeve": "Long Duration / Growth",
-        "tilt": "Reduce",
-        "reason": "Rising inflation can pressure duration-sensitive equities."
-      },
-      {
-        "sleeve": "Momentum",
-        "tilt": "Neutral",
-        "reason": "Can work, but monitor reversal risk when rates move."
-      }
-    ],
-    "warnings": [
-      "Monitor rates beta and long-duration growth exposure."
-    ],
-    "fallbackReason": "Missing FRED series: INDPRO, T10YIE, DGS10, BAA10YM, VIXCLS"
-  }
+  ]
 };
