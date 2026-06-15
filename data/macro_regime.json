@@ -9,11 +9,11 @@
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.013
+    "score": 0.0046
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.1145
+    "score": -0.1101
   },
   "indicators": [
     {
@@ -38,22 +38,22 @@
     },
     {
       "name": "Rates proxy 3m",
-      "value": "-0.46%",
+      "value": "0.27%",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "-0.44%",
+      "value": "-0.56%",
       "signal": "inflation"
     },
     {
       "name": "Credit proxy 3m",
-      "value": "0.69%",
+      "value": "0.47%",
       "signal": "stress"
     },
     {
       "name": "Volatility proxy 3m",
-      "value": "-12.14%",
+      "value": "-11.48%",
       "signal": "stress"
     }
   ],
