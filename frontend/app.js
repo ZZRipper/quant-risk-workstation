@@ -93,6 +93,27 @@ function renderPulse() {
   `).join("");
 }
 
+function renderBacktestSummary() {
+  const initial = Number(portfolio.initialCapital || 1000000);
+  const fullNav = Number(portfolio.fullBacktestNav || (backtestNavSeries.length ? backtestNavSeries.at(-1) : portfolio.nav));
+  const fullPnl = Number(portfolio.fullBacktestPnl ?? (fullNav - initial));
+  const fullReturn = initial ? (fullNav / initial - 1) * 100 : 0;
+  const cards = [
+    ["Backtest Window", `${shortDate(portfolio.backtestStart)} to ${shortDate(portfolio.backtestEnd)}`, "Full historical research period", "info"],
+    ["Full NAV", money.format(fullNav), `${money.format(fullPnl)} full-period PnL`, cls(fullPnl)],
+    ["Full Return", pct(fullReturn, 1), "Net of modeled trading costs", cls(fullReturn)],
+    ["Full Sharpe", Number(portfolio.fullBacktestSharpe ?? portfolio.sharpe).toFixed(2), "Historical risk-adjusted return", "warn"],
+    ["Full Max DD", pct(portfolio.fullBacktestDrawdown ?? portfolio.drawdown, 2), "Worst peak-to-trough backtest loss", "warn"],
+    ["Paper Start", shortDate(portfolio.paperStart), "Cockpit uses paper-window metrics", "info"],
+  ];
+  const el = $("backtestSummary");
+  if (el) {
+    el.innerHTML = cards.map(([label, value, note, color]) => `
+      <article class="pulse-card"><span>${label}</span><strong class="${color}">${value}</strong><small>${note}</small></article>
+    `).join("");
+  }
+}
+
 function renderDecisions() {
   const filter = $("actionFilter")?.value || "all";
   const score = { Breach: 3, Warning: 2, Healthy: 1 };
@@ -348,7 +369,7 @@ function setView(view) {
 }
 
 function renderAll() {
-  renderPulse(); renderDecisions(); renderFactors(); renderWatchlist(); renderHotspots(); renderCorrelationPlot();
+  renderPulse(); renderBacktestSummary(); renderDecisions(); renderFactors(); renderWatchlist(); renderHotspots(); renderCorrelationPlot();
   renderStrategyBook(); renderProxyTable(); renderRiskContribution(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderValidation(); renderWorkflow(); renderCharts();
 }
 
