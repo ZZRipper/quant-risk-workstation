@@ -14,6 +14,7 @@ fallback so the dashboard remains runnable offline.
 from __future__ import annotations
 
 import json
+import os
 from pathlib import Path
 from statistics import mean
 
@@ -125,7 +126,8 @@ def build_market_cards(data_source: str) -> list[dict[str, str]]:
 
 
 def build() -> None:
-    market_data = load_market_data(days=BACKTEST_DAYS, source="auto")
+    data_source = os.environ.get("DASHBOARD_DATA_SOURCE", "auto")
+    market_data = load_market_data(days=BACKTEST_DAYS, source=data_source)
     macro_regime = build_macro_regime(market_data)
     weights = [5.2, 5.4, 4.9, 5.0, 4.6, 5.5, 4.8, 5.1, 4.4, 4.7, 5.0, 4.8, 4.5, 5.3, 4.9, 5.2, 4.6, 5.1, 4.7, 4.3]
 

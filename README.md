@@ -89,6 +89,28 @@ Publish directory: public
 
 After connecting the GitHub repo, every push will publish the committed dashboard data and update the same public Netlify link. Regenerate Yahoo data locally before committing when you want to refresh the dashboard numbers.
 
+## Automated Daily Data Refresh
+
+The repo includes a GitHub Actions workflow:
+
+```text
+.github/workflows/update-dashboard-data.yml
+```
+
+It runs after the regular U.S. market close on weekdays and can also be started manually from GitHub:
+
+```text
+Actions -> Update dashboard data -> Run workflow
+```
+
+The workflow intentionally forces Yahoo Finance data:
+
+```text
+DASHBOARD_DATA_SOURCE=yahoo
+```
+
+If Yahoo is unavailable, the workflow fails and does not commit anything. This prevents synthetic fallback data from overwriting the public dashboard. When the workflow succeeds, it commits updated `data/`, `public/`, and `reports/` files; Netlify then redeploys the same public link.
+
 ### Render
 
 This repo includes `render.yaml`.
