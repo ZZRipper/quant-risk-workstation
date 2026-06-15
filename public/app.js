@@ -16,6 +16,7 @@ const pct = (v, d = 1) => `${Number(v).toFixed(d)}%`;
 const cls = (v) => Number(v) < 0 ? "neg" : "pos";
 const pill = (s) => `<span class="pill ${s}">${s}</span>`;
 const dataBase = window.location.pathname.includes("/frontend/") ? "../data" : "./data";
+const shortDate = (v) => v ? String(v).slice(0, 10) : "n/a";
 
 async function loadJson(path) {
   const res = await fetch(path, { cache: "no-store" });
@@ -70,9 +71,12 @@ function decisionReason(s) {
 }
 
 function renderPulse() {
+  const windowLabel = `${shortDate(portfolio.backtestStart)} to ${shortDate(portfolio.backtestEnd)}`;
+  const backtestWindow = $("backtestWindow");
+  if (backtestWindow) backtestWindow.textContent = windowLabel;
   const cards = [
-    ["NAV", money.format(portfolio.nav), `${money.format(portfolio.inceptionPnl)} since start`, "pos"],
-    ["Daily PnL", money.format(portfolio.dailyPnl), "Latest generated estimate", cls(portfolio.dailyPnl)],
+    ["Backtest NAV", money.format(portfolio.nav), `${money.format(portfolio.inceptionPnl)} over backtest window`, "pos"],
+    ["Latest Day PnL", money.format(portfolio.dailyPnl), `Last close-to-close backtest day: ${shortDate(portfolio.backtestEnd)}`, cls(portfolio.dailyPnl)],
     ["Sharpe", Number(portfolio.sharpe).toFixed(2), "Use with drawdown and cost controls", "warn"],
     ["Drawdown", pct(portfolio.drawdown, 2), "Aggregate strategy book", "warn"],
     ["VaR / ES", `${money.format(portfolio.var95)} / ${money.format(portfolio.es95)}`, "95% tail risk estimate", "warn"],
