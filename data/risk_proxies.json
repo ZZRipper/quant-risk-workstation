@@ -1,0 +1,65 @@
+[
+  {
+    "ticker": "SPY",
+    "factor": "Market beta",
+    "purpose": "Broad U.S. equity benchmark",
+    "use": "Compare stock strategy returns against market beta",
+    "loading": 0.941
+  },
+  {
+    "ticker": "QQQ",
+    "factor": "Growth / tech",
+    "purpose": "Nasdaq growth proxy",
+    "use": "Separate alpha from growth crowding",
+    "loading": 1.152
+  },
+  {
+    "ticker": "IWM",
+    "factor": "Small cap",
+    "purpose": "Size and domestic cyclicality proxy",
+    "use": "Detect small-cap sensitivity",
+    "loading": 0.348
+  },
+  {
+    "ticker": "TLT",
+    "factor": "Rates duration",
+    "purpose": "Long-duration Treasury proxy",
+    "use": "Map rate-sensitive growth exposure",
+    "loading": 0.078
+  },
+  {
+    "ticker": "HYG",
+    "factor": "Credit spread",
+    "purpose": "High-yield credit proxy",
+    "use": "Stress-test credit-sensitive equities",
+    "loading": 0.991
+  },
+  {
+    "ticker": "LQD",
+    "factor": "Investment grade credit",
+    "purpose": "IG credit proxy",
+    "use": "Benchmark spread-risk beta",
+    "loading": 0.991
+  },
+  {
+    "ticker": "GLD",
+    "factor": "Gold / real asset",
+    "purpose": "Inflation hedge proxy",
+    "use": "Compare inflation sleeve behavior",
+    "loading": 0.195
+  },
+  {
+    "ticker": "DBC",
+    "factor": "Commodities",
+    "purpose": "Broad commodity proxy",
+    "use": "Monitor commodity/inflation linkage",
+    "loading": 0.195
+  },
+  {
+    "ticker": "UUP",
+    "factor": "Dollar FX",
+    "purpose": "USD strength proxy",
+    "use": "Explain multinational revenue exposure",
+    "loading": -0.655
+  }
+]

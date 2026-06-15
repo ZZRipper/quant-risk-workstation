@@ -1,0 +1,15 @@
+{
+  "nav": 1848077.54,
+  "dailyPnl": 48692.41,
+  "inceptionPnl": 848077.54,
+  "sharpe": 0.8,
+  "drawdown": -29.37,
+  "var95": -65099.5,
+  "es95": -74167.56,
+  "turnover": 8.0,
+  "costDragBps": 557.04,
+  "regime": "Inflationary expansion",
+  "universeName": "S&P 100-style large-cap universe",
+  "universeSize": 101,
+  "candidateUniverseSize": 101
+}

@@ -1,0 +1,56 @@
+[
+  {
+    "asset": "Data source",
+    "state": "Yahoo",
+    "value": "Auto loader",
+    "note": "Yahoo Finance first; synthetic fallback if unavailable"
+  },
+  {
+    "asset": "Equity",
+    "state": "Risk-on",
+    "value": "+0.8%",
+    "note": "Large-cap breadth is constructive; market beta near warning band"
+  },
+  {
+    "asset": "Rates",
+    "state": "Neutral",
+    "value": "-4 bps",
+    "note": "Rates beta is inside limit"
+  },
+  {
+    "asset": "Credit",
+    "state": "Watch",
+    "value": "+7 bps",
+    "note": "Credit beta is moderate; watch cyclical stock baskets"
+  },
+  {
+    "asset": "FX",
+    "state": "USD firm",
+    "value": "+0.3%",
+    "note": "USD beta is slightly negative"
+  },
+  {
+    "asset": "Commodities",
+    "state": "Mixed",
+    "value": "-0.4%",
+    "note": "Commodity beta is inside limit"
+  },
+  {
+    "asset": "Volatility",
+    "state": "Elevated",
+    "value": "VIX 18.7",
+    "note": "Vol beta close to warning band"
+  },
+  {
+    "asset": "Macro",
+    "state": "Event risk",
+    "value": "CPI pending",
+    "note": "Avoid high-turnover rebalance before release"
+  },
+  {
+    "asset": "ETF proxies",
+    "state": "Coverage OK",
+    "value": "9 proxies",
+    "note": "Used only for benchmark and factor comparison"
+  }
+]

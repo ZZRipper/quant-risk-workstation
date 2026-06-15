@@ -1,0 +1,30 @@
+[
+  {
+    "time": "10:21 AM",
+    "source": "News API placeholder",
+    "headline": "Semiconductor leadership remains concentrated; watch overlap across momentum and quality books.",
+    "tickers": "NVDA, AVGO, AMD",
+    "impact": "High"
+  },
+  {
+    "time": "10:14 AM",
+    "source": "Macro feed placeholder",
+    "headline": "Rates drift lower before inflation release; duration-sensitive growth exposure should be reviewed.",
+    "tickers": "ADBE, SNOW, DDOG",
+    "impact": "Medium"
+  },
+  {
+    "time": "09:58 AM",
+    "source": "News sentiment placeholder",
+    "headline": "Airlines and consumer cyclicals trade weaker on credit-spread concerns.",
+    "tickers": "DAL, AAL, CCL",
+    "impact": "High"
+  },
+  {
+    "time": "09:43 AM",
+    "source": "Broker feed placeholder",
+    "headline": "Mega-cap earnings revisions remain positive but correlation among winners is rising.",
+    "tickers": "MSFT, META, AMZN",
+    "impact": "Medium"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Market beta",
+    "value": 0.941,
+    "limit": 0.3,
+    "status": "Breach"
+  },
+  {
+    "name": "Size beta",
+    "value": 0.348,
+    "limit": 0.2,
+    "status": "Breach"
+  },
+  {
+    "name": "Value beta",
+    "value": -1.152,
+    "limit": 0.2,
+    "status": "Breach"
+  },
+  {
+    "name": "Momentum beta",
+    "value": 1.152,
+    "limit": 0.25,
+    "status": "Breach"
+  },
+  {
+    "name": "Rates beta",
+    "value": 0.078,
+    "limit": 0.2,
+    "status": "Healthy"
+  },
+  {
+    "name": "Credit beta",
+    "value": 0.991,
+    "limit": 0.2,
+    "status": "Breach"
+  },
+  {
+    "name": "Volatility beta",
+    "value": -0.941,
+    "limit": 0.2,
+    "status": "Breach"
+  },
+  {
+    "name": "USD beta",
+    "value": -0.655,
+    "limit": 0.2,
+    "status": "Breach"
+  },
+  {
+    "name": "Commodity beta",
+    "value": 0.195,
+    "limit": 0.2,
+    "status": "Warning"
+  }
+]
