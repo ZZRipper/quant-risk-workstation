@@ -1,0 +1,81 @@
+{
+  "source": "Partial FRED + Yahoo ETF proxy",
+  "quadrant": "Rising growth + rising inflation",
+  "businessCycle": "Recovery",
+  "riskTone": "Inflationary expansion",
+  "growth": {
+    "direction": "Rising",
+    "score": 0.0394
+  },
+  "inflation": {
+    "direction": "Rising",
+    "score": 0.0046
+  },
+  "stress": {
+    "direction": "Falling",
+    "score": -0.1101
+  },
+  "indicators": [
+    {
+      "name": "Industrial production 6m",
+      "value": "1.60%",
+      "signal": "growth"
+    },
+    {
+      "name": "Payrolls 6m",
+      "value": "0.35%",
+      "signal": "growth"
+    },
+    {
+      "name": "Unemployment 6m change",
+      "value": "-0.20 pts",
+      "signal": "growth"
+    },
+    {
+      "name": "CPI YoY",
+      "value": "4.27%",
+      "signal": "inflation"
+    },
+    {
+      "name": "Rates proxy 3m",
+      "value": "0.27%",
+      "signal": "inflation"
+    },
+    {
+      "name": "Commodity proxy 3m",
+      "value": "-0.56%",
+      "signal": "inflation"
+    },
+    {
+      "name": "Credit proxy 3m",
+      "value": "0.47%",
+      "signal": "stress"
+    },
+    {
+      "name": "Volatility proxy 3m",
+      "value": "-11.48%",
+      "signal": "stress"
+    }
+  ],
+  "guidance": [
+    {
+      "sleeve": "Value / Commodity-sensitive",
+      "tilt": "Prefer",
+      "reason": "Nominal growth and inflation proxies are both firming."
+    },
+    {
+      "sleeve": "Long Duration / Growth",
+      "tilt": "Reduce",
+      "reason": "Rising inflation can pressure duration-sensitive equities."
+    },
+    {
+      "sleeve": "Momentum",
+      "tilt": "Neutral",
+      "reason": "Can work, but monitor reversal risk when rates move."
+    }
+  ],
+  "warnings": [
+    "Monitor rates beta and long-duration growth exposure."
+  ],
+  "fallbackReason": "Missing FRED series: T10YIE, DGS10, BAA10YM, VIXCLS"
+}
