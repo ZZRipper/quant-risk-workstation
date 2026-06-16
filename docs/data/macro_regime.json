@@ -1,5 +1,5 @@
 {
-  "source": "Partial FRED + Yahoo ETF proxy",
+  "source": "FRED + Yahoo ETF proxy",
   "quadrant": "Rising growth + rising inflation",
   "businessCycle": "Recovery",
   "riskTone": "Inflationary expansion",
@@ -9,11 +9,11 @@
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.0046
+    "score": 0.0102
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.1101
+    "score": -0.0671
   },
   "indicators": [
     {
@@ -37,23 +37,23 @@
       "signal": "inflation"
     },
     {
-      "name": "Rates proxy 3m",
-      "value": "0.27%",
+      "name": "10Y breakeven change",
+      "value": "0.06 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "-0.56%",
+      "value": "-0.32%",
       "signal": "inflation"
     },
     {
-      "name": "Credit proxy 3m",
-      "value": "0.47%",
+      "name": "Baa spread 3m change",
+      "value": "-0.54 pts",
       "signal": "stress"
     },
     {
-      "name": "Volatility proxy 3m",
-      "value": "-11.48%",
+      "name": "VIX 3m change",
+      "value": "-6.17 pts",
       "signal": "stress"
     }
   ],
@@ -76,6 +76,5 @@
   ],
   "warnings": [
     "Monitor rates beta and long-duration growth exposure."
-  ],
-  "fallbackReason": "Missing FRED series: T10YIE, DGS10, BAA10YM, VIXCLS"
+  ]
 }
