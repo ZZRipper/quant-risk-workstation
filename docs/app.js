@@ -13,6 +13,7 @@ let market = [];
 let news = [];
 let macroRegime = {};
 let strategyValidation = [];
+let strategyScorecard = [];
 let strategyCorrelation = {};
 
 const $ = (id) => document.getElementById(id);
@@ -44,7 +45,7 @@ async function loadOptionalJson(path, fallback) {
 
 async function loadData() {
   try {
-    [portfolio, strategies, paperPositions, paperTrades, paperPnlLedger, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyCorrelation] = await Promise.all([
+    [portfolio, strategies, paperPositions, paperTrades, paperPnlLedger, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyScorecard, strategyCorrelation] = await Promise.all([
       loadJson(`${dataBase}/portfolio.json`),
       loadJson(`${dataBase}/strategies.json`),
       loadOptionalJson(`${dataBase}/paper_positions.json`, []),
@@ -58,6 +59,7 @@ async function loadData() {
       loadJson(`${dataBase}/market_news.json`),
       loadJson(`${dataBase}/macro_regime.json`),
       loadJson(`${dataBase}/strategy_validation.json`),
+      loadOptionalJson(`${dataBase}/strategy_scorecard.json`, []),
       loadJson(`${dataBase}/strategy_correlation.json`),
     ]);
   } catch (err) {
@@ -76,6 +78,7 @@ async function loadData() {
     news = d.marketNews;
     macroRegime = d.macroRegime || {};
     strategyValidation = d.strategyValidation || [];
+    strategyScorecard = d.strategyScorecard || [];
     strategyCorrelation = d.strategyCorrelation || {};
   }
 }
@@ -404,6 +407,22 @@ function renderValidation() {
   table("validationTable", ["ID", "Strategy", "IS Sharpe", "OOS Sharpe", "Decay", "IS DD", "OOS DD", "OOS Hit", "OOS Return", "Validation"], rows);
 }
 
+function renderScorecard() {
+  const rows = strategyScorecard.map((s) => [
+    `<strong>${s.id}</strong>`,
+    `<strong>${s.name}</strong><br><span>${s.sleeve}</span>`,
+    `<strong>${Number(s.score).toFixed(1)}</strong>`,
+    `<strong>${s.decision}</strong><br><span>${s.recommendedAction}</span>`,
+    Number(s.oosSharpe).toFixed(2),
+    pct(s.oosDrawdown, 1),
+    `<span class="${cls(s.sharpeDecay)}">${Number(s.sharpeDecay).toFixed(2)}</span>`,
+    Number(s.maxCorrelation).toFixed(2),
+    money.format(s.paperPnl),
+    `${(s.strengths || []).join("; ")}<br><span>${(s.weaknesses || []).join("; ") || "No major weakness flagged"}</span>`,
+  ]);
+  table("scorecardTable", ["ID", "Strategy", "Score", "Decision", "OOS Sharpe", "OOS DD", "Decay", "Max Corr", "Paper PnL", "Evidence"], rows);
+}
+
 function renderWorkflow() {
   const rows = strategies.slice(0, 12).map((s, i) => [
     `<strong>${s.name}</strong>`, "Done", "Done", i % 4 === 0 ? "Review" : "Done", i % 5 === 0 ? "Review" : "Done",
@@ -466,7 +485,7 @@ function setView(view) {
 
 function renderAll() {
   renderPulse(); renderBacktestSummary(); renderDecisions(); renderFactors(); renderWatchlist(); renderHotspots(); renderCorrelationPlot();
-  renderStrategyBook(); renderPaperLedger(); renderProxyTable(); renderRiskContribution(); renderBacktestDiagnostics(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderValidation(); renderWorkflow(); renderCharts();
+  renderStrategyBook(); renderPaperLedger(); renderProxyTable(); renderRiskContribution(); renderBacktestDiagnostics(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderScorecard(); renderValidation(); renderWorkflow(); renderCharts();
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
