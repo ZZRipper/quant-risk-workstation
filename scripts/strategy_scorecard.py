@@ -51,17 +51,26 @@ def _paper_metrics(paper_pnl_ledger: list[dict[str, object]]) -> dict[str, dict[
 
 
 def _correlation_risk(strategy_id: str, strategy_correlation: dict[str, object]) -> tuple[float, list[str]]:
-    pairs = strategy_correlation.get("highCorrelationPairs", [])
-    linked = []
-    max_corr = 0.0
-    for pair in pairs:
-        if pair.get("leftId") == strategy_id:
-            linked.append(str(pair.get("rightId")))
-            max_corr = max(max_corr, abs(float(pair.get("correlation", 0.0))))
-        elif pair.get("rightId") == strategy_id:
-            linked.append(str(pair.get("leftId")))
-            max_corr = max(max_corr, abs(float(pair.get("correlation", 0.0))))
-    return max_corr, linked[:3]
+    labels = [str(label) for label in strategy_correlation.get("labels", [])]
+    matrix = strategy_correlation.get("matrix", [])
+    if strategy_id not in labels or not matrix:
+        return 0.0, []
+
+    idx = labels.index(strategy_id)
+    candidates = []
+    for col_idx, label in enumerate(labels):
+        if col_idx == idx:
+            continue
+        try:
+            value = abs(float(matrix[idx][col_idx]))
+        except (IndexError, TypeError, ValueError):
+            value = 0.0
+        candidates.append((label, value))
+
+    candidates.sort(key=lambda item: item[1], reverse=True)
+    max_corr = candidates[0][1] if candidates else 0.0
+    linked = [label for label, value in candidates if value >= 0.65][:3]
+    return max_corr, linked
 
 
 def _component_scores(
@@ -186,3 +195,47 @@ def build_strategy_scorecard(
 
     rows.sort(key=lambda row: float(row["score"]), reverse=True)
     return rows
+
+
+def build_scorecard_summary(scorecard_rows: list[dict[str, object]]) -> dict[str, object]:
+    counts = {"Approve": 0, "Watch": 0, "Revise": 0, "Reject": 0}
+    for row in scorecard_rows:
+        decision = str(row.get("decision", "Watch"))
+        counts[decision] = counts.get(decision, 0) + 1
+
+    if not scorecard_rows:
+        return {
+            "counts": counts,
+            "averageScore": 0.0,
+            "topStrategy": None,
+            "middleStrategy": None,
+            "bottomStrategy": None,
+            "mostCrowded": None,
+            "highestOosSharpe": None,
+            "worstOosDrawdown": None,
+            "deepDive": [],
+        }
+
+    ordered = sorted(scorecard_rows, key=lambda row: float(row["score"]), reverse=True)
+    middle = ordered[len(ordered) // 2]
+    bottom = ordered[-1]
+    top = ordered[0]
+    most_crowded = max(scorecard_rows, key=lambda row: float(row.get("maxCorrelation", 0.0)))
+    highest_oos = max(scorecard_rows, key=lambda row: float(row.get("oosSharpe", 0.0)))
+    worst_drawdown = min(scorecard_rows, key=lambda row: float(row.get("oosDrawdown", 0.0)))
+
+    return {
+        "counts": counts,
+        "averageScore": round(mean(float(row["score"]) for row in scorecard_rows), 1),
+        "topStrategy": {"id": top["id"], "name": top["name"], "score": top["score"], "decision": top["decision"]},
+        "middleStrategy": {"id": middle["id"], "name": middle["name"], "score": middle["score"], "decision": middle["decision"]},
+        "bottomStrategy": {"id": bottom["id"], "name": bottom["name"], "score": bottom["score"], "decision": bottom["decision"]},
+        "mostCrowded": {"id": most_crowded["id"], "name": most_crowded["name"], "maxCorrelation": most_crowded["maxCorrelation"]},
+        "highestOosSharpe": {"id": highest_oos["id"], "name": highest_oos["name"], "oosSharpe": highest_oos["oosSharpe"]},
+        "worstOosDrawdown": {"id": worst_drawdown["id"], "name": worst_drawdown["name"], "oosDrawdown": worst_drawdown["oosDrawdown"]},
+        "deepDive": [
+            {**top, "reviewBucket": "Top score"},
+            {**middle, "reviewBucket": "Middle score"},
+            {**bottom, "reviewBucket": "Bottom score"},
+        ],
+    }

@@ -31,7 +31,7 @@ from risk_metrics import (
     var_es,
 )
 from strategy_correlation import build_strategy_correlation
-from strategy_scorecard import build_strategy_scorecard
+from strategy_scorecard import build_scorecard_summary, build_strategy_scorecard
 from strategy_validation import build_strategy_validation, write_validation_report
 from strategy_library import STRATEGY_SPECS, build_strategy_objects
 
@@ -330,6 +330,7 @@ def build() -> None:
         paper_pnl_ledger,
         strategy_correlation,
     )
+    scorecard_summary = build_scorecard_summary(strategy_scorecard)
 
     write_json("portfolio.json", portfolio)
     write_json("strategies.json", strategies)
@@ -337,6 +338,7 @@ def build() -> None:
     write_json("paper_trades.json", paper_trades)
     write_json("paper_pnl_ledger.json", paper_pnl_ledger)
     write_json("strategy_scorecard.json", strategy_scorecard)
+    write_json("scorecard_summary.json", scorecard_summary)
     write_json("strategy_validation.json", validation_rows)
     write_json("strategy_correlation.json", strategy_correlation)
     write_json("factor_exposures.json", factors)
@@ -356,6 +358,7 @@ def build() -> None:
         "paperTrades": paper_trades,
         "paperPnlLedger": paper_pnl_ledger,
         "strategyScorecard": strategy_scorecard,
+        "scorecardSummary": scorecard_summary,
         "strategyValidation": validation_rows,
         "strategyCorrelation": strategy_correlation,
         "factorExposures": factors,

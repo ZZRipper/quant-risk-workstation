@@ -14,6 +14,7 @@ let news = [];
 let macroRegime = {};
 let strategyValidation = [];
 let strategyScorecard = [];
+let scorecardSummary = {};
 let strategyCorrelation = {};
 
 const $ = (id) => document.getElementById(id);
@@ -45,7 +46,7 @@ async function loadOptionalJson(path, fallback) {
 
 async function loadData() {
   try {
-    [portfolio, strategies, paperPositions, paperTrades, paperPnlLedger, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyScorecard, strategyCorrelation] = await Promise.all([
+    [portfolio, strategies, paperPositions, paperTrades, paperPnlLedger, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyScorecard, scorecardSummary, strategyCorrelation] = await Promise.all([
       loadJson(`${dataBase}/portfolio.json`),
       loadJson(`${dataBase}/strategies.json`),
       loadOptionalJson(`${dataBase}/paper_positions.json`, []),
@@ -60,6 +61,7 @@ async function loadData() {
       loadJson(`${dataBase}/macro_regime.json`),
       loadJson(`${dataBase}/strategy_validation.json`),
       loadOptionalJson(`${dataBase}/strategy_scorecard.json`, []),
+      loadOptionalJson(`${dataBase}/scorecard_summary.json`, {}),
       loadJson(`${dataBase}/strategy_correlation.json`),
     ]);
   } catch (err) {
@@ -79,6 +81,7 @@ async function loadData() {
     macroRegime = d.macroRegime || {};
     strategyValidation = d.strategyValidation || [];
     strategyScorecard = d.strategyScorecard || [];
+    scorecardSummary = d.scorecardSummary || {};
     strategyCorrelation = d.strategyCorrelation || {};
   }
 }
@@ -423,6 +426,39 @@ function renderScorecard() {
   table("scorecardTable", ["ID", "Strategy", "Score", "Decision", "OOS Sharpe", "OOS DD", "Decay", "Max Corr", "Paper PnL", "Evidence"], rows);
 }
 
+function renderScorecardSummary() {
+  const counts = scorecardSummary.counts || {};
+  const cards = [
+    ["Approved", counts.Approve || 0, "Eligible for allocation review", "pos"],
+    ["Watch", counts.Watch || 0, "Keep paper allocation and monitor", "warn"],
+    ["Revise / Reject", (counts.Revise || 0) + (counts.Reject || 0), "Needs research changes or removal", "neg"],
+    ["Avg score", Number(scorecardSummary.averageScore || 0).toFixed(1), "Across active strategy book", "info"],
+    ["Most crowded", scorecardSummary.mostCrowded ? `${scorecardSummary.mostCrowded.id} ${Number(scorecardSummary.mostCrowded.maxCorrelation).toFixed(2)}` : "N/A", "Highest strategy correlation", "warn"],
+    ["Best OOS Sharpe", scorecardSummary.highestOosSharpe ? `${scorecardSummary.highestOosSharpe.id} ${Number(scorecardSummary.highestOosSharpe.oosSharpe).toFixed(2)}` : "N/A", "Validation-period risk-adjusted return", "pos"],
+  ];
+  const target = $("scorecardSummary");
+  if (target) {
+    target.innerHTML = cards.map(([label, value, note, color]) => `
+      <article class="pulse-card"><span>${label}</span><strong class="${color}">${value}</strong><small>${note}</small></article>
+    `).join("");
+  }
+}
+
+function renderDeepDiveQueue() {
+  const target = $("deepDiveQueue");
+  if (!target) return;
+  const rows = scorecardSummary.deepDive || [];
+  target.innerHTML = rows.map((s) => `
+    <article class="decision">
+      <div class="decision-head"><h3>${s.reviewBucket}: ${s.id}</h3><strong>${Number(s.score).toFixed(1)}</strong></div>
+      <p><b>${s.name}</b> · ${s.decision} · ${s.recommendedAction}</p>
+      <p>OOS Sharpe ${Number(s.oosSharpe).toFixed(2)} · OOS DD ${pct(s.oosDrawdown, 1)} · Max Corr ${Number(s.maxCorrelation).toFixed(2)} · Paper PnL ${money.format(s.paperPnl)}</p>
+      <p><b>Strengths:</b> ${(s.strengths || []).join("; ") || "None flagged"}</p>
+      <p><b>Weaknesses:</b> ${(s.weaknesses || []).join("; ") || "No major weakness flagged"}</p>
+    </article>
+  `).join("");
+}
+
 function renderWorkflow() {
   const rows = strategies.slice(0, 12).map((s, i) => [
     `<strong>${s.name}</strong>`, "Done", "Done", i % 4 === 0 ? "Review" : "Done", i % 5 === 0 ? "Review" : "Done",
@@ -485,7 +521,7 @@ function setView(view) {
 
 function renderAll() {
   renderPulse(); renderBacktestSummary(); renderDecisions(); renderFactors(); renderWatchlist(); renderHotspots(); renderCorrelationPlot();
-  renderStrategyBook(); renderPaperLedger(); renderProxyTable(); renderRiskContribution(); renderBacktestDiagnostics(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderScorecard(); renderValidation(); renderWorkflow(); renderCharts();
+  renderStrategyBook(); renderPaperLedger(); renderProxyTable(); renderRiskContribution(); renderBacktestDiagnostics(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderScorecardSummary(); renderScorecard(); renderDeepDiveQueue(); renderValidation(); renderWorkflow(); renderCharts();
 }
 
 document.addEventListener("DOMContentLoaded", async () => {
