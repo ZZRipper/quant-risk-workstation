@@ -1,19 +1,19 @@
 window.DASHBOARD_DATA = {
   "portfolio": {
-    "nav": 1024342.42,
-    "dailyPnl": 16850.77,
-    "inceptionPnl": 24342.42,
+    "nav": 1027614.97,
+    "dailyPnl": 20123.32,
+    "inceptionPnl": 27614.97,
     "initialCapital": 1000000,
     "backtestStart": "2016-06-17",
     "backtestEnd": "2026-06-15",
     "paperStart": "2026-06-09",
     "paperEnd": "2026-06-15",
     "metricMode": "Paper portfolio since start date",
-    "fullBacktestNav": 3493938.5,
-    "fullBacktestPnl": 2493938.5,
+    "fullBacktestNav": 3505477.78,
+    "fullBacktestPnl": 2505477.78,
     "fullBacktestSharpe": 0.77,
     "fullBacktestDrawdown": -32.98,
-    "sharpe": 4.18,
+    "sharpe": 4.61,
     "drawdown": -3.17,
     "var95": -10610.34,
     "es95": -15862.99,
@@ -57,10 +57,10 @@ window.DASHBOARD_DATA = {
       "capital": 54000.0,
       "holdings": "INTC, AMD, MU, QCOM, LRCX, AMAT, TXN, CSCO, UNH, CVS",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 17529.2,
-      "sharpe": 2.96,
+      "pnl": 23842.55,
+      "sharpe": 3.01,
       "drawdown": -11.07,
-      "fullPeriodSharpe": 1.19,
+      "fullPeriodSharpe": 1.2,
       "fullPeriodDrawdown": -36.11,
       "riskWindowDays": 126,
       "signal": 26,
@@ -79,11 +79,11 @@ window.DASHBOARD_DATA = {
       "capital": 49000.0,
       "holdings": "INTC, AMAT, LRCX, MU, AMD, CVS, USB, SPG, VZ, TSLA",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 2098.74,
-      "sharpe": 1.96,
+      "pnl": 3023.77,
+      "sharpe": 2.0,
       "drawdown": -12.82,
       "fullPeriodSharpe": 0.56,
-      "fullPeriodDrawdown": -38.12,
+      "fullPeriodDrawdown": -38.13,
       "riskWindowDays": 126,
       "signal": 17,
       "costBps": 9.059,
@@ -101,10 +101,10 @@ window.DASHBOARD_DATA = {
       "capital": 50000.0,
       "holdings": "INTC, GEV, AMD, QCOM, T, SCHW, VZ, CMCSA, TSLA, PM",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 126.78,
-      "sharpe": 2.63,
+      "pnl": 320.45,
+      "sharpe": 2.67,
       "drawdown": -7.67,
-      "fullPeriodSharpe": -0.02,
+      "fullPeriodSharpe": -0.01,
       "fullPeriodDrawdown": -66.86,
       "riskWindowDays": 126,
       "signal": 5,
@@ -123,8 +123,8 @@ window.DASHBOARD_DATA = {
       "capital": 46000.0,
       "holdings": "MU, AMD, INTC, QCOM, AMAT, CSCO, LRCX, CVS, TXN, UNH",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 8442.04,
-      "sharpe": 2.73,
+      "pnl": 11482.56,
+      "sharpe": 2.78,
       "drawdown": -12.45,
       "fullPeriodSharpe": 1.05,
       "fullPeriodDrawdown": -28.39,
@@ -145,8 +145,8 @@ window.DASHBOARD_DATA = {
       "capital": 55000.0,
       "holdings": "MU, AMD, QCOM, INTC, ORCL, CSCO, TXN, NOW, UNH, IBM",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 13261.14,
-      "sharpe": 2.56,
+      "pnl": 14840.79,
+      "sharpe": 2.58,
       "drawdown": -11.75,
       "fullPeriodSharpe": 1.03,
       "fullPeriodDrawdown": -32.49,
@@ -167,8 +167,8 @@ window.DASHBOARD_DATA = {
       "capital": 48000.0,
       "holdings": "INTU, CMCSA, SCHW, WMT, GEV, GOOGL, NEE, JNJ, BNY, TSLA",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": -143.73,
-      "sharpe": 0.11,
+      "pnl": 3.2,
+      "sharpe": 0.12,
       "drawdown": -17.36,
       "fullPeriodSharpe": 0.66,
       "fullPeriodDrawdown": -35.34,
@@ -189,7 +189,7 @@ window.DASHBOARD_DATA = {
       "capital": 51000.0,
       "holdings": "ADBE, INTU, ORCL, AVGO, CRM, PLTR, AMZN, MSFT, NOW, META",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 7107.39,
+      "pnl": 7107.4,
       "sharpe": 1.27,
       "drawdown": -16.56,
       "fullPeriodSharpe": 0.77,
@@ -211,8 +211,8 @@ window.DASHBOARD_DATA = {
       "capital": 44000.0,
       "holdings": "CSCO, NVDA, AVGO, UNH, DUK, GM, NEE, BMY, TXN, DHR",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 279.32,
-      "sharpe": -0.52,
+      "pnl": 256.01,
+      "sharpe": -0.53,
       "drawdown": -10.08,
       "fullPeriodSharpe": -0.11,
       "fullPeriodDrawdown": -44.5,
@@ -255,8 +255,8 @@ window.DASHBOARD_DATA = {
       "capital": 50000.0,
       "holdings": "AMAT, LRCX, MU, INTC, C, AMD, CVS, BAC, GE, USB",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 6831.67,
-      "sharpe": 3.09,
+      "pnl": 8621.29,
+      "sharpe": 3.12,
       "drawdown": -14.93,
       "fullPeriodSharpe": 0.93,
       "fullPeriodDrawdown": -33.92,
@@ -277,14 +277,14 @@ window.DASHBOARD_DATA = {
       "capital": 48000.0,
       "holdings": "ADBE, ORCL, CRM, NOW, MSFT, PLTR, INTU, AAPL, AMZN, ACN",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 1917.13,
+      "pnl": 1922.4,
       "sharpe": 1.8,
       "drawdown": -8.46,
       "fullPeriodSharpe": 0.44,
       "fullPeriodDrawdown": -57.22,
       "riskWindowDays": 126,
       "signal": 5,
-      "costBps": 9.025,
+      "costBps": 9.05,
       "status": "Warning",
       "action": "Rebalance",
       "engine": "backtest_engine"
@@ -299,8 +299,8 @@ window.DASHBOARD_DATA = {
       "capital": 45000.0,
       "holdings": "AMAT, LRCX, CVS, C, INTC, BAC, MDT, SPG, USB, WFC",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 286.2,
-      "sharpe": 2.46,
+      "pnl": 1727.33,
+      "sharpe": 2.5,
       "drawdown": -13.97,
       "fullPeriodSharpe": 0.86,
       "fullPeriodDrawdown": -31.69,
@@ -321,8 +321,8 @@ window.DASHBOARD_DATA = {
       "capital": 53000.0,
       "holdings": "MU, CSCO, ORCL, AMD, NOW, LLY, IBM, QCOM, CVS, AAPL",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 7796.65,
-      "sharpe": 1.96,
+      "pnl": 8984.68,
+      "sharpe": 1.98,
       "drawdown": -11.67,
       "fullPeriodSharpe": 0.99,
       "fullPeriodDrawdown": -27.62,
@@ -343,14 +343,14 @@ window.DASHBOARD_DATA = {
       "capital": 49000.0,
       "holdings": "JNJ, LMT, MU, TMO, BAC, AMD, MRK, GOOGL, MDT, SCHW",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 2675.65,
-      "sharpe": 0.69,
+      "pnl": 2649.07,
+      "sharpe": 0.68,
       "drawdown": -12.11,
       "fullPeriodSharpe": 0.77,
       "fullPeriodDrawdown": -34.55,
       "riskWindowDays": 126,
       "signal": 23,
-      "costBps": 12.03,
+      "costBps": 12.049,
       "status": "Warning",
       "action": "Rebalance",
       "engine": "backtest_engine"
@@ -365,10 +365,10 @@ window.DASHBOARD_DATA = {
       "capital": 52000.0,
       "holdings": "AMAT, MU, LRCX, AMD, UPS, CVS, INTC, LLY, GE, C",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 4532.38,
-      "sharpe": 2.23,
+      "pnl": 5604.48,
+      "sharpe": 2.26,
       "drawdown": -15.03,
-      "fullPeriodSharpe": 0.68,
+      "fullPeriodSharpe": 0.69,
       "fullPeriodDrawdown": -33.71,
       "riskWindowDays": 126,
       "signal": 23,
@@ -387,10 +387,10 @@ window.DASHBOARD_DATA = {
       "capital": 46000.0,
       "holdings": "MU, CSCO, IBM, AMD, AMAT, LRCX, QCOM, INTC, LLY, NOW",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 5840.81,
-      "sharpe": 2.28,
+      "pnl": 8169.55,
+      "sharpe": 2.33,
       "drawdown": -11.59,
-      "fullPeriodSharpe": 0.91,
+      "fullPeriodSharpe": 0.92,
       "fullPeriodDrawdown": -27.56,
       "riskWindowDays": 126,
       "signal": 32,
@@ -431,14 +431,14 @@ window.DASHBOARD_DATA = {
       "capital": 47000.0,
       "holdings": "AMD, BNY, INTC, MS, UNH, CSCO, CVS, GS, MU, TXN",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 7688.69,
-      "sharpe": 2.48,
+      "pnl": 7422.87,
+      "sharpe": 2.47,
       "drawdown": -8.79,
-      "fullPeriodSharpe": 1.14,
+      "fullPeriodSharpe": 1.13,
       "fullPeriodDrawdown": -30.79,
       "riskWindowDays": 126,
       "signal": 31,
-      "costBps": 9.073,
+      "costBps": 9.056,
       "status": "Warning",
       "action": "Rebalance",
       "engine": "backtest_engine"
@@ -453,14 +453,14 @@ window.DASHBOARD_DATA = {
       "capital": 43000.0,
       "holdings": "ADBE, LLY, PLTR, NKE, ABT, AAPL, LMT, MU, MRK, TMO",
       "holdingRule": "S&P 100-style shared universe; t-1 signal selects top 10; equal weight",
-      "pnl": 688.79,
+      "pnl": 688.49,
       "sharpe": 0.52,
       "drawdown": -13.07,
       "fullPeriodSharpe": 0.15,
       "fullPeriodDrawdown": -58.76,
       "riskWindowDays": 126,
       "signal": 5,
-      "costBps": 8.761,
+      "costBps": 8.757,
       "status": "Warning",
       "action": "Rebalance",
       "engine": "backtest_engine"
@@ -473,7 +473,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ACN",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -482,7 +482,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -491,7 +491,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -500,7 +500,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -509,7 +509,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -518,7 +518,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -527,7 +527,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -536,7 +536,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -545,7 +545,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -554,7 +554,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "strategyCapital": 52000.0
     },
     {
@@ -563,7 +563,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -572,7 +572,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -581,7 +581,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -590,7 +590,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -599,7 +599,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -608,7 +608,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -617,7 +617,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -626,7 +626,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -635,7 +635,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -644,7 +644,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "strategyCapital": 52000.0
     },
     {
@@ -653,7 +653,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -662,7 +662,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -671,7 +671,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -680,7 +680,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -689,7 +689,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -698,7 +698,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -707,7 +707,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -716,7 +716,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -725,7 +725,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -734,7 +734,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "strategyCapital": 52000.0
     },
     {
@@ -743,7 +743,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -752,7 +752,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -761,7 +761,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -770,7 +770,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -779,7 +779,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -788,7 +788,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "META",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -797,7 +797,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -806,7 +806,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -815,7 +815,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -824,7 +824,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "strategyCapital": 52000.0
     },
     {
@@ -833,7 +833,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "AAPL",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -842,7 +842,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ACN",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -851,7 +851,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -860,7 +860,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -869,7 +869,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -878,7 +878,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -887,7 +887,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -896,7 +896,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -905,7 +905,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -914,7 +914,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "strategyCapital": 52000.0
     },
     {
@@ -923,7 +923,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -932,7 +932,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -941,7 +941,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -950,7 +950,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -959,7 +959,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -968,7 +968,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -977,7 +977,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -986,7 +986,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -995,7 +995,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -1004,7 +1004,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 63830.99,
+      "notional": 63830.94,
       "strategyCapital": 54000.0
     },
     {
@@ -1013,7 +1013,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1022,7 +1022,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1031,7 +1031,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1040,7 +1040,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1049,7 +1049,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1058,7 +1058,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1067,7 +1067,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1076,7 +1076,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1085,7 +1085,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1094,7 +1094,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 62869.79,
+      "notional": 62869.74,
       "strategyCapital": 54000.0
     },
     {
@@ -1103,7 +1103,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1112,7 +1112,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1121,7 +1121,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1130,7 +1130,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1139,7 +1139,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1148,7 +1148,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1157,7 +1157,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1166,7 +1166,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1175,7 +1175,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1184,7 +1184,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 61202.4,
+      "notional": 61202.36,
       "strategyCapital": 54000.0
     },
     {
@@ -1193,7 +1193,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1202,7 +1202,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1211,7 +1211,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1220,7 +1220,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1229,7 +1229,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1238,7 +1238,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1247,7 +1247,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1256,7 +1256,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1265,7 +1265,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1274,7 +1274,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "strategyCapital": 54000.0
     },
     {
@@ -1283,7 +1283,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1292,7 +1292,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1301,7 +1301,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1310,7 +1310,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1319,7 +1319,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1328,7 +1328,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1337,7 +1337,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1346,7 +1346,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1355,7 +1355,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1364,7 +1364,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 66087.13,
+      "notional": 66087.08,
       "strategyCapital": 54000.0
     },
     {
@@ -1373,7 +1373,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "ABBV",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1382,7 +1382,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1391,7 +1391,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "AMGN",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1400,7 +1400,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "CAT",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1409,7 +1409,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1418,7 +1418,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "DE",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1427,7 +1427,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1436,7 +1436,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "MDT",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1445,7 +1445,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "MRK",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1454,7 +1454,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "strategyCapital": 49000.0
     },
     {
@@ -1463,7 +1463,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "ABT",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1472,7 +1472,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "AMGN",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1481,7 +1481,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1490,7 +1490,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "DHR",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1499,7 +1499,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "JNJ",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1508,7 +1508,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1517,7 +1517,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "LOW",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1526,7 +1526,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "MDT",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1535,7 +1535,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "SPG",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1544,7 +1544,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "strategyCapital": 49000.0
     },
     {
@@ -1553,7 +1553,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "CL",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1562,7 +1562,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1571,7 +1571,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "JNJ",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1580,7 +1580,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "KO",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1589,7 +1589,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "MDLZ",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1598,7 +1598,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "MMM",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1607,7 +1607,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "PG",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1616,7 +1616,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "SPG",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1625,7 +1625,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1634,7 +1634,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "USB",
       "weight": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "strategyCapital": 49000.0
     },
     {
@@ -1643,7 +1643,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1652,7 +1652,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1661,7 +1661,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "GD",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1670,7 +1670,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1679,7 +1679,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "KO",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1688,7 +1688,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "LMT",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1697,7 +1697,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1706,7 +1706,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1715,7 +1715,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "SPG",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1724,7 +1724,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "TMUS",
       "weight": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "strategyCapital": 49000.0
     },
     {
@@ -1733,7 +1733,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1742,7 +1742,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1751,7 +1751,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1760,7 +1760,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1769,7 +1769,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1778,7 +1778,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1787,7 +1787,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "SPG",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1796,7 +1796,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1805,7 +1805,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "USB",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1814,7 +1814,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "ticker": "VZ",
       "weight": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "strategyCapital": 49000.0
     },
     {
@@ -1823,7 +1823,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1832,7 +1832,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1841,7 +1841,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1850,7 +1850,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1859,7 +1859,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1868,7 +1868,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1877,7 +1877,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1886,7 +1886,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "NVDA",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1895,7 +1895,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1904,7 +1904,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "strategyCapital": 50000.0
     },
     {
@@ -1913,7 +1913,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "EMR",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1922,7 +1922,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1931,7 +1931,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "HD",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1940,7 +1940,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "LIN",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1949,7 +1949,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "LOW",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1958,7 +1958,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "NKE",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1967,7 +1967,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "PG",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1976,7 +1976,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1985,7 +1985,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "SPG",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -1994,7 +1994,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "strategyCapital": 50000.0
     },
     {
@@ -2003,7 +2003,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "CL",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2012,7 +2012,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "COP",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2021,7 +2021,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "KO",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2030,7 +2030,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "MDLZ",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2039,7 +2039,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "MO",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2048,7 +2048,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "PM",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2057,7 +2057,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "T",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2066,7 +2066,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "TMUS",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2075,7 +2075,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "VZ",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2084,7 +2084,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "strategyCapital": 50000.0
     },
     {
@@ -2093,7 +2093,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2102,7 +2102,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2111,7 +2111,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "BA",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2120,7 +2120,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2129,7 +2129,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "HON",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2138,7 +2138,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2147,7 +2147,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2156,7 +2156,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2165,7 +2165,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2174,7 +2174,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "strategyCapital": 50000.0
     },
     {
@@ -2183,7 +2183,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2192,7 +2192,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2201,7 +2201,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2210,7 +2210,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2219,7 +2219,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "PM",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2228,7 +2228,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2237,7 +2237,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2246,7 +2246,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "T",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2255,7 +2255,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2264,7 +2264,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "ticker": "VZ",
       "weight": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "strategyCapital": 50000.0
     },
     {
@@ -2273,7 +2273,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2282,7 +2282,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2291,7 +2291,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2300,7 +2300,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2309,7 +2309,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2318,7 +2318,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2327,7 +2327,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2336,7 +2336,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2345,7 +2345,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2354,7 +2354,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "strategyCapital": 46000.0
     },
     {
@@ -2363,7 +2363,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2372,7 +2372,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2381,7 +2381,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2390,7 +2390,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2399,7 +2399,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2408,7 +2408,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2417,7 +2417,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2426,7 +2426,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2435,7 +2435,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2444,7 +2444,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "strategyCapital": 46000.0
     },
     {
@@ -2453,7 +2453,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2462,7 +2462,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2471,7 +2471,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2480,7 +2480,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2489,7 +2489,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2498,7 +2498,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2507,7 +2507,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2516,7 +2516,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2525,7 +2525,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2534,7 +2534,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "strategyCapital": 46000.0
     },
     {
@@ -2543,7 +2543,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2552,7 +2552,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2561,7 +2561,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2570,7 +2570,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2579,7 +2579,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2588,7 +2588,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2597,7 +2597,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2606,7 +2606,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2615,7 +2615,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2624,7 +2624,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "strategyCapital": 46000.0
     },
     {
@@ -2633,7 +2633,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2642,7 +2642,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2651,7 +2651,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2660,7 +2660,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2669,7 +2669,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2678,7 +2678,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2687,7 +2687,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2696,7 +2696,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2705,7 +2705,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2714,7 +2714,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 021 - Trend Stability",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 31827.47,
+      "notional": 31827.5,
       "strategyCapital": 46000.0
     },
     {
@@ -2813,7 +2813,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2822,7 +2822,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2831,7 +2831,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2840,7 +2840,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2849,7 +2849,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2858,7 +2858,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2867,7 +2867,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2876,7 +2876,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2885,7 +2885,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -2894,7 +2894,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "strategyCapital": 55000.0
     },
     {
@@ -3173,7 +3173,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "BNY",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3182,7 +3182,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3191,7 +3191,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3200,7 +3200,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3209,7 +3209,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "ISRG",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3218,7 +3218,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "JNJ",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3227,7 +3227,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3236,7 +3236,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3245,7 +3245,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3254,7 +3254,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "strategyCapital": 48000.0
     },
     {
@@ -3263,7 +3263,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "BNY",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3272,7 +3272,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "CL",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3281,7 +3281,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3290,7 +3290,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3299,7 +3299,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "ISRG",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3308,7 +3308,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3317,7 +3317,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3326,7 +3326,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3335,7 +3335,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3344,7 +3344,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "strategyCapital": 48000.0
     },
     {
@@ -3353,7 +3353,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "CL",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3362,7 +3362,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3371,7 +3371,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3380,7 +3380,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3389,7 +3389,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "ISRG",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3398,7 +3398,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "JNJ",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3407,7 +3407,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3416,7 +3416,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3425,7 +3425,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3434,7 +3434,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "strategyCapital": 48000.0
     },
     {
@@ -3443,7 +3443,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3452,7 +3452,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3461,7 +3461,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3470,7 +3470,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3479,7 +3479,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "ISRG",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3488,7 +3488,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "JNJ",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3497,7 +3497,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3506,7 +3506,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3515,7 +3515,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3524,7 +3524,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "strategyCapital": 48000.0
     },
     {
@@ -3533,7 +3533,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "BNY",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3542,7 +3542,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3551,7 +3551,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3560,7 +3560,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3569,7 +3569,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3578,7 +3578,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "JNJ",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3587,7 +3587,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3596,7 +3596,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3605,7 +3605,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3614,7 +3614,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "strategyCapital": 48000.0
     },
     {
@@ -3623,7 +3623,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AMZN",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3632,7 +3632,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3641,7 +3641,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "BLK",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3650,7 +3650,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3659,7 +3659,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "GOOG",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3668,7 +3668,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3677,7 +3677,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "HON",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3686,7 +3686,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3695,7 +3695,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3704,7 +3704,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "T",
       "weight": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "strategyCapital": 51000.0
     },
     {
@@ -3713,7 +3713,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AMZN",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3722,7 +3722,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3731,7 +3731,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3740,7 +3740,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3749,7 +3749,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3758,7 +3758,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "NFLX",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3767,7 +3767,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3776,7 +3776,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3785,7 +3785,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "T",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3794,7 +3794,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "strategyCapital": 51000.0
     },
     {
@@ -3803,7 +3803,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AMZN",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3812,7 +3812,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3821,7 +3821,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3830,7 +3830,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "GILD",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3839,7 +3839,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "HON",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3848,7 +3848,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3857,7 +3857,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "NVDA",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3866,7 +3866,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3875,7 +3875,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3884,7 +3884,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3893,7 +3893,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3902,7 +3902,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AMZN",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3911,7 +3911,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3920,7 +3920,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3929,7 +3929,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3938,7 +3938,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3947,7 +3947,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "META",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3956,7 +3956,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3965,7 +3965,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3974,7 +3974,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "strategyCapital": 51000.0
     },
     {
@@ -3983,7 +3983,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -3992,7 +3992,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AMZN",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4001,7 +4001,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4010,7 +4010,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4019,7 +4019,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4028,7 +4028,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "META",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4037,7 +4037,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4046,7 +4046,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4055,7 +4055,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4064,7 +4064,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "strategyCapital": 51000.0
     },
     {
@@ -4073,7 +4073,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "BA",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4082,7 +4082,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4091,7 +4091,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "ISRG",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4100,7 +4100,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "PG",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4109,7 +4109,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4118,7 +4118,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4127,7 +4127,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4136,7 +4136,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4145,7 +4145,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4154,7 +4154,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "UBER",
       "weight": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "strategyCapital": 44000.0
     },
     {
@@ -4343,7 +4343,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "ABBV",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4352,7 +4352,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "CL",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4361,7 +4361,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4370,7 +4370,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "LIN",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4379,7 +4379,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "MDT",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4388,7 +4388,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4397,7 +4397,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4406,7 +4406,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "PEP",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4415,7 +4415,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "PG",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4424,7 +4424,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 041 - High-Low Range",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "strategyCapital": 44000.0
     },
     {
@@ -4883,7 +4883,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4892,7 +4892,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4901,7 +4901,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "AXP",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4910,7 +4910,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4919,7 +4919,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "EMR",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4928,7 +4928,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "HD",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4937,7 +4937,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "LMT",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4946,7 +4946,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "NKE",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4955,7 +4955,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4964,7 +4964,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "strategyCapital": 47000.0
     },
     {
@@ -4973,7 +4973,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -4982,7 +4982,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -4991,7 +4991,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "DHR",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -5000,7 +5000,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "GM",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -5009,7 +5009,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "GS",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -5018,7 +5018,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -5027,7 +5027,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -5036,7 +5036,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -5045,7 +5045,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -5054,7 +5054,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "strategyCapital": 50000.0
     },
     {
@@ -5063,7 +5063,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5072,7 +5072,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "DHR",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5081,7 +5081,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5090,7 +5090,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5099,7 +5099,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5108,7 +5108,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5117,7 +5117,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "MDT",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5126,7 +5126,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5135,7 +5135,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5144,7 +5144,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "strategyCapital": 50000.0
     },
     {
@@ -5153,7 +5153,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5162,7 +5162,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "AMT",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5171,7 +5171,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5180,7 +5180,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "DHR",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5189,7 +5189,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5198,7 +5198,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5207,7 +5207,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5216,7 +5216,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5225,7 +5225,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "SPG",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5234,7 +5234,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "strategyCapital": 50000.0
     },
     {
@@ -5243,7 +5243,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5252,7 +5252,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5261,7 +5261,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5270,7 +5270,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5279,7 +5279,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5288,7 +5288,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5297,7 +5297,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5306,7 +5306,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5315,7 +5315,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5324,7 +5324,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "strategyCapital": 50000.0
     },
     {
@@ -5333,7 +5333,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5342,7 +5342,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5351,7 +5351,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5360,7 +5360,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5369,7 +5369,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5378,7 +5378,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5387,7 +5387,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5396,7 +5396,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5405,7 +5405,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5414,7 +5414,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "ticker": "USB",
       "weight": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "strategyCapital": 50000.0
     },
     {
@@ -5423,7 +5423,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5432,7 +5432,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5441,7 +5441,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5450,7 +5450,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "HON",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5459,7 +5459,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5468,7 +5468,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5477,7 +5477,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5486,7 +5486,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5495,7 +5495,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5504,7 +5504,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "T",
       "weight": 0.1,
-      "notional": 10825.03,
+      "notional": 10854.82,
       "strategyCapital": 48000.0
     },
     {
@@ -5513,7 +5513,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "AAPL",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5522,7 +5522,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5531,7 +5531,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5540,7 +5540,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5549,7 +5549,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5558,7 +5558,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5567,7 +5567,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5576,7 +5576,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5585,7 +5585,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5594,7 +5594,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 10563.74,
+      "notional": 10592.8,
       "strategyCapital": 48000.0
     },
     {
@@ -5603,7 +5603,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5612,7 +5612,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5621,7 +5621,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5630,7 +5630,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "CAT",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5639,7 +5639,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5648,7 +5648,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5657,7 +5657,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5666,7 +5666,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5675,7 +5675,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5684,7 +5684,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 10273.0,
+      "notional": 10301.26,
       "strategyCapital": 48000.0
     },
     {
@@ -5693,7 +5693,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5702,7 +5702,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5711,7 +5711,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5720,7 +5720,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5729,7 +5729,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5738,7 +5738,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "META",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5747,7 +5747,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5756,7 +5756,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5765,7 +5765,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5774,7 +5774,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 10692.17,
+      "notional": 10721.59,
       "strategyCapital": 48000.0
     },
     {
@@ -5783,7 +5783,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "AAPL",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5792,7 +5792,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ACN",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5801,7 +5801,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5810,7 +5810,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "AMZN",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5819,7 +5819,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5828,7 +5828,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5837,7 +5837,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5846,7 +5846,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5855,7 +5855,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5864,7 +5864,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 10675.58,
+      "notional": 10704.95,
       "strategyCapital": 48000.0
     },
     {
@@ -5873,7 +5873,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5882,7 +5882,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5891,7 +5891,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "DE",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5900,7 +5900,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "GM",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5909,7 +5909,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5918,7 +5918,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5927,7 +5927,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5936,7 +5936,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5945,7 +5945,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5954,7 +5954,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "strategyCapital": 45000.0
     },
     {
@@ -5963,7 +5963,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -5972,7 +5972,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "DE",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -5981,7 +5981,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "DHR",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -5990,7 +5990,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -5999,7 +5999,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -6008,7 +6008,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -6017,7 +6017,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -6026,7 +6026,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -6035,7 +6035,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -6044,7 +6044,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "strategyCapital": 45000.0
     },
     {
@@ -6053,7 +6053,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6062,7 +6062,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6071,7 +6071,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6080,7 +6080,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6089,7 +6089,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "DHR",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6098,7 +6098,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6107,7 +6107,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6116,7 +6116,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6125,7 +6125,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6134,7 +6134,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "strategyCapital": 45000.0
     },
     {
@@ -6143,7 +6143,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6152,7 +6152,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "AMGN",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6161,7 +6161,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6170,7 +6170,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6179,7 +6179,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6188,7 +6188,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6197,7 +6197,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "MDT",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6206,7 +6206,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6215,7 +6215,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "USB",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6224,7 +6224,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "strategyCapital": 45000.0
     },
     {
@@ -6233,7 +6233,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6242,7 +6242,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6251,7 +6251,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6260,7 +6260,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6269,7 +6269,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6278,7 +6278,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6287,7 +6287,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "MDT",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6296,7 +6296,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "SPG",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6305,7 +6305,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "USB",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6314,7 +6314,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "strategyCapital": 45000.0
     },
     {
@@ -6323,7 +6323,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6332,7 +6332,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6341,7 +6341,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6350,7 +6350,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6359,7 +6359,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6368,7 +6368,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6377,7 +6377,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6386,7 +6386,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6395,7 +6395,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6404,7 +6404,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "strategyCapital": 53000.0
     },
     {
@@ -6413,7 +6413,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6422,7 +6422,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6431,7 +6431,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6440,7 +6440,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6449,7 +6449,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6458,7 +6458,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6467,7 +6467,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6476,7 +6476,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6485,7 +6485,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6494,7 +6494,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "strategyCapital": 53000.0
     },
     {
@@ -6503,7 +6503,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6512,7 +6512,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6521,7 +6521,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6530,7 +6530,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6539,7 +6539,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6548,7 +6548,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6557,7 +6557,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6566,7 +6566,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6575,7 +6575,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6584,7 +6584,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "strategyCapital": 53000.0
     },
     {
@@ -6593,7 +6593,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6602,7 +6602,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6611,7 +6611,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6620,7 +6620,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6629,7 +6629,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6638,7 +6638,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6647,7 +6647,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6656,7 +6656,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6665,7 +6665,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6674,7 +6674,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "strategyCapital": 53000.0
     },
     {
@@ -6683,7 +6683,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "AAPL",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6692,7 +6692,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6701,7 +6701,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6710,7 +6710,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6719,7 +6719,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6728,7 +6728,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6737,7 +6737,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6746,7 +6746,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6755,7 +6755,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6764,7 +6764,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 071 - Composite Rank",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "strategyCapital": 53000.0
     },
     {
@@ -6773,7 +6773,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6782,7 +6782,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "GOOG",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6791,7 +6791,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6800,7 +6800,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6809,7 +6809,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6818,7 +6818,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "RTX",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6827,7 +6827,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6836,7 +6836,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6845,7 +6845,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "UPS",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6854,7 +6854,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 18337.7,
+      "notional": 18367.11,
       "strategyCapital": 49000.0
     },
     {
@@ -6863,7 +6863,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6872,7 +6872,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "FDX",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6881,7 +6881,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "GOOG",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6890,7 +6890,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6899,7 +6899,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6908,7 +6908,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6917,7 +6917,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6926,7 +6926,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6935,7 +6935,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "UPS",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6944,7 +6944,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "WFC",
       "weight": 0.1,
-      "notional": 18230.7,
+      "notional": 18259.93,
       "strategyCapital": 49000.0
     },
     {
@@ -6953,7 +6953,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -6962,7 +6962,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -6971,7 +6971,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "HD",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -6980,7 +6980,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -6989,7 +6989,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -6998,7 +6998,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -7007,7 +7007,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -7016,7 +7016,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -7025,7 +7025,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -7034,7 +7034,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 17692.21,
+      "notional": 17720.58,
       "strategyCapital": 49000.0
     },
     {
@@ -7043,7 +7043,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "ACN",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7052,7 +7052,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7061,7 +7061,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7070,7 +7070,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "BLK",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7079,7 +7079,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "FDX",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7088,7 +7088,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7097,7 +7097,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7106,7 +7106,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7115,7 +7115,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7124,7 +7124,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 18422.24,
+      "notional": 18451.78,
       "strategyCapital": 49000.0
     },
     {
@@ -7133,7 +7133,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7142,7 +7142,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "BAC",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7151,7 +7151,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "GOOGL",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7160,7 +7160,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "JNJ",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7169,7 +7169,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "LMT",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7178,7 +7178,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "MDT",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7187,7 +7187,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "MRK",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7196,7 +7196,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7205,7 +7205,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "SCHW",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7214,7 +7214,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 078 - Correlation Break",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 18719.47,
+      "notional": 18749.48,
       "strategyCapital": 49000.0
     },
     {
@@ -7223,7 +7223,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7232,7 +7232,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7241,7 +7241,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7250,7 +7250,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GM",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7259,7 +7259,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7268,7 +7268,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7277,7 +7277,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7286,7 +7286,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "MRK",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7295,7 +7295,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7304,7 +7304,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "strategyCapital": 52000.0
     },
     {
@@ -7313,7 +7313,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7322,7 +7322,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7331,7 +7331,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7340,7 +7340,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GM",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7349,7 +7349,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GS",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7358,7 +7358,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7367,7 +7367,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7376,7 +7376,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7385,7 +7385,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7394,7 +7394,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "strategyCapital": 52000.0
     },
     {
@@ -7403,7 +7403,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7412,7 +7412,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7421,7 +7421,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7430,7 +7430,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7439,7 +7439,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GM",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7448,7 +7448,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7457,7 +7457,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7466,7 +7466,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "MMM",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7475,7 +7475,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7484,7 +7484,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "strategyCapital": 52000.0
     },
     {
@@ -7493,7 +7493,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7502,7 +7502,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMGN",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7511,7 +7511,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "FDX",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7520,7 +7520,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GD",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7529,7 +7529,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7538,7 +7538,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7547,7 +7547,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7556,7 +7556,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7565,7 +7565,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7574,7 +7574,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "UPS",
       "weight": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "strategyCapital": 52000.0
     },
     {
@@ -7583,7 +7583,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7592,7 +7592,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7601,7 +7601,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7610,7 +7610,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7619,7 +7619,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7628,7 +7628,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7637,7 +7637,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7646,7 +7646,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7655,7 +7655,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7664,7 +7664,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 083 - Range Momentum",
       "ticker": "UPS",
       "weight": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "strategyCapital": 52000.0
     },
     {
@@ -7673,7 +7673,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7682,7 +7682,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7691,7 +7691,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7700,7 +7700,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7709,7 +7709,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7718,7 +7718,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7727,7 +7727,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7736,7 +7736,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7745,7 +7745,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7754,7 +7754,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "strategyCapital": 46000.0
     },
     {
@@ -7763,7 +7763,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "ABBV",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7772,7 +7772,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7781,7 +7781,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7790,7 +7790,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7799,7 +7799,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7808,7 +7808,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7817,7 +7817,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7826,7 +7826,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7835,7 +7835,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7844,7 +7844,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "strategyCapital": 46000.0
     },
     {
@@ -7853,7 +7853,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7862,7 +7862,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7871,7 +7871,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7880,7 +7880,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7889,7 +7889,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7898,7 +7898,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7907,7 +7907,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7916,7 +7916,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7925,7 +7925,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7934,7 +7934,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "strategyCapital": 46000.0
     },
     {
@@ -7943,7 +7943,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -7952,7 +7952,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -7961,7 +7961,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -7970,7 +7970,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -7979,7 +7979,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -7988,7 +7988,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -7997,7 +7997,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -8006,7 +8006,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -8015,7 +8015,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -8024,7 +8024,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "strategyCapital": 46000.0
     },
     {
@@ -8033,7 +8033,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "AMAT",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8042,7 +8042,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8051,7 +8051,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8060,7 +8060,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "IBM",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8069,7 +8069,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8078,7 +8078,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8087,7 +8087,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "LRCX",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8096,7 +8096,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8105,7 +8105,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8114,7 +8114,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "strategyCapital": 46000.0
     },
     {
@@ -8123,7 +8123,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8132,7 +8132,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8141,7 +8141,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8150,7 +8150,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "ISRG",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8159,7 +8159,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "LOW",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8168,7 +8168,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "MO",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8177,7 +8177,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8186,7 +8186,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "PEP",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8195,7 +8195,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8204,7 +8204,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "strategyCapital": 51000.0
     },
     {
@@ -8213,7 +8213,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8222,7 +8222,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8231,7 +8231,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8240,7 +8240,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "ISRG",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8249,7 +8249,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "LOW",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8258,7 +8258,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8267,7 +8267,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "NFLX",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8276,7 +8276,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "PEP",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8285,7 +8285,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8294,7 +8294,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "strategyCapital": 51000.0
     },
     {
@@ -8303,7 +8303,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "AMZN",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8312,7 +8312,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8321,7 +8321,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8330,7 +8330,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8339,7 +8339,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "ISRG",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8348,7 +8348,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8357,7 +8357,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "PEP",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8366,7 +8366,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8375,7 +8375,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "T",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8384,7 +8384,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "strategyCapital": 51000.0
     },
     {
@@ -8393,7 +8393,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8402,7 +8402,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8411,7 +8411,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8420,7 +8420,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "LOW",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8429,7 +8429,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8438,7 +8438,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "PEP",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8447,7 +8447,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8456,7 +8456,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "T",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8465,7 +8465,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "UBER",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8474,7 +8474,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "strategyCapital": 51000.0
     },
     {
@@ -8483,7 +8483,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "AMZN",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8492,7 +8492,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "CMCSA",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8501,7 +8501,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "DIS",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8510,7 +8510,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8519,7 +8519,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8528,7 +8528,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "LOW",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8537,7 +8537,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "PEP",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8546,7 +8546,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "SBUX",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8555,7 +8555,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "T",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8564,7 +8564,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "ticker": "WMT",
       "weight": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "strategyCapital": 51000.0
     },
     {
@@ -8573,7 +8573,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8582,7 +8582,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "BNY",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8591,7 +8591,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8600,7 +8600,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8609,7 +8609,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "GS",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8618,7 +8618,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8627,7 +8627,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MS",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8636,7 +8636,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8645,7 +8645,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8654,7 +8654,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 31995.78,
+      "notional": 31938.12,
       "strategyCapital": 47000.0
     },
     {
@@ -8663,7 +8663,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8672,7 +8672,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "BNY",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8681,7 +8681,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8690,7 +8690,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8699,7 +8699,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "GS",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8708,7 +8708,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8717,7 +8717,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MS",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8726,7 +8726,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8735,7 +8735,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8744,7 +8744,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 31705.53,
+      "notional": 31648.39,
       "strategyCapital": 47000.0
     },
     {
@@ -8753,7 +8753,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8762,7 +8762,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "BNY",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8771,7 +8771,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8780,7 +8780,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8789,7 +8789,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8798,7 +8798,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "GS",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8807,7 +8807,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8816,7 +8816,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MS",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8825,7 +8825,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8834,7 +8834,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 30962.4,
+      "notional": 30906.6,
       "strategyCapital": 47000.0
     },
     {
@@ -8843,7 +8843,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8852,7 +8852,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "BNY",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8861,7 +8861,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "C",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8870,7 +8870,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8879,7 +8879,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8888,7 +8888,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8897,7 +8897,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MS",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8906,7 +8906,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8915,7 +8915,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8924,7 +8924,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 32352.98,
+      "notional": 32294.67,
       "strategyCapital": 47000.0
     },
     {
@@ -8933,7 +8933,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -8942,7 +8942,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "BNY",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -8951,7 +8951,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -8960,7 +8960,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "CVS",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -8969,7 +8969,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "GS",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -8978,7 +8978,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "INTC",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -8987,7 +8987,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MS",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -8996,7 +8996,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -9005,7 +9005,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "TXN",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -9014,7 +9014,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "ticker": "UNH",
       "weight": 0.1,
-      "notional": 32868.06,
+      "notional": 32808.83,
       "strategyCapital": 47000.0
     },
     {
@@ -9023,7 +9023,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "AAPL",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9032,7 +9032,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "ABBV",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9041,7 +9041,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "ACN",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9050,7 +9050,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9059,7 +9059,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "AMT",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9068,7 +9068,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "BKNG",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9077,7 +9077,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "BMY",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9086,7 +9086,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "CL",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9095,7 +9095,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "GE",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9104,7 +9104,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "NEE",
       "weight": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "strategyCapital": 43000.0
     },
     {
@@ -9113,7 +9113,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "AAPL",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9122,7 +9122,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9131,7 +9131,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9140,7 +9140,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9149,7 +9149,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "CSCO",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9158,7 +9158,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9167,7 +9167,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9176,7 +9176,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9185,7 +9185,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9194,7 +9194,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "strategyCapital": 43000.0
     },
     {
@@ -9203,7 +9203,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "AMD",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9212,7 +9212,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "AVGO",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9221,7 +9221,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "CAT",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9230,7 +9230,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "GEV",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9239,7 +9239,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "GM",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9248,7 +9248,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "HON",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9257,7 +9257,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9266,7 +9266,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "QCOM",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9275,7 +9275,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "TSLA",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9284,7 +9284,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "UPS",
       "weight": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "strategyCapital": 43000.0
     },
     {
@@ -9293,7 +9293,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9302,7 +9302,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "COP",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9311,7 +9311,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "CRM",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9320,7 +9320,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "CVX",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9329,7 +9329,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "INTU",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9338,7 +9338,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "MO",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9347,7 +9347,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "MSFT",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9356,7 +9356,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "NOW",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9365,7 +9365,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "ORCL",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9374,7 +9374,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "XOM",
       "weight": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "strategyCapital": 43000.0
     },
     {
@@ -9383,7 +9383,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "AAPL",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9392,7 +9392,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "ABT",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9401,7 +9401,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "ADBE",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9410,7 +9410,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "LLY",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9419,7 +9419,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "LMT",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9428,7 +9428,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "MRK",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9437,7 +9437,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "MU",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9446,7 +9446,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "NKE",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9455,7 +9455,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "PLTR",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     },
     {
@@ -9464,7 +9464,7 @@ window.DASHBOARD_DATA = {
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "ticker": "TMO",
       "weight": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "strategyCapital": 43000.0
     }
   ],
@@ -9476,7 +9476,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ACN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9486,7 +9486,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ADBE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9496,7 +9496,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9506,7 +9506,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMZN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9516,7 +9516,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9526,7 +9526,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9536,7 +9536,7 @@ window.DASHBOARD_DATA = {
       "ticker": "IBM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9546,7 +9546,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9556,7 +9556,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9566,7 +9566,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9576,7 +9576,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9586,7 +9586,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9596,7 +9596,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9606,7 +9606,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14097.53,
+      "notional": 14097.51,
       "cost": 7.05
     },
     {
@@ -9616,7 +9616,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ACN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "cost": 6.85
     },
     {
@@ -9626,7 +9626,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "cost": 6.85
     },
     {
@@ -9636,7 +9636,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "cost": 6.85
     },
     {
@@ -9646,7 +9646,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13693.65,
+      "notional": 13693.64,
       "cost": 6.85
     },
     {
@@ -9656,7 +9656,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ADBE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "cost": 6.64
     },
     {
@@ -9666,7 +9666,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "cost": 6.64
     },
     {
@@ -9676,7 +9676,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "cost": 6.64
     },
     {
@@ -9686,7 +9686,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "cost": 6.64
     },
     {
@@ -9696,7 +9696,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "cost": 6.64
     },
     {
@@ -9706,7 +9706,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13270.09,
+      "notional": 13270.08,
       "cost": 6.64
     },
     {
@@ -9716,7 +9716,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ADBE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "cost": 6.8
     },
     {
@@ -9726,7 +9726,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "cost": 6.8
     },
     {
@@ -9736,7 +9736,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "cost": 6.8
     },
     {
@@ -9746,7 +9746,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "cost": 6.8
     },
     {
@@ -9756,7 +9756,7 @@ window.DASHBOARD_DATA = {
       "ticker": "META",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "cost": 6.8
     },
     {
@@ -9766,7 +9766,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "cost": 6.8
     },
     {
@@ -9776,7 +9776,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "cost": 6.8
     },
     {
@@ -9786,7 +9786,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13608.39,
+      "notional": 13608.38,
       "cost": 6.8
     },
     {
@@ -9796,7 +9796,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "cost": 6.76
     },
     {
@@ -9806,7 +9806,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ACN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "cost": 6.76
     },
     {
@@ -9816,7 +9816,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AVGO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "cost": 6.76
     },
     {
@@ -9826,7 +9826,7 @@ window.DASHBOARD_DATA = {
       "ticker": "META",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "cost": 6.76
     },
     {
@@ -9836,7 +9836,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "cost": 6.76
     },
     {
@@ -9846,7 +9846,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 13524.89,
+      "notional": 13524.88,
       "cost": 6.76
     },
     {
@@ -9856,7 +9856,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "cost": 32.37
     },
     {
@@ -9866,7 +9866,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 64739.88,
+      "notional": 64739.83,
       "cost": 32.37
     },
     {
@@ -9876,7 +9876,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "cost": 6.37
     },
     {
@@ -9886,7 +9886,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "cost": 6.37
     },
     {
@@ -9896,7 +9896,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BRK-B",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "cost": 6.37
     },
     {
@@ -9906,7 +9906,7 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "cost": 6.37
     },
     {
@@ -9916,7 +9916,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "cost": 6.37
     },
     {
@@ -9926,7 +9926,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "cost": 6.37
     },
     {
@@ -9936,7 +9936,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MRK",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "cost": 6.37
     },
     {
@@ -9946,7 +9946,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12735.44,
+      "notional": 12735.39,
       "cost": 6.37
     },
     {
@@ -9956,7 +9956,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABBV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -9966,7 +9966,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -9976,7 +9976,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -9986,7 +9986,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CAT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -9996,7 +9996,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -10006,7 +10006,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DHR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -10016,7 +10016,7 @@ window.DASHBOARD_DATA = {
       "ticker": "JNJ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -10026,7 +10026,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -10036,7 +10036,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MRK",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -10046,7 +10046,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SPG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12800.69,
+      "notional": 12800.63,
       "cost": 6.4
     },
     {
@@ -10056,7 +10056,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10066,7 +10066,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMGN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10076,7 +10076,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10086,7 +10086,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DHR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10096,7 +10096,7 @@ window.DASHBOARD_DATA = {
       "ticker": "KO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10106,7 +10106,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10116,7 +10116,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10126,7 +10126,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDLZ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10136,7 +10136,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10146,7 +10146,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MMM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10156,7 +10156,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10166,7 +10166,7 @@ window.DASHBOARD_DATA = {
       "ticker": "USB",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12673.12,
+      "notional": 12673.07,
       "cost": 6.34
     },
     {
@@ -10176,7 +10176,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10186,7 +10186,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10196,7 +10196,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10206,7 +10206,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10216,7 +10216,7 @@ window.DASHBOARD_DATA = {
       "ticker": "JNJ",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10226,7 +10226,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LMT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10236,7 +10236,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10246,7 +10246,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDLZ",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10256,7 +10256,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MMM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10266,7 +10266,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10276,7 +10276,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SBUX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10286,7 +10286,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMUS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10296,7 +10296,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UNH",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10306,7 +10306,7 @@ window.DASHBOARD_DATA = {
       "ticker": "USB",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12683.35,
+      "notional": 12683.3,
       "cost": 6.34
     },
     {
@@ -10316,7 +10316,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10326,7 +10326,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10336,7 +10336,7 @@ window.DASHBOARD_DATA = {
       "ticker": "KO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10346,7 +10346,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LMT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10356,7 +10356,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10366,7 +10366,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SBUX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10376,7 +10376,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMUS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10386,7 +10386,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10396,7 +10396,7 @@ window.DASHBOARD_DATA = {
       "ticker": "USB",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10406,7 +10406,7 @@ window.DASHBOARD_DATA = {
       "ticker": "VZ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 12867.59,
+      "notional": 12867.54,
       "cost": 6.43
     },
     {
@@ -10416,7 +10416,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10426,7 +10426,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10436,7 +10436,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AVGO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10446,7 +10446,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10456,7 +10456,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CMCSA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10466,7 +10466,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DUK",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10476,7 +10476,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10486,7 +10486,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10496,7 +10496,7 @@ window.DASHBOARD_DATA = {
       "ticker": "KO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10506,7 +10506,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10516,7 +10516,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10526,7 +10526,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10536,7 +10536,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MCD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10546,7 +10546,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10556,7 +10556,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10566,7 +10566,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NVDA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10576,7 +10576,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10586,7 +10586,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10596,7 +10596,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10606,7 +10606,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UNP",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3729.09,
+      "notional": 3729.07,
       "cost": 1.86
     },
     {
@@ -10616,7 +10616,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10626,7 +10626,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10636,7 +10636,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AVGO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10646,7 +10646,7 @@ window.DASHBOARD_DATA = {
       "ticker": "EMR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10656,7 +10656,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10666,7 +10666,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10676,7 +10676,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10686,7 +10686,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10696,7 +10696,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LIN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10706,7 +10706,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10716,7 +10716,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10726,7 +10726,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10736,7 +10736,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NKE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10746,7 +10746,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NVDA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10756,7 +10756,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10766,7 +10766,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SBUX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10776,7 +10776,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SPG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10786,7 +10786,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10796,7 +10796,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10806,7 +10806,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3675.94,
+      "notional": 3675.92,
       "cost": 1.84
     },
     {
@@ -10816,7 +10816,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10826,7 +10826,7 @@ window.DASHBOARD_DATA = {
       "ticker": "COP",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10836,7 +10836,7 @@ window.DASHBOARD_DATA = {
       "ticker": "EMR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10846,7 +10846,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10856,7 +10856,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10866,7 +10866,7 @@ window.DASHBOARD_DATA = {
       "ticker": "KO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10876,7 +10876,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LIN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10886,7 +10886,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10896,7 +10896,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDLZ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10906,7 +10906,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10916,7 +10916,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NKE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10926,7 +10926,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10936,7 +10936,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10946,7 +10946,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SBUX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10956,7 +10956,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SPG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10966,7 +10966,7 @@ window.DASHBOARD_DATA = {
       "ticker": "T",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10976,7 +10976,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10986,7 +10986,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMUS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -10996,7 +10996,7 @@ window.DASHBOARD_DATA = {
       "ticker": "VZ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -11006,7 +11006,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WMT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3629.19,
+      "notional": 3629.17,
       "cost": 1.81
     },
     {
@@ -11016,7 +11016,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11026,7 +11026,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11036,7 +11036,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11046,7 +11046,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11056,7 +11056,7 @@ window.DASHBOARD_DATA = {
       "ticker": "COP",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11066,7 +11066,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11076,7 +11076,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11086,7 +11086,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11096,7 +11096,7 @@ window.DASHBOARD_DATA = {
       "ticker": "KO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11106,7 +11106,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11116,7 +11116,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDLZ",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11126,7 +11126,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11136,7 +11136,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11146,7 +11146,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11156,7 +11156,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11166,7 +11166,7 @@ window.DASHBOARD_DATA = {
       "ticker": "T",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11176,7 +11176,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMUS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11186,7 +11186,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11196,7 +11196,7 @@ window.DASHBOARD_DATA = {
       "ticker": "VZ",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11206,7 +11206,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WMT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3584.3,
+      "notional": 3584.28,
       "cost": 1.79
     },
     {
@@ -11216,7 +11216,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11226,7 +11226,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11236,7 +11236,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CMCSA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11246,7 +11246,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11256,7 +11256,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11266,7 +11266,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11276,7 +11276,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11286,7 +11286,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SCHW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11296,7 +11296,7 @@ window.DASHBOARD_DATA = {
       "ticker": "T",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11306,7 +11306,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11316,7 +11316,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11326,7 +11326,7 @@ window.DASHBOARD_DATA = {
       "ticker": "VZ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3661.06,
+      "notional": 3661.05,
       "cost": 1.83
     },
     {
@@ -11336,7 +11336,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "cost": 15.46
     },
     {
@@ -11346,7 +11346,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 30921.83,
+      "notional": 30921.86,
       "cost": 15.46
     },
     {
@@ -11356,7 +11356,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "cost": 15.09
     },
     {
@@ -11366,7 +11366,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 30186.89,
+      "notional": 30186.92,
       "cost": 15.09
     },
     {
@@ -11376,7 +11376,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "cost": 14.73
     },
     {
@@ -11386,7 +11386,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29462.59,
+      "notional": 29462.62,
       "cost": 14.73
     },
     {
@@ -11396,7 +11396,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "cost": 15.59
     },
     {
@@ -11406,7 +11406,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 31178.63,
+      "notional": 31178.66,
       "cost": 15.59
     },
     {
@@ -11436,7 +11436,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "cost": 21.35
     },
     {
@@ -11446,7 +11446,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 42692.12,
+      "notional": 42692.13,
       "cost": 21.35
     },
     {
@@ -11516,7 +11516,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BLK",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "cost": 7.28
     },
     {
@@ -11526,7 +11526,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "cost": 7.28
     },
     {
@@ -11536,7 +11536,7 @@ window.DASHBOARD_DATA = {
       "ticker": "JNJ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "cost": 7.28
     },
     {
@@ -11546,7 +11546,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14566.35,
+      "notional": 14566.36,
       "cost": 7.28
     },
     {
@@ -11556,7 +11556,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "cost": 7.31
     },
     {
@@ -11566,7 +11566,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GOOGL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "cost": 7.31
     },
     {
@@ -11576,7 +11576,7 @@ window.DASHBOARD_DATA = {
       "ticker": "JNJ",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "cost": 7.31
     },
     {
@@ -11586,7 +11586,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14616.39,
+      "notional": 14616.4,
       "cost": 7.31
     },
     {
@@ -11596,7 +11596,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BNY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "cost": 7.24
     },
     {
@@ -11606,7 +11606,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "cost": 7.24
     },
     {
@@ -11616,7 +11616,7 @@ window.DASHBOARD_DATA = {
       "ticker": "JNJ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "cost": 7.24
     },
     {
@@ -11626,7 +11626,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14478.06,
+      "notional": 14478.07,
       "cost": 7.24
     },
     {
@@ -11636,7 +11636,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "cost": 7.27
     },
     {
@@ -11646,7 +11646,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GOOGL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14548.86,
+      "notional": 14548.87,
       "cost": 7.27
     },
     {
@@ -11656,7 +11656,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BNY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "cost": 7.37
     },
     {
@@ -11666,7 +11666,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ISRG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 14741.9,
+      "notional": 14741.91,
       "cost": 7.37
     },
     {
@@ -11676,7 +11676,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BLK",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "cost": 13.04
     },
     {
@@ -11686,7 +11686,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GOOG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "cost": 13.04
     },
     {
@@ -11696,7 +11696,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GOOGL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "cost": 13.04
     },
     {
@@ -11706,7 +11706,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "cost": 13.04
     },
     {
@@ -11716,7 +11716,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "cost": 13.04
     },
     {
@@ -11726,7 +11726,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NVDA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "cost": 13.04
     },
     {
@@ -11736,7 +11736,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "cost": 13.04
     },
     {
@@ -11746,7 +11746,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26072.86,
+      "notional": 26072.91,
       "cost": 13.04
     },
     {
@@ -11756,7 +11756,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BLK",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11766,7 +11766,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GOOG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11776,7 +11776,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GOOGL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11786,7 +11786,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11796,7 +11796,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11806,7 +11806,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NFLX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11816,7 +11816,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11826,7 +11826,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11836,7 +11836,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SBUX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11846,7 +11846,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26087.45,
+      "notional": 26087.5,
       "cost": 13.04
     },
     {
@@ -11856,7 +11856,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GILD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "cost": 12.69
     },
     {
@@ -11866,7 +11866,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "cost": 12.69
     },
     {
@@ -11876,7 +11876,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "cost": 12.69
     },
     {
@@ -11886,7 +11886,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NFLX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "cost": 12.69
     },
     {
@@ -11896,7 +11896,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NVDA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "cost": 12.69
     },
     {
@@ -11906,7 +11906,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "cost": 12.69
     },
     {
@@ -11916,7 +11916,7 @@ window.DASHBOARD_DATA = {
       "ticker": "T",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "cost": 12.69
     },
     {
@@ -11926,7 +11926,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 25378.01,
+      "notional": 25378.06,
       "cost": 12.69
     },
     {
@@ -11936,7 +11936,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ADBE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -11946,7 +11946,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -11956,7 +11956,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GILD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -11966,7 +11966,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -11976,7 +11976,7 @@ window.DASHBOARD_DATA = {
       "ticker": "META",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -11986,7 +11986,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -11996,7 +11996,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NVDA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -12006,7 +12006,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -12016,7 +12016,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -12026,7 +12026,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26268.01,
+      "notional": 26268.06,
       "cost": 13.13
     },
     {
@@ -12036,7 +12036,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "cost": 13.11
     },
     {
@@ -12046,7 +12046,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "cost": 13.11
     },
     {
@@ -12056,7 +12056,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "cost": 13.11
     },
     {
@@ -12066,7 +12066,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 26218.76,
+      "notional": 26218.81,
       "cost": 13.11
     },
     {
@@ -12076,7 +12076,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12086,7 +12086,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12096,7 +12096,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12106,7 +12106,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12116,7 +12116,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DIS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12126,7 +12126,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12136,7 +12136,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12146,7 +12146,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MMM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12156,7 +12156,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12166,7 +12166,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12176,7 +12176,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12186,7 +12186,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SBUX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12196,7 +12196,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12206,7 +12206,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UBER",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12216,7 +12216,7 @@ window.DASHBOARD_DATA = {
       "ticker": "USB",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12226,7 +12226,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3020.17,
+      "notional": 3020.18,
       "cost": 1.51
     },
     {
@@ -12616,7 +12616,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12626,7 +12626,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CMCSA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12636,7 +12636,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12646,7 +12646,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CSCO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12656,7 +12656,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12666,7 +12666,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LIN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12676,7 +12676,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12686,7 +12686,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12696,7 +12696,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12706,7 +12706,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12716,7 +12716,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PEP",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12726,7 +12726,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PFE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12736,7 +12736,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -12746,7 +12746,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SCHW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 3010.02,
+      "notional": 3010.03,
       "cost": 1.51
     },
     {
@@ -13296,7 +13296,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13306,7 +13306,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AVGO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13316,7 +13316,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AXP",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13326,7 +13326,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BAC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13336,7 +13336,7 @@ window.DASHBOARD_DATA = {
       "ticker": "EMR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13346,7 +13346,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13356,7 +13356,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GILD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13366,7 +13366,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13376,7 +13376,7 @@ window.DASHBOARD_DATA = {
       "ticker": "META",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13386,7 +13386,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 8749.95,
+      "notional": 8749.96,
       "cost": 4.37
     },
     {
@@ -13396,7 +13396,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABBV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13406,7 +13406,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13416,7 +13416,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13426,7 +13426,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DHR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13436,7 +13436,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13446,7 +13446,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13456,7 +13456,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13466,7 +13466,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13476,7 +13476,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13486,7 +13486,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29319.92,
+      "notional": 29319.95,
       "cost": 14.66
     },
     {
@@ -13496,7 +13496,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CSCO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "cost": 14.53
     },
     {
@@ -13506,7 +13506,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "cost": 14.53
     },
     {
@@ -13516,7 +13516,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "cost": 14.53
     },
     {
@@ -13526,7 +13526,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "cost": 14.53
     },
     {
@@ -13536,7 +13536,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "cost": 14.53
     },
     {
@@ -13546,7 +13546,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "cost": 14.53
     },
     {
@@ -13556,7 +13556,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "cost": 14.53
     },
     {
@@ -13566,7 +13566,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29050.43,
+      "notional": 29050.46,
       "cost": 14.53
     },
     {
@@ -13576,7 +13576,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "cost": 14.23
     },
     {
@@ -13586,7 +13586,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BAC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "cost": 14.23
     },
     {
@@ -13596,7 +13596,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "cost": 14.23
     },
     {
@@ -13606,7 +13606,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "cost": 14.23
     },
     {
@@ -13616,7 +13616,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SPG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "cost": 14.23
     },
     {
@@ -13626,7 +13626,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 28457.08,
+      "notional": 28457.11,
       "cost": 14.23
     },
     {
@@ -13636,7 +13636,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "cost": 14.76
     },
     {
@@ -13646,7 +13646,7 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "cost": 14.76
     },
     {
@@ -13656,7 +13656,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "cost": 14.76
     },
     {
@@ -13666,7 +13666,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DHR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "cost": 14.76
     },
     {
@@ -13676,7 +13676,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "cost": 14.76
     },
     {
@@ -13686,7 +13686,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SPG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29529.91,
+      "notional": 29529.94,
       "cost": 14.76
     },
     {
@@ -13696,7 +13696,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "cost": 14.85
     },
     {
@@ -13706,7 +13706,7 @@ window.DASHBOARD_DATA = {
       "ticker": "IBM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "cost": 14.85
     },
     {
@@ -13716,7 +13716,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "cost": 14.85
     },
     {
@@ -13726,7 +13726,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "cost": 14.85
     },
     {
@@ -13736,7 +13736,7 @@ window.DASHBOARD_DATA = {
       "ticker": "USB",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "cost": 14.85
     },
     {
@@ -13746,7 +13746,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 29690.03,
+      "notional": 29690.05,
       "cost": 14.85
     },
     {
@@ -13756,8 +13756,8 @@ window.DASHBOARD_DATA = {
       "ticker": "ADBE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13766,8 +13766,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13776,8 +13776,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AMZN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13786,8 +13786,8 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13796,8 +13796,8 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13806,8 +13806,8 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13816,8 +13816,8 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13826,8 +13826,8 @@ window.DASHBOARD_DATA = {
       "ticker": "META",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13836,8 +13836,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13846,8 +13846,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13856,8 +13856,8 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13866,8 +13866,8 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13876,8 +13876,8 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-09",
@@ -13886,8 +13886,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10825.03,
-      "cost": 5.41
+      "notional": 10854.82,
+      "cost": 5.43
     },
     {
       "date": "2026-06-10",
@@ -13896,8 +13896,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10563.74,
-      "cost": 5.28
+      "notional": 10592.8,
+      "cost": 5.3
     },
     {
       "date": "2026-06-10",
@@ -13906,8 +13906,8 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10563.74,
-      "cost": 5.28
+      "notional": 10592.8,
+      "cost": 5.3
     },
     {
       "date": "2026-06-10",
@@ -13916,8 +13916,8 @@ window.DASHBOARD_DATA = {
       "ticker": "IBM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10563.74,
-      "cost": 5.28
+      "notional": 10592.8,
+      "cost": 5.3
     },
     {
       "date": "2026-06-10",
@@ -13926,8 +13926,8 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10563.74,
-      "cost": 5.28
+      "notional": 10592.8,
+      "cost": 5.3
     },
     {
       "date": "2026-06-10",
@@ -13936,8 +13936,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10563.74,
-      "cost": 5.28
+      "notional": 10592.8,
+      "cost": 5.3
     },
     {
       "date": "2026-06-10",
@@ -13946,8 +13946,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10563.74,
-      "cost": 5.28
+      "notional": 10592.8,
+      "cost": 5.3
     },
     {
       "date": "2026-06-10",
@@ -13956,8 +13956,8 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10563.74,
-      "cost": 5.28
+      "notional": 10592.8,
+      "cost": 5.3
     },
     {
       "date": "2026-06-10",
@@ -13966,8 +13966,8 @@ window.DASHBOARD_DATA = {
       "ticker": "T",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10563.74,
-      "cost": 5.28
+      "notional": 10592.8,
+      "cost": 5.3
     },
     {
       "date": "2026-06-11",
@@ -13976,8 +13976,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -13986,8 +13986,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -13996,8 +13996,8 @@ window.DASHBOARD_DATA = {
       "ticker": "CAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -14006,8 +14006,8 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -14016,8 +14016,8 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -14026,8 +14026,8 @@ window.DASHBOARD_DATA = {
       "ticker": "IBM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -14036,8 +14036,8 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -14046,8 +14046,8 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -14056,8 +14056,8 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-11",
@@ -14066,8 +14066,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10273.0,
-      "cost": 5.14
+      "notional": 10301.26,
+      "cost": 5.15
     },
     {
       "date": "2026-06-12",
@@ -14076,8 +14076,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14086,8 +14086,8 @@ window.DASHBOARD_DATA = {
       "ticker": "CAT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14096,8 +14096,8 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14106,8 +14106,8 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14116,8 +14116,8 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14126,8 +14126,8 @@ window.DASHBOARD_DATA = {
       "ticker": "META",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14136,8 +14136,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14146,8 +14146,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14156,8 +14156,8 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-12",
@@ -14166,8 +14166,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10692.17,
-      "cost": 5.35
+      "notional": 10721.59,
+      "cost": 5.36
     },
     {
       "date": "2026-06-15",
@@ -14176,8 +14176,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10675.58,
-      "cost": 5.34
+      "notional": 10704.95,
+      "cost": 5.35
     },
     {
       "date": "2026-06-15",
@@ -14186,8 +14186,8 @@ window.DASHBOARD_DATA = {
       "ticker": "ACN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10675.58,
-      "cost": 5.34
+      "notional": 10704.95,
+      "cost": 5.35
     },
     {
       "date": "2026-06-15",
@@ -14196,8 +14196,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AMZN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10675.58,
-      "cost": 5.34
+      "notional": 10704.95,
+      "cost": 5.35
     },
     {
       "date": "2026-06-15",
@@ -14206,8 +14206,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AVGO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10675.58,
-      "cost": 5.34
+      "notional": 10704.95,
+      "cost": 5.35
     },
     {
       "date": "2026-06-15",
@@ -14216,8 +14216,8 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10675.58,
-      "cost": 5.34
+      "notional": 10704.95,
+      "cost": 5.35
     },
     {
       "date": "2026-06-15",
@@ -14226,8 +14226,8 @@ window.DASHBOARD_DATA = {
       "ticker": "META",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10675.58,
-      "cost": 5.34
+      "notional": 10704.95,
+      "cost": 5.35
     },
     {
       "date": "2026-06-15",
@@ -14236,8 +14236,8 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 10675.58,
-      "cost": 5.34
+      "notional": 10704.95,
+      "cost": 5.35
     },
     {
       "date": "2026-06-15",
@@ -14246,8 +14246,8 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 10675.58,
-      "cost": 5.34
+      "notional": 10704.95,
+      "cost": 5.35
     },
     {
       "date": "2026-06-09",
@@ -14256,7 +14256,7 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "cost": 12.11
     },
     {
@@ -14266,7 +14266,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "cost": 12.11
     },
     {
@@ -14276,7 +14276,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "cost": 12.11
     },
     {
@@ -14286,7 +14286,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "cost": 12.11
     },
     {
@@ -14296,7 +14296,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UPS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "cost": 12.11
     },
     {
@@ -14306,7 +14306,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 24218.47,
+      "notional": 24218.41,
       "cost": 12.11
     },
     {
@@ -14316,7 +14316,7 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "cost": 12.01
     },
     {
@@ -14326,7 +14326,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DHR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "cost": 12.01
     },
     {
@@ -14336,7 +14336,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "cost": 12.01
     },
     {
@@ -14346,7 +14346,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "cost": 12.01
     },
     {
@@ -14356,7 +14356,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "cost": 12.01
     },
     {
@@ -14366,7 +14366,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UNH",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 24013.48,
+      "notional": 24013.43,
       "cost": 12.01
     },
     {
@@ -14376,7 +14376,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BAC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "cost": 11.76
     },
     {
@@ -14386,7 +14386,7 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "cost": 11.76
     },
     {
@@ -14396,7 +14396,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "cost": 11.76
     },
     {
@@ -14406,7 +14406,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "cost": 11.76
     },
     {
@@ -14416,7 +14416,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "cost": 11.76
     },
     {
@@ -14426,7 +14426,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "cost": 11.76
     },
     {
@@ -14436,7 +14436,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "cost": 11.76
     },
     {
@@ -14446,7 +14446,7 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23523.95,
+      "notional": 23523.9,
       "cost": 11.76
     },
     {
@@ -14456,7 +14456,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMGN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14466,7 +14466,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DHR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14476,7 +14476,7 @@ window.DASHBOARD_DATA = {
       "ticker": "IBM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14486,7 +14486,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14496,7 +14496,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14506,7 +14506,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14516,7 +14516,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14526,7 +14526,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14536,7 +14536,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UNH",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14546,7 +14546,7 @@ window.DASHBOARD_DATA = {
       "ticker": "USB",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23666.11,
+      "notional": 23666.06,
       "cost": 11.83
     },
     {
@@ -14556,7 +14556,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMGN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "cost": 11.95
     },
     {
@@ -14566,7 +14566,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "cost": 11.95
     },
     {
@@ -14576,7 +14576,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "cost": 11.95
     },
     {
@@ -14586,7 +14586,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SPG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23908.67,
+      "notional": 23908.61,
       "cost": 11.95
     },
     {
@@ -14596,7 +14596,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "cost": 16.79
     },
     {
@@ -14606,7 +14606,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 33586.2,
+      "notional": 33586.22,
       "cost": 16.79
     },
     {
@@ -14616,7 +14616,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "cost": 16.35
     },
     {
@@ -14626,7 +14626,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 32708.14,
+      "notional": 32708.16,
       "cost": 16.35
     },
     {
@@ -14636,7 +14636,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "cost": 15.93
     },
     {
@@ -14646,7 +14646,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 31858.68,
+      "notional": 31858.69,
       "cost": 15.93
     },
     {
@@ -14656,7 +14656,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "cost": 16.74
     },
     {
@@ -14666,7 +14666,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 33480.99,
+      "notional": 33481.0,
       "cost": 16.74
     },
     {
@@ -14676,7 +14676,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "cost": 16.85
     },
     {
@@ -14686,7 +14686,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "cost": 16.85
     },
     {
@@ -14696,7 +14696,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "cost": 16.85
     },
     {
@@ -14706,7 +14706,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 33698.69,
+      "notional": 33698.7,
       "cost": 16.85
     },
     {
@@ -14716,8 +14716,8 @@ window.DASHBOARD_DATA = {
       "ticker": "FDX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18337.7,
-      "cost": 9.17
+      "notional": 18367.11,
+      "cost": 9.18
     },
     {
       "date": "2026-06-09",
@@ -14726,8 +14726,8 @@ window.DASHBOARD_DATA = {
       "ticker": "GOOG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18337.7,
-      "cost": 9.17
+      "notional": 18367.11,
+      "cost": 9.18
     },
     {
       "date": "2026-06-09",
@@ -14736,8 +14736,8 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18337.7,
-      "cost": 9.17
+      "notional": 18367.11,
+      "cost": 9.18
     },
     {
       "date": "2026-06-09",
@@ -14746,8 +14746,8 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18337.7,
-      "cost": 9.17
+      "notional": 18367.11,
+      "cost": 9.18
     },
     {
       "date": "2026-06-10",
@@ -14756,8 +14756,8 @@ window.DASHBOARD_DATA = {
       "ticker": "FDX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18230.7,
-      "cost": 9.12
+      "notional": 18259.93,
+      "cost": 9.13
     },
     {
       "date": "2026-06-10",
@@ -14766,8 +14766,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18230.7,
-      "cost": 9.12
+      "notional": 18259.93,
+      "cost": 9.13
     },
     {
       "date": "2026-06-10",
@@ -14776,8 +14776,8 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18230.7,
-      "cost": 9.12
+      "notional": 18259.93,
+      "cost": 9.13
     },
     {
       "date": "2026-06-10",
@@ -14786,8 +14786,8 @@ window.DASHBOARD_DATA = {
       "ticker": "RTX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18230.7,
-      "cost": 9.12
+      "notional": 18259.93,
+      "cost": 9.13
     },
     {
       "date": "2026-06-11",
@@ -14796,8 +14796,8 @@ window.DASHBOARD_DATA = {
       "ticker": "FDX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17692.21,
-      "cost": 8.85
+      "notional": 17720.58,
+      "cost": 8.86
     },
     {
       "date": "2026-06-11",
@@ -14806,8 +14806,8 @@ window.DASHBOARD_DATA = {
       "ticker": "GOOG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17692.21,
-      "cost": 8.85
+      "notional": 17720.58,
+      "cost": 8.86
     },
     {
       "date": "2026-06-11",
@@ -14816,8 +14816,8 @@ window.DASHBOARD_DATA = {
       "ticker": "HD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17692.21,
-      "cost": 8.85
+      "notional": 17720.58,
+      "cost": 8.86
     },
     {
       "date": "2026-06-11",
@@ -14826,8 +14826,8 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17692.21,
-      "cost": 8.85
+      "notional": 17720.58,
+      "cost": 8.86
     },
     {
       "date": "2026-06-11",
@@ -14836,8 +14836,8 @@ window.DASHBOARD_DATA = {
       "ticker": "SCHW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17692.21,
-      "cost": 8.85
+      "notional": 17720.58,
+      "cost": 8.86
     },
     {
       "date": "2026-06-11",
@@ -14846,8 +14846,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17692.21,
-      "cost": 8.85
+      "notional": 17720.58,
+      "cost": 8.86
     },
     {
       "date": "2026-06-11",
@@ -14856,8 +14856,8 @@ window.DASHBOARD_DATA = {
       "ticker": "UPS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17692.21,
-      "cost": 8.85
+      "notional": 17720.58,
+      "cost": 8.86
     },
     {
       "date": "2026-06-11",
@@ -14866,8 +14866,8 @@ window.DASHBOARD_DATA = {
       "ticker": "WFC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17692.21,
-      "cost": 8.85
+      "notional": 17720.58,
+      "cost": 8.86
     },
     {
       "date": "2026-06-12",
@@ -14876,8 +14876,8 @@ window.DASHBOARD_DATA = {
       "ticker": "ACN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18422.24,
-      "cost": 9.21
+      "notional": 18451.78,
+      "cost": 9.23
     },
     {
       "date": "2026-06-12",
@@ -14886,8 +14886,8 @@ window.DASHBOARD_DATA = {
       "ticker": "BAC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18422.24,
-      "cost": 9.21
+      "notional": 18451.78,
+      "cost": 9.23
     },
     {
       "date": "2026-06-12",
@@ -14896,8 +14896,8 @@ window.DASHBOARD_DATA = {
       "ticker": "BLK",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18422.24,
-      "cost": 9.21
+      "notional": 18451.78,
+      "cost": 9.23
     },
     {
       "date": "2026-06-12",
@@ -14906,8 +14906,8 @@ window.DASHBOARD_DATA = {
       "ticker": "FDX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18422.24,
-      "cost": 9.21
+      "notional": 18451.78,
+      "cost": 9.23
     },
     {
       "date": "2026-06-12",
@@ -14916,8 +14916,8 @@ window.DASHBOARD_DATA = {
       "ticker": "HD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18422.24,
-      "cost": 9.21
+      "notional": 18451.78,
+      "cost": 9.23
     },
     {
       "date": "2026-06-12",
@@ -14926,8 +14926,8 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18422.24,
-      "cost": 9.21
+      "notional": 18451.78,
+      "cost": 9.23
     },
     {
       "date": "2026-06-12",
@@ -14936,8 +14936,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18422.24,
-      "cost": 9.21
+      "notional": 18451.78,
+      "cost": 9.23
     },
     {
       "date": "2026-06-12",
@@ -14946,8 +14946,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18422.24,
-      "cost": 9.21
+      "notional": 18451.78,
+      "cost": 9.23
     },
     {
       "date": "2026-06-15",
@@ -14956,8 +14956,8 @@ window.DASHBOARD_DATA = {
       "ticker": "ACN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18719.47,
-      "cost": 9.36
+      "notional": 18749.48,
+      "cost": 9.37
     },
     {
       "date": "2026-06-15",
@@ -14966,8 +14966,8 @@ window.DASHBOARD_DATA = {
       "ticker": "BLK",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18719.47,
-      "cost": 9.36
+      "notional": 18749.48,
+      "cost": 9.37
     },
     {
       "date": "2026-06-15",
@@ -14976,8 +14976,8 @@ window.DASHBOARD_DATA = {
       "ticker": "FDX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18719.47,
-      "cost": 9.36
+      "notional": 18749.48,
+      "cost": 9.37
     },
     {
       "date": "2026-06-15",
@@ -14986,8 +14986,8 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 18719.47,
-      "cost": 9.36
+      "notional": 18749.48,
+      "cost": 9.37
     },
     {
       "date": "2026-06-15",
@@ -14996,8 +14996,8 @@ window.DASHBOARD_DATA = {
       "ticker": "JNJ",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18719.47,
-      "cost": 9.36
+      "notional": 18749.48,
+      "cost": 9.37
     },
     {
       "date": "2026-06-15",
@@ -15006,8 +15006,8 @@ window.DASHBOARD_DATA = {
       "ticker": "LMT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18719.47,
-      "cost": 9.36
+      "notional": 18749.48,
+      "cost": 9.37
     },
     {
       "date": "2026-06-15",
@@ -15016,8 +15016,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MDT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18719.47,
-      "cost": 9.36
+      "notional": 18749.48,
+      "cost": 9.37
     },
     {
       "date": "2026-06-15",
@@ -15026,8 +15026,8 @@ window.DASHBOARD_DATA = {
       "ticker": "MRK",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 18719.47,
-      "cost": 9.36
+      "notional": 18749.48,
+      "cost": 9.37
     },
     {
       "date": "2026-06-09",
@@ -15036,7 +15036,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15046,7 +15046,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15056,7 +15056,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15066,7 +15066,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15076,7 +15076,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15086,7 +15086,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15096,7 +15096,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MRK",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15106,7 +15106,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15116,7 +15116,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15126,7 +15126,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17678.75,
+      "notional": 17678.71,
       "cost": 8.84
     },
     {
@@ -15136,7 +15136,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "cost": 8.77
     },
     {
@@ -15146,7 +15146,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "cost": 8.77
     },
     {
@@ -15156,7 +15156,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MRK",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "cost": 8.77
     },
     {
@@ -15166,7 +15166,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "cost": 8.77
     },
     {
@@ -15176,7 +15176,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "cost": 8.77
     },
     {
@@ -15186,7 +15186,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17539.06,
+      "notional": 17539.02,
       "cost": 8.77
     },
     {
@@ -15196,7 +15196,7 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "cost": 8.5
     },
     {
@@ -15206,7 +15206,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "cost": 8.5
     },
     {
@@ -15216,7 +15216,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MMM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "cost": 8.5
     },
     {
@@ -15226,7 +15226,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17009.95,
+      "notional": 17009.9,
       "cost": 8.5
     },
     {
@@ -15236,7 +15236,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15246,7 +15246,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMGN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15256,7 +15256,7 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15266,7 +15266,7 @@ window.DASHBOARD_DATA = {
       "ticker": "FDX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15276,7 +15276,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15286,7 +15286,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15296,7 +15296,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15306,7 +15306,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MMM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15316,7 +15316,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15326,7 +15326,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UPS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17793.93,
+      "notional": 17793.88,
       "cost": 8.9
     },
     {
@@ -15336,7 +15336,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "cost": 8.89
     },
     {
@@ -15346,7 +15346,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMGN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "cost": 8.89
     },
     {
@@ -15356,7 +15356,7 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "cost": 8.89
     },
     {
@@ -15366,7 +15366,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "cost": 8.89
     },
     {
@@ -15376,7 +15376,7 @@ window.DASHBOARD_DATA = {
       "ticker": "FDX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "cost": 8.89
     },
     {
@@ -15386,7 +15386,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "cost": 8.89
     },
     {
@@ -15396,7 +15396,7 @@ window.DASHBOARD_DATA = {
       "ticker": "IBM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "cost": 8.89
     },
     {
@@ -15406,7 +15406,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 17786.59,
+      "notional": 17786.55,
       "cost": 8.89
     },
     {
@@ -15416,7 +15416,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "cost": 11.93
     },
     {
@@ -15426,7 +15426,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23850.41,
+      "notional": 23850.45,
       "cost": 11.93
     },
     {
@@ -15436,7 +15436,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABBV",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "cost": 11.65
     },
     {
@@ -15446,7 +15446,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "cost": 11.65
     },
     {
@@ -15456,7 +15456,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "cost": 11.65
     },
     {
@@ -15466,7 +15466,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23298.36,
+      "notional": 23298.41,
       "cost": 11.65
     },
     {
@@ -15476,7 +15476,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABBV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "cost": 11.4
     },
     {
@@ -15486,7 +15486,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "cost": 11.4
     },
     {
@@ -15496,7 +15496,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "cost": 11.4
     },
     {
@@ -15506,7 +15506,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 22798.82,
+      "notional": 22798.86,
       "cost": 11.4
     },
     {
@@ -15516,7 +15516,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "cost": 12.1
     },
     {
@@ -15526,7 +15526,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 24201.2,
+      "notional": 24201.24,
       "cost": 12.1
     },
     {
@@ -15536,7 +15536,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "cost": 12.19
     },
     {
@@ -15546,7 +15546,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 24376.64,
+      "notional": 24376.69,
       "cost": 12.19
     },
     {
@@ -15556,7 +15556,7 @@ window.DASHBOARD_DATA = {
       "ticker": "COP",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "cost": 11.76
     },
     {
@@ -15566,7 +15566,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ISRG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "cost": 11.76
     },
     {
@@ -15576,7 +15576,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MDT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "cost": 11.76
     },
     {
@@ -15586,7 +15586,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "cost": 11.76
     },
     {
@@ -15596,7 +15596,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NFLX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "cost": 11.76
     },
     {
@@ -15606,7 +15606,7 @@ window.DASHBOARD_DATA = {
       "ticker": "SBUX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23524.14,
+      "notional": 23524.18,
       "cost": 11.76
     },
     {
@@ -15616,7 +15616,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "cost": 11.83
     },
     {
@@ -15626,7 +15626,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NFLX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23665.04,
+      "notional": 23665.08,
       "cost": 11.83
     },
     {
@@ -15636,7 +15636,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMZN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "cost": 11.74
     },
     {
@@ -15646,7 +15646,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "cost": 11.74
     },
     {
@@ -15656,7 +15656,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NFLX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "cost": 11.74
     },
     {
@@ -15666,7 +15666,7 @@ window.DASHBOARD_DATA = {
       "ticker": "T",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23484.93,
+      "notional": 23484.97,
       "cost": 11.74
     },
     {
@@ -15676,7 +15676,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMZN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "cost": 11.81
     },
     {
@@ -15686,7 +15686,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ISRG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "cost": 11.81
     },
     {
@@ -15696,7 +15696,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "cost": 11.81
     },
     {
@@ -15706,7 +15706,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UBER",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23610.38,
+      "notional": 23610.42,
       "cost": 11.81
     },
     {
@@ -15716,7 +15716,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMZN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "cost": 11.92
     },
     {
@@ -15726,7 +15726,7 @@ window.DASHBOARD_DATA = {
       "ticker": "DIS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "cost": 11.92
     },
     {
@@ -15736,7 +15736,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NEE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "cost": 11.92
     },
     {
@@ -15746,7 +15746,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UBER",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 23846.41,
+      "notional": 23846.45,
       "cost": 11.92
     },
     {
@@ -15756,8 +15756,8 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 31995.78,
-      "cost": 16.0
+      "notional": 31938.12,
+      "cost": 15.97
     },
     {
       "date": "2026-06-09",
@@ -15766,8 +15766,8 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 31995.78,
-      "cost": 16.0
+      "notional": 31938.12,
+      "cost": 15.97
     },
     {
       "date": "2026-06-09",
@@ -15776,8 +15776,8 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 31995.78,
-      "cost": 16.0
+      "notional": 31938.12,
+      "cost": 15.97
     },
     {
       "date": "2026-06-09",
@@ -15786,8 +15786,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 31995.78,
-      "cost": 16.0
+      "notional": 31938.12,
+      "cost": 15.97
     },
     {
       "date": "2026-06-11",
@@ -15796,8 +15796,8 @@ window.DASHBOARD_DATA = {
       "ticker": "CVS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 30962.4,
-      "cost": 15.48
+      "notional": 30906.6,
+      "cost": 15.45
     },
     {
       "date": "2026-06-11",
@@ -15806,8 +15806,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 30962.4,
-      "cost": 15.48
+      "notional": 30906.6,
+      "cost": 15.45
     },
     {
       "date": "2026-06-12",
@@ -15816,8 +15816,8 @@ window.DASHBOARD_DATA = {
       "ticker": "GS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 32352.98,
-      "cost": 16.18
+      "notional": 32294.67,
+      "cost": 16.15
     },
     {
       "date": "2026-06-12",
@@ -15826,8 +15826,8 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 32352.98,
-      "cost": 16.18
+      "notional": 32294.67,
+      "cost": 16.15
     },
     {
       "date": "2026-06-15",
@@ -15836,8 +15836,8 @@ window.DASHBOARD_DATA = {
       "ticker": "C",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 32868.06,
-      "cost": 16.43
+      "notional": 32808.83,
+      "cost": 16.4
     },
     {
       "date": "2026-06-15",
@@ -15846,8 +15846,8 @@ window.DASHBOARD_DATA = {
       "ticker": "GS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 32868.06,
-      "cost": 16.43
+      "notional": 32808.83,
+      "cost": 16.4
     },
     {
       "date": "2026-06-09",
@@ -15856,7 +15856,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15866,7 +15866,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABBV",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15876,7 +15876,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ACN",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15886,7 +15886,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ADBE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15896,7 +15896,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMAT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15906,7 +15906,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15916,7 +15916,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15926,7 +15926,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AVGO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15936,7 +15936,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BKNG",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15946,7 +15946,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BMY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15956,7 +15956,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15966,7 +15966,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15976,7 +15976,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTC",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15986,7 +15986,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LRCX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -15996,7 +15996,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -16006,7 +16006,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NEE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -16016,7 +16016,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -16026,7 +16026,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -16036,7 +16036,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -16046,7 +16046,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TXN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4373.85,
+      "notional": 4371.95,
       "cost": 2.19
     },
     {
@@ -16056,7 +16056,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABBV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16066,7 +16066,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ACN",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16076,7 +16076,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16086,7 +16086,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16096,7 +16096,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BKNG",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16106,7 +16106,7 @@ window.DASHBOARD_DATA = {
       "ticker": "BMY",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16116,7 +16116,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16126,7 +16126,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16136,7 +16136,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CSCO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16146,7 +16146,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16156,7 +16156,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16166,7 +16166,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NEE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16176,7 +16176,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16186,7 +16186,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16196,7 +16196,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16206,7 +16206,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4383.23,
+      "notional": 4381.32,
       "cost": 2.19
     },
     {
@@ -16216,7 +16216,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16226,7 +16226,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ADBE",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16236,7 +16236,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AVGO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16246,7 +16246,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CAT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16256,7 +16256,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16266,7 +16266,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CSCO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16276,7 +16276,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16286,7 +16286,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16296,7 +16296,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16306,7 +16306,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16316,7 +16316,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16326,7 +16326,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16336,7 +16336,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16346,7 +16346,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UPS",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4263.75,
+      "notional": 4261.89,
       "cost": 2.13
     },
     {
@@ -16356,7 +16356,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ADBE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16366,7 +16366,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AMD",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16376,7 +16376,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AVGO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16386,7 +16386,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CAT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16396,7 +16396,7 @@ window.DASHBOARD_DATA = {
       "ticker": "COP",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16406,7 +16406,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16416,7 +16416,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVX",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16426,7 +16426,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GEV",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16436,7 +16436,7 @@ window.DASHBOARD_DATA = {
       "ticker": "GM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16446,7 +16446,7 @@ window.DASHBOARD_DATA = {
       "ticker": "HON",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16456,7 +16456,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16466,7 +16466,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16476,7 +16476,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16486,7 +16486,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16496,7 +16496,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16506,7 +16506,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16516,7 +16516,7 @@ window.DASHBOARD_DATA = {
       "ticker": "QCOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16526,7 +16526,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TSLA",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16536,7 +16536,7 @@ window.DASHBOARD_DATA = {
       "ticker": "UPS",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16546,7 +16546,7 @@ window.DASHBOARD_DATA = {
       "ticker": "XOM",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4503.37,
+      "notional": 4501.41,
       "cost": 2.25
     },
     {
@@ -16556,7 +16556,7 @@ window.DASHBOARD_DATA = {
       "ticker": "AAPL",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16566,7 +16566,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ABT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16576,7 +16576,7 @@ window.DASHBOARD_DATA = {
       "ticker": "COP",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16586,7 +16586,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CRM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16596,7 +16596,7 @@ window.DASHBOARD_DATA = {
       "ticker": "CVX",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16606,7 +16606,7 @@ window.DASHBOARD_DATA = {
       "ticker": "INTU",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16616,7 +16616,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LLY",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16626,7 +16626,7 @@ window.DASHBOARD_DATA = {
       "ticker": "LMT",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16636,7 +16636,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MO",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16646,7 +16646,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MRK",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16656,7 +16656,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MSFT",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16666,7 +16666,7 @@ window.DASHBOARD_DATA = {
       "ticker": "MU",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16676,7 +16676,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NKE",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16686,7 +16686,7 @@ window.DASHBOARD_DATA = {
       "ticker": "NOW",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16696,7 +16696,7 @@ window.DASHBOARD_DATA = {
       "ticker": "ORCL",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16706,7 +16706,7 @@ window.DASHBOARD_DATA = {
       "ticker": "PLTR",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16716,7 +16716,7 @@ window.DASHBOARD_DATA = {
       "ticker": "TMO",
       "side": "BUY",
       "weightChange": 0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     },
     {
@@ -16726,7 +16726,7 @@ window.DASHBOARD_DATA = {
       "ticker": "XOM",
       "side": "SELL",
       "weightChange": -0.1,
-      "notional": 4477.43,
+      "notional": 4475.48,
       "cost": 2.24
     }
   ],
@@ -16736,11 +16736,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-01",
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "sleeve": "Reversal",
-      "navBefore": 140975.28,
-      "grossPnl": -3940.1,
+      "navBefore": 140975.12,
+      "grossPnl": -3940.09,
       "cost": 98.68,
-      "netPnl": -4038.78,
-      "navAfter": 136936.5,
+      "netPnl": -4038.77,
+      "navAfter": 136936.35,
       "turnover": 140.0
     },
     {
@@ -16748,11 +16748,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-01",
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "sleeve": "Reversal",
-      "navBefore": 136936.5,
+      "navBefore": 136936.35,
       "grossPnl": -4208.18,
       "cost": 27.39,
       "netPnl": -4235.57,
-      "navAfter": 132700.93,
+      "navAfter": 132700.78,
       "turnover": 40.0
     },
     {
@@ -16760,11 +16760,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-01",
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "sleeve": "Reversal",
-      "navBefore": 132700.93,
-      "grossPnl": 3422.83,
+      "navBefore": 132700.78,
+      "grossPnl": 3422.82,
       "cost": 39.81,
       "netPnl": 3383.01,
-      "navAfter": 136083.95,
+      "navAfter": 136083.79,
       "turnover": 60.0
     },
     {
@@ -16772,11 +16772,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-01",
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "sleeve": "Reversal",
-      "navBefore": 136083.95,
+      "navBefore": 136083.79,
       "grossPnl": -780.61,
       "cost": 54.43,
       "netPnl": -835.04,
-      "navAfter": 135248.9,
+      "navAfter": 135248.75,
       "turnover": 80.0
     },
     {
@@ -16784,11 +16784,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-01",
       "strategy": "WQ Alpha 001 - Short-Term Reversal",
       "sleeve": "Reversal",
-      "navBefore": 135248.9,
-      "grossPnl": 1884.02,
+      "navBefore": 135248.75,
+      "grossPnl": 1884.01,
       "cost": 40.57,
       "netPnl": 1843.44,
-      "navAfter": 137092.34,
+      "navAfter": 137092.19,
       "turnover": 60.0
     },
     {
@@ -16796,11 +16796,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-02",
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "sleeve": "Momentum",
-      "navBefore": 638309.89,
-      "grossPnl": -9611.98,
+      "navBefore": 638309.42,
+      "grossPnl": -9611.97,
       "cost": 0.0,
-      "netPnl": -9611.98,
-      "navAfter": 628697.91,
+      "netPnl": -9611.97,
+      "navAfter": 628697.45,
       "turnover": 0.0
     },
     {
@@ -16808,11 +16808,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-02",
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "sleeve": "Momentum",
-      "navBefore": 628697.91,
-      "grossPnl": -16673.87,
+      "navBefore": 628697.45,
+      "grossPnl": -16673.86,
       "cost": 0.0,
-      "netPnl": -16673.87,
-      "navAfter": 612024.04,
+      "netPnl": -16673.86,
+      "navAfter": 612023.59,
       "turnover": 0.0
     },
     {
@@ -16820,11 +16820,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-02",
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "sleeve": "Momentum",
-      "navBefore": 612024.04,
-      "grossPnl": 35374.71,
+      "navBefore": 612023.59,
+      "grossPnl": 35374.68,
       "cost": 0.0,
-      "netPnl": 35374.71,
-      "navAfter": 647398.75,
+      "netPnl": 35374.68,
+      "navAfter": 647398.28,
       "turnover": 0.0
     },
     {
@@ -16832,11 +16832,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-02",
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "sleeve": "Momentum",
-      "navBefore": 647398.75,
-      "grossPnl": 13537.27,
+      "navBefore": 647398.28,
+      "grossPnl": 13537.26,
       "cost": 64.74,
-      "netPnl": 13472.53,
-      "navAfter": 660871.28,
+      "netPnl": 13472.52,
+      "navAfter": 660870.79,
       "turnover": 20.0
     },
     {
@@ -16844,11 +16844,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-02",
       "strategy": "WQ Alpha 004 - Rank Momentum",
       "sleeve": "Momentum",
-      "navBefore": 660871.28,
-      "grossPnl": 17529.2,
+      "navBefore": 660870.79,
+      "grossPnl": 23842.55,
       "cost": 0.0,
-      "netPnl": 17529.2,
-      "navAfter": 678400.48,
+      "netPnl": 23842.55,
+      "navAfter": 684713.34,
       "turnover": 0.0
     },
     {
@@ -16856,11 +16856,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-03",
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "sleeve": "Volume",
-      "navBefore": 127354.44,
+      "navBefore": 127353.9,
       "grossPnl": 703.38,
       "cost": 50.94,
       "netPnl": 652.44,
-      "navAfter": 128006.88,
+      "navAfter": 128006.34,
       "turnover": 80.0
     },
     {
@@ -16868,11 +16868,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-03",
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "sleeve": "Volume",
-      "navBefore": 128006.88,
+      "navBefore": 128006.34,
       "grossPnl": -1211.63,
       "cost": 64.0,
-      "netPnl": -1275.64,
-      "navAfter": 126731.25,
+      "netPnl": -1275.63,
+      "navAfter": 126730.71,
       "turnover": 100.0
     },
     {
@@ -16880,11 +16880,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-03",
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "sleeve": "Volume",
-      "navBefore": 126731.25,
+      "navBefore": 126730.71,
       "grossPnl": 178.3,
       "cost": 76.04,
       "netPnl": 102.27,
-      "navAfter": 126833.51,
+      "navAfter": 126832.97,
       "turnover": 120.0
     },
     {
@@ -16892,11 +16892,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-03",
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "sleeve": "Volume",
-      "navBefore": 126833.51,
-      "grossPnl": 1931.21,
+      "navBefore": 126832.97,
+      "grossPnl": 1931.2,
       "cost": 88.78,
-      "netPnl": 1842.43,
-      "navAfter": 128675.94,
+      "netPnl": 1842.42,
+      "navAfter": 128675.39,
       "turnover": 140.0
     },
     {
@@ -16904,11 +16904,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-03",
       "strategy": "WQ Alpha 006 - Volume Price Divergence",
       "sleeve": "Volume",
-      "navBefore": 128675.94,
-      "grossPnl": 2163.08,
+      "navBefore": 128675.39,
+      "grossPnl": 3088.11,
       "cost": 64.34,
-      "netPnl": 2098.74,
-      "navAfter": 130774.68,
+      "netPnl": 3023.77,
+      "navAfter": 131699.17,
       "turnover": 100.0
     },
     {
@@ -16916,11 +16916,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-04",
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "sleeve": "Intraday",
-      "navBefore": 37290.91,
+      "navBefore": 37290.72,
       "grossPnl": -494.25,
       "cost": 37.29,
       "netPnl": -531.54,
-      "navAfter": 36759.37,
+      "navAfter": 36759.18,
       "turnover": 200.0
     },
     {
@@ -16928,11 +16928,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-04",
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "sleeve": "Intraday",
-      "navBefore": 36759.37,
-      "grossPnl": -430.75,
+      "navBefore": 36759.18,
+      "grossPnl": -430.74,
       "cost": 36.76,
-      "netPnl": -467.51,
-      "navAfter": 36291.87,
+      "netPnl": -467.5,
+      "navAfter": 36291.68,
       "turnover": 200.0
     },
     {
@@ -16940,11 +16940,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-04",
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "sleeve": "Intraday",
-      "navBefore": 36291.87,
+      "navBefore": 36291.68,
       "grossPnl": -412.62,
       "cost": 36.29,
-      "netPnl": -448.92,
-      "navAfter": 35842.95,
+      "netPnl": -448.91,
+      "navAfter": 35842.77,
       "turnover": 200.0
     },
     {
@@ -16952,11 +16952,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-04",
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "sleeve": "Intraday",
-      "navBefore": 35842.95,
-      "grossPnl": 803.54,
+      "navBefore": 35842.77,
+      "grossPnl": 803.53,
       "cost": 35.84,
-      "netPnl": 767.7,
-      "navAfter": 36610.65,
+      "netPnl": 767.69,
+      "navAfter": 36610.46,
       "turnover": 200.0
     },
     {
@@ -16964,11 +16964,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-04",
       "strategy": "WQ Alpha 012 - Open-Close Pressure",
       "sleeve": "Intraday",
-      "navBefore": 36610.65,
-      "grossPnl": 148.74,
+      "navBefore": 36610.46,
+      "grossPnl": 342.41,
       "cost": 21.97,
-      "netPnl": 126.78,
-      "navAfter": 36737.42,
+      "netPnl": 320.45,
+      "navAfter": 36930.91,
       "turnover": 120.0
     },
     {
@@ -16976,11 +16976,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-05",
       "strategy": "WQ Alpha 021 - Trend Stability",
       "sleeve": "Trend",
-      "navBefore": 309218.28,
-      "grossPnl": -7318.43,
+      "navBefore": 309218.56,
+      "grossPnl": -7318.44,
       "cost": 30.92,
       "netPnl": -7349.36,
-      "navAfter": 301868.92,
+      "navAfter": 301869.2,
       "turnover": 20.0
     },
     {
@@ -16988,11 +16988,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-05",
       "strategy": "WQ Alpha 021 - Trend Stability",
       "sleeve": "Trend",
-      "navBefore": 301868.92,
-      "grossPnl": -7212.81,
+      "navBefore": 301869.2,
+      "grossPnl": -7212.82,
       "cost": 30.19,
       "netPnl": -7243.0,
-      "navAfter": 294625.92,
+      "navAfter": 294626.2,
       "turnover": 20.0
     },
     {
@@ -17000,11 +17000,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-05",
       "strategy": "WQ Alpha 021 - Trend Stability",
       "sleeve": "Trend",
-      "navBefore": 294625.92,
-      "grossPnl": 17189.87,
+      "navBefore": 294626.2,
+      "grossPnl": 17189.88,
       "cost": 29.46,
-      "netPnl": 17160.4,
-      "navAfter": 311786.33,
+      "netPnl": 17160.42,
+      "navAfter": 311786.62,
       "turnover": 20.0
     },
     {
@@ -17012,11 +17012,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-05",
       "strategy": "WQ Alpha 021 - Trend Stability",
       "sleeve": "Trend",
-      "navBefore": 311786.33,
+      "navBefore": 311786.62,
       "grossPnl": 6519.53,
       "cost": 31.18,
-      "netPnl": 6488.35,
-      "navAfter": 318274.68,
+      "netPnl": 6488.36,
+      "navAfter": 318274.97,
       "turnover": 20.0
     },
     {
@@ -17024,11 +17024,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-05",
       "strategy": "WQ Alpha 021 - Trend Stability",
       "sleeve": "Trend",
-      "navBefore": 318274.68,
-      "grossPnl": 8442.04,
+      "navBefore": 318274.97,
+      "grossPnl": 11482.56,
       "cost": 0.0,
-      "netPnl": 8442.04,
-      "navAfter": 326716.72,
+      "netPnl": 11482.56,
+      "navAfter": 329757.53,
       "turnover": 0.0
     },
     {
@@ -17036,11 +17036,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-06",
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "sleeve": "Momentum",
-      "navBefore": 438143.29,
+      "navBefore": 438143.31,
       "grossPnl": -11178.23,
       "cost": 43.81,
       "netPnl": -11222.04,
-      "navAfter": 426921.25,
+      "navAfter": 426921.27,
       "turnover": 20.0
     },
     {
@@ -17048,11 +17048,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-06",
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "sleeve": "Momentum",
-      "navBefore": 426921.25,
+      "navBefore": 426921.27,
       "grossPnl": -12933.63,
       "cost": 42.69,
       "netPnl": -12976.32,
-      "navAfter": 413944.92,
+      "navAfter": 413944.94,
       "turnover": 20.0
     },
     {
@@ -17060,11 +17060,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-06",
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "sleeve": "Momentum",
-      "navBefore": 413944.92,
+      "navBefore": 413944.94,
       "grossPnl": 25618.35,
       "cost": 0.0,
       "netPnl": 25618.35,
-      "navAfter": 439563.27,
+      "navAfter": 439563.29,
       "turnover": 0.0
     },
     {
@@ -17072,11 +17072,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-06",
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "sleeve": "Momentum",
-      "navBefore": 439563.27,
+      "navBefore": 439563.29,
       "grossPnl": 8551.09,
       "cost": 43.96,
       "netPnl": 8507.14,
-      "navAfter": 448070.41,
+      "navAfter": 448070.43,
       "turnover": 20.0
     },
     {
@@ -17084,11 +17084,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-06",
       "strategy": "WQ Alpha 024 - Delayed Momentum",
       "sleeve": "Momentum",
-      "navBefore": 448070.41,
-      "grossPnl": 13350.76,
+      "navBefore": 448070.43,
+      "grossPnl": 14930.41,
       "cost": 89.61,
-      "netPnl": 13261.14,
-      "navAfter": 461331.55,
+      "netPnl": 14840.79,
+      "navAfter": 462911.22,
       "turnover": 40.0
     },
     {
@@ -17096,11 +17096,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-07",
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "navBefore": 145663.52,
+      "navBefore": 145663.61,
       "grossPnl": 529.54,
       "cost": 29.13,
       "netPnl": 500.41,
-      "navAfter": 146163.93,
+      "navAfter": 146164.02,
       "turnover": 40.0
     },
     {
@@ -17108,11 +17108,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-07",
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "navBefore": 146163.93,
+      "navBefore": 146164.02,
       "grossPnl": -1354.12,
       "cost": 29.23,
       "netPnl": -1383.35,
-      "navAfter": 144780.57,
+      "navAfter": 144780.67,
       "turnover": 40.0
     },
     {
@@ -17120,11 +17120,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-07",
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "navBefore": 144780.57,
+      "navBefore": 144780.67,
       "grossPnl": 736.96,
       "cost": 28.96,
       "netPnl": 708.01,
-      "navAfter": 145488.58,
+      "navAfter": 145488.67,
       "turnover": 40.0
     },
     {
@@ -17132,11 +17132,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-07",
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "navBefore": 145488.58,
+      "navBefore": 145488.67,
       "grossPnl": 1944.96,
       "cost": 14.55,
-      "netPnl": 1930.41,
-      "navAfter": 147418.99,
+      "netPnl": 1930.42,
+      "navAfter": 147419.09,
       "turnover": 20.0
     },
     {
@@ -17144,11 +17144,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-07",
       "strategy": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "navBefore": 147418.99,
-      "grossPnl": -128.99,
+      "navBefore": 147419.09,
+      "grossPnl": 17.94,
       "cost": 14.74,
-      "netPnl": -143.73,
-      "navAfter": 147275.26,
+      "netPnl": 3.2,
+      "navAfter": 147422.29,
       "turnover": 20.0
     },
     {
@@ -17156,11 +17156,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-08",
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "sleeve": "Reversion",
-      "navBefore": 260728.57,
+      "navBefore": 260729.08,
       "grossPnl": 250.23,
       "cost": 104.29,
       "netPnl": 145.94,
-      "navAfter": 260874.51,
+      "navAfter": 260875.02,
       "turnover": 80.0
     },
     {
@@ -17168,11 +17168,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-08",
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "sleeve": "Reversion",
-      "navBefore": 260874.51,
-      "grossPnl": -6963.94,
+      "navBefore": 260875.02,
+      "grossPnl": -6963.95,
       "cost": 130.44,
-      "netPnl": -7094.38,
-      "navAfter": 253780.13,
+      "netPnl": -7094.39,
+      "navAfter": 253780.63,
       "turnover": 100.0
     },
     {
@@ -17180,11 +17180,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-08",
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "sleeve": "Reversion",
-      "navBefore": 253780.13,
-      "grossPnl": 9001.5,
+      "navBefore": 253780.63,
+      "grossPnl": 9001.52,
       "cost": 101.51,
-      "netPnl": 8899.99,
-      "navAfter": 262680.12,
+      "netPnl": 8900.01,
+      "navAfter": 262680.64,
       "turnover": 80.0
     },
     {
@@ -17192,11 +17192,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-08",
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "sleeve": "Reversion",
-      "navBefore": 262680.12,
+      "navBefore": 262680.64,
       "grossPnl": -361.15,
       "cost": 131.34,
       "netPnl": -492.49,
-      "navAfter": 262187.63,
+      "navAfter": 262188.14,
       "turnover": 100.0
     },
     {
@@ -17204,11 +17204,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-08",
       "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
       "sleeve": "Reversion",
-      "navBefore": 262187.63,
-      "grossPnl": 7159.83,
+      "navBefore": 262188.14,
+      "grossPnl": 7159.84,
       "cost": 52.44,
-      "netPnl": 7107.39,
-      "navAfter": 269295.02,
+      "netPnl": 7107.4,
+      "navAfter": 269295.55,
       "turnover": 40.0
     },
     {
@@ -17216,11 +17216,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-09",
       "strategy": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "navBefore": 30201.71,
+      "navBefore": 30201.75,
       "grossPnl": 1.65,
       "cost": 24.16,
       "netPnl": -22.51,
-      "navAfter": 30179.2,
+      "navAfter": 30179.24,
       "turnover": 160.0
     },
     {
@@ -17228,11 +17228,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-09",
       "strategy": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "navBefore": 30179.2,
+      "navBefore": 30179.24,
       "grossPnl": -168.75,
       "cost": 27.16,
       "netPnl": -195.91,
-      "navAfter": 29983.29,
+      "navAfter": 29983.34,
       "turnover": 180.0
     },
     {
@@ -17240,11 +17240,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-09",
       "strategy": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "navBefore": 29983.29,
+      "navBefore": 29983.34,
       "grossPnl": 146.93,
       "cost": 29.98,
       "netPnl": 116.95,
-      "navAfter": 30100.24,
+      "navAfter": 30100.28,
       "turnover": 200.0
     },
     {
@@ -17252,11 +17252,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-09",
       "strategy": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "navBefore": 30100.24,
+      "navBefore": 30100.28,
       "grossPnl": 282.99,
       "cost": 21.07,
       "netPnl": 261.92,
-      "navAfter": 30362.15,
+      "navAfter": 30362.2,
       "turnover": 140.0
     },
     {
@@ -17264,11 +17264,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-09",
       "strategy": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "navBefore": 30362.15,
-      "grossPnl": 306.65,
+      "navBefore": 30362.2,
+      "grossPnl": 283.33,
       "cost": 27.33,
-      "netPnl": 279.32,
-      "navAfter": 30641.48,
+      "netPnl": 256.01,
+      "navAfter": 30618.21,
       "turnover": 180.0
     },
     {
@@ -17276,11 +17276,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-10",
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "sleeve": "Volume",
-      "navBefore": 88585.49,
+      "navBefore": 88585.52,
       "grossPnl": -510.25,
       "cost": 35.43,
       "netPnl": -545.69,
-      "navAfter": 88039.81,
+      "navAfter": 88039.84,
       "turnover": 80.0
     },
     {
@@ -17288,11 +17288,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-10",
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "sleeve": "Volume",
-      "navBefore": 88039.81,
+      "navBefore": 88039.84,
       "grossPnl": -1697.39,
       "cost": 44.02,
       "netPnl": -1741.41,
-      "navAfter": 86298.4,
+      "navAfter": 86298.43,
       "turnover": 100.0
     },
     {
@@ -17300,11 +17300,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-10",
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "sleeve": "Volume",
-      "navBefore": 86298.4,
+      "navBefore": 86298.43,
       "grossPnl": 1702.03,
       "cost": 43.15,
       "netPnl": 1658.88,
-      "navAfter": 87957.27,
+      "navAfter": 87957.31,
       "turnover": 100.0
     },
     {
@@ -17312,11 +17312,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-10",
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "sleeve": "Volume",
-      "navBefore": 87957.27,
+      "navBefore": 87957.31,
       "grossPnl": -422.55,
       "cost": 35.18,
       "netPnl": -457.73,
-      "navAfter": 87499.54,
+      "navAfter": 87499.57,
       "turnover": 80.0
     },
     {
@@ -17324,11 +17324,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-10",
       "strategy": "WQ Alpha 043 - Volume Acceleration",
       "sleeve": "Volume",
-      "navBefore": 87499.54,
+      "navBefore": 87499.57,
       "grossPnl": 1437.6,
       "cost": 43.75,
       "netPnl": 1393.85,
-      "navAfter": 88893.39,
+      "navAfter": 88893.42,
       "turnover": 100.0
     },
     {
@@ -17336,11 +17336,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-11",
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "sleeve": "Momentum",
-      "navBefore": 293199.21,
-      "grossPnl": -2548.27,
+      "navBefore": 293199.46,
+      "grossPnl": -2548.28,
       "cost": 146.6,
-      "netPnl": -2694.87,
-      "navAfter": 290504.33,
+      "netPnl": -2694.88,
+      "navAfter": 290504.58,
       "turnover": 100.0
     },
     {
@@ -17348,11 +17348,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-11",
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "sleeve": "Momentum",
-      "navBefore": 290504.33,
-      "grossPnl": -5817.28,
+      "navBefore": 290504.58,
+      "grossPnl": -5817.29,
       "cost": 116.2,
       "netPnl": -5933.49,
-      "navAfter": 284570.85,
+      "navAfter": 284571.09,
       "turnover": 80.0
     },
     {
@@ -17360,11 +17360,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-11",
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "sleeve": "Momentum",
-      "navBefore": 284570.85,
-      "grossPnl": 10813.65,
+      "navBefore": 284571.09,
+      "grossPnl": 10813.66,
       "cost": 85.37,
-      "netPnl": 10728.27,
-      "navAfter": 295299.12,
+      "netPnl": 10728.28,
+      "navAfter": 295299.37,
       "turnover": 60.0
     },
     {
@@ -17372,11 +17372,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-11",
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "sleeve": "Momentum",
-      "navBefore": 295299.12,
-      "grossPnl": 1689.74,
+      "navBefore": 295299.37,
+      "grossPnl": 1689.75,
       "cost": 88.59,
-      "netPnl": 1601.15,
-      "navAfter": 296900.28,
+      "netPnl": 1601.16,
+      "navAfter": 296900.53,
       "turnover": 60.0
     },
     {
@@ -17384,11 +17384,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-11",
       "strategy": "WQ Alpha 051 - Decay Momentum",
       "sleeve": "Momentum",
-      "navBefore": 296900.28,
-      "grossPnl": 6920.74,
+      "navBefore": 296900.53,
+      "grossPnl": 8710.36,
       "cost": 89.07,
-      "netPnl": 6831.67,
-      "navAfter": 303731.94,
+      "netPnl": 8621.29,
+      "navAfter": 305521.81,
       "turnover": 60.0
     },
     {
@@ -17396,11 +17396,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-12",
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "sleeve": "Liquidity",
-      "navBefore": 108250.29,
-      "grossPnl": -2537.17,
-      "cost": 75.78,
-      "netPnl": -2612.94,
-      "navAfter": 105637.35,
+      "navBefore": 108548.15,
+      "grossPnl": -2544.15,
+      "cost": 75.98,
+      "netPnl": -2620.13,
+      "navAfter": 105928.02,
       "turnover": 140.0
     },
     {
@@ -17408,11 +17408,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-12",
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "sleeve": "Liquidity",
-      "navBefore": 105637.35,
-      "grossPnl": -2865.13,
-      "cost": 42.25,
-      "netPnl": -2907.38,
-      "navAfter": 102729.97,
+      "navBefore": 105928.02,
+      "grossPnl": -2873.01,
+      "cost": 42.37,
+      "netPnl": -2915.38,
+      "navAfter": 103012.64,
       "turnover": 80.0
     },
     {
@@ -17420,11 +17420,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-12",
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "sleeve": "Liquidity",
-      "navBefore": 102729.97,
-      "grossPnl": 4243.07,
-      "cost": 51.36,
-      "netPnl": 4191.71,
-      "navAfter": 106921.68,
+      "navBefore": 103012.64,
+      "grossPnl": 4254.75,
+      "cost": 51.51,
+      "netPnl": 4203.24,
+      "navAfter": 107215.88,
       "turnover": 100.0
     },
     {
@@ -17432,11 +17432,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-12",
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "sleeve": "Liquidity",
-      "navBefore": 106921.68,
-      "grossPnl": -112.43,
-      "cost": 53.46,
-      "netPnl": -165.89,
-      "navAfter": 106755.79,
+      "navBefore": 107215.88,
+      "grossPnl": -112.73,
+      "cost": 53.61,
+      "netPnl": -166.34,
+      "navAfter": 107049.54,
       "turnover": 100.0
     },
     {
@@ -17444,11 +17444,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-12",
       "strategy": "WQ Alpha 055 - Turnover Reversal",
       "sleeve": "Liquidity",
-      "navBefore": 106755.79,
-      "grossPnl": 1959.83,
-      "cost": 42.7,
-      "netPnl": 1917.13,
-      "navAfter": 108672.92,
+      "navBefore": 107049.54,
+      "grossPnl": 1965.22,
+      "cost": 42.82,
+      "netPnl": 1922.4,
+      "navAfter": 108971.94,
       "turnover": 80.0
     },
     {
@@ -17456,11 +17456,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-13",
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "sleeve": "Volume",
-      "navBefore": 242184.7,
-      "grossPnl": -1977.21,
+      "navBefore": 242184.14,
+      "grossPnl": -1977.2,
       "cost": 72.66,
       "netPnl": -2049.86,
-      "navAfter": 240134.84,
+      "navAfter": 240134.29,
       "turnover": 60.0
     },
     {
@@ -17468,11 +17468,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-13",
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "sleeve": "Volume",
-      "navBefore": 240134.84,
-      "grossPnl": -4823.29,
+      "navBefore": 240134.29,
+      "grossPnl": -4823.28,
       "cost": 72.04,
-      "netPnl": -4895.33,
-      "navAfter": 235239.51,
+      "netPnl": -4895.32,
+      "navAfter": 235238.97,
       "turnover": 60.0
     },
     {
@@ -17480,11 +17480,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-13",
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "sleeve": "Volume",
-      "navBefore": 235239.51,
+      "navBefore": 235238.97,
       "grossPnl": 1515.68,
       "cost": 94.1,
-      "netPnl": 1421.59,
-      "navAfter": 236661.1,
+      "netPnl": 1421.58,
+      "navAfter": 236660.55,
       "turnover": 80.0
     },
     {
@@ -17492,11 +17492,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-13",
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "sleeve": "Volume",
-      "navBefore": 236661.1,
+      "navBefore": 236660.55,
       "grossPnl": 2543.92,
       "cost": 118.33,
       "netPnl": 2425.59,
-      "navAfter": 239086.69,
+      "navAfter": 239086.14,
       "turnover": 100.0
     },
     {
@@ -17504,11 +17504,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-13",
       "strategy": "WQ Alpha 060 - Price Volume Rank",
       "sleeve": "Volume",
-      "navBefore": 239086.69,
-      "grossPnl": 334.02,
+      "navBefore": 239086.14,
+      "grossPnl": 1775.14,
       "cost": 47.82,
-      "netPnl": 286.2,
-      "navAfter": 239372.89,
+      "netPnl": 1727.33,
+      "navAfter": 240813.47,
       "turnover": 40.0
     },
     {
@@ -17516,11 +17516,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-14",
       "strategy": "WQ Alpha 071 - Composite Rank",
       "sleeve": "Composite",
-      "navBefore": 335862.04,
-      "grossPnl": -8747.03,
+      "navBefore": 335862.18,
+      "grossPnl": -8747.04,
       "cost": 33.59,
       "netPnl": -8780.62,
-      "navAfter": 327081.43,
+      "navAfter": 327081.55,
       "turnover": 20.0
     },
     {
@@ -17528,11 +17528,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-14",
       "strategy": "WQ Alpha 071 - Composite Rank",
       "sleeve": "Composite",
-      "navBefore": 327081.43,
+      "navBefore": 327081.55,
       "grossPnl": -8461.92,
       "cost": 32.71,
-      "netPnl": -8494.62,
-      "navAfter": 318586.8,
+      "netPnl": -8494.63,
+      "navAfter": 318586.92,
       "turnover": 20.0
     },
     {
@@ -17540,11 +17540,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-14",
       "strategy": "WQ Alpha 071 - Composite Rank",
       "sleeve": "Composite",
-      "navBefore": 318586.8,
+      "navBefore": 318586.92,
       "grossPnl": 16254.92,
       "cost": 31.86,
-      "netPnl": 16223.06,
-      "navAfter": 334809.86,
+      "netPnl": 16223.07,
+      "navAfter": 334809.99,
       "turnover": 20.0
     },
     {
@@ -17552,11 +17552,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-14",
       "strategy": "WQ Alpha 071 - Composite Rank",
       "sleeve": "Composite",
-      "navBefore": 334809.86,
+      "navBefore": 334809.99,
       "grossPnl": 2210.54,
       "cost": 33.48,
-      "netPnl": 2177.05,
-      "navAfter": 336986.92,
+      "netPnl": 2177.06,
+      "navAfter": 336987.05,
       "turnover": 20.0
     },
     {
@@ -17564,11 +17564,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-14",
       "strategy": "WQ Alpha 071 - Composite Rank",
       "sleeve": "Composite",
-      "navBefore": 336986.92,
-      "grossPnl": 7864.05,
+      "navBefore": 336987.05,
+      "grossPnl": 9052.08,
       "cost": 67.4,
-      "netPnl": 7796.65,
-      "navAfter": 344783.57,
+      "netPnl": 8984.68,
+      "navAfter": 345971.73,
       "turnover": 40.0
     },
     {
@@ -17576,11 +17576,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-15",
       "strategy": "WQ Alpha 078 - Correlation Break",
       "sleeve": "Correlation",
-      "navBefore": 183377.05,
-      "grossPnl": -1033.41,
-      "cost": 36.68,
-      "netPnl": -1070.08,
-      "navAfter": 182306.96,
+      "navBefore": 183671.06,
+      "grossPnl": -1035.07,
+      "cost": 36.73,
+      "netPnl": -1071.8,
+      "navAfter": 182599.26,
       "turnover": 40.0
     },
     {
@@ -17588,11 +17588,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-15",
       "strategy": "WQ Alpha 078 - Correlation Break",
       "sleeve": "Correlation",
-      "navBefore": 182306.96,
-      "grossPnl": -5348.37,
-      "cost": 36.46,
-      "netPnl": -5384.83,
-      "navAfter": 176922.13,
+      "navBefore": 182599.26,
+      "grossPnl": -5356.94,
+      "cost": 36.52,
+      "netPnl": -5393.46,
+      "navAfter": 177205.79,
       "turnover": 40.0
     },
     {
@@ -17600,11 +17600,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-15",
       "strategy": "WQ Alpha 078 - Correlation Break",
       "sleeve": "Correlation",
-      "navBefore": 176922.13,
-      "grossPnl": 7371.04,
-      "cost": 70.77,
-      "netPnl": 7300.27,
-      "navAfter": 184222.4,
+      "navBefore": 177205.79,
+      "grossPnl": 7382.86,
+      "cost": 70.88,
+      "netPnl": 7311.97,
+      "navAfter": 184517.77,
       "turnover": 80.0
     },
     {
@@ -17612,11 +17612,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-15",
       "strategy": "WQ Alpha 078 - Correlation Break",
       "sleeve": "Correlation",
-      "navBefore": 184222.4,
-      "grossPnl": 3045.95,
-      "cost": 73.69,
-      "netPnl": 2972.26,
-      "navAfter": 187194.66,
+      "navBefore": 184517.77,
+      "grossPnl": 3050.83,
+      "cost": 73.81,
+      "netPnl": 2977.03,
+      "navAfter": 187494.79,
       "turnover": 80.0
     },
     {
@@ -17624,11 +17624,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-15",
       "strategy": "WQ Alpha 078 - Correlation Break",
       "sleeve": "Correlation",
-      "navBefore": 187194.66,
-      "grossPnl": 2750.53,
-      "cost": 74.88,
-      "netPnl": 2675.65,
-      "navAfter": 189870.31,
+      "navBefore": 187494.79,
+      "grossPnl": 2724.06,
+      "cost": 75.0,
+      "netPnl": 2649.07,
+      "navAfter": 190143.86,
       "turnover": 80.0
     },
     {
@@ -17636,11 +17636,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-16",
       "strategy": "WQ Alpha 083 - Range Momentum",
       "sleeve": "Volatility",
-      "navBefore": 176787.52,
+      "navBefore": 176787.08,
       "grossPnl": -1308.5,
       "cost": 88.39,
-      "netPnl": -1396.9,
-      "navAfter": 175390.63,
+      "netPnl": -1396.89,
+      "navAfter": 175390.18,
       "turnover": 100.0
     },
     {
@@ -17648,11 +17648,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-16",
       "strategy": "WQ Alpha 083 - Range Momentum",
       "sleeve": "Volatility",
-      "navBefore": 175390.63,
-      "grossPnl": -5238.54,
+      "navBefore": 175390.18,
+      "grossPnl": -5238.52,
       "cost": 52.62,
-      "netPnl": -5291.15,
-      "navAfter": 170099.47,
+      "netPnl": -5291.14,
+      "navAfter": 170099.04,
       "turnover": 60.0
     },
     {
@@ -17660,11 +17660,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-16",
       "strategy": "WQ Alpha 083 - Range Momentum",
       "sleeve": "Volatility",
-      "navBefore": 170099.47,
-      "grossPnl": 7873.84,
+      "navBefore": 170099.04,
+      "grossPnl": 7873.82,
       "cost": 34.02,
-      "netPnl": 7839.82,
-      "navAfter": 177939.3,
+      "netPnl": 7839.8,
+      "navAfter": 177938.85,
       "turnover": 40.0
     },
     {
@@ -17672,11 +17672,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-16",
       "strategy": "WQ Alpha 083 - Range Momentum",
       "sleeve": "Volatility",
-      "navBefore": 177939.3,
+      "navBefore": 177938.85,
       "grossPnl": 15.62,
       "cost": 88.97,
       "netPnl": -73.35,
-      "navAfter": 177865.95,
+      "navAfter": 177865.5,
       "turnover": 100.0
     },
     {
@@ -17684,11 +17684,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-16",
       "strategy": "WQ Alpha 083 - Range Momentum",
       "sleeve": "Volatility",
-      "navBefore": 177865.95,
-      "grossPnl": 4603.53,
+      "navBefore": 177865.5,
+      "grossPnl": 5675.63,
       "cost": 71.15,
-      "netPnl": 4532.38,
-      "navAfter": 182398.33,
+      "netPnl": 5604.48,
+      "navAfter": 183469.98,
       "turnover": 80.0
     },
     {
@@ -17696,11 +17696,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-17",
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "sleeve": "Liquidity",
-      "navBefore": 238504.09,
-      "grossPnl": -5496.61,
+      "navBefore": 238504.52,
+      "grossPnl": -5496.62,
       "cost": 23.85,
-      "netPnl": -5520.46,
-      "navAfter": 232983.63,
+      "netPnl": -5520.47,
+      "navAfter": 232984.05,
       "turnover": 20.0
     },
     {
@@ -17708,11 +17708,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-17",
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "sleeve": "Liquidity",
-      "navBefore": 232983.63,
-      "grossPnl": -4948.87,
+      "navBefore": 232984.05,
+      "grossPnl": -4948.88,
       "cost": 46.6,
-      "netPnl": -4995.47,
-      "navAfter": 227988.16,
+      "netPnl": -4995.48,
+      "navAfter": 227988.58,
       "turnover": 40.0
     },
     {
@@ -17720,11 +17720,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-17",
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "sleeve": "Liquidity",
-      "navBefore": 227988.16,
-      "grossPnl": 14069.43,
+      "navBefore": 227988.58,
+      "grossPnl": 14069.46,
       "cost": 45.6,
-      "netPnl": 14023.84,
-      "navAfter": 242012.0,
+      "netPnl": 14023.86,
+      "navAfter": 242012.44,
       "turnover": 40.0
     },
     {
@@ -17732,11 +17732,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-17",
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "sleeve": "Liquidity",
-      "navBefore": 242012.0,
+      "navBefore": 242012.44,
       "grossPnl": 1778.64,
       "cost": 24.2,
       "netPnl": 1754.44,
-      "navAfter": 243766.43,
+      "navAfter": 243766.88,
       "turnover": 20.0
     },
     {
@@ -17744,11 +17744,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-17",
       "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "sleeve": "Liquidity",
-      "navBefore": 243766.43,
-      "grossPnl": 5865.19,
+      "navBefore": 243766.88,
+      "grossPnl": 8193.93,
       "cost": 24.38,
-      "netPnl": 5840.81,
-      "navAfter": 249607.25,
+      "netPnl": 8169.55,
+      "navAfter": 251936.43,
       "turnover": 20.0
     },
     {
@@ -17756,11 +17756,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-18",
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "sleeve": "Reversal",
-      "navBefore": 235241.4,
+      "navBefore": 235241.8,
       "grossPnl": 1479.55,
       "cost": 70.57,
       "netPnl": 1408.98,
-      "navAfter": 236650.38,
+      "navAfter": 236650.78,
       "turnover": 60.0
     },
     {
@@ -17768,11 +17768,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-18",
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "sleeve": "Reversal",
-      "navBefore": 236650.38,
+      "navBefore": 236650.78,
       "grossPnl": -1777.43,
       "cost": 23.67,
       "netPnl": -1801.1,
-      "navAfter": 234849.28,
+      "navAfter": 234849.68,
       "turnover": 20.0
     },
     {
@@ -17780,11 +17780,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-18",
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "sleeve": "Reversal",
-      "navBefore": 234849.28,
-      "grossPnl": 1301.52,
+      "navBefore": 234849.68,
+      "grossPnl": 1301.53,
       "cost": 46.97,
-      "netPnl": 1254.55,
-      "navAfter": 236103.84,
+      "netPnl": 1254.56,
+      "navAfter": 236104.24,
       "turnover": 40.0
     },
     {
@@ -17792,11 +17792,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-18",
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "sleeve": "Reversal",
-      "navBefore": 236103.84,
+      "navBefore": 236104.24,
       "grossPnl": 2407.5,
       "cost": 47.22,
       "netPnl": 2360.28,
-      "navAfter": 238464.11,
+      "navAfter": 238464.51,
       "turnover": 40.0
     },
     {
@@ -17804,11 +17804,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-18",
       "strategy": "WQ Alpha 092 - Delayed Reversal",
       "sleeve": "Reversal",
-      "navBefore": 238464.11,
+      "navBefore": 238464.51,
       "grossPnl": 649.84,
       "cost": 47.69,
       "netPnl": 602.15,
-      "navAfter": 239066.26,
+      "navAfter": 239066.66,
       "turnover": 40.0
     },
     {
@@ -17816,11 +17816,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-19",
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "sleeve": "Momentum",
-      "navBefore": 319957.83,
-      "grossPnl": -2838.54,
-      "cost": 63.99,
-      "netPnl": -2902.54,
-      "navAfter": 317055.29,
+      "navBefore": 319381.2,
+      "grossPnl": -2833.43,
+      "cost": 63.88,
+      "netPnl": -2897.31,
+      "navAfter": 316483.89,
       "turnover": 40.0
     },
     {
@@ -17828,11 +17828,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-19",
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "sleeve": "Momentum",
-      "navBefore": 317055.29,
-      "grossPnl": -7431.31,
+      "navBefore": 316483.89,
+      "grossPnl": -7417.92,
       "cost": 0.0,
-      "netPnl": -7431.31,
-      "navAfter": 309623.98,
+      "netPnl": -7417.92,
+      "navAfter": 309065.97,
       "turnover": 0.0
     },
     {
@@ -17840,11 +17840,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-19",
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "sleeve": "Momentum",
-      "navBefore": 309623.98,
-      "grossPnl": 13936.75,
-      "cost": 30.96,
-      "netPnl": 13905.78,
-      "navAfter": 323529.76,
+      "navBefore": 309065.97,
+      "grossPnl": 13911.63,
+      "cost": 30.91,
+      "netPnl": 13880.72,
+      "navAfter": 322946.7,
       "turnover": 20.0
     },
     {
@@ -17852,11 +17852,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-19",
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "sleeve": "Momentum",
-      "navBefore": 323529.76,
-      "grossPnl": 5183.22,
-      "cost": 32.35,
-      "netPnl": 5150.87,
-      "navAfter": 328680.63,
+      "navBefore": 322946.7,
+      "grossPnl": 5173.88,
+      "cost": 32.29,
+      "netPnl": 5141.58,
+      "navAfter": 328088.28,
       "turnover": 20.0
     },
     {
@@ -17864,11 +17864,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-19",
       "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
       "sleeve": "Momentum",
-      "navBefore": 328680.63,
-      "grossPnl": 7721.56,
-      "cost": 32.87,
-      "netPnl": 7688.69,
-      "navAfter": 336369.32,
+      "navBefore": 328088.28,
+      "grossPnl": 7455.68,
+      "cost": 32.81,
+      "netPnl": 7422.87,
+      "navAfter": 335511.15,
       "turnover": 20.0
     },
     {
@@ -17876,11 +17876,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-20",
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "navBefore": 43738.52,
-      "grossPnl": 137.53,
-      "cost": 43.74,
-      "netPnl": 93.8,
-      "navAfter": 43832.31,
+      "navBefore": 43719.46,
+      "grossPnl": 137.48,
+      "cost": 43.72,
+      "netPnl": 93.76,
+      "navAfter": 43813.22,
       "turnover": 200.0
     },
     {
@@ -17888,11 +17888,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-20",
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "navBefore": 43832.31,
-      "grossPnl": -1159.78,
-      "cost": 35.07,
-      "netPnl": -1194.84,
-      "navAfter": 42637.47,
+      "navBefore": 43813.22,
+      "grossPnl": -1159.27,
+      "cost": 35.05,
+      "netPnl": -1194.32,
+      "navAfter": 42618.9,
       "turnover": 160.0
     },
     {
@@ -17900,11 +17900,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-20",
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "navBefore": 42637.47,
-      "grossPnl": 2426.07,
-      "cost": 29.85,
-      "netPnl": 2396.22,
-      "navAfter": 45033.69,
+      "navBefore": 42618.9,
+      "grossPnl": 2425.01,
+      "cost": 29.83,
+      "netPnl": 2395.18,
+      "navAfter": 45014.07,
       "turnover": 140.0
     },
     {
@@ -17912,11 +17912,11 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-20",
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "navBefore": 45033.69,
-      "grossPnl": -214.38,
-      "cost": 45.03,
-      "netPnl": -259.41,
-      "navAfter": 44774.28,
+      "navBefore": 45014.07,
+      "grossPnl": -214.28,
+      "cost": 45.01,
+      "netPnl": -259.3,
+      "navAfter": 44754.78,
       "turnover": 200.0
     },
     {
@@ -17924,115 +17924,15 @@ window.DASHBOARD_DATA = {
       "strategyId": "STR-20",
       "strategy": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "navBefore": 44774.28,
-      "grossPnl": 729.08,
-      "cost": 40.3,
-      "netPnl": 688.79,
-      "navAfter": 45463.07,
+      "navBefore": 44754.78,
+      "grossPnl": 728.77,
+      "cost": 40.28,
+      "netPnl": 688.49,
+      "navAfter": 45443.26,
       "turnover": 180.0
     }
   ],
   "strategyScorecard": [
-    {
-      "id": "STR-19",
-      "name": "WQ Alpha 096 - Risk Controlled Momentum",
-      "sleeve": "Momentum",
-      "score": 68.1,
-      "decision": "Watch",
-      "recommendedAction": "Keep paper allocation and monitor decay",
-      "components": {
-        "oosPerformance": 82.2,
-        "robustness": 81.1,
-        "drawdownControl": 55.8,
-        "costEfficiency": 8.0,
-        "diversification": 100.0,
-        "factorIndependence": 48.0,
-        "paperBehavior": 87.1,
-        "hitRate": 70.0
-      },
-      "oosSharpe": 1.09,
-      "oosDrawdown": -16.06,
-      "sharpeDecay": -0.08,
-      "paperPnl": 16411.49,
-      "maxCorrelation": 0.0,
-      "dominantFactor": "Credit beta",
-      "strengths": [
-        "OOS performance remains strong",
-        "Limited Sharpe decay",
-        "Paper trading behavior is positive"
-      ],
-      "weaknesses": [
-        "Cost or turnover drag is high"
-      ]
-    },
-    {
-      "id": "STR-03",
-      "name": "WQ Alpha 006 - Volume Price Divergence",
-      "sleeve": "Volume",
-      "score": 67.6,
-      "decision": "Watch",
-      "recommendedAction": "Keep paper allocation and monitor decay",
-      "components": {
-        "oosPerformance": 86.1,
-        "robustness": 100.0,
-        "drawdownControl": 36.9,
-        "costEfficiency": 0.0,
-        "diversification": 100.0,
-        "factorIndependence": 30.4,
-        "paperBehavior": 91.3,
-        "hitRate": 71.0
-      },
-      "oosSharpe": 1.18,
-      "oosDrawdown": -20.77,
-      "sharpeDecay": 1.03,
-      "paperPnl": 3420.24,
-      "maxCorrelation": 0.0,
-      "dominantFactor": "Credit beta",
-      "strengths": [
-        "OOS performance remains strong",
-        "Limited Sharpe decay",
-        "Paper trading behavior is positive"
-      ],
-      "weaknesses": [
-        "OOS drawdown is high",
-        "Cost or turnover drag is high",
-        "Crowded factor beta: Credit beta"
-      ]
-    },
-    {
-      "id": "STR-13",
-      "name": "WQ Alpha 060 - Price Volume Rank",
-      "sleeve": "Volume",
-      "score": 65.4,
-      "decision": "Watch",
-      "recommendedAction": "Keep paper allocation and monitor decay",
-      "components": {
-        "oosPerformance": 94.8,
-        "robustness": 100.0,
-        "drawdownControl": 36.1,
-        "costEfficiency": 0.0,
-        "diversification": 100.0,
-        "factorIndependence": 25.9,
-        "paperBehavior": 44.2,
-        "hitRate": 66.5
-      },
-      "oosSharpe": 1.38,
-      "oosDrawdown": -20.97,
-      "sharpeDecay": 0.86,
-      "paperPnl": -2811.81,
-      "maxCorrelation": 0.0,
-      "dominantFactor": "Credit beta",
-      "strengths": [
-        "OOS performance remains strong",
-        "Limited Sharpe decay",
-        "Low recent correlation pressure"
-      ],
-      "weaknesses": [
-        "OOS drawdown is high",
-        "Cost or turnover drag is high",
-        "Crowded factor beta: Credit beta"
-      ]
-    },
     {
       "id": "STR-02",
       "name": "WQ Alpha 004 - Rank Momentum",
@@ -18046,15 +17946,15 @@ window.DASHBOARD_DATA = {
         "drawdownControl": 41.4,
         "costEfficiency": 33.6,
         "diversification": 0.0,
-        "factorIndependence": 8.9,
+        "factorIndependence": 8.7,
         "paperBehavior": 87.1,
         "hitRate": 78.0
       },
       "oosSharpe": 1.56,
       "oosDrawdown": -19.66,
-      "sharpeDecay": 0.62,
-      "paperPnl": 40090.59,
-      "maxCorrelation": 0.935,
+      "sharpeDecay": 0.63,
+      "paperPnl": 46403.92,
+      "maxCorrelation": 0.937,
       "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
@@ -18068,82 +17968,14 @@ window.DASHBOARD_DATA = {
       ]
     },
     {
-      "id": "STR-18",
-      "name": "WQ Alpha 092 - Delayed Reversal",
-      "sleeve": "Reversal",
-      "score": 62.8,
-      "decision": "Watch",
-      "recommendedAction": "Keep paper allocation and monitor decay",
-      "components": {
-        "oosPerformance": 76.2,
-        "robustness": 100.0,
-        "drawdownControl": 36.6,
-        "costEfficiency": 0.0,
-        "diversification": 100.0,
-        "factorIndependence": 0.0,
-        "paperBehavior": 93.5,
-        "hitRate": 70.0
-      },
-      "oosSharpe": 0.95,
-      "oosDrawdown": -20.85,
-      "sharpeDecay": 0.32,
-      "paperPnl": 3824.86,
-      "maxCorrelation": 0.0,
-      "dominantFactor": "Credit beta",
-      "strengths": [
-        "OOS performance remains strong",
-        "Limited Sharpe decay",
-        "Paper trading behavior is positive"
-      ],
-      "weaknesses": [
-        "OOS drawdown is high",
-        "Cost or turnover drag is high",
-        "Crowded factor beta: Credit beta"
-      ]
-    },
-    {
-      "id": "STR-08",
-      "name": "WQ Alpha 032 - VWAP Mean Reversion",
-      "sleeve": "Reversion",
-      "score": 61.9,
-      "decision": "Watch",
-      "recommendedAction": "Keep paper allocation and monitor decay",
-      "components": {
-        "oosPerformance": 77.5,
-        "robustness": 100.0,
-        "drawdownControl": 30.2,
-        "costEfficiency": 0.0,
-        "diversification": 100.0,
-        "factorIndependence": 0.0,
-        "paperBehavior": 87.1,
-        "hitRate": 74.5
-      },
-      "oosSharpe": 0.98,
-      "oosDrawdown": -22.44,
-      "sharpeDecay": 0.32,
-      "paperPnl": 8566.45,
-      "maxCorrelation": 0.0,
-      "dominantFactor": "Credit beta",
-      "strengths": [
-        "OOS performance remains strong",
-        "Limited Sharpe decay",
-        "Paper trading behavior is positive"
-      ],
-      "weaknesses": [
-        "OOS drawdown is high",
-        "Cost or turnover drag is high",
-        "Crowded factor beta: Credit beta"
-      ]
-    },
-    {
       "id": "STR-14",
       "name": "WQ Alpha 071 - Composite Rank",
       "sleeve": "Composite",
-      "score": 61.6,
+      "score": 61.8,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 97.4,
+        "oosPerformance": 97.8,
         "robustness": 100.0,
         "drawdownControl": 47.7,
         "costEfficiency": 1.6,
@@ -18152,10 +17984,10 @@ window.DASHBOARD_DATA = {
         "paperBehavior": 87.1,
         "hitRate": 63.5
       },
-      "oosSharpe": 1.44,
+      "oosSharpe": 1.45,
       "oosDrawdown": -18.07,
       "sharpeDecay": 0.79,
-      "paperPnl": 8921.52,
+      "paperPnl": 10109.56,
       "maxCorrelation": 0.934,
       "dominantFactor": "Credit beta",
       "strengths": [
@@ -18165,41 +17997,7 @@ window.DASHBOARD_DATA = {
       ],
       "weaknesses": [
         "Cost or turnover drag is high",
-        "High correlation with STR-06, STR-17",
-        "Crowded factor beta: Credit beta"
-      ]
-    },
-    {
-      "id": "STR-07",
-      "name": "WQ Alpha 028 - Correlation Reversal",
-      "sleeve": "Correlation",
-      "score": 61.5,
-      "decision": "Watch",
-      "recommendedAction": "Keep paper allocation and monitor decay",
-      "components": {
-        "oosPerformance": 71.2,
-        "robustness": 100.0,
-        "drawdownControl": 42.5,
-        "costEfficiency": 0.0,
-        "diversification": 100.0,
-        "factorIndependence": 16.9,
-        "paperBehavior": 68.5,
-        "hitRate": 63.0
-      },
-      "oosSharpe": 0.85,
-      "oosDrawdown": -19.38,
-      "sharpeDecay": 0.31,
-      "paperPnl": 1611.75,
-      "maxCorrelation": 0.0,
-      "dominantFactor": "Credit beta",
-      "strengths": [
-        "OOS performance remains strong",
-        "Limited Sharpe decay",
-        "Paper trading behavior is positive"
-      ],
-      "weaknesses": [
-        "OOS drawdown is high",
-        "Cost or turnover drag is high",
+        "High correlation with STR-06, STR-17, STR-05",
         "Crowded factor beta: Credit beta"
       ]
     },
@@ -18207,7 +18005,7 @@ window.DASHBOARD_DATA = {
       "id": "STR-17",
       "name": "WQ Alpha 088 - Liquidity Adjusted Momentum",
       "sleeve": "Liquidity",
-      "score": 60.4,
+      "score": 60.3,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
@@ -18216,15 +18014,15 @@ window.DASHBOARD_DATA = {
         "drawdownControl": 42.4,
         "costEfficiency": 0.0,
         "diversification": 0.0,
-        "factorIndependence": 33.1,
+        "factorIndependence": 32.9,
         "paperBehavior": 87.1,
         "hitRate": 64.0
       },
       "oosSharpe": 1.39,
       "oosDrawdown": -19.39,
-      "sharpeDecay": 0.82,
-      "paperPnl": 11103.16,
-      "maxCorrelation": 0.935,
+      "sharpeDecay": 0.83,
+      "paperPnl": 13431.9,
+      "maxCorrelation": 0.936,
       "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
@@ -18238,59 +18036,26 @@ window.DASHBOARD_DATA = {
       ]
     },
     {
-      "id": "STR-15",
-      "name": "WQ Alpha 078 - Correlation Break",
-      "sleeve": "Correlation",
-      "score": 60.2,
-      "decision": "Watch",
-      "recommendedAction": "Keep paper allocation and monitor decay",
-      "components": {
-        "oosPerformance": 65.9,
-        "robustness": 89.7,
-        "drawdownControl": 48.6,
-        "costEfficiency": 0.0,
-        "diversification": 100.0,
-        "factorIndependence": 13.6,
-        "paperBehavior": 87.1,
-        "hitRate": 55.0
-      },
-      "oosSharpe": 0.81,
-      "oosDrawdown": -17.86,
-      "sharpeDecay": 0.07,
-      "paperPnl": 6493.27,
-      "maxCorrelation": 0.0,
-      "dominantFactor": "Credit beta",
-      "strengths": [
-        "Limited Sharpe decay",
-        "Paper trading behavior is positive",
-        "Low recent correlation pressure"
-      ],
-      "weaknesses": [
-        "Cost or turnover drag is high",
-        "Crowded factor beta: Credit beta"
-      ]
-    },
-    {
       "id": "STR-05",
       "name": "WQ Alpha 021 - Trend Stability",
       "sleeve": "Trend",
-      "score": 59.9,
-      "decision": "Revise",
-      "recommendedAction": "Research changes before adding capital",
+      "score": 60.0,
+      "decision": "Watch",
+      "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 87.4,
+        "oosPerformance": 87.9,
         "robustness": 100.0,
         "drawdownControl": 38.7,
         "costEfficiency": 14.4,
         "diversification": 0.0,
-        "factorIndependence": 38.2,
+        "factorIndependence": 38.1,
         "paperBehavior": 87.1,
         "hitRate": 63.0
       },
-      "oosSharpe": 1.21,
+      "oosSharpe": 1.22,
       "oosDrawdown": -20.33,
-      "sharpeDecay": 0.27,
-      "paperPnl": 17498.43,
+      "sharpeDecay": 0.28,
+      "paperPnl": 20538.98,
       "maxCorrelation": 0.949,
       "dominantFactor": "Value beta",
       "strengths": [
@@ -18305,14 +18070,81 @@ window.DASHBOARD_DATA = {
       ]
     },
     {
-      "id": "STR-06",
-      "name": "WQ Alpha 024 - Delayed Momentum",
-      "sleeve": "Momentum",
-      "score": 56.4,
+      "id": "STR-03",
+      "name": "WQ Alpha 006 - Volume Price Divergence",
+      "sleeve": "Volume",
+      "score": 59.3,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 90.5,
+        "oosPerformance": 86.1,
+        "robustness": 100.0,
+        "drawdownControl": 36.9,
+        "costEfficiency": 0.0,
+        "diversification": 12.2,
+        "factorIndependence": 30.4,
+        "paperBehavior": 96.4,
+        "hitRate": 71.0
+      },
+      "oosSharpe": 1.18,
+      "oosDrawdown": -20.77,
+      "sharpeDecay": 1.03,
+      "paperPnl": 4345.27,
+      "maxCorrelation": 0.851,
+      "dominantFactor": "Credit beta",
+      "strengths": [
+        "OOS performance remains strong",
+        "Limited Sharpe decay",
+        "Paper trading behavior is positive"
+      ],
+      "weaknesses": [
+        "OOS drawdown is high",
+        "Cost or turnover drag is high",
+        "High correlation with STR-13, STR-11, STR-16"
+      ]
+    },
+    {
+      "id": "STR-19",
+      "name": "WQ Alpha 096 - Risk Controlled Momentum",
+      "sleeve": "Momentum",
+      "score": 58.1,
+      "decision": "Revise",
+      "recommendedAction": "Research changes before adding capital",
+      "components": {
+        "oosPerformance": 82.2,
+        "robustness": 81.1,
+        "drawdownControl": 55.8,
+        "costEfficiency": 8.0,
+        "diversification": 0.0,
+        "factorIndependence": 48.0,
+        "paperBehavior": 87.1,
+        "hitRate": 70.0
+      },
+      "oosSharpe": 1.09,
+      "oosDrawdown": -16.06,
+      "sharpeDecay": -0.08,
+      "paperPnl": 16129.94,
+      "maxCorrelation": 0.907,
+      "dominantFactor": "Credit beta",
+      "strengths": [
+        "OOS performance remains strong",
+        "Limited Sharpe decay",
+        "Paper trading behavior is positive"
+      ],
+      "weaknesses": [
+        "Cost or turnover drag is high",
+        "High correlation with STR-05, STR-06, STR-02"
+      ]
+    },
+    {
+      "id": "STR-06",
+      "name": "WQ Alpha 024 - Delayed Momentum",
+      "sleeve": "Momentum",
+      "score": 56.5,
+      "decision": "Revise",
+      "recommendedAction": "Research changes before adding capital",
+      "components": {
+        "oosPerformance": 90.9,
         "robustness": 100.0,
         "drawdownControl": 28.2,
         "costEfficiency": 8.0,
@@ -18321,10 +18153,10 @@ window.DASHBOARD_DATA = {
         "paperBehavior": 87.1,
         "hitRate": 64.0
       },
-      "oosSharpe": 1.28,
+      "oosSharpe": 1.29,
       "oosDrawdown": -22.96,
-      "sharpeDecay": 0.43,
-      "paperPnl": 23188.27,
+      "sharpeDecay": 0.44,
+      "paperPnl": 24767.92,
       "maxCorrelation": 0.949,
       "dominantFactor": "Value beta",
       "strengths": [
@@ -18339,14 +18171,46 @@ window.DASHBOARD_DATA = {
       ]
     },
     {
-      "id": "STR-11",
-      "name": "WQ Alpha 051 - Decay Momentum",
-      "sleeve": "Momentum",
-      "score": 55.8,
+      "id": "STR-15",
+      "name": "WQ Alpha 078 - Correlation Break",
+      "sleeve": "Correlation",
+      "score": 56.2,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 89.2,
+        "oosPerformance": 65.9,
+        "robustness": 89.7,
+        "drawdownControl": 48.6,
+        "costEfficiency": 0.0,
+        "diversification": 60.7,
+        "factorIndependence": 13.6,
+        "paperBehavior": 87.1,
+        "hitRate": 55.0
+      },
+      "oosSharpe": 0.81,
+      "oosDrawdown": -17.86,
+      "sharpeDecay": 0.07,
+      "paperPnl": 6472.81,
+      "maxCorrelation": 0.657,
+      "dominantFactor": "Credit beta",
+      "strengths": [
+        "Limited Sharpe decay",
+        "Paper trading behavior is positive"
+      ],
+      "weaknesses": [
+        "Cost or turnover drag is high",
+        "Crowded factor beta: Credit beta"
+      ]
+    },
+    {
+      "id": "STR-11",
+      "name": "WQ Alpha 051 - Decay Momentum",
+      "sleeve": "Momentum",
+      "score": 56.0,
+      "decision": "Revise",
+      "recommendedAction": "Research changes before adding capital",
+      "components": {
+        "oosPerformance": 89.6,
         "robustness": 100.0,
         "drawdownControl": 24.8,
         "costEfficiency": 0.0,
@@ -18355,10 +18219,10 @@ window.DASHBOARD_DATA = {
         "paperBehavior": 87.1,
         "hitRate": 61.0
       },
-      "oosSharpe": 1.25,
+      "oosSharpe": 1.26,
       "oosDrawdown": -23.79,
-      "sharpeDecay": 0.55,
-      "paperPnl": 10532.73,
+      "sharpeDecay": 0.56,
+      "paperPnl": 12322.36,
       "maxCorrelation": 0.947,
       "dominantFactor": "Credit beta",
       "strengths": [
@@ -18369,31 +18233,199 @@ window.DASHBOARD_DATA = {
       "weaknesses": [
         "OOS drawdown is high",
         "Cost or turnover drag is high",
-        "High correlation with STR-16"
+        "High correlation with STR-16, STR-13, STR-02"
+      ]
+    },
+    {
+      "id": "STR-13",
+      "name": "WQ Alpha 060 - Price Volume Rank",
+      "sleeve": "Volume",
+      "score": 56.0,
+      "decision": "Revise",
+      "recommendedAction": "Research changes before adding capital",
+      "components": {
+        "oosPerformance": 94.8,
+        "robustness": 100.0,
+        "drawdownControl": 36.1,
+        "costEfficiency": 0.0,
+        "diversification": 0.0,
+        "factorIndependence": 25.9,
+        "paperBehavior": 52.1,
+        "hitRate": 66.5
+      },
+      "oosSharpe": 1.38,
+      "oosDrawdown": -20.97,
+      "sharpeDecay": 0.87,
+      "paperPnl": -1370.68,
+      "maxCorrelation": 0.904,
+      "dominantFactor": "Credit beta",
+      "strengths": [
+        "OOS performance remains strong",
+        "Limited Sharpe decay"
+      ],
+      "weaknesses": [
+        "OOS drawdown is high",
+        "Cost or turnover drag is high",
+        "High correlation with STR-11, STR-03, STR-16"
+      ]
+    },
+    {
+      "id": "STR-18",
+      "name": "WQ Alpha 092 - Delayed Reversal",
+      "sleeve": "Reversal",
+      "score": 54.7,
+      "decision": "Revise",
+      "recommendedAction": "Research changes before adding capital",
+      "components": {
+        "oosPerformance": 76.2,
+        "robustness": 100.0,
+        "drawdownControl": 36.6,
+        "costEfficiency": 0.0,
+        "diversification": 19.0,
+        "factorIndependence": 0.0,
+        "paperBehavior": 93.5,
+        "hitRate": 70.0
+      },
+      "oosSharpe": 0.95,
+      "oosDrawdown": -20.85,
+      "sharpeDecay": 0.32,
+      "paperPnl": 3824.87,
+      "maxCorrelation": 0.824,
+      "dominantFactor": "Credit beta",
+      "strengths": [
+        "OOS performance remains strong",
+        "Limited Sharpe decay",
+        "Paper trading behavior is positive"
+      ],
+      "weaknesses": [
+        "OOS drawdown is high",
+        "Cost or turnover drag is high",
+        "High correlation with STR-07"
+      ]
+    },
+    {
+      "id": "STR-07",
+      "name": "WQ Alpha 028 - Correlation Reversal",
+      "sleeve": "Correlation",
+      "score": 54.5,
+      "decision": "Revise",
+      "recommendedAction": "Research changes before adding capital",
+      "components": {
+        "oosPerformance": 71.2,
+        "robustness": 100.0,
+        "drawdownControl": 42.5,
+        "costEfficiency": 0.0,
+        "diversification": 19.0,
+        "factorIndependence": 16.9,
+        "paperBehavior": 82.2,
+        "hitRate": 63.5
+      },
+      "oosSharpe": 0.85,
+      "oosDrawdown": -19.38,
+      "sharpeDecay": 0.31,
+      "paperPnl": 1758.69,
+      "maxCorrelation": 0.824,
+      "dominantFactor": "Credit beta",
+      "strengths": [
+        "OOS performance remains strong",
+        "Limited Sharpe decay",
+        "Paper trading behavior is positive"
+      ],
+      "weaknesses": [
+        "OOS drawdown is high",
+        "Cost or turnover drag is high",
+        "High correlation with STR-18"
+      ]
+    },
+    {
+      "id": "STR-08",
+      "name": "WQ Alpha 032 - VWAP Mean Reversion",
+      "sleeve": "Reversion",
+      "score": 52.7,
+      "decision": "Revise",
+      "recommendedAction": "Research changes before adding capital",
+      "components": {
+        "oosPerformance": 77.5,
+        "robustness": 100.0,
+        "drawdownControl": 30.2,
+        "costEfficiency": 0.0,
+        "diversification": 8.0,
+        "factorIndependence": 0.0,
+        "paperBehavior": 87.1,
+        "hitRate": 74.5
+      },
+      "oosSharpe": 0.98,
+      "oosDrawdown": -22.44,
+      "sharpeDecay": 0.32,
+      "paperPnl": 8566.47,
+      "maxCorrelation": 0.868,
+      "dominantFactor": "Credit beta",
+      "strengths": [
+        "OOS performance remains strong",
+        "Limited Sharpe decay",
+        "Paper trading behavior is positive"
+      ],
+      "weaknesses": [
+        "OOS drawdown is high",
+        "Cost or turnover drag is high",
+        "High correlation with STR-12, STR-01"
+      ]
+    },
+    {
+      "id": "STR-16",
+      "name": "WQ Alpha 083 - Range Momentum",
+      "sleeve": "Volatility",
+      "score": 50.9,
+      "decision": "Revise",
+      "recommendedAction": "Research changes before adding capital",
+      "components": {
+        "oosPerformance": 83.1,
+        "robustness": 100.0,
+        "drawdownControl": 19.0,
+        "costEfficiency": 0.0,
+        "diversification": 0.0,
+        "factorIndependence": 27.4,
+        "paperBehavior": 61.4,
+        "hitRate": 53.0
+      },
+      "oosSharpe": 1.11,
+      "oosDrawdown": -25.25,
+      "sharpeDecay": 0.72,
+      "paperPnl": 6682.9,
+      "maxCorrelation": 0.947,
+      "dominantFactor": "Credit beta",
+      "strengths": [
+        "OOS performance remains strong",
+        "Limited Sharpe decay"
+      ],
+      "weaknesses": [
+        "OOS drawdown is high",
+        "Cost or turnover drag is high",
+        "High correlation with STR-11, STR-02, STR-13"
       ]
     },
     {
       "id": "STR-04",
       "name": "WQ Alpha 012 - Open-Close Pressure",
       "sleeve": "Intraday",
-      "score": 52.1,
+      "score": 50.8,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 55.4,
+        "oosPerformance": 55.8,
         "robustness": 100.0,
         "drawdownControl": 25.7,
         "costEfficiency": 0.0,
-        "diversification": 100.0,
+        "diversification": 85.0,
         "factorIndependence": 18.0,
-        "paperBehavior": 30.9,
+        "paperBehavior": 31.9,
         "hitRate": 62.5
       },
       "oosSharpe": 0.65,
       "oosDrawdown": -23.57,
-      "sharpeDecay": 1.09,
-      "paperPnl": -553.49,
-      "maxCorrelation": 0.0,
+      "sharpeDecay": 1.1,
+      "paperPnl": -359.81,
+      "maxCorrelation": 0.56,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",
@@ -18409,7 +18441,7 @@ window.DASHBOARD_DATA = {
       "id": "STR-10",
       "name": "WQ Alpha 043 - Volume Acceleration",
       "sleeve": "Volume",
-      "score": 51.4,
+      "score": 47.5,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
@@ -18417,7 +18449,7 @@ window.DASHBOARD_DATA = {
         "robustness": 100.0,
         "drawdownControl": 0.3,
         "costEfficiency": 0.0,
-        "diversification": 100.0,
+        "diversification": 60.7,
         "factorIndependence": 6.5,
         "paperBehavior": 35.6,
         "hitRate": 67.5
@@ -18426,11 +18458,10 @@ window.DASHBOARD_DATA = {
       "oosDrawdown": -29.93,
       "sharpeDecay": 0.62,
       "paperPnl": 307.9,
-      "maxCorrelation": 0.0,
+      "maxCorrelation": 0.657,
       "dominantFactor": "Credit beta",
       "strengths": [
-        "Limited Sharpe decay",
-        "Low recent correlation pressure"
+        "Limited Sharpe decay"
       ],
       "weaknesses": [
         "OOS drawdown is high",
@@ -18439,43 +18470,10 @@ window.DASHBOARD_DATA = {
       ]
     },
     {
-      "id": "STR-16",
-      "name": "WQ Alpha 083 - Range Momentum",
-      "sleeve": "Volatility",
-      "score": 50.7,
-      "decision": "Revise",
-      "recommendedAction": "Research changes before adding capital",
-      "components": {
-        "oosPerformance": 82.7,
-        "robustness": 100.0,
-        "drawdownControl": 19.0,
-        "costEfficiency": 0.0,
-        "diversification": 0.0,
-        "factorIndependence": 27.4,
-        "paperBehavior": 61.4,
-        "hitRate": 53.0
-      },
-      "oosSharpe": 1.1,
-      "oosDrawdown": -25.25,
-      "sharpeDecay": 0.72,
-      "paperPnl": 5610.8,
-      "maxCorrelation": 0.947,
-      "dominantFactor": "Credit beta",
-      "strengths": [
-        "OOS performance remains strong",
-        "Limited Sharpe decay"
-      ],
-      "weaknesses": [
-        "OOS drawdown is high",
-        "Cost or turnover drag is high",
-        "High correlation with STR-11"
-      ]
-    },
-    {
       "id": "STR-09",
       "name": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "score": 47.2,
+      "score": 45.2,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
@@ -18483,16 +18481,16 @@ window.DASHBOARD_DATA = {
         "robustness": 100.0,
         "drawdownControl": 55.0,
         "costEfficiency": 0.0,
-        "diversification": 100.0,
+        "diversification": 79.8,
         "factorIndependence": 32.8,
-        "paperBehavior": 62.1,
+        "paperBehavior": 61.9,
         "hitRate": 58.0
       },
       "oosSharpe": 0.09,
       "oosDrawdown": -16.24,
-      "sharpeDecay": 0.32,
-      "paperPnl": 439.77,
-      "maxCorrelation": 0.0,
+      "sharpeDecay": 0.31,
+      "paperPnl": 416.46,
+      "maxCorrelation": 0.581,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",
@@ -18523,8 +18521,8 @@ window.DASHBOARD_DATA = {
       },
       "oosSharpe": 0.88,
       "oosDrawdown": -27.4,
-      "sharpeDecay": 0.69,
-      "paperPnl": 422.63,
+      "sharpeDecay": 0.68,
+      "paperPnl": 423.79,
       "maxCorrelation": 0.959,
       "dominantFactor": "Credit beta",
       "strengths": [
@@ -18534,7 +18532,7 @@ window.DASHBOARD_DATA = {
       "weaknesses": [
         "OOS drawdown is high",
         "Cost or turnover drag is high",
-        "High correlation with STR-01"
+        "High correlation with STR-01, STR-08"
       ]
     },
     {
@@ -18557,7 +18555,7 @@ window.DASHBOARD_DATA = {
       "oosSharpe": 0.76,
       "oosDrawdown": -26.73,
       "sharpeDecay": 0.42,
-      "paperPnl": -3882.94,
+      "paperPnl": -3882.93,
       "maxCorrelation": 0.959,
       "dominantFactor": "Credit beta",
       "strengths": [
@@ -18566,14 +18564,14 @@ window.DASHBOARD_DATA = {
       "weaknesses": [
         "OOS drawdown is high",
         "Cost or turnover drag is high",
-        "High correlation with STR-12"
+        "High correlation with STR-12, STR-08"
       ]
     },
     {
       "id": "STR-20",
       "name": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "score": 39.5,
+      "score": 35.1,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
@@ -18581,7 +18579,7 @@ window.DASHBOARD_DATA = {
         "robustness": 94.9,
         "drawdownControl": 0.0,
         "costEfficiency": 0.0,
-        "diversification": 100.0,
+        "diversification": 56.0,
         "factorIndependence": 0.0,
         "paperBehavior": 69.1,
         "hitRate": 63.0
@@ -18589,13 +18587,12 @@ window.DASHBOARD_DATA = {
       "oosSharpe": 0.26,
       "oosDrawdown": -35.75,
       "sharpeDecay": 0.16,
-      "paperPnl": 1724.56,
-      "maxCorrelation": 0.0,
+      "paperPnl": 1723.81,
+      "maxCorrelation": 0.676,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",
-        "Paper trading behavior is positive",
-        "Low recent correlation pressure"
+        "Paper trading behavior is positive"
       ],
       "weaknesses": [
         "OOS performance is weak",
@@ -18604,6 +18601,154 @@ window.DASHBOARD_DATA = {
       ]
     }
   ],
+  "scorecardSummary": {
+    "counts": {
+      "Approve": 0,
+      "Watch": 4,
+      "Revise": 15,
+      "Reject": 1
+    },
+    "averageScore": 53.2,
+    "topStrategy": {
+      "id": "STR-02",
+      "name": "WQ Alpha 004 - Rank Momentum",
+      "score": 64.0,
+      "decision": "Watch"
+    },
+    "middleStrategy": {
+      "id": "STR-18",
+      "name": "WQ Alpha 092 - Delayed Reversal",
+      "score": 54.7,
+      "decision": "Revise"
+    },
+    "bottomStrategy": {
+      "id": "STR-20",
+      "name": "WQ Alpha 101 - Close To Open Reversal",
+      "score": 35.1,
+      "decision": "Reject"
+    },
+    "mostCrowded": {
+      "id": "STR-12",
+      "name": "WQ Alpha 055 - Turnover Reversal",
+      "maxCorrelation": 0.959
+    },
+    "highestOosSharpe": {
+      "id": "STR-02",
+      "name": "WQ Alpha 004 - Rank Momentum",
+      "oosSharpe": 1.56
+    },
+    "worstOosDrawdown": {
+      "id": "STR-20",
+      "name": "WQ Alpha 101 - Close To Open Reversal",
+      "oosDrawdown": -35.75
+    },
+    "deepDive": [
+      {
+        "id": "STR-02",
+        "name": "WQ Alpha 004 - Rank Momentum",
+        "sleeve": "Momentum",
+        "score": 64.0,
+        "decision": "Watch",
+        "recommendedAction": "Keep paper allocation and monitor decay",
+        "components": {
+          "oosPerformance": 100.0,
+          "robustness": 100.0,
+          "drawdownControl": 41.4,
+          "costEfficiency": 33.6,
+          "diversification": 0.0,
+          "factorIndependence": 8.7,
+          "paperBehavior": 87.1,
+          "hitRate": 78.0
+        },
+        "oosSharpe": 1.56,
+        "oosDrawdown": -19.66,
+        "sharpeDecay": 0.63,
+        "paperPnl": 46403.92,
+        "maxCorrelation": 0.937,
+        "dominantFactor": "Value beta",
+        "strengths": [
+          "OOS performance remains strong",
+          "Limited Sharpe decay",
+          "Paper trading behavior is positive"
+        ],
+        "weaknesses": [
+          "OOS drawdown is high",
+          "Cost or turnover drag is high",
+          "High correlation with STR-06, STR-05, STR-17"
+        ],
+        "reviewBucket": "Top score"
+      },
+      {
+        "id": "STR-18",
+        "name": "WQ Alpha 092 - Delayed Reversal",
+        "sleeve": "Reversal",
+        "score": 54.7,
+        "decision": "Revise",
+        "recommendedAction": "Research changes before adding capital",
+        "components": {
+          "oosPerformance": 76.2,
+          "robustness": 100.0,
+          "drawdownControl": 36.6,
+          "costEfficiency": 0.0,
+          "diversification": 19.0,
+          "factorIndependence": 0.0,
+          "paperBehavior": 93.5,
+          "hitRate": 70.0
+        },
+        "oosSharpe": 0.95,
+        "oosDrawdown": -20.85,
+        "sharpeDecay": 0.32,
+        "paperPnl": 3824.87,
+        "maxCorrelation": 0.824,
+        "dominantFactor": "Credit beta",
+        "strengths": [
+          "OOS performance remains strong",
+          "Limited Sharpe decay",
+          "Paper trading behavior is positive"
+        ],
+        "weaknesses": [
+          "OOS drawdown is high",
+          "Cost or turnover drag is high",
+          "High correlation with STR-07"
+        ],
+        "reviewBucket": "Middle score"
+      },
+      {
+        "id": "STR-20",
+        "name": "WQ Alpha 101 - Close To Open Reversal",
+        "sleeve": "Intraday",
+        "score": 35.1,
+        "decision": "Reject",
+        "recommendedAction": "Remove from active candidate set",
+        "components": {
+          "oosPerformance": 17.5,
+          "robustness": 94.9,
+          "drawdownControl": 0.0,
+          "costEfficiency": 0.0,
+          "diversification": 56.0,
+          "factorIndependence": 0.0,
+          "paperBehavior": 69.1,
+          "hitRate": 63.0
+        },
+        "oosSharpe": 0.26,
+        "oosDrawdown": -35.75,
+        "sharpeDecay": 0.16,
+        "paperPnl": 1723.81,
+        "maxCorrelation": 0.676,
+        "dominantFactor": "Credit beta",
+        "strengths": [
+          "Limited Sharpe decay",
+          "Paper trading behavior is positive"
+        ],
+        "weaknesses": [
+          "OOS performance is weak",
+          "OOS drawdown is high",
+          "Cost or turnover drag is high"
+        ],
+        "reviewBucket": "Bottom score"
+      }
+    ]
+  },
   "strategyValidation": [
     {
       "id": "STR-01",
@@ -18638,7 +18783,7 @@ window.DASHBOARD_DATA = {
       "hitRate": 52.1,
       "avgTurnover": 81.74,
       "avgDailyCostBps": 5.981,
-      "totalCostBps": 15023.25,
+      "totalCostBps": 15023.24,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 1.327,
       "macroFit": "Neutral",
@@ -18668,15 +18813,15 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "INTC, AMD, MU, QCOM, LRCX, AMAT, TXN, CSCO, UNH, CVS",
-      "annualReturn": 28.21,
-      "annualVol": 23.62,
-      "sharpe": 1.19,
+      "annualReturn": 28.3,
+      "annualVol": 23.63,
+      "sharpe": 1.2,
       "maxDrawdown": -36.11,
       "inSampleReturn": 203.07,
-      "outOfSampleReturn": 314.52,
+      "outOfSampleReturn": 318.38,
       "inSampleSharpe": 0.93,
       "outOfSampleSharpe": 1.56,
-      "sharpeDecay": 0.62,
+      "sharpeDecay": 0.63,
       "inSampleDrawdown": -36.11,
       "outOfSampleDrawdown": -19.66,
       "outOfSampleHitRate": 55.6,
@@ -18685,7 +18830,7 @@ window.DASHBOARD_DATA = {
       "avgDailyCostBps": 3.694,
       "totalCostBps": 9279.31,
       "dominantFactor": "Value beta",
-      "dominantFactorBeta": -1.161,
+      "dominantFactorBeta": -1.163,
       "macroFit": "Neutral",
       "macroReason": "Can work, but monitor reversal risk when rates move.",
       "riskStatus": "Warning",
@@ -18713,22 +18858,22 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "INTC, AMAT, LRCX, MU, AMD, CVS, USB, SPG, VZ, TSLA",
-      "annualReturn": 12.28,
-      "annualVol": 22.03,
+      "annualReturn": 12.35,
+      "annualVol": 22.04,
       "sharpe": 0.56,
-      "maxDrawdown": -38.12,
+      "maxDrawdown": -38.13,
       "inSampleReturn": 5.2,
-      "outOfSampleReturn": 153.7,
+      "outOfSampleReturn": 155.49,
       "inSampleSharpe": 0.15,
       "outOfSampleSharpe": 1.18,
       "sharpeDecay": 1.03,
-      "inSampleDrawdown": -38.12,
+      "inSampleDrawdown": -38.13,
       "outOfSampleDrawdown": -20.77,
       "outOfSampleHitRate": 54.2,
       "hitRate": 53.3,
       "avgTurnover": 86.36,
       "avgDailyCostBps": 5.535,
-      "totalCostBps": 13903.22,
+      "totalCostBps": 13903.18,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 0.946,
       "macroFit": "Watch",
@@ -18758,22 +18903,22 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "INTC, GEV, AMD, QCOM, T, SCHW, VZ, CMCSA, TSLA, PM",
-      "annualReturn": -0.38,
-      "annualVol": 23.24,
-      "sharpe": -0.02,
+      "annualReturn": -0.32,
+      "annualVol": 23.25,
+      "sharpe": -0.01,
       "maxDrawdown": -66.86,
       "inSampleReturn": -54.7,
-      "outOfSampleReturn": 62.21,
+      "outOfSampleReturn": 63.07,
       "inSampleSharpe": -0.44,
       "outOfSampleSharpe": 0.65,
-      "sharpeDecay": 1.09,
+      "sharpeDecay": 1.1,
       "inSampleDrawdown": -63.08,
       "outOfSampleDrawdown": -23.57,
       "outOfSampleHitRate": 52.5,
       "hitRate": 51.1,
       "avgTurnover": 169.77,
       "avgDailyCostBps": 5.993,
-      "totalCostBps": 15053.44,
+      "totalCostBps": 15053.39,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 1.07,
       "macroFit": "Neutral",
@@ -18803,15 +18948,15 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "MU, AMD, INTC, QCOM, AMAT, CSCO, LRCX, CVS, TXN, UNH",
-      "annualReturn": 21.84,
-      "annualVol": 20.79,
+      "annualReturn": 21.94,
+      "annualVol": 20.8,
       "sharpe": 1.05,
       "maxDrawdown": -28.39,
       "inSampleReturn": 168.41,
-      "outOfSampleReturn": 164.62,
+      "outOfSampleReturn": 167.08,
       "inSampleSharpe": 0.94,
-      "outOfSampleSharpe": 1.21,
-      "sharpeDecay": 0.27,
+      "outOfSampleSharpe": 1.22,
+      "sharpeDecay": 0.28,
       "inSampleDrawdown": -28.1,
       "outOfSampleDrawdown": -20.33,
       "outOfSampleHitRate": 52.6,
@@ -18820,7 +18965,7 @@ window.DASHBOARD_DATA = {
       "avgDailyCostBps": 3.775,
       "totalCostBps": 9483.66,
       "dominantFactor": "Value beta",
-      "dominantFactorBeta": -0.868,
+      "dominantFactorBeta": -0.869,
       "macroFit": "Neutral",
       "macroReason": "No direct macro-regime preference; evaluate using strategy-level metrics.",
       "riskStatus": "Warning",
@@ -18848,15 +18993,15 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "MU, AMD, QCOM, INTC, ORCL, CSCO, TXN, NOW, UNH, IBM",
-      "annualReturn": 24.1,
+      "annualReturn": 24.14,
       "annualVol": 23.41,
       "sharpe": 1.03,
       "maxDrawdown": -32.49,
       "inSampleReturn": 171.67,
-      "outOfSampleReturn": 208.75,
+      "outOfSampleReturn": 209.81,
       "inSampleSharpe": 0.85,
-      "outOfSampleSharpe": 1.28,
-      "sharpeDecay": 0.43,
+      "outOfSampleSharpe": 1.29,
+      "sharpeDecay": 0.44,
       "inSampleDrawdown": -32.49,
       "outOfSampleDrawdown": -22.96,
       "outOfSampleHitRate": 52.8,
@@ -18893,19 +19038,19 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "INTU, CMCSA, SCHW, WMT, GEV, GOOGL, NEE, JNJ, BNY, TSLA",
-      "annualReturn": 13.25,
+      "annualReturn": 13.26,
       "annualVol": 20.0,
       "sharpe": 0.66,
       "maxDrawdown": -35.34,
       "inSampleReturn": 71.91,
-      "outOfSampleReturn": 78.48,
+      "outOfSampleReturn": 78.66,
       "inSampleSharpe": 0.54,
       "outOfSampleSharpe": 0.85,
       "sharpeDecay": 0.31,
       "inSampleDrawdown": -35.34,
       "outOfSampleDrawdown": -19.38,
-      "outOfSampleHitRate": 52.6,
-      "hitRate": 53.6,
+      "outOfSampleHitRate": 52.7,
+      "hitRate": 53.7,
       "avgTurnover": 31.93,
       "avgDailyCostBps": 2.754,
       "totalCostBps": 6917.34,
@@ -18953,7 +19098,7 @@ window.DASHBOARD_DATA = {
       "hitRate": 53.7,
       "avgTurnover": 55.41,
       "avgDailyCostBps": 6.063,
-      "totalCostBps": 15229.8,
+      "totalCostBps": 15229.83,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 1.305,
       "macroFit": "Neutral",
@@ -18988,17 +19133,17 @@ window.DASHBOARD_DATA = {
       "sharpe": -0.11,
       "maxDrawdown": -44.5,
       "inSampleReturn": -30.76,
-      "outOfSampleReturn": 0.57,
+      "outOfSampleReturn": 0.5,
       "inSampleSharpe": -0.23,
       "outOfSampleSharpe": 0.09,
-      "sharpeDecay": 0.32,
+      "sharpeDecay": 0.31,
       "inSampleDrawdown": -43.87,
       "outOfSampleDrawdown": -16.24,
       "outOfSampleHitRate": 51.6,
       "hitRate": 51.4,
       "avgTurnover": 160.76,
       "avgDailyCostBps": 6.745,
-      "totalCostBps": 16943.58,
+      "totalCostBps": 16943.62,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 0.922,
       "macroFit": "Neutral",
@@ -19043,7 +19188,7 @@ window.DASHBOARD_DATA = {
       "hitRate": 52.6,
       "avgTurnover": 86.94,
       "avgDailyCostBps": 4.758,
-      "totalCostBps": 11952.4,
+      "totalCostBps": 11952.39,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 1.185,
       "macroFit": "Watch",
@@ -19073,15 +19218,15 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "AMAT, LRCX, MU, INTC, C, AMD, CVS, BAC, GE, USB",
-      "annualReturn": 20.58,
-      "annualVol": 22.19,
+      "annualReturn": 20.64,
+      "annualVol": 22.2,
       "sharpe": 0.93,
       "maxDrawdown": -33.92,
       "inSampleReturn": 113.24,
-      "outOfSampleReturn": 184.87,
+      "outOfSampleReturn": 186.55,
       "inSampleSharpe": 0.7,
-      "outOfSampleSharpe": 1.25,
-      "sharpeDecay": 0.55,
+      "outOfSampleSharpe": 1.26,
+      "sharpeDecay": 0.56,
       "inSampleDrawdown": -30.18,
       "outOfSampleDrawdown": -23.79,
       "outOfSampleHitRate": 52.2,
@@ -19118,22 +19263,22 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "ADBE, ORCL, CRM, NOW, MSFT, PLTR, INTU, AAPL, AMZN, ACN",
-      "annualReturn": 11.7,
+      "annualReturn": 11.72,
       "annualVol": 26.42,
       "sharpe": 0.44,
       "maxDrawdown": -57.22,
-      "inSampleReturn": 8.89,
+      "inSampleReturn": 9.19,
       "outOfSampleReturn": 107.92,
       "inSampleSharpe": 0.19,
       "outOfSampleSharpe": 0.88,
-      "sharpeDecay": 0.69,
+      "sharpeDecay": 0.68,
       "inSampleDrawdown": -57.22,
       "outOfSampleDrawdown": -27.4,
       "outOfSampleHitRate": 52.7,
       "hitRate": 52.2,
       "avgTurnover": 85.39,
-      "avgDailyCostBps": 5.304,
-      "totalCostBps": 13322.45,
+      "avgDailyCostBps": 5.318,
+      "totalCostBps": 13358.71,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 1.259,
       "macroFit": "Watch",
@@ -19163,22 +19308,22 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "AMAT, LRCX, CVS, C, INTC, BAC, MDT, SPG, USB, WFC",
-      "annualReturn": 19.29,
+      "annualReturn": 19.35,
       "annualVol": 22.4,
       "sharpe": 0.86,
       "maxDrawdown": -31.69,
       "inSampleReturn": 70.49,
-      "outOfSampleReturn": 212.0,
+      "outOfSampleReturn": 213.88,
       "inSampleSharpe": 0.51,
       "outOfSampleSharpe": 1.38,
-      "sharpeDecay": 0.86,
+      "sharpeDecay": 0.87,
       "inSampleDrawdown": -31.69,
       "outOfSampleDrawdown": -20.97,
       "outOfSampleHitRate": 53.3,
       "hitRate": 54.5,
       "avgTurnover": 58.2,
       "avgDailyCostBps": 5.691,
-      "totalCostBps": 14296.64,
+      "totalCostBps": 14296.61,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 0.991,
       "macroFit": "Watch",
@@ -19208,14 +19353,14 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "MU, CSCO, ORCL, AMD, NOW, LLY, IBM, QCOM, CVS, AAPL",
-      "annualReturn": 21.08,
+      "annualReturn": 21.11,
       "annualVol": 21.34,
       "sharpe": 0.99,
       "maxDrawdown": -27.62,
       "inSampleReturn": 97.9,
-      "outOfSampleReturn": 228.73,
+      "outOfSampleReturn": 229.86,
       "inSampleSharpe": 0.66,
-      "outOfSampleSharpe": 1.44,
+      "outOfSampleSharpe": 1.45,
       "sharpeDecay": 0.79,
       "inSampleDrawdown": -27.62,
       "outOfSampleDrawdown": -18.07,
@@ -19253,12 +19398,12 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "JNJ, LMT, MU, TMO, BAC, AMD, MRK, GOOGL, MDT, SCHW",
-      "annualReturn": 15.68,
+      "annualReturn": 15.69,
       "annualVol": 20.38,
       "sharpe": 0.77,
       "maxDrawdown": -34.55,
-      "inSampleReturn": 127.35,
-      "outOfSampleReturn": 70.44,
+      "inSampleReturn": 127.72,
+      "outOfSampleReturn": 70.41,
       "inSampleSharpe": 0.75,
       "outOfSampleSharpe": 0.81,
       "sharpeDecay": 0.07,
@@ -19266,9 +19411,9 @@ window.DASHBOARD_DATA = {
       "outOfSampleDrawdown": -17.86,
       "outOfSampleHitRate": 51.0,
       "hitRate": 53.1,
-      "avgTurnover": 58.8,
-      "avgDailyCostBps": 6.244,
-      "totalCostBps": 15686.13,
+      "avgTurnover": 58.78,
+      "avgDailyCostBps": 6.251,
+      "totalCostBps": 15701.61,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 1.114,
       "macroFit": "Neutral",
@@ -19298,14 +19443,14 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "AMAT, MU, LRCX, AMD, UPS, CVS, INTC, LLY, GE, C",
-      "annualReturn": 15.01,
-      "annualVol": 21.94,
-      "sharpe": 0.68,
+      "annualReturn": 15.07,
+      "annualVol": 21.95,
+      "sharpe": 0.69,
       "maxDrawdown": -33.71,
       "inSampleReturn": 42.05,
-      "outOfSampleReturn": 146.93,
+      "outOfSampleReturn": 148.38,
       "inSampleSharpe": 0.38,
-      "outOfSampleSharpe": 1.1,
+      "outOfSampleSharpe": 1.11,
       "sharpeDecay": 0.72,
       "inSampleDrawdown": -33.14,
       "outOfSampleDrawdown": -25.25,
@@ -19313,7 +19458,7 @@ window.DASHBOARD_DATA = {
       "hitRate": 52.6,
       "avgTurnover": 82.5,
       "avgDailyCostBps": 6.458,
-      "totalCostBps": 16222.57,
+      "totalCostBps": 16222.54,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 0.976,
       "macroFit": "Neutral",
@@ -19343,24 +19488,24 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "MU, CSCO, IBM, AMD, AMAT, LRCX, QCOM, INTC, LLY, NOW",
-      "annualReturn": 19.2,
-      "annualVol": 21.06,
-      "sharpe": 0.91,
+      "annualReturn": 19.3,
+      "annualVol": 21.08,
+      "sharpe": 0.92,
       "maxDrawdown": -27.56,
       "inSampleReturn": 74.95,
-      "outOfSampleReturn": 210.16,
+      "outOfSampleReturn": 213.05,
       "inSampleSharpe": 0.56,
       "outOfSampleSharpe": 1.39,
-      "sharpeDecay": 0.82,
+      "sharpeDecay": 0.83,
       "inSampleDrawdown": -27.56,
       "outOfSampleDrawdown": -19.39,
       "outOfSampleHitRate": 52.8,
       "hitRate": 53.9,
       "avgTurnover": 50.09,
       "avgDailyCostBps": 4.561,
-      "totalCostBps": 11457.28,
+      "totalCostBps": 11457.3,
       "dominantFactor": "Value beta",
-      "dominantFactorBeta": -0.919,
+      "dominantFactorBeta": -0.921,
       "macroFit": "Watch",
       "macroReason": "Liquidity-sensitive strategies should be monitored when macro volatility is elevated.",
       "riskStatus": "Warning",
@@ -19403,7 +19548,7 @@ window.DASHBOARD_DATA = {
       "hitRate": 54.4,
       "avgTurnover": 44.35,
       "avgDailyCostBps": 5.174,
-      "totalCostBps": 12996.64,
+      "totalCostBps": 12996.66,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 1.275,
       "macroFit": "Neutral",
@@ -19433,22 +19578,22 @@ window.DASHBOARD_DATA = {
       "isObservations": 1507,
       "oosObservations": 1005,
       "latestHoldings": "AMD, BNY, INTC, MS, UNH, CSCO, CVS, GS, MU, TXN",
-      "annualReturn": 21.57,
+      "annualReturn": 21.54,
       "annualVol": 18.99,
-      "sharpe": 1.14,
+      "sharpe": 1.13,
       "maxDrawdown": -30.79,
-      "inSampleReturn": 244.4,
-      "outOfSampleReturn": 107.8,
-      "inSampleSharpe": 1.17,
+      "inSampleReturn": 243.78,
+      "outOfSampleReturn": 107.65,
+      "inSampleSharpe": 1.16,
       "outOfSampleSharpe": 1.09,
       "sharpeDecay": -0.08,
       "inSampleDrawdown": -30.79,
       "outOfSampleDrawdown": -16.06,
       "outOfSampleHitRate": 54.0,
       "hitRate": 55.2,
-      "avgTurnover": 27.1,
-      "avgDailyCostBps": 4.018,
-      "totalCostBps": 10093.57,
+      "avgTurnover": 27.11,
+      "avgDailyCostBps": 4.012,
+      "totalCostBps": 10077.54,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 0.77,
       "macroFit": "Neutral",
@@ -19482,7 +19627,7 @@ window.DASHBOARD_DATA = {
       "annualVol": 26.54,
       "sharpe": 0.15,
       "maxDrawdown": -58.76,
-      "inSampleReturn": -7.45,
+      "inSampleReturn": -7.49,
       "outOfSampleReturn": 14.24,
       "inSampleSharpe": 0.1,
       "outOfSampleSharpe": 0.26,
@@ -19492,8 +19637,8 @@ window.DASHBOARD_DATA = {
       "outOfSampleHitRate": 52.6,
       "hitRate": 52.3,
       "avgTurnover": 171.35,
-      "avgDailyCostBps": 8.143,
-      "totalCostBps": 20454.53,
+      "avgDailyCostBps": 8.139,
+      "totalCostBps": 20446.05,
       "dominantFactor": "Credit beta",
       "dominantFactorBeta": 1.347,
       "macroFit": "Neutral",
@@ -19560,388 +19705,388 @@ window.DASHBOARD_DATA = {
     "matrix": [
       [
         1.0,
-        0.291,
-        -0.057,
-        0.139,
-        0.237,
-        0.328,
-        0.481,
+        0.294,
+        -0.052,
+        0.142,
+        0.24,
+        0.329,
+        0.483,
         0.85,
         0.228,
         0.555,
-        0.125,
+        0.128,
         0.959,
-        0.125,
-        0.419,
+        0.128,
+        0.42,
         0.488,
-        0.213,
-        0.326,
+        0.215,
+        0.329,
         0.357,
-        0.196,
+        0.195,
         0.562
       ],
       [
-        0.291,
+        0.294,
         1.0,
-        0.609,
-        0.189,
-        0.92,
-        0.935,
+        0.613,
+        0.194,
+        0.921,
+        0.937,
         -0.018,
-        0.161,
-        0.315,
-        0.377,
-        0.854,
-        0.243,
+        0.17,
+        0.318,
+        0.381,
+        0.855,
+        0.248,
         0.757,
-        0.861,
-        0.461,
-        0.848,
-        0.914,
+        0.862,
+        0.464,
+        0.85,
+        0.915,
         -0.039,
         0.89,
-        0.611
+        0.612
       ],
       [
-        -0.057,
-        0.609,
+        -0.052,
+        0.613,
         1.0,
-        0.559,
-        0.551,
-        0.499,
-        0.067,
-        -0.027,
-        0.424,
-        0.306,
-        0.831,
-        -0.081,
-        0.851,
+        0.56,
+        0.556,
+        0.503,
+        0.066,
+        -0.018,
         0.427,
-        0.436,
-        0.778,
-        0.516,
+        0.311,
+        0.833,
+        -0.075,
+        0.851,
+        0.431,
+        0.44,
+        0.78,
+        0.521,
         0.095,
-        0.543,
-        0.344
+        0.547,
+        0.347
       ],
       [
-        0.139,
-        0.189,
-        0.559,
+        0.142,
+        0.194,
+        0.56,
         1.0,
-        0.103,
-        0.103,
-        0.409,
-        0.129,
-        0.28,
-        0.514,
-        0.412,
-        0.14,
+        0.109,
+        0.109,
+        0.408,
+        0.136,
+        0.285,
+        0.518,
+        0.415,
+        0.145,
         0.467,
-        0.026,
-        0.389,
-        0.398,
-        0.076,
-        0.34,
-        0.025,
-        -0.13
+        0.031,
+        0.393,
+        0.401,
+        0.081,
+        0.339,
+        0.03,
+        -0.126
       ],
       [
-        0.237,
-        0.92,
-        0.551,
-        0.103,
+        0.24,
+        0.921,
+        0.556,
+        0.109,
         1.0,
         0.949,
-        -0.135,
-        0.077,
-        0.218,
-        0.246,
-        0.803,
-        0.19,
+        -0.134,
+        0.087,
+        0.222,
+        0.251,
+        0.805,
+        0.196,
         0.689,
         0.905,
-        0.367,
-        0.777,
-        0.928,
-        -0.182,
-        0.908,
-        0.541
+        0.37,
+        0.78,
+        0.929,
+        -0.181,
+        0.907,
+        0.542
       ],
       [
-        0.328,
-        0.935,
-        0.499,
-        0.103,
+        0.329,
+        0.937,
+        0.503,
+        0.109,
         0.949,
         1.0,
-        -0.042,
-        0.168,
+        -0.041,
+        0.171,
         0.215,
-        0.267,
-        0.782,
-        0.274,
-        0.682,
+        0.269,
+        0.784,
+        0.276,
+        0.685,
         0.934,
-        0.431,
-        0.775,
-        0.935,
-        -0.12,
-        0.899,
+        0.432,
+        0.777,
+        0.936,
+        -0.119,
+        0.898,
         0.615
       ],
       [
-        0.481,
+        0.483,
         -0.018,
-        0.067,
-        0.409,
-        -0.135,
-        -0.042,
+        0.066,
+        0.408,
+        -0.134,
+        -0.041,
         1.0,
-        0.54,
-        0.465,
-        0.579,
-        0.045,
-        0.465,
-        0.067,
-        -0.002,
+        0.542,
         0.467,
+        0.58,
+        0.045,
+        0.467,
+        0.066,
+        -0.001,
+        0.469,
         0.092,
-        0.008,
+        0.007,
         0.824,
-        -0.257,
-        0.226
+        -0.256,
+        0.227
       ],
       [
         0.85,
-        0.161,
-        -0.027,
-        0.129,
-        0.077,
-        0.168,
-        0.54,
+        0.17,
+        -0.018,
+        0.136,
+        0.087,
+        0.171,
+        0.542,
         1.0,
-        0.305,
+        0.303,
         0.582,
-        0.066,
+        0.073,
         0.868,
-        0.058,
-        0.256,
+        0.066,
+        0.259,
         0.548,
-        0.145,
-        0.175,
+        0.152,
+        0.185,
         0.539,
-        0.088,
+        0.087,
         0.555
       ],
       [
         0.228,
-        0.315,
-        0.424,
-        0.28,
-        0.218,
+        0.318,
+        0.427,
+        0.285,
+        0.222,
         0.215,
-        0.465,
-        0.305,
+        0.467,
+        0.303,
         1.0,
         0.515,
-        0.412,
-        0.175,
-        0.418,
+        0.414,
+        0.174,
+        0.423,
         0.199,
         0.581,
-        0.417,
-        0.334,
-        0.55,
-        0.206,
+        0.419,
+        0.337,
+        0.551,
+        0.205,
         0.309
       ],
       [
         0.555,
-        0.377,
-        0.306,
-        0.514,
-        0.246,
-        0.267,
-        0.579,
+        0.381,
+        0.311,
+        0.518,
+        0.251,
+        0.269,
+        0.58,
         0.582,
         0.515,
         1.0,
-        0.434,
+        0.437,
         0.538,
-        0.367,
-        0.262,
+        0.371,
+        0.264,
         0.657,
-        0.458,
-        0.355,
+        0.46,
+        0.36,
         0.645,
-        0.158,
+        0.157,
         0.345
       ],
       [
-        0.125,
-        0.854,
-        0.831,
-        0.412,
-        0.803,
-        0.782,
+        0.128,
+        0.855,
+        0.833,
+        0.415,
+        0.805,
+        0.784,
         0.045,
-        0.066,
-        0.412,
-        0.434,
+        0.073,
+        0.414,
+        0.437,
         1.0,
-        0.085,
-        0.903,
-        0.722,
-        0.518,
+        0.089,
+        0.904,
+        0.724,
+        0.52,
         0.947,
-        0.821,
+        0.823,
         0.049,
-        0.769,
-        0.483
+        0.77,
+        0.484
       ],
       [
         0.959,
-        0.243,
-        -0.081,
-        0.14,
+        0.248,
+        -0.075,
+        0.145,
+        0.196,
+        0.276,
+        0.467,
+        0.868,
+        0.174,
+        0.538,
+        0.089,
+        1.0,
+        0.07,
+        0.373,
+        0.485,
         0.19,
         0.274,
-        0.465,
-        0.868,
-        0.175,
-        0.538,
-        0.085,
-        1.0,
-        0.066,
-        0.372,
-        0.485,
-        0.187,
-        0.269,
         0.343,
-        0.155,
+        0.154,
         0.561
       ],
       [
-        0.125,
+        0.128,
         0.757,
         0.851,
         0.467,
         0.689,
-        0.682,
-        0.067,
-        0.058,
-        0.418,
-        0.367,
-        0.903,
+        0.685,
         0.066,
+        0.066,
+        0.423,
+        0.371,
+        0.904,
+        0.07,
         1.0,
-        0.612,
-        0.415,
-        0.828,
-        0.711,
+        0.615,
+        0.419,
+        0.829,
+        0.71,
         0.074,
-        0.658,
-        0.444
+        0.663,
+        0.447
       ],
       [
-        0.419,
-        0.861,
-        0.427,
-        0.026,
+        0.42,
+        0.862,
+        0.431,
+        0.031,
         0.905,
         0.934,
-        -0.002,
-        0.256,
+        -0.001,
+        0.259,
         0.199,
-        0.262,
-        0.722,
-        0.372,
-        0.612,
-        1.0,
-        0.431,
+        0.264,
         0.724,
-        0.93,
+        0.373,
+        0.615,
+        1.0,
+        0.433,
+        0.725,
+        0.931,
         -0.082,
         0.863,
         0.676
       ],
       [
         0.488,
-        0.461,
-        0.436,
-        0.389,
-        0.367,
-        0.431,
-        0.467,
+        0.464,
+        0.44,
+        0.393,
+        0.37,
+        0.432,
+        0.469,
         0.548,
         0.581,
         0.657,
-        0.518,
+        0.52,
         0.485,
-        0.415,
-        0.431,
+        0.419,
+        0.433,
         1.0,
-        0.584,
-        0.47,
+        0.585,
+        0.473,
         0.518,
         0.36,
         0.602
       ],
       [
-        0.213,
-        0.848,
-        0.778,
-        0.398,
+        0.215,
+        0.85,
+        0.78,
+        0.401,
+        0.78,
         0.777,
-        0.775,
         0.092,
-        0.145,
-        0.417,
-        0.458,
+        0.152,
+        0.419,
+        0.46,
         0.947,
-        0.187,
-        0.828,
-        0.724,
-        0.584,
+        0.19,
+        0.829,
+        0.725,
+        0.585,
         1.0,
-        0.794,
+        0.796,
         0.093,
-        0.755,
-        0.542
+        0.756,
+        0.543
       ],
       [
-        0.326,
-        0.914,
-        0.516,
-        0.076,
-        0.928,
-        0.935,
-        0.008,
-        0.175,
-        0.334,
-        0.355,
-        0.821,
-        0.269,
-        0.711,
-        0.93,
-        0.47,
-        0.794,
+        0.329,
+        0.915,
+        0.521,
+        0.081,
+        0.929,
+        0.936,
+        0.007,
+        0.185,
+        0.337,
+        0.36,
+        0.823,
+        0.274,
+        0.71,
+        0.931,
+        0.473,
+        0.796,
         1.0,
-        -0.035,
-        0.853,
+        -0.034,
+        0.854,
         0.646
       ],
       [
         0.357,
         -0.039,
         0.095,
-        0.34,
-        -0.182,
-        -0.12,
+        0.339,
+        -0.181,
+        -0.119,
         0.824,
         0.539,
-        0.55,
+        0.551,
         0.645,
         0.049,
         0.343,
@@ -19949,50 +20094,50 @@ window.DASHBOARD_DATA = {
         -0.082,
         0.518,
         0.093,
-        -0.035,
+        -0.034,
         1.0,
         -0.232,
         0.199
       ],
       [
-        0.196,
+        0.195,
         0.89,
-        0.543,
-        0.025,
-        0.908,
-        0.899,
-        -0.257,
-        0.088,
-        0.206,
-        0.158,
-        0.769,
-        0.155,
-        0.658,
+        0.547,
+        0.03,
+        0.907,
+        0.898,
+        -0.256,
+        0.087,
+        0.205,
+        0.157,
+        0.77,
+        0.154,
+        0.663,
         0.863,
         0.36,
-        0.755,
-        0.853,
+        0.756,
+        0.854,
         -0.232,
         1.0,
         0.552
       ],
       [
         0.562,
-        0.611,
-        0.344,
-        -0.13,
-        0.541,
+        0.612,
+        0.347,
+        -0.126,
+        0.542,
         0.615,
-        0.226,
+        0.227,
         0.555,
         0.309,
         0.345,
-        0.483,
+        0.484,
         0.561,
-        0.444,
+        0.447,
         0.676,
         0.602,
-        0.542,
+        0.543,
         0.646,
         0.199,
         0.552,
@@ -20029,7 +20174,7 @@ window.DASHBOARD_DATA = {
         "leftName": "WQ Alpha 004 - Rank Momentum",
         "rightId": "STR-06",
         "rightName": "WQ Alpha 024 - Delayed Momentum",
-        "correlation": 0.935,
+        "correlation": 0.937,
         "status": "Breach"
       },
       {
@@ -20037,7 +20182,7 @@ window.DASHBOARD_DATA = {
         "leftName": "WQ Alpha 024 - Delayed Momentum",
         "rightId": "STR-17",
         "rightName": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-        "correlation": 0.935,
+        "correlation": 0.936,
         "status": "Breach"
       },
       {
@@ -20053,7 +20198,7 @@ window.DASHBOARD_DATA = {
         "leftName": "WQ Alpha 071 - Composite Rank",
         "rightId": "STR-17",
         "rightName": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-        "correlation": 0.93,
+        "correlation": 0.931,
         "status": "Breach"
       },
       {
@@ -20061,7 +20206,7 @@ window.DASHBOARD_DATA = {
         "leftName": "WQ Alpha 021 - Trend Stability",
         "rightId": "STR-17",
         "rightName": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-        "correlation": 0.928,
+        "correlation": 0.929,
         "status": "Breach"
       },
       {
@@ -20069,7 +20214,7 @@ window.DASHBOARD_DATA = {
         "leftName": "WQ Alpha 004 - Rank Momentum",
         "rightId": "STR-05",
         "rightName": "WQ Alpha 021 - Trend Stability",
-        "correlation": 0.92,
+        "correlation": 0.921,
         "status": "Breach"
       },
       {
@@ -20077,7 +20222,7 @@ window.DASHBOARD_DATA = {
         "leftName": "WQ Alpha 004 - Rank Momentum",
         "rightId": "STR-17",
         "rightName": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-        "correlation": 0.914,
+        "correlation": 0.915,
         "status": "Breach"
       }
     ]
@@ -20097,13 +20242,13 @@ window.DASHBOARD_DATA = {
     },
     {
       "name": "Value beta",
-      "value": -0.777,
+      "value": -0.778,
       "limit": 0.2,
       "status": "Breach"
     },
     {
       "name": "Momentum beta",
-      "value": 0.777,
+      "value": 0.778,
       "limit": 0.25,
       "status": "Breach"
     },
@@ -20151,7 +20296,7 @@ window.DASHBOARD_DATA = {
       "factor": "Growth / tech",
       "purpose": "Nasdaq growth proxy",
       "use": "Separate alpha from growth crowding",
-      "loading": 0.777
+      "loading": 0.778
     },
     {
       "ticker": "IWM",
@@ -20209,2522 +20354,2522 @@ window.DASHBOARD_DATA = {
     968274.01,
     999124.84,
     1007491.65,
-    1024342.42
+    1027614.97
   ],
   "backtestNavSeries": [
     1000000,
     999970.0,
-    1000238.34,
+    1000238.35,
     1000237.79,
-    1000146.4,
+    1000146.41,
     1000990.34,
     998863.27,
-    995238.13,
+    995238.12,
     997869.29,
     999351.95,
-    1000546.85,
-    1000469.07,
-    998703.43,
-    998898.98,
-    999392.74,
-    1001022.39,
-    1001054.53,
-    1001704.24,
-    1002102.58,
-    1002502.81,
-    1002595.95,
-    1004179.1,
-    1001882.44,
-    1005604.92,
-    1000715.73,
-    1004863.79,
-    1007304.78,
-    1011079.33,
-    1009630.4,
-    1009068.71,
-    1006759.99,
-    1004582.03,
-    998673.59,
-    1000461.85,
-    1001812.19,
-    1010072.75,
-    1007377.84,
-    1007946.11,
-    1003563.08,
-    1007444.98,
-    1009468.16,
-    1014589.99,
-    1008882.18,
-    1008324.71,
-    1012765.67,
-    1020719.3,
-    1018620.61,
-    1022654.87,
-    1015190.8,
-    1016653.52,
-    1019356.73,
-    1021568.66,
-    1019409.61,
-    1017080.57,
-    1013786.81,
-    1014886.85,
-    1015057.57,
-    1009219.12,
-    1005872.39,
-    983892.71,
-    996546.18,
-    980890.2,
-    984147.16,
-    996694.47,
-    993395.48,
-    991974.57,
-    991892.29,
-    1002259.07,
-    1006234.64,
-    1000936.95,
-    991816.89,
-    1001429.25,
-    1003961.36,
-    998064.67,
-    1010867.7,
-    1007150.74,
-    1003246.59,
-    1005567.13,
-    1006949.89,
-    1003404.68,
-    1005282.46,
-    990481.12,
-    990412.43,
-    986698.8,
-    990126.9,
-    984040.89,
-    997238.04,
-    1000450.67,
-    1001250.42,
-    1000993.41,
-    1008301.34,
-    1007094.61,
-    1004821.18,
-    1001992.76,
-    999091.11,
-    996807.53,
-    988508.72,
-    977808.28,
-    972115.43,
-    970028.22,
-    993820.15,
-    995981.94,
-    1010772.21,
-    1013197.9,
-    1015712.91,
-    1020215.95,
-    1027556.91,
-    1026157.9,
-    1037896.85,
-    1038560.78,
-    1045391.38,
-    1043663.55,
-    1049880.71,
-    1054027.04,
-    1045074.08,
-    1045751.58,
-    1047765.08,
-    1043972.59,
-    1042230.88,
-    1052640.71,
-    1062764.97,
-    1076741.19,
-    1082185.76,
-    1086059.8,
-    1080134.78,
-    1085322.82,
-    1082376.4,
-    1092469.91,
-    1086871.36,
-    1089728.06,
-    1099434.9,
-    1095681.7,
-    1093574.23,
-    1097530.74,
-    1105986.5,
-    1089876.98,
-    1086537.48,
-    1079618.52,
-    1089371.11,
-    1098439.69,
-    1093152.63,
-    1099239.24,
-    1099717.64,
-    1099755.32,
-    1103532.25,
-    1096428.02,
-    1099261.24,
-    1085439.62,
-    1090662.2,
-    1087138.21,
-    1088569.62,
-    1083015.25,
-    1094778.99,
-    1104470.88,
-    1100900.32,
-    1104297.94,
-    1096421.23,
-    1095025.96,
-    1103408.53,
-    1102854.42,
-    1111618.98,
-    1116818.4,
-    1117442.53,
-    1118085.0,
-    1120773.85,
-    1122336.63,
-    1127024.54,
-    1129325.55,
-    1136390.71,
-    1131996.64,
-    1136122.54,
-    1149473.92,
-    1148802.58,
-    1144701.85,
-    1146917.67,
-    1151087.2,
-    1146448.39,
-    1161697.21,
-    1152370.34,
-    1150553.27,
-    1147090.82,
-    1145729.61,
-    1144001.75,
-    1144690.66,
-    1150553.0,
-    1153522.62,
-    1149735.36,
-    1159644.06,
-    1157385.05,
-    1154066.19,
-    1156788.47,
-    1135077.64,
-    1137401.3,
-    1135606.94,
-    1138213.87,
-    1139219.2,
-    1147787.72,
-    1147781.18,
-    1153327.49,
-    1150755.96,
-    1150446.63,
-    1149062.79,
-    1143031.7,
-    1143491.16,
-    1143596.94,
-    1142484.22,
-    1138663.98,
-    1127685.31,
-    1120940.08,
-    1132439.25,
-    1129687.22,
-    1131201.86,
-    1139899.14,
-    1136351.26,
-    1146821.28,
-    1157973.93,
-    1155021.88,
-    1160461.32,
-    1156095.21,
-    1163832.25,
-    1158106.68,
-    1158099.74,
-    1156381.93,
-    1162158.43,
-    1160007.47,
-    1163384.95,
-    1165594.06,
-    1166329.37,
-    1166187.02,
-    1172753.8,
-    1179623.57,
-    1149575.42,
-    1156615.54,
-    1165498.25,
-    1171466.05,
-    1174023.7,
-    1177897.76,
-    1184973.79,
-    1189231.76,
-    1192315.21,
-    1189588.49,
-    1196763.48,
-    1202982.57,
-    1204338.0,
-    1203792.94,
-    1211175.77,
-    1219757.19,
-    1200421.22,
-    1195338.68,
-    1203007.1,
-    1199703.05,
-    1193427.78,
-    1189954.37,
-    1202075.54,
-    1198108.85,
-    1206983.29,
-    1209135.24,
-    1206295.81,
-    1204158.52,
-    1188136.19,
-    1200240.26,
-    1183565.21,
-    1181536.57,
-    1175010.03,
-    1181278.9,
-    1169200.91,
-    1179277.48,
-    1184743.05,
-    1186324.21,
-    1195575.98,
-    1191996.92,
-    1198926.36,
-    1195744.15,
-    1197474.06,
-    1202202.13,
-    1204852.88,
-    1204501.41,
-    1202509.27,
-    1203055.84,
-    1208717.56,
-    1203745.92,
-    1203558.13,
-    1199292.06,
-    1201448.57,
-    1198745.68,
-    1195807.38,
-    1197711.48,
-    1203724.89,
-    1199757.29,
-    1196195.55,
-    1174208.63,
-    1175363.16,
-    1191500.88,
-    1191244.65,
-    1192809.77,
-    1171779.78,
-    1167864.82,
-    1164618.78,
-    1177879.79,
-    1174663.96,
-    1172479.89,
-    1171228.68,
-    1173749.01,
-    1177106.72,
-    1187170.89,
-    1194323.14,
-    1195943.57,
-    1186385.12,
-    1188320.34,
-    1193611.34,
-    1192945.74,
-    1204546.17,
-    1211009.37,
-    1210422.65,
-    1211067.73,
-    1209895.82,
-    1215165.8,
-    1218396.84,
-    1218942.63,
-    1214013.1,
-    1213702.31,
-    1204438.49,
-    1202271.24,
-    1215749.28,
-    1219737.26,
-    1225579.73,
-    1232821.25,
-    1236236.28,
-    1237100.79,
-    1242142.39,
-    1243267.33,
-    1242198.79,
-    1247438.51,
-    1250318.35,
-    1245744.31,
-    1248602.52,
-    1252888.69,
-    1249968.6,
-    1256031.47,
-    1258729.29,
-    1266416.37,
-    1261795.88,
-    1263428.9,
-    1248505.76,
-    1251181.24,
-    1254258.84,
-    1244993.17,
-    1250224.28,
-    1250917.43,
-    1251060.65,
-    1259838.91,
-    1260568.87,
-    1263989.49,
-    1266419.74,
-    1256525.97,
-    1259866.78,
-    1260778.42,
-    1254927.89,
-    1248793.5,
-    1262685.28,
-    1258296.69,
-    1262026.38,
-    1271527.59,
-    1269817.59,
-    1275348.1,
-    1272164.88,
-    1277040.24,
-    1260082.93,
-    1267670.62,
-    1258795.27,
-    1246495.3,
-    1241885.65,
-    1243399.24,
-    1252413.7,
-    1254668.17,
-    1257111.66,
-    1258716.3,
-    1258085.45,
-    1253228.93,
-    1266020.75,
-    1276621.1,
-    1272452.73,
-    1274147.51,
-    1272171.79,
-    1270080.36,
-    1268346.34,
-    1269419.35,
-    1270504.89,
-    1262019.55,
-    1275214.99,
-    1285285.17,
-    1292682.8,
-    1299557.63,
-    1305722.21,
-    1304735.45,
-    1304816.87,
-    1314567.22,
-    1321763.15,
-    1318762.27,
-    1334007.93,
-    1328563.91,
-    1334529.62,
-    1341885.38,
-    1349420.81,
-    1342882.66,
-    1341552.89,
-    1358038.73,
-    1353412.5,
-    1335519.33,
-    1336543.73,
-    1327403.08,
-    1301207.08,
-    1249195.33,
-    1270465.2,
-    1267620.36,
-    1214450.43,
-    1234049.96,
-    1251962.57,
-    1256848.86,
-    1274877.9,
-    1296091.78,
-    1297091.82,
-    1293581.2,
-    1284617.18,
-    1284412.53,
-    1304178.96,
-    1323867.47,
-    1309904.46,
-    1296134.91,
-    1277324.48,
-    1288731.12,
-    1307304.06,
-    1317953.21,
-    1320365.26,
-    1325124.57,
-    1345357.43,
-    1348203.18,
-    1338085.68,
-    1334460.94,
-    1331445.03,
-    1330374.53,
-    1311750.89,
-    1317363.64,
-    1317040.66,
-    1280557.93,
-    1251354.32,
-    1285369.54,
-    1244761.78,
-    1233145.13,
-    1252012.94,
-    1215301.91,
-    1229706.06,
-    1247802.86,
-    1254800.21,
-    1227068.55,
-    1228991.65,
-    1253561.4,
-    1250328.1,
-    1261911.56,
-    1258328.76,
-    1262022.55,
-    1280573.85,
-    1279544.42,
-    1268965.29,
-    1257119.87,
-    1251851.07,
-    1233064.01,
-    1230041.03,
-    1247666.16,
-    1243500.99,
-    1232006.61,
-    1235044.67,
-    1224535.48,
-    1221496.01,
-    1235488.7,
-    1238284.8,
-    1237899.45,
-    1251265.14,
-    1262502.24,
-    1262317.64,
-    1262122.61,
-    1253216.04,
-    1261968.76,
-    1257155.59,
-    1251939.29,
-    1262365.23,
-    1258966.81,
-    1264256.12,
-    1266189.61,
-    1261477.55,
-    1248590.63,
-    1265370.12,
-    1251683.8,
-    1266620.54,
-    1273426.0,
-    1273338.35,
-    1286745.35,
-    1279712.72,
-    1283338.28,
-    1286495.86,
-    1289560.48,
-    1288305.21,
-    1290776.76,
-    1289574.57,
-    1286824.99,
-    1277405.36,
-    1280041.84,
-    1266037.54,
-    1265439.55,
-    1241800.0,
-    1247187.61,
-    1232194.01,
-    1238825.76,
-    1234856.01,
-    1239600.65,
-    1226609.41,
-    1238100.66,
-    1250855.97,
-    1262442.81,
-    1268442.37,
-    1258910.31,
-    1270019.85,
-    1267007.23,
-    1265526.81,
-    1270212.64,
-    1272976.02,
-    1262910.32,
-    1257921.65,
-    1259644.98,
-    1263089.13,
-    1276309.45,
-    1271941.62,
-    1267405.9,
-    1260931.86,
-    1263803.64,
-    1260580.09,
-    1268786.34,
-    1273929.71,
-    1283167.13,
-    1288319.03,
-    1284445.13,
-    1275970.4,
-    1264976.96,
-    1262546.94,
-    1267759.22,
-    1258130.72,
-    1265252.33,
-    1264797.87,
-    1268557.6,
-    1275989.88,
-    1277365.3,
-    1279099.87,
-    1291732.92,
-    1301640.9,
-    1301068.24,
-    1304966.13,
-    1299612.52,
-    1301984.66,
-    1305627.95,
-    1299961.34,
-    1290512.42,
-    1287948.41,
-    1299819.01,
-    1299209.82,
-    1300398.62,
-    1305054.64,
-    1309903.04,
-    1300012.44,
-    1307070.03,
-    1305549.84,
-    1314665.64,
-    1313824.45,
-    1312379.52,
-    1308108.47,
-    1304903.41,
-    1309120.78,
-    1296337.6,
-    1310751.29,
-    1303251.35,
-    1302241.35,
-    1286655.28,
-    1275484.12,
-    1271791.73,
-    1274526.15,
-    1229818.72,
-    1204005.39,
-    1225371.76,
-    1218899.29,
-    1244414.95,
-    1243888.91,
-    1225872.1,
-    1219142.49,
-    1214350.71,
-    1210255.82,
-    1174845.85,
-    1180174.29,
-    1161711.84,
-    1158710.72,
-    1178482.11,
-    1185107.16,
-    1195039.74,
-    1193245.37,
-    1199848.45,
-    1207571.02,
-    1228475.76,
-    1224054.0,
-    1213776.89,
-    1185843.14,
-    1190285.77,
-    1186652.45,
-    1195960.84,
-    1194970.83,
-    1173378.71,
-    1157831.2,
-    1152820.71,
-    1146101.42,
-    1162643.91,
-    1166529.09,
-    1189202.71,
-    1188794.54,
-    1200013.1,
-    1210823.86,
-    1170631.94,
-    1171204.27,
-    1141090.52,
-    1143704.93,
-    1141700.73,
-    1145954.18,
-    1150075.61,
-    1130998.77,
-    1105738.01,
-    1106214.07,
-    1087012.38,
-    1072868.74,
-    1056877.83,
-    1027317.07,
-    1068648.87,
-    1075419.76,
-    1078990.68,
-    1085468.75,
-    1082323.26,
-    1055785.21,
-    1088976.22,
-    1104292.82,
-    1109546.44,
-    1110279.58,
-    1117393.21,
-    1120299.27,
-    1112246.38,
-    1123485.55,
-    1123819.09,
-    1130732.7,
-    1143194.53,
-    1122338.29,
-    1121950.89,
-    1125073.32,
-    1138918.6,
-    1121155.59,
-    1117642.33,
-    1138276.32,
-    1150951.19,
-    1153213.23,
-    1159121.74,
-    1164902.13,
-    1165422.42,
-    1146564.62,
-    1147686.52,
-    1149163.88,
-    1162186.93,
-    1165363.74,
-    1164103.6,
-    1173678.9,
-    1174259.75,
-    1175378.83,
-    1169184.09,
-    1180495.2,
-    1183768.99,
-    1182389.65,
-    1182116.4,
-    1175201.51,
-    1181376.36,
-    1171164.83,
-    1165741.29,
-    1153142.12,
-    1145349.65,
-    1147849.0,
-    1163027.9,
-    1161183.43,
-    1171369.8,
-    1170546.72,
-    1175091.57,
-    1174700.0,
-    1177903.69,
-    1175509.46,
-    1195189.36,
-    1165981.66,
-    1162079.76,
-    1171184.68,
-    1162599.38,
-    1167127.42,
-    1178881.9,
-    1191411.81,
-    1189796.46,
-    1196530.43,
-    1194939.01,
-    1199587.73,
-    1198799.58,
-    1187571.59,
-    1192183.54,
-    1190464.64,
-    1195159.08,
-    1193265.14,
-    1199200.61,
-    1197361.93,
-    1197346.58,
-    1196920.47,
-    1208702.84,
-    1207805.27,
-    1204037.05,
-    1206166.53,
-    1207704.94,
-    1207079.84,
-    1196732.39,
-    1197397.71,
-    1208974.72,
-    1201407.24,
-    1178782.04,
-    1176644.66,
-    1172094.57,
-    1176891.57,
-    1142080.52,
-    1154441.07,
-    1160217.45,
-    1166100.14,
-    1152152.1,
-    1138072.97,
-    1147815.57,
-    1135474.89,
-    1121147.72,
-    1119963.76,
-    1108616.78,
-    1104191.13,
-    1106566.15,
-    1094009.88,
-    1094870.13,
-    1116328.88,
-    1123201.08,
-    1132300.21,
-    1143522.26,
-    1148419.47,
-    1145831.62,
-    1140963.64,
-    1145269.87,
-    1140755.09,
-    1140545.72,
-    1155436.21,
-    1156488.13,
-    1166322.08,
-    1162049.22,
-    1159405.18,
-    1147651.28,
-    1150397.21,
-    1157757.52,
-    1163288.19,
-    1172719.44,
-    1175246.11,
-    1183015.27,
-    1178795.79,
-    1172978.73,
-    1177594.5,
-    1183824.74,
-    1184617.49,
-    1189794.76,
-    1194826.76,
-    1187997.39,
-    1182779.84,
-    1189286.03,
-    1184331.2,
-    1189178.81,
-    1195991.24,
-    1203226.85,
-    1191897.73,
-    1199797.19,
-    1196903.29,
-    1192838.41,
-    1174665.53,
-    1160037.54,
-    1152922.05,
-    1118738.45,
-    1131906.43,
-    1132744.66,
-    1155321.63,
-    1145159.25,
-    1132997.13,
-    1145951.31,
-    1113368.71,
-    1113240.3,
-    1132221.38,
-    1145603.45,
-    1136316.85,
-    1144762.18,
-    1145716.03,
-    1116192.28,
-    1127764.67,
-    1120137.43,
-    1128616.53,
-    1141324.26,
-    1142811.9,
-    1135112.64,
-    1148908.9,
-    1160073.89,
-    1159693.55,
-    1160533.84,
-    1160702.3,
-    1168784.81,
-    1170495.58,
-    1169279.19,
-    1165177.05,
-    1168412.67,
-    1164058.55,
-    1162192.74,
-    1156667.2,
-    1155817.98,
-    1143166.1,
-    1152358.54,
-    1151641.28,
-    1136858.54,
-    1141896.15,
-    1126871.49,
-    1107939.47,
-    1114567.11,
-    1128629.61,
-    1126459.77,
-    1109152.53,
-    1119004.29,
-    1127041.84,
-    1143812.46,
-    1143764.4,
-    1155565.61,
-    1149656.49,
-    1156233.18,
-    1151214.86,
-    1156736.81,
-    1157090.55,
-    1157699.55,
-    1161215.7,
-    1173384.06,
-    1180494.29,
-    1174318.87,
-    1177545.17,
-    1171535.21,
-    1185285.76,
-    1194620.2,
-    1192266.71,
-    1192362.09,
-    1198096.05,
-    1203765.43,
-    1201986.49,
-    1203564.7,
-    1203528.81,
-    1205223.51,
-    1216479.53,
-    1217865.96,
-    1220270.63,
-    1212693.86,
-    1210963.61,
-    1209048.31,
-    1221265.98,
-    1218381.96,
-    1223659.69,
-    1218783.59,
-    1209697.09,
-    1201168.23,
-    1208275.66,
-    1206569.17,
-    1217403.26,
-    1213480.23,
-    1213267.62,
-    1218537.35,
-    1238478.72,
-    1234226.2,
-    1246347.42,
-    1246103.27,
-    1245872.22,
-    1253656.4,
-    1260565.26,
-    1267631.42,
-    1268931.66,
-    1272570.87,
-    1269456.97,
-    1256959.67,
-    1261101.28,
-    1280342.13,
-    1274685.71,
-    1279042.06,
-    1284658.7,
-    1292196.3,
-    1298865.2,
-    1293790.98,
-    1310075.79,
-    1311292.72,
-    1305465.65,
-    1315756.2,
-    1318658.04,
-    1323460.19,
-    1325269.73,
-    1330085.06,
-    1316839.48,
-    1294907.82,
-    1308097.15,
-    1300976.01,
-    1314350.56,
-    1288524.6,
-    1308619.36,
-    1337896.9,
-    1338866.08,
-    1344733.25,
-    1339394.88,
-    1349873.99,
-    1357662.86,
-    1364750.02,
-    1363683.37,
-    1364635.66,
-    1370047.86,
-    1386182.77,
-    1376826.66,
-    1359320.59,
-    1310344.9,
-    1271797.48,
-    1266225.85,
-    1209379.02,
-    1208599.14,
-    1258526.84,
-    1225795.58,
-    1272293.34,
-    1228276.42,
-    1210524.05,
-    1110003.4,
-    1152269.07,
-    1104996.83,
-    999934.7,
-    1079795.44,
-    956052.39,
-    1002647.93,
-    949134.43,
-    971126.22,
-    936600.23,
-    929085.27,
-    1003562.2,
-    1005451.15,
-    1056624.1,
-    1026620.19,
-    1052664.67,
-    1040128.29,
-    994383.28,
-    1007511.78,
-    995321.01,
-    1058887.42,
-    1056514.83,
-    1090549.1,
-    1098685.94,
-    1096176.59,
-    1127186.24,
-    1105765.1,
-    1110856.2,
-    1140227.48,
-    1123983.61,
-    1086882.65,
-    1107545.95,
-    1103068.85,
-    1114189.52,
-    1135221.85,
-    1130202.45,
-    1157087.47,
-    1140637.15,
-    1099888.76,
-    1109119.5,
-    1118472.14,
-    1107886.94,
-    1123709.0,
-    1144452.46,
-    1144007.84,
-    1119300.73,
-    1099900.8,
-    1118768.24,
-    1119438.3,
-    1163940.16,
-    1152712.03,
-    1172208.09,
-    1165049.99,
-    1168728.0,
-    1179014.24,
-    1199567.57,
-    1184873.85,
-    1190169.31,
-    1196255.13,
-    1206540.09,
-    1230739.01,
-    1237080.85,
-    1278471.87,
-    1300370.81,
-    1280352.33,
-    1261118.84,
-    1177103.5,
-    1205105.73,
-    1213857.36,
-    1239239.03,
-    1228693.92,
-    1228513.95,
-    1219025.1,
-    1225145.19,
-    1228955.1,
-    1192435.28,
-    1204921.31,
-    1168416.24,
-    1193751.52,
-    1213945.62,
-    1220993.46,
-    1229441.4,
-    1258890.83,
-    1245854.42,
-    1254811.56,
-    1246126.44,
-    1270981.75,
-    1254344.28,
-    1268952.56,
-    1284716.1,
-    1277505.15,
-    1277619.63,
-    1289799.23,
-    1293655.37,
-    1301616.58,
-    1287388.07,
-    1276523.07,
-    1291208.58,
-    1279336.68,
-    1294216.3,
-    1291805.67,
-    1285847.31,
-    1296877.14,
-    1310411.94,
-    1318173.96,
-    1321838.44,
-    1321110.31,
-    1329800.92,
-    1315362.16,
-    1346762.14,
-    1343307.71,
-    1345717.94,
-    1354570.51,
-    1353423.09,
-    1346593.31,
-    1352544.43,
-    1359159.77,
-    1377024.87,
-    1379849.41,
-    1398435.78,
-    1395235.79,
-    1405742.1,
-    1413998.72,
-    1422003.92,
-    1433244.59,
-    1375641.06,
-    1369746.21,
-    1317987.84,
-    1346062.14,
-    1325113.42,
-    1328905.44,
-    1353642.26,
-    1358812.56,
-    1363179.63,
-    1352263.84,
-    1341440.55,
-    1322983.28,
-    1325684.03,
-    1297744.21,
-    1301238.17,
-    1320304.89,
-    1343549.68,
-    1337924.47,
-    1343430.02,
-    1353333.56,
-    1336504.36,
-    1358708.42,
-    1346616.94,
-    1373178.83,
-    1384438.73,
-    1389035.61,
-    1401991.06,
-    1394840.87,
-    1386434.81,
-    1385536.5,
-    1388188.99,
-    1371223.02,
-    1381564.94,
-    1369947.31,
-    1383894.57,
-    1385853.87,
-    1356369.85,
-    1345529.71,
-    1304473.96,
-    1318110.41,
-    1305458.73,
-    1323825.23,
-    1349043.79,
-    1370784.26,
-    1398953.32,
-    1412439.78,
-    1454302.11,
-    1457939.21,
-    1468127.01,
-    1444011.38,
-    1476894.88,
-    1507134.69,
-    1517105.89,
-    1505554.11,
-    1518087.25,
-    1505325.35,
-    1546451.9,
-    1587500.59,
-    1604248.98,
-    1600864.77,
-    1581681.27,
-    1595398.22,
-    1599024.47,
-    1611638.71,
-    1636084.28,
-    1655721.18,
-    1656942.26,
-    1640683.86,
-    1642862.72,
-    1630143.88,
-    1622142.74,
-    1632924.03,
-    1626985.2,
-    1637483.57,
-    1628449.19,
-    1623133.9,
-    1608497.23,
-    1618621.98,
-    1615590.04,
-    1612169.79,
-    1604362.85,
-    1616639.83,
-    1618515.03,
-    1599469.41,
-    1624459.9,
-    1646592.48,
-    1680232.89,
-    1686645.59,
-    1684064.38,
-    1699275.81,
-    1703876.89,
-    1714621.79,
-    1683645.82,
-    1711212.57,
-    1715343.56,
-    1707171.06,
-    1703608.02,
-    1714108.4,
-    1703216.69,
-    1660318.77,
-    1672414.21,
-    1636191.58,
-    1655488.66,
-    1674234.31,
-    1672807.38,
-    1694596.7,
-    1703590.37,
-    1729093.06,
-    1726176.8,
-    1718790.0,
-    1717773.8,
-    1725607.19,
-    1723940.27,
-    1721742.2,
-    1703468.66,
-    1732079.51,
-    1719999.22,
-    1722002.77,
-    1755881.84,
-    1702977.46,
-    1692179.43,
-    1732290.88,
-    1711387.97,
-    1698751.39,
-    1681631.47,
-    1706587.78,
-    1694088.0,
-    1721979.64,
-    1733589.66,
-    1751423.6,
-    1761660.5,
-    1764930.18,
-    1749005.11,
-    1757789.34,
-    1728144.97,
-    1721720.1,
-    1721537.77,
-    1694610.64,
-    1686328.63,
-    1702163.96,
-    1734241.48,
-    1720829.66,
-    1723345.2,
-    1728586.23,
-    1750921.62,
-    1767391.45,
-    1761694.88,
-    1760131.0,
-    1767123.53,
-    1777029.33,
-    1769136.63,
-    1774734.81,
-    1767468.3,
-    1784234.7,
-    1788055.47,
-    1772372.32,
-    1750564.27,
-    1773435.93,
-    1752108.73,
-    1772288.27,
-    1779097.29,
-    1782954.94,
-    1783800.41,
-    1798441.82,
-    1785755.06,
-    1794380.76,
-    1784309.32,
-    1788878.12,
-    1798231.89,
-    1810900.74,
-    1783118.33,
-    1770373.47,
-    1725790.58,
-    1745925.01,
-    1776986.04,
-    1773136.78,
-    1761419.37,
-    1752983.32,
-    1768454.72,
-    1770086.32,
-    1784865.53,
-    1776890.29,
-    1780137.68,
-    1782826.99,
-    1786158.05,
-    1785760.81,
-    1792620.76,
-    1787656.56,
-    1801006.59,
-    1799023.92,
-    1792622.12,
-    1784657.25,
-    1788475.06,
-    1789708.86,
-    1788810.32,
-    1783756.27,
-    1774506.0,
-    1765595.66,
-    1746825.41,
-    1770022.34,
-    1779127.28,
-    1782200.28,
-    1800522.47,
-    1802551.38,
-    1809480.14,
-    1806592.11,
-    1812264.65,
-    1814001.54,
-    1822370.79,
-    1816946.4,
-    1808736.73,
-    1798481.31,
-    1817907.31,
-    1822336.29,
-    1813094.86,
-    1808762.88,
-    1799263.98,
-    1783154.33,
-    1761043.54,
-    1788031.76,
-    1807253.97,
-    1811159.22,
-    1821242.02,
-    1826438.12,
-    1816782.87,
-    1820476.38,
-    1828712.54,
-    1822854.85,
-    1823046.78,
-    1840532.64,
-    1840674.26,
-    1852669.84,
-    1852570.45,
-    1849731.23,
-    1853457.67,
-    1854870.37,
-    1855651.17,
-    1860721.22,
-    1858964.87,
-    1848568.73,
-    1833669.52,
-    1825919.52,
-    1832805.11,
-    1852208.03,
-    1852438.58,
-    1855939.35,
-    1847590.03,
-    1862648.41,
-    1863041.16,
-    1858269.41,
-    1856336.42,
-    1862867.23,
-    1863607.67,
-    1855445.5,
-    1848521.86,
-    1840027.72,
-    1832801.54,
-    1829141.51,
-    1820193.08,
-    1835737.11,
-    1840409.93,
-    1827879.81,
-    1793540.27,
-    1795715.8,
-    1816110.9,
-    1843591.33,
-    1847021.82,
-    1836341.0,
-    1795689.12,
-    1795724.49,
-    1779667.43,
-    1804859.06,
-    1788963.07,
-    1805382.84,
-    1807566.95,
-    1818323.11,
-    1821222.24,
-    1806249.51,
-    1803852.73,
-    1808514.28,
-    1832148.1,
-    1847046.91,
-    1849531.89,
-    1859483.83,
-    1864178.26,
-    1871310.56,
-    1880516.22,
-    1898897.51,
-    1903730.21,
-    1886371.52,
-    1898148.39,
-    1907235.2,
-    1919742.02,
-    1915264.09,
-    1935658.7,
-    1955371.24,
-    1958093.42,
-    1969011.59,
-    1948457.49,
-    1921595.65,
-    1934127.84,
-    1943745.28,
-    1938110.23,
-    1952611.54,
-    1945727.37,
-    1954283.02,
-    1949987.08,
-    1941934.84,
-    1945196.18,
-    1960133.71,
-    1915907.26,
-    1941697.75,
-    1901825.57,
-    1873955.34,
-    1894831.22,
-    1869310.88,
-    1883196.54,
-    1929470.66,
-    1930886.85,
-    1908257.79,
-    1922976.43,
-    1896524.22,
-    1888426.03,
-    1932365.02,
-    1910905.54,
-    1892889.89,
-    1878809.06,
-    1908112.72,
-    1924741.8,
-    1940855.26,
-    1965672.34,
-    1955187.48,
-    1957154.64,
-    1950074.59,
-    1943822.34,
-    1957146.38,
-    1951057.69,
-    1914939.15,
-    1911839.95,
-    1902364.24,
-    1905362.89,
-    1922239.17,
-    1925268.46,
-    1902594.63,
-    1914915.16,
-    1875835.0,
-    1851677.53,
-    1835299.5,
-    1799304.0,
-    1799429.25,
-    1786711.97,
-    1777505.57,
-    1781674.5,
-    1804089.75,
-    1841975.54,
-    1863695.18,
-    1870455.82,
-    1836420.52,
-    1845620.83,
-    1844686.75,
-    1852173.88,
-    1875196.03,
-    1848320.84,
-    1820442.78,
-    1811555.24,
-    1839464.91,
-    1839697.84,
-    1799791.91,
-    1781438.09,
-    1759902.77,
-    1737542.51,
-    1750285.82,
-    1789920.82,
-    1799704.05,
-    1782736.98,
-    1808943.94,
-    1798253.64,
-    1794512.58,
-    1761542.33,
-    1756234.92,
-    1780222.39,
-    1779799.7,
-    1765356.76,
-    1754911.17,
-    1769956.17,
-    1793766.46,
-    1820188.87,
-    1829220.27,
-    1836146.72,
-    1850077.73,
-    1834490.8,
-    1854431.89,
-    1857962.01,
-    1864300.6,
-    1880981.03,
-    1868211.01,
-    1839437.72,
-    1844886.54,
-    1858859.27,
-    1826182.65,
-    1812728.82,
-    1823369.48,
-    1822115.1,
-    1797138.73,
-    1791740.89,
-    1806777.8,
-    1796734.06,
-    1794646.34,
-    1810661.73,
-    1806855.4,
-    1782701.36,
-    1735603.75,
-    1739986.45,
-    1697171.62,
-    1686509.6,
-    1730515.49,
-    1675906.89,
-    1684783.75,
-    1690360.76,
-    1736660.77,
-    1691499.16,
-    1683537.75,
-    1613862.15,
-    1608912.52,
-    1585059.39,
-    1595693.37,
-    1635894.44,
-    1632808.17,
-    1664247.44,
-    1597606.47,
-    1589094.83,
-    1593121.15,
-    1618634.91,
-    1616214.45,
-    1634256.09,
-    1659602.74,
-    1686818.04,
-    1671970.11,
-    1663446.56,
-    1696491.28,
-    1674928.03,
-    1677118.75,
-    1692690.38,
-    1679103.2,
-    1638752.91,
-    1592092.59,
-    1530178.26,
-    1531931.13,
-    1545937.73,
-    1494904.37,
-    1496699.85,
-    1533110.24,
-    1524370.09,
-    1529819.79,
-    1574533.85,
-    1570149.11,
-    1542840.09,
-    1531114.64,
-    1518377.62,
-    1530316.14,
-    1533404.64,
-    1530133.54,
-    1555902.92,
-    1554319.66,
-    1531826.13,
-    1517293.39,
-    1508762.0,
-    1509258.71,
-    1539641.27,
-    1526291.08,
-    1567710.63,
-    1582212.51,
-    1594679.46,
-    1576670.65,
-    1575837.71,
-    1556886.9,
-    1591705.54,
-    1605700.13,
-    1622665.34,
-    1624233.96,
-    1618079.04,
-    1641905.23,
-    1647284.92,
-    1640306.59,
-    1627752.86,
-    1606219.9,
-    1649661.96,
-    1643533.39,
-    1675417.62,
-    1682263.73,
-    1682643.66,
-    1662674.42,
-    1663592.05,
-    1635380.21,
-    1594973.28,
-    1594911.96,
-    1603925.22,
-    1628895.45,
-    1574362.8,
-    1565865.89,
-    1546905.21,
-    1534442.21,
-    1533471.24,
-    1519551.62,
-    1508734.9,
-    1533242.84,
-    1545556.67,
-    1571642.23,
-    1588692.39,
-    1525046.24,
-    1542385.93,
-    1529624.33,
-    1511156.32,
-    1520748.59,
-    1498563.63,
-    1474217.82,
-    1452398.46,
-    1421201.37,
-    1405217.91,
-    1406900.82,
-    1441854.38,
-    1415122.4,
-    1390776.75,
-    1420088.86,
-    1463638.14,
-    1460514.27,
-    1453194.69,
-    1415995.01,
-    1408450.3,
-    1400304.16,
-    1399136.29,
-    1435213.22,
-    1398847.59,
-    1421723.78,
-    1436133.78,
-    1437845.5,
-    1429325.71,
-    1464209.78,
-    1477154.4,
-    1498432.59,
-    1507589.2,
-    1501213.23,
-    1531526.04,
-    1518893.78,
-    1519456.44,
-    1481858.18,
-    1479178.79,
-    1495503.99,
-    1511049.37,
-    1522759.09,
-    1485102.97,
-    1560823.64,
-    1584449.31,
-    1572897.09,
-    1589945.92,
-    1567652.81,
-    1561600.66,
-    1563265.74,
-    1555080.74,
-    1574700.52,
-    1589381.43,
-    1586541.11,
-    1560933.97,
-    1559316.59,
-    1602341.28,
-    1601251.79,
-    1597257.77,
-    1564795.58,
-    1538270.03,
-    1536748.75,
-    1547401.26,
-    1535851.85,
-    1553985.89,
-    1570228.86,
-    1559341.58,
-    1516316.71,
-    1500406.51,
-    1487018.6,
-    1488312.95,
-    1517268.1,
-    1490239.58,
-    1494736.69,
-    1484238.87,
-    1469588.36,
-    1497198.41,
-    1496469.0,
-    1491674.24,
-    1518273.03,
-    1506668.78,
-    1541168.65,
-    1544473.87,
-    1556358.24,
-    1567979.88,
-    1574869.19,
-    1578893.34,
-    1575139.43,
-    1550061.82,
-    1530042.88,
-    1559059.16,
-    1588220.83,
-    1586575.18,
-    1587757.74,
-    1607144.35,
-    1610689.04,
-    1585276.33,
-    1605518.75,
-    1628575.48,
-    1658939.81,
-    1638844.91,
-    1631340.89,
-    1650999.92,
-    1636380.58,
-    1622634.35,
-    1608036.07,
-    1625067.66,
-    1645162.16,
-    1655431.32,
-    1624533.25,
-    1615532.64,
-    1579993.06,
-    1578180.58,
-    1588430.53,
-    1568591.51,
-    1573788.9,
-    1569366.63,
-    1564486.64,
-    1584377.99,
-    1610730.33,
-    1606193.49,
-    1584680.36,
-    1588413.25,
-    1550323.01,
-    1523407.89,
-    1503365.94,
-    1549090.11,
-    1538458.0,
-    1574941.68,
-    1552684.17,
-    1560691.94,
-    1593374.52,
-    1563841.45,
-    1570787.96,
-    1570237.65,
-    1572041.69,
-    1564353.78,
-    1593378.98,
-    1597952.85,
-    1619927.59,
-    1620593.01,
-    1606157.29,
-    1593425.77,
-    1597384.88,
-    1606217.34,
-    1606108.62,
-    1595847.98,
-    1615060.46,
-    1613422.95,
-    1618079.71,
-    1622794.46,
-    1624558.88,
-    1611438.99,
-    1613645.5,
-    1609274.68,
-    1581714.84,
-    1571602.1,
-    1602056.71,
-    1620452.7,
-    1625325.36,
-    1609656.11,
-    1598669.48,
-    1588864.72,
-    1612258.31,
-    1616257.28,
-    1611515.58,
-    1619554.83,
-    1621671.31,
-    1614805.05,
-    1621345.0,
-    1613151.76,
-    1641347.01,
-    1671267.28,
-    1665486.01,
-    1666819.45,
-    1653119.91,
-    1638687.02,
-    1666063.37,
-    1702128.02,
-    1704913.15,
-    1694599.24,
-    1706338.93,
-    1727286.23,
-    1728420.55,
-    1736795.96,
-    1717527.81,
-    1737003.1,
-    1747529.23,
-    1778802.79,
-    1792731.37,
-    1804735.54,
-    1825358.29,
-    1814808.48,
-    1806336.13,
-    1780627.14,
-    1777058.48,
-    1762510.78,
-    1750161.74,
-    1776062.97,
-    1777653.6,
-    1780027.39,
-    1797490.0,
-    1806628.93,
-    1801836.01,
-    1779281.23,
-    1778274.47,
-    1793112.26,
-    1804896.21,
-    1818699.64,
-    1834240.88,
-    1825960.99,
-    1833805.77,
-    1854265.04,
-    1864919.93,
-    1837912.78,
-    1830743.35,
-    1840152.62,
-    1840027.63,
-    1838345.35,
-    1824125.19,
-    1849306.36,
-    1864639.92,
-    1855411.33,
-    1826539.03,
-    1816940.2,
-    1809252.0,
-    1825237.74,
-    1815879.89,
-    1797750.85,
-    1797712.32,
-    1792266.62,
-    1804962.51,
-    1782867.58,
-    1766480.69,
-    1752463.91,
-    1750590.32,
-    1758062.49,
-    1747424.91,
-    1761729.75,
-    1737017.8,
-    1749908.33,
-    1760514.71,
-    1783071.82,
-    1788324.72,
-    1782264.71,
-    1783870.28,
-    1778245.71,
-    1769590.57,
-    1767723.05,
-    1770961.27,
-    1781661.81,
-    1773244.25,
-    1769790.73,
-    1783618.44,
-    1763962.62,
-    1761702.44,
-    1754984.29,
-    1741212.04,
-    1711668.74,
-    1706366.97,
-    1713142.26,
-    1692859.61,
-    1696409.39,
-    1700363.71,
-    1697187.05,
-    1685470.69,
-    1665460.83,
-    1666152.14,
-    1663839.44,
-    1680153.13,
-    1691230.63,
-    1701429.25,
-    1708640.56,
-    1699070.75,
-    1690813.23,
-    1703697.81,
-    1704496.4,
-    1682453.06,
-    1672014.56,
-    1651223.3,
-    1644144.16,
-    1660537.83,
-    1638335.99,
-    1626169.83,
-    1608144.21,
-    1626190.4,
-    1642317.06,
-    1654848.76,
-    1694454.57,
-    1713742.29,
-    1711954.02,
-    1715048.15,
-    1708661.95,
-    1691415.52,
-    1720551.21,
-    1716023.45,
-    1750969.3,
-    1757977.34,
-    1759215.91,
-    1763233.54,
-    1778415.16,
-    1764639.46,
-    1771415.81,
-    1772984.08,
-    1767363.33,
-    1766450.02,
-    1773145.57,
-    1782529.36,
-    1794118.99,
-    1783399.82,
-    1778658.57,
-    1770700.89,
-    1785272.65,
-    1798149.7,
-    1809110.99,
-    1814501.06,
-    1834042.79,
-    1857116.33,
-    1860650.21,
-    1861288.28,
-    1877706.05,
-    1840566.19,
-    1859631.22,
-    1858495.98,
-    1871747.14,
-    1873972.07,
-    1876402.31,
-    1866629.65,
-    1851968.54,
-    1832001.49,
-    1829949.49,
-    1837214.61,
-    1852322.58,
-    1845557.88,
-    1845419.72,
-    1841953.65,
-    1841597.86,
-    1831169.0,
-    1819418.36,
-    1830534.27,
-    1864781.18,
-    1862164.4,
-    1863627.5,
-    1865761.44,
-    1872005.07,
-    1866967.66,
-    1879682.48,
-    1876356.58,
-    1855148.51,
-    1871406.42,
-    1883770.5,
-    1877540.63,
-    1885308.88,
-    1900839.73,
-    1899620.79,
-    1903826.0,
-    1907987.35,
-    1882579.05,
-    1911796.99,
-    1925382.99,
-    1909712.2,
-    1883970.24,
-    1878375.11,
-    1931090.76,
-    1923783.24,
-    1929105.8,
-    1933970.45,
-    1926169.88,
-    1944705.5,
-    1971306.02,
-    1968193.77,
-    1946384.14,
-    1961735.19,
-    1987653.02,
-    1964657.11,
-    1952527.04,
-    1970408.19,
-    1963243.43,
-    1947923.43,
-    1937966.67,
-    1953757.94,
-    1959700.63,
-    1977250.49,
-    1987700.71,
-    1979334.77,
-    1978488.7,
-    1975194.45,
-    1990174.22,
-    1987590.25,
-    1985418.57,
-    1969016.08,
-    1974810.27,
-    1943952.72,
-    1964554.63,
-    1964321.03,
-    1966335.41,
-    1950220.83,
-    1961121.21,
-    1926444.33,
-    1910503.19,
-    1911578.83,
-    1899647.93,
-    1896603.56,
-    1879844.71,
-    1895089.75,
-    1926539.84,
-    1923167.93,
-    1922009.42,
-    1932583.52,
-    1938862.25,
-    1907022.47,
-    1895979.79,
-    1908550.64,
-    1930524.38,
-    1950619.89,
-    1939506.01,
-    1938223.09,
-    1950916.57,
-    1951611.77,
-    1950027.73,
-    1963115.83,
-    1988498.4,
-    1987067.02,
-    1985543.9,
-    1984367.95,
-    1984322.08,
-    1976799.52,
-    1947912.71,
-    1965470.95,
-    1968467.61,
-    1948532.46,
-    1934491.03,
-    1958289.46,
-    1958504.44,
-    1960404.93,
-    1983561.33,
-    1980777.67,
-    1979101.59,
-    1985861.05,
-    1981190.27,
-    1999368.6,
-    2003591.32,
-    2004879.51,
-    2026366.44,
-    2040194.96,
-    2025400.75,
-    2014516.12,
-    1998868.97,
-    2007410.74,
-    2010130.43,
-    2010268.94,
-    2010849.1,
-    2014879.55,
-    2027672.55,
-    2041092.48,
-    2053799.1,
-    2053389.89,
-    2050932.56,
-    2071506.15,
-    2046040.23,
-    2062593.51,
-    2068161.71,
-    2089216.98,
-    2045078.97,
-    2029311.12,
-    2012327.07,
-    2042743.1,
-    2034406.13,
-    1981430.95,
-    1977253.33,
-    2001852.93,
-    2000517.45,
-    1986928.5,
-    2027233.42,
-    1995010.3,
-    1958338.45,
-    1913111.94,
-    1924522.8,
-    1907497.34,
-    1955611.37,
-    1957784.59,
-    1954478.16,
-    1991349.75,
-    1995639.74,
-    2021463.47,
-    2026023.45,
-    2045067.87,
-    2040034.25,
-    2045579.1,
-    2025071.06,
-    2046215.09,
-    2038170.33,
-    2043236.67,
-    2026123.84,
-    2032206.72,
-    2056844.42,
-    2011505.31,
-    2015140.04,
-    2002916.93,
-    1971271.35,
-    1997669.33,
-    2008683.12,
-    2021075.43,
-    2031192.78,
-    2050435.25,
-    2059808.76,
-    2057651.33,
-    2046371.51,
-    2070612.29,
-    2070420.72,
-    2086133.16,
-    2092183.86,
-    2090013.26,
-    2105735.29,
-    2103629.72,
-    2103353.22,
-    2086007.89,
-    2081350.27,
-    2078679.32,
-    2105530.67,
-    2088215.83,
-    2104680.55,
-    2122635.97,
-    2115037.72,
-    2124892.85,
-    2134700.81,
-    2104687.43,
-    2118000.03,
-    2119459.33,
-    2126889.01,
-    2117589.39,
-    2116352.22,
-    2104447.69,
-    2112759.53,
-    2105640.5,
-    2108076.73,
-    2109021.8,
-    2093385.9,
-    2070405.01,
-    2076454.11,
-    2067030.98,
-    2113190.21,
-    2192649.48,
-    2186775.29,
-    2208529.7,
-    2231877.69,
-    2202744.76,
-    2207023.04,
-    2186685.21,
-    2186137.33,
-    2181823.19,
-    2182812.54,
-    2189641.71,
-    2207383.85,
-    2227350.36,
-    2232519.26,
-    2232275.65,
-    2227194.4,
-    2238753.94,
-    2236597.1,
-    2237707.01,
-    2247530.14,
-    2244216.75,
-    2260844.03,
-    2237502.37,
-    2230746.26,
-    2252357.33,
-    2237170.11,
-    2242888.33,
-    2258380.72,
-    2240740.96,
-    2173380.63,
-    2165954.15,
-    2196086.88,
-    2212128.37,
-    2243973.19,
-    2243356.65,
-    2215496.15,
-    2184361.88,
-    2174142.43,
-    2163800.73,
-    2199907.76,
-    2211994.28,
-    2187251.28,
-    2179968.01,
-    2151291.81,
-    2156547.33,
-    2165399.71,
-    2207265.13,
-    2211776.22,
-    2239694.42,
-    2269597.09,
-    2275741.24,
-    2291613.4,
-    2283475.62,
-    2232929.03,
-    2246819.9,
-    2240100.47,
-    2279321.68,
-    2269895.87,
-    2252896.25,
-    2290903.75,
-    2295459.03,
-    2309807.5,
-    2290750.6,
-    2308156.8,
-    2301974.78,
-    2313436.14,
-    2335102.42,
-    2334245.38,
-    2355697.18,
-    2348880.27,
-    2340941.07,
-    2297922.02,
-    2274999.1,
-    2269920.17,
-    2270121.81,
-    2242865.72,
-    2274813.77,
-    2252755.08,
-    2220783.45,
-    2247530.61,
-    2213029.5,
-    2236619.22,
-    2182899.56,
-    2167943.39,
-    2177010.15,
-    2157371.24,
-    2187698.2,
-    2212657.77,
-    2192656.88,
-    2200770.61,
-    2200186.4,
-    2200116.97,
-    2227093.98,
-    2223333.37,
-    2199339.1,
-    2191407.71,
-    2161580.77,
-    2174410.92,
-    2177299.44,
-    2184685.01,
-    2114603.43,
-    1995116.11,
-    1989889.31,
-    1964618.43,
-    2108062.69,
-    2044811.12,
-    2072064.43,
-    2093280.86,
-    2088541.05,
-    2058282.46,
-    2049762.26,
-    2010133.51,
-    2052505.42,
-    2081559.81,
-    2124835.38,
-    2127929.25,
-    2132319.99,
-    2145238.9,
-    2156147.68,
-    2147974.91,
-    2188946.8,
-    2180793.33,
-    2157454.23,
-    2166785.82,
-    2174360.3,
-    2168919.57,
-    2229516.31,
-    2241436.79,
-    2239360.45,
-    2247017.88,
-    2267083.52,
-    2277207.78,
-    2276503.87,
-    2238415.26,
-    2236950.57,
-    2228212.87,
-    2272493.61,
-    2267252.64,
-    2268400.61,
-    2272165.75,
-    2288876.91,
-    2309472.79,
-    2306826.82,
-    2285349.25,
-    2308482.57,
-    2318271.82,
-    2327033.38,
-    2331949.03,
-    2338456.15,
-    2328240.6,
-    2350896.02,
-    2330958.29,
-    2326946.17,
-    2320028.7,
-    2342836.68,
-    2380712.6,
-    2377629.22,
-    2394758.6,
-    2400590.71,
-    2416117.08,
-    2401340.5,
-    2417932.34,
-    2437719.8,
-    2417393.75,
-    2423214.46,
-    2427260.74,
-    2438987.87,
-    2426252.17,
-    2429222.72,
-    2429325.94,
-    2439440.92,
-    2450167.86,
-    2444825.96,
-    2438601.32,
-    2433670.0,
-    2472700.43,
-    2471600.43,
-    2488606.24,
-    2496195.08,
-    2488752.0,
-    2491364.41,
-    2458234.41,
-    2422334.89,
-    2455157.64,
-    2457969.53,
-    2456955.4,
-    2451812.2,
-    2465388.42,
-    2459192.97,
-    2486327.24,
-    2497217.63,
-    2494214.28,
-    2487612.64,
-    2488775.78,
-    2472053.33,
-    2459058.6,
-    2450214.23,
-    2484181.31,
-    2464944.71,
-    2476551.29,
-    2481202.03,
-    2485301.8,
-    2475001.62,
-    2459315.19,
-    2457396.06,
-    2473047.53,
-    2479738.83,
-    2486912.86,
-    2503087.27,
-    2537794.81,
-    2558356.83,
-    2556668.24,
-    2576231.91,
-    2576629.22,
-    2579843.88,
-    2607838.82,
-    2614907.86,
-    2628068.72,
-    2623435.91,
-    2618894.91,
-    2597604.0,
-    2619663.4,
-    2620434.32,
-    2636090.14,
-    2694457.51,
-    2698983.88,
-    2693044.66,
-    2710923.71,
-    2685959.49,
-    2707479.89,
-    2694378.5,
-    2620859.15,
-    2670596.63,
-    2668386.27,
-    2706103.74,
-    2699218.57,
-    2697668.48,
-    2728152.74,
-    2722224.57,
-    2702267.34,
-    2728940.06,
-    2755629.03,
-    2787081.85,
-    2778819.13,
-    2789062.53,
-    2757394.79,
-    2759576.87,
-    2762143.6,
-    2705849.45,
-    2752822.15,
-    2717356.78,
-    2715196.31,
-    2762294.73,
-    2759065.57,
-    2775576.49,
-    2721972.87,
-    2713865.71,
-    2690548.72,
-    2669987.73,
-    2681070.87,
-    2617827.43,
-    2653581.13,
-    2698227.52,
-    2730684.37,
-    2749489.67,
-    2763517.38,
-    2742524.93,
-    2756998.39,
-    2781191.71,
-    2766659.07,
-    2779679.61,
-    2767485.24,
-    2765555.88,
-    2797976.64,
-    2791159.16,
-    2759434.58,
-    2763636.14,
-    2759363.69,
-    2712129.19,
-    2740834.91,
-    2775500.37,
-    2797838.8,
-    2796971.96,
-    2814769.59,
-    2813377.59,
-    2805948.14,
-    2797575.57,
-    2776490.34,
-    2808597.61,
-    2835628.7,
-    2877290.02,
-    2856782.55,
-    2849436.5,
-    2881809.18,
-    2887843.6,
-    2876193.41,
-    2867616.39,
-    2877515.9,
-    2878065.64,
-    2837478.55,
-    2891438.56,
-    2904858.94,
-    2884998.85,
-    2878241.51,
-    2892573.98,
-    2913712.58,
-    2917756.54,
-    2882983.36,
-    2911176.66,
-    2891684.75,
-    2862099.26,
-    2826699.0,
-    2888069.89,
-    2899757.05,
-    2888639.94,
-    2909243.72,
-    2882444.28,
-    2908024.72,
-    2893703.61,
-    2912365.13,
-    2908091.08,
-    2914915.08,
-    2878191.06,
-    2906491.99,
-    2924461.26,
-    2921160.73,
-    2930604.14,
-    2936011.94,
-    2899869.46,
-    2929854.3,
-    2907021.73,
-    2877824.19,
-    2888193.02,
-    2870056.28,
-    2869644.55,
-    2831207.21,
-    2830224.98,
-    2855819.39,
-    2872355.53,
-    2842567.62,
-    2845469.11,
-    2813602.59,
-    2839612.61,
-    2841097.82,
-    2841979.91,
-    2790780.64,
-    2760677.44,
-    2745325.72,
-    2805256.08,
-    2806525.86,
-    2811617.06,
-    2821023.63,
-    2817551.82,
-    2861053.02,
-    2868555.38,
-    2856100.39,
-    2901260.92,
-    2914575.97,
-    2942356.99,
-    2973834.02,
-    2990361.89,
-    2976185.37,
-    2974158.85,
-    3021271.63,
-    3005722.49,
-    3042449.05,
-    3038030.42,
-    3019044.31,
-    3046447.29,
-    3099192.83,
-    3115755.89,
-    3098916.16,
-    3162823.75,
-    3241085.68,
-    3215854.0,
-    3301482.58,
-    3332983.15,
-    3301272.9,
-    3313603.99,
-    3317649.79,
-    3264729.01,
-    3270362.5,
-    3254255.02,
-    3314635.46,
-    3330128.75,
-    3374444.67,
-    3429879.88,
-    3425618.96,
-    3459301.63,
-    3502845.79,
-    3524883.51,
-    3527915.63,
-    3520758.91,
-    3501208.36,
-    3348432.94,
-    3410908.74,
-    3374717.84,
-    3302694.3,
-    3407923.64,
-    3436462.07,
-    3493938.5
+    1000546.86,
+    1000469.08,
+    998703.44,
+    998899.0,
+    999392.77,
+    1001022.42,
+    1001054.55,
+    1001704.26,
+    1002102.62,
+    1002502.84,
+    1002595.98,
+    1004179.17,
+    1001882.5,
+    1005604.96,
+    1000715.75,
+    1004863.85,
+    1007304.85,
+    1011079.43,
+    1009630.52,
+    1009068.83,
+    1006760.13,
+    1004582.15,
+    998673.69,
+    1000461.96,
+    1001812.26,
+    1010072.85,
+    1007377.95,
+    1007946.19,
+    1003563.16,
+    1007445.05,
+    1009468.25,
+    1014590.08,
+    1008882.25,
+    1008324.79,
+    1012765.75,
+    1020719.45,
+    1018620.7,
+    1022654.99,
+    1015190.91,
+    1016653.63,
+    1019356.83,
+    1021568.87,
+    1019409.73,
+    1017080.69,
+    1013786.95,
+    1014886.95,
+    1015197.18,
+    1009353.08,
+    1006005.84,
+    984023.31,
+    996678.46,
+    981020.36,
+    984277.74,
+    996826.72,
+    993527.29,
+    992106.18,
+    992023.87,
+    1002392.03,
+    1006368.14,
+    1001069.75,
+    991948.46,
+    1001562.14,
+    1004094.55,
+    998197.05,
+    1011001.86,
+    1007284.38,
+    1003379.68,
+    1005700.49,
+    1007083.45,
+    1003537.77,
+    1005415.79,
+    990612.54,
+    990543.84,
+    986829.69,
+    990258.25,
+    984171.44,
+    997370.3,
+    1000583.37,
+    1001383.22,
+    1001126.1,
+    1008435.02,
+    1007228.13,
+    1004954.46,
+    1002125.57,
+    999223.55,
+    996939.65,
+    988639.75,
+    977937.88,
+    972244.24,
+    970156.78,
+    993951.83,
+    996113.96,
+    1010906.21,
+    1013332.18,
+    1015847.55,
+    1020351.2,
+    1027693.19,
+    1026293.92,
+    1038034.45,
+    1038698.4,
+    1045529.99,
+    1043801.87,
+    1050019.88,
+    1054166.75,
+    1045212.61,
+    1045890.16,
+    1047903.9,
+    1044110.86,
+    1042369.03,
+    1052780.23,
+    1062885.8,
+    1076863.58,
+    1082308.76,
+    1086183.27,
+    1080257.55,
+    1085446.11,
+    1082499.43,
+    1092594.04,
+    1086994.87,
+    1089851.87,
+    1099559.82,
+    1095806.12,
+    1093698.45,
+    1097655.38,
+    1106112.18,
+    1090000.75,
+    1086660.9,
+    1079741.14,
+    1089494.82,
+    1098564.44,
+    1093276.76,
+    1099364.06,
+    1099842.52,
+    1099880.16,
+    1103657.56,
+    1096552.5,
+    1099386.11,
+    1085562.9,
+    1090786.12,
+    1087261.69,
+    1088693.27,
+    1083138.3,
+    1094903.43,
+    1104596.37,
+    1101025.34,
+    1104423.45,
+    1096545.79,
+    1095150.38,
+    1103533.91,
+    1102979.73,
+    1111745.26,
+    1116945.28,
+    1117569.51,
+    1118212.07,
+    1120901.22,
+    1122464.1,
+    1127152.57,
+    1129453.86,
+    1136519.79,
+    1132125.2,
+    1136251.58,
+    1149604.52,
+    1148933.12,
+    1144831.89,
+    1147048.0,
+    1151217.98,
+    1146578.59,
+    1161829.15,
+    1152501.17,
+    1150683.96,
+    1147221.12,
+    1145859.68,
+    1144131.73,
+    1144820.61,
+    1150683.67,
+    1153653.68,
+    1149865.9,
+    1159775.76,
+    1157516.5,
+    1154197.24,
+    1156919.8,
+    1135206.51,
+    1137530.41,
+    1135735.86,
+    1138343.14,
+    1139348.52,
+    1147918.01,
+    1147911.52,
+    1153458.48,
+    1150886.66,
+    1150577.36,
+    1149193.3,
+    1143161.57,
+    1143621.05,
+    1143726.89,
+    1142613.99,
+    1138793.35,
+    1127813.42,
+    1121067.46,
+    1132567.9,
+    1129815.6,
+    1131330.33,
+    1140028.63,
+    1136480.35,
+    1146951.57,
+    1158105.43,
+    1155153.03,
+    1160593.13,
+    1156226.55,
+    1163964.43,
+    1158238.23,
+    1158231.24,
+    1156513.29,
+    1162290.38,
+    1160139.23,
+    1163517.07,
+    1165726.43,
+    1166461.86,
+    1166319.44,
+    1172886.98,
+    1179757.49,
+    1149705.91,
+    1156746.85,
+    1165630.59,
+    1171599.03,
+    1174157.02,
+    1178031.41,
+    1185108.37,
+    1189366.74,
+    1192450.56,
+    1189723.57,
+    1196899.35,
+    1203119.13,
+    1204474.75,
+    1203929.64,
+    1211313.3,
+    1219895.69,
+    1200557.53,
+    1195474.46,
+    1203143.73,
+    1199839.33,
+    1193563.28,
+    1190089.47,
+    1202211.98,
+    1198244.85,
+    1207120.34,
+    1209272.55,
+    1206432.75,
+    1204295.2,
+    1188271.11,
+    1200376.55,
+    1183699.64,
+    1181670.72,
+    1175143.35,
+    1181413.04,
+    1169333.65,
+    1179411.35,
+    1184877.57,
+    1186458.93,
+    1195711.71,
+    1192132.29,
+    1199062.57,
+    1195879.94,
+    1197610.01,
+    1202338.61,
+    1204989.75,
+    1204638.14,
+    1202645.76,
+    1203192.42,
+    1208854.77,
+    1203882.58,
+    1203694.8,
+    1199428.2,
+    1201584.97,
+    1198881.71,
+    1195943.21,
+    1197847.48,
+    1203861.59,
+    1199893.57,
+    1196331.38,
+    1174341.9,
+    1175496.55,
+    1191636.18,
+    1191379.87,
+    1192945.2,
+    1171912.85,
+    1167997.43,
+    1164750.99,
+    1178013.5,
+    1174797.31,
+    1172613.04,
+    1171361.68,
+    1173882.25,
+    1177240.4,
+    1187305.73,
+    1194458.75,
+    1196079.34,
+    1186519.8,
+    1188455.22,
+    1193746.84,
+    1193081.15,
+    1204682.91,
+    1211146.85,
+    1210560.05,
+    1211205.27,
+    1210033.18,
+    1215303.78,
+    1218535.18,
+    1219081.02,
+    1214151.01,
+    1213840.08,
+    1204575.22,
+    1202407.73,
+    1215887.35,
+    1219875.66,
+    1225718.84,
+    1232961.18,
+    1236376.6,
+    1237241.14,
+    1242283.38,
+    1243408.37,
+    1242339.68,
+    1247580.06,
+    1250460.27,
+    1245885.7,
+    1248744.23,
+    1252931.18,
+    1250005.04,
+    1256068.09,
+    1258766.0,
+    1266453.31,
+    1261832.64,
+    1263465.73,
+    1248542.23,
+    1251217.71,
+    1254295.4,
+    1245029.36,
+    1250260.72,
+    1250953.86,
+    1251097.06,
+    1259875.67,
+    1260605.56,
+    1264026.37,
+    1266456.68,
+    1256562.65,
+    1259903.55,
+    1260815.2,
+    1254964.49,
+    1248829.96,
+    1262722.12,
+    1258333.37,
+    1262063.2,
+    1271564.65,
+    1269854.61,
+    1275385.33,
+    1272202.0,
+    1277077.51,
+    1260119.68,
+    1267707.51,
+    1258832.05,
+    1246531.68,
+    1241921.91,
+    1243435.53,
+    1252450.25,
+    1254704.73,
+    1257148.42,
+    1258753.02,
+    1258122.15,
+    1253265.52,
+    1266057.68,
+    1276658.33,
+    1272489.84,
+    1274184.67,
+    1272208.86,
+    1270117.41,
+    1268383.36,
+    1269456.4,
+    1270541.87,
+    1262056.35,
+    1275252.21,
+    1285322.69,
+    1292720.47,
+    1299595.52,
+    1305760.25,
+    1304773.43,
+    1304854.91,
+    1314605.56,
+    1321801.74,
+    1318800.69,
+    1334046.77,
+    1328602.71,
+    1334568.52,
+    1341924.49,
+    1349460.15,
+    1342921.79,
+    1341592.01,
+    1358078.32,
+    1353451.87,
+    1335558.29,
+    1336582.67,
+    1327441.81,
+    1301245.02,
+    1249231.77,
+    1270502.18,
+    1267657.32,
+    1214485.76,
+    1234085.88,
+    1251998.97,
+    1256885.39,
+    1274915.06,
+    1296129.44,
+    1297129.56,
+    1293618.88,
+    1284654.5,
+    1284449.88,
+    1304216.88,
+    1323905.98,
+    1309942.52,
+    1296172.59,
+    1277361.64,
+    1288768.64,
+    1307342.05,
+    1317991.5,
+    1320403.64,
+    1325163.11,
+    1345396.56,
+    1348242.35,
+    1338124.57,
+    1334499.71,
+    1331483.79,
+    1330413.29,
+    1311789.08,
+    1317401.98,
+    1317078.99,
+    1280595.18,
+    1251390.75,
+    1285406.96,
+    1244797.92,
+    1233180.95,
+    1252049.32,
+    1215337.22,
+    1229741.85,
+    1247839.18,
+    1254836.74,
+    1227104.25,
+    1229027.46,
+    1253597.88,
+    1250364.52,
+    1261948.26,
+    1258365.37,
+    1262059.22,
+    1280611.14,
+    1279581.71,
+    1269002.18,
+    1257156.41,
+    1251887.53,
+    1233099.87,
+    1230076.81,
+    1247702.43,
+    1243537.11,
+    1232042.42,
+    1235080.61,
+    1224571.14,
+    1221531.59,
+    1235524.71,
+    1238320.92,
+    1237935.53,
+    1251301.56,
+    1262539.03,
+    1262354.42,
+    1262159.32,
+    1253252.53,
+    1262005.54,
+    1257192.2,
+    1251975.75,
+    1262401.96,
+    1259003.51,
+    1264292.95,
+    1266226.5,
+    1261514.3,
+    1248626.95,
+    1265407.01,
+    1251720.26,
+    1266657.46,
+    1273463.11,
+    1273375.53,
+    1286782.93,
+    1279750.07,
+    1283375.73,
+    1286533.4,
+    1289598.13,
+    1288342.75,
+    1290814.42,
+    1289612.15,
+    1286862.46,
+    1277442.58,
+    1280079.1,
+    1266074.4,
+    1265476.46,
+    1241836.27,
+    1247224.01,
+    1232229.97,
+    1238861.93,
+    1234892.05,
+    1239636.85,
+    1226645.21,
+    1238136.83,
+    1250892.51,
+    1262479.67,
+    1268479.41,
+    1258947.07,
+    1270056.91,
+    1267044.21,
+    1265563.77,
+    1270249.65,
+    1273013.19,
+    1262947.22,
+    1257958.36,
+    1259681.82,
+    1263126.03,
+    1276346.67,
+    1271978.72,
+    1267442.85,
+    1260968.6,
+    1263840.49,
+    1260616.85,
+    1268823.38,
+    1273966.87,
+    1283204.61,
+    1288356.69,
+    1284482.67,
+    1276007.63,
+    1265013.93,
+    1262583.79,
+    1267796.26,
+    1258167.42,
+    1265289.24,
+    1264834.77,
+    1268594.67,
+    1276027.15,
+    1277402.59,
+    1279137.21,
+    1291770.63,
+    1301678.85,
+    1301106.25,
+    1305004.27,
+    1299650.43,
+    1302022.59,
+    1305666.02,
+    1299999.27,
+    1290550.09,
+    1287986.01,
+    1299856.96,
+    1299247.73,
+    1300436.52,
+    1305092.72,
+    1309941.26,
+    1300050.39,
+    1307108.19,
+    1305587.92,
+    1314704.0,
+    1313862.85,
+    1312417.87,
+    1308146.65,
+    1304941.39,
+    1309158.9,
+    1296375.43,
+    1310789.54,
+    1303289.3,
+    1302279.3,
+    1286692.83,
+    1275521.34,
+    1271828.83,
+    1274563.3,
+    1229854.53,
+    1204040.49,
+    1225407.48,
+    1218934.8,
+    1244451.22,
+    1243925.17,
+    1225907.83,
+    1219178.02,
+    1214386.1,
+    1210291.11,
+    1174880.15,
+    1180208.76,
+    1161745.75,
+    1158744.57,
+    1178516.55,
+    1185141.75,
+    1195074.62,
+    1193280.22,
+    1199883.43,
+    1207606.25,
+    1228511.58,
+    1224089.73,
+    1213812.3,
+    1185877.73,
+    1190320.52,
+    1186687.03,
+    1195995.78,
+    1195005.69,
+    1173413.01,
+    1157865.01,
+    1152854.36,
+    1146134.81,
+    1162677.81,
+    1166563.11,
+    1189237.37,
+    1188829.2,
+    1200048.09,
+    1210859.12,
+    1170666.11,
+    1171238.39,
+    1141123.78,
+    1143738.26,
+    1141734.0,
+    1145987.59,
+    1150109.21,
+    1131031.73,
+    1105770.23,
+    1106246.34,
+    1087044.09,
+    1072900.06,
+    1056908.68,
+    1027347.02,
+    1068680.0,
+    1075451.11,
+    1079022.1,
+    1085500.38,
+    1082354.78,
+    1055815.94,
+    1089007.93,
+    1104325.0,
+    1109578.74,
+    1110311.94,
+    1117425.77,
+    1120331.93,
+    1112278.77,
+    1123518.26,
+    1123851.78,
+    1130765.57,
+    1143227.76,
+    1122370.96,
+    1121983.55,
+    1125106.02,
+    1138951.72,
+    1121188.17,
+    1117674.78,
+    1138309.43,
+    1150984.63,
+    1153246.67,
+    1159155.39,
+    1164935.95,
+    1165456.3,
+    1146597.95,
+    1147719.89,
+    1149197.27,
+    1162220.68,
+    1165397.61,
+    1164137.41,
+    1173713.06,
+    1174293.88,
+    1175413.07,
+    1169218.16,
+    1180529.57,
+    1183803.48,
+    1182424.09,
+    1182150.82,
+    1175235.69,
+    1181410.71,
+    1171198.93,
+    1165775.26,
+    1153175.71,
+    1145382.97,
+    1147882.39,
+    1163061.7,
+    1161217.23,
+    1171403.9,
+    1170580.79,
+    1175125.8,
+    1174734.24,
+    1177937.98,
+    1175543.76,
+    1195224.2,
+    1166015.59,
+    1162113.59,
+    1171218.77,
+    1162633.21,
+    1167161.4,
+    1178916.16,
+    1191446.51,
+    1189831.13,
+    1196565.24,
+    1194973.85,
+    1199622.67,
+    1198834.49,
+    1187606.19,
+    1192218.2,
+    1190499.28,
+    1195193.87,
+    1193299.88,
+    1199235.55,
+    1197396.83,
+    1197381.52,
+    1196955.32,
+    1208738.09,
+    1207840.44,
+    1204072.12,
+    1206201.67,
+    1207740.23,
+    1207115.03,
+    1196767.25,
+    1197432.58,
+    1209009.98,
+    1201442.24,
+    1178816.41,
+    1176678.98,
+    1172128.75,
+    1176925.89,
+    1142113.75,
+    1154474.75,
+    1160251.25,
+    1166134.08,
+    1152185.71,
+    1138106.16,
+    1147849.01,
+    1135507.94,
+    1121180.36,
+    1119996.37,
+    1108649.13,
+    1104223.32,
+    1106598.43,
+    1094041.77,
+    1094902.11,
+    1116361.43,
+    1123233.84,
+    1132333.21,
+    1143555.63,
+    1148452.98,
+    1145865.05,
+    1140996.94,
+    1145303.28,
+    1140788.33,
+    1140578.97,
+    1155469.93,
+    1156521.85,
+    1166356.13,
+    1162083.13,
+    1159439.06,
+    1147684.82,
+    1150430.83,
+    1157791.34,
+    1163322.18,
+    1172753.73,
+    1175280.43,
+    1183049.89,
+    1178830.3,
+    1173013.02,
+    1177628.9,
+    1183859.37,
+    1184652.16,
+    1189829.57,
+    1194861.72,
+    1188032.16,
+    1182814.44,
+    1189320.82,
+    1184365.83,
+    1189213.62,
+    1196026.22,
+    1203262.02,
+    1191932.63,
+    1199832.27,
+    1196938.32,
+    1192873.36,
+    1174699.96,
+    1160071.55,
+    1152955.79,
+    1118771.2,
+    1131939.57,
+    1132777.8,
+    1155355.4,
+    1145192.76,
+    1133030.25,
+    1145984.81,
+    1113401.27,
+    1113272.84,
+    1132254.51,
+    1145636.98,
+    1136350.11,
+    1144795.69,
+    1145749.54,
+    1116224.92,
+    1127797.67,
+    1120170.19,
+    1128649.54,
+    1141357.66,
+    1142845.31,
+    1135145.83,
+    1148942.52,
+    1160107.82,
+    1159727.47,
+    1160567.74,
+    1160736.29,
+    1168818.98,
+    1170529.82,
+    1169313.38,
+    1165211.18,
+    1168446.84,
+    1164092.62,
+    1162226.67,
+    1156701.0,
+    1155851.79,
+    1143199.49,
+    1152392.26,
+    1151675.01,
+    1136891.8,
+    1141929.6,
+    1126904.47,
+    1107971.94,
+    1114599.7,
+    1128662.61,
+    1126492.71,
+    1109184.96,
+    1119037.06,
+    1127074.81,
+    1143846.01,
+    1143797.91,
+    1155599.43,
+    1149690.17,
+    1156267.05,
+    1151248.58,
+    1156770.64,
+    1157124.44,
+    1157733.44,
+    1161249.64,
+    1173418.38,
+    1180528.84,
+    1174353.25,
+    1177579.64,
+    1171569.49,
+    1185320.41,
+    1194655.13,
+    1192301.59,
+    1192397.0,
+    1198131.05,
+    1203800.63,
+    1202021.61,
+    1203599.94,
+    1203564.04,
+    1205258.75,
+    1216515.12,
+    1217901.59,
+    1220306.26,
+    1212729.33,
+    1210998.96,
+    1209083.65,
+    1221301.69,
+    1218417.58,
+    1223695.5,
+    1218819.19,
+    1209732.4,
+    1201203.33,
+    1208310.96,
+    1206604.38,
+    1217438.79,
+    1213515.69,
+    1213303.1,
+    1218572.93,
+    1238514.87,
+    1234262.3,
+    1246383.85,
+    1246139.7,
+    1245908.61,
+    1253693.0,
+    1260602.14,
+    1267668.53,
+    1268968.81,
+    1272608.08,
+    1269494.1,
+    1256996.43,
+    1261138.14,
+    1280379.55,
+    1274722.99,
+    1279079.44,
+    1284696.27,
+    1292234.12,
+    1298903.14,
+    1293828.85,
+    1310114.1,
+    1311331.07,
+    1305503.88,
+    1315794.66,
+    1318696.58,
+    1323498.95,
+    1325308.54,
+    1330123.98,
+    1316878.04,
+    1294945.7,
+    1308135.5,
+    1301014.11,
+    1314389.08,
+    1288562.33,
+    1308657.65,
+    1337936.08,
+    1338905.25,
+    1344772.61,
+    1339434.06,
+    1349913.5,
+    1357702.59,
+    1364789.96,
+    1363723.29,
+    1364675.6,
+    1370087.89,
+    1386223.32,
+    1376866.9,
+    1359360.38,
+    1310383.19,
+    1271834.7,
+    1266262.92,
+    1209414.42,
+    1208634.56,
+    1258563.72,
+    1225831.5,
+    1272330.61,
+    1228312.38,
+    1210559.52,
+    1110035.93,
+    1152302.81,
+    1105029.19,
+    999964.01,
+    1079827.14,
+    956080.38,
+    1002677.28,
+    949162.24,
+    971154.67,
+    936627.72,
+    929112.51,
+    1003591.64,
+    1005480.6,
+    1056655.08,
+    1026650.27,
+    1052695.53,
+    1040158.76,
+    994412.47,
+    1007541.34,
+    995350.22,
+    1058918.49,
+    1056545.85,
+    1090581.08,
+    1098718.2,
+    1096208.75,
+    1127219.33,
+    1105797.53,
+    1110888.8,
+    1140260.94,
+    1124016.61,
+    1086914.59,
+    1107578.47,
+    1103101.21,
+    1114222.22,
+    1135255.18,
+    1130235.59,
+    1157121.36,
+    1140670.57,
+    1099921.0,
+    1109152.02,
+    1118504.94,
+    1107919.44,
+    1123741.95,
+    1144486.01,
+    1144041.36,
+    1119333.6,
+    1099933.06,
+    1118801.06,
+    1119471.13,
+    1163974.23,
+    1152745.81,
+    1172242.45,
+    1165084.2,
+    1168762.21,
+    1179048.81,
+    1199602.76,
+    1184908.62,
+    1190204.23,
+    1196290.25,
+    1206575.49,
+    1230775.09,
+    1237117.11,
+    1278509.32,
+    1300408.92,
+    1280389.89,
+    1261155.84,
+    1177137.99,
+    1205141.05,
+    1213892.97,
+    1239275.38,
+    1228729.93,
+    1228550.05,
+    1219060.95,
+    1225181.16,
+    1228991.16,
+    1192470.26,
+    1204956.69,
+    1168450.52,
+    1193786.55,
+    1213981.19,
+    1221029.3,
+    1229477.5,
+    1258927.75,
+    1245891.02,
+    1254848.44,
+    1246163.03,
+    1271019.06,
+    1254381.14,
+    1268989.81,
+    1284753.81,
+    1277542.7,
+    1277657.16,
+    1289837.15,
+    1293693.43,
+    1301654.82,
+    1287425.9,
+    1276560.54,
+    1291246.52,
+    1279374.31,
+    1294254.32,
+    1291843.71,
+    1285885.09,
+    1296915.25,
+    1310450.47,
+    1318212.75,
+    1321877.28,
+    1321149.13,
+    1329839.99,
+    1315400.8,
+    1346801.66,
+    1343347.16,
+    1345757.43,
+    1354610.2,
+    1353462.85,
+    1346632.75,
+    1352584.12,
+    1359199.69,
+    1377065.28,
+    1379889.88,
+    1398476.8,
+    1395276.75,
+    1405783.34,
+    1414040.21,
+    1422045.61,
+    1433286.65,
+    1375681.51,
+    1369786.43,
+    1318026.55,
+    1346101.64,
+    1325152.36,
+    1328944.45,
+    1353681.98,
+    1358852.47,
+    1363219.62,
+    1352303.52,
+    1341479.97,
+    1323022.11,
+    1325722.95,
+    1297782.29,
+    1301372.13,
+    1320447.17,
+    1343694.41,
+    1338068.6,
+    1343574.78,
+    1353479.33,
+    1336648.36,
+    1358854.85,
+    1346762.06,
+    1373326.83,
+    1384587.93,
+    1389185.32,
+    1402142.09,
+    1394991.14,
+    1386584.15,
+    1385685.81,
+    1388338.61,
+    1371370.72,
+    1381713.74,
+    1370094.88,
+    1384043.71,
+    1386003.22,
+    1356516.03,
+    1345674.73,
+    1304614.48,
+    1318252.4,
+    1305599.37,
+    1323967.91,
+    1349189.19,
+    1370932.05,
+    1399104.07,
+    1412591.95,
+    1454458.73,
+    1458096.25,
+    1468285.16,
+    1444166.94,
+    1477053.96,
+    1507297.06,
+    1517269.39,
+    1505716.34,
+    1518250.82,
+    1505487.58,
+    1546618.6,
+    1587671.67,
+    1604421.86,
+    1601037.28,
+    1581851.73,
+    1595570.14,
+    1599196.88,
+    1611812.47,
+    1636260.66,
+    1655899.7,
+    1657120.85,
+    1640860.71,
+    1643039.86,
+    1630319.61,
+    1622317.6,
+    1633099.99,
+    1627160.58,
+    1637660.07,
+    1628624.71,
+    1623308.82,
+    1608670.64,
+    1618796.47,
+    1615764.21,
+    1612343.53,
+    1604535.79,
+    1616814.04,
+    1618689.48,
+    1599641.81,
+    1624635.02,
+    1646769.92,
+    1680413.92,
+    1686827.36,
+    1684245.83,
+    1699458.96,
+    1704060.48,
+    1714806.49,
+    1683827.19,
+    1711396.96,
+    1715528.34,
+    1707354.97,
+    1703791.61,
+    1714293.07,
+    1703400.16,
+    1660497.68,
+    1672594.34,
+    1636367.79,
+    1655666.98,
+    1674414.64,
+    1672987.53,
+    1694779.18,
+    1703773.86,
+    1729279.31,
+    1726362.73,
+    1718975.13,
+    1717958.81,
+    1725793.04,
+    1724125.94,
+    1721927.72,
+    1703652.15,
+    1732266.14,
+    1720184.54,
+    1722188.35,
+    1756071.02,
+    1703160.98,
+    1692361.75,
+    1732477.46,
+    1711572.3,
+    1698934.43,
+    1681812.64,
+    1706771.61,
+    1694270.63,
+    1722165.23,
+    1733776.44,
+    1751612.33,
+    1761850.27,
+    1765120.38,
+    1749193.57,
+    1757978.75,
+    1728331.19,
+    1721905.66,
+    1721723.28,
+    1694793.25,
+    1686510.32,
+    1702347.36,
+    1734428.32,
+    1721015.0,
+    1723530.87,
+    1728772.42,
+    1751110.17,
+    1767581.9,
+    1761884.67,
+    1760320.6,
+    1767313.86,
+    1777220.76,
+    1769327.21,
+    1774926.01,
+    1767658.72,
+    1784426.94,
+    1788248.07,
+    1772563.36,
+    1750752.87,
+    1773626.97,
+    1752297.54,
+    1772479.25,
+    1779288.97,
+    1783147.06,
+    1783992.55,
+    1798635.47,
+    1785947.35,
+    1794574.0,
+    1784501.41,
+    1789070.69,
+    1798425.57,
+    1811095.75,
+    1783310.35,
+    1770564.16,
+    1725976.46,
+    1746113.01,
+    1777177.45,
+    1773327.76,
+    1761609.14,
+    1753172.22,
+    1768645.27,
+    1770277.05,
+    1785057.78,
+    1777081.76,
+    1780329.52,
+    1783019.03,
+    1786350.5,
+    1785953.15,
+    1792813.89,
+    1787849.14,
+    1801200.66,
+    1799217.76,
+    1792815.24,
+    1784849.52,
+    1788667.8,
+    1789901.65,
+    1789003.02,
+    1783948.39,
+    1774697.15,
+    1765785.85,
+    1747013.64,
+    1770213.08,
+    1779318.92,
+    1782392.36,
+    1800716.5,
+    1802745.55,
+    1809675.2,
+    1806786.83,
+    1812459.97,
+    1814197.06,
+    1822567.21,
+    1817142.29,
+    1808931.68,
+    1798675.21,
+    1818103.26,
+    1822532.76,
+    1813290.28,
+    1808957.86,
+    1799457.95,
+    1783346.65,
+    1761233.39,
+    1788224.54,
+    1807448.83,
+    1811354.51,
+    1821438.39,
+    1826635.09,
+    1816978.77,
+    1820672.64,
+    1828909.7,
+    1823051.36,
+    1823243.35,
+    1840731.07,
+    1840872.69,
+    1852869.59,
+    1852770.18,
+    1849930.69,
+    1853657.52,
+    1855070.34,
+    1855851.2,
+    1860921.73,
+    1859165.29,
+    1848768.02,
+    1833867.22,
+    1826116.32,
+    1833002.68,
+    1852407.71,
+    1852638.31,
+    1856139.46,
+    1847789.21,
+    1862849.22,
+    1863241.93,
+    1858469.68,
+    1856536.51,
+    1863067.95,
+    1863808.54,
+    1855645.48,
+    1848721.06,
+    1840226.07,
+    1832999.07,
+    1829338.64,
+    1820389.22,
+    1835934.94,
+    1840608.25,
+    1828076.74,
+    1793733.6,
+    1795909.36,
+    1816306.62,
+    1843790.06,
+    1847220.89,
+    1836538.99,
+    1795882.71,
+    1795918.06,
+    1779859.32,
+    1805053.55,
+    1789155.96,
+    1805577.49,
+    1807761.82,
+    1818519.12,
+    1821418.67,
+    1806444.24,
+    1804047.21,
+    1808709.22,
+    1832345.66,
+    1847246.03,
+    1849731.32,
+    1859684.42,
+    1864379.23,
+    1871512.33,
+    1880719.03,
+    1899102.33,
+    1903935.56,
+    1886574.97,
+    1898353.19,
+    1907440.9,
+    1919949.08,
+    1915470.69,
+    1935867.52,
+    1955582.17,
+    1958304.68,
+    1969224.01,
+    1948667.66,
+    1921802.96,
+    1934336.42,
+    1943954.86,
+    1938319.34,
+    1952822.15,
+    1945937.21,
+    1954493.72,
+    1950197.32,
+    1942144.31,
+    1945405.95,
+    1960345.11,
+    1916113.84,
+    1941907.1,
+    1902030.53,
+    1874157.44,
+    1895035.56,
+    1869512.46,
+    1883399.55,
+    1929678.71,
+    1931095.07,
+    1908463.57,
+    1923183.83,
+    1896728.73,
+    1888629.7,
+    1932573.38,
+    1911111.64,
+    1893093.95,
+    1879011.66,
+    1908318.48,
+    1924949.37,
+    1941064.59,
+    1965884.29,
+    1955398.36,
+    1957365.79,
+    1950284.95,
+    1944032.05,
+    1957357.46,
+    1951268.18,
+    1915145.68,
+    1912046.18,
+    1902569.42,
+    1905568.35,
+    1922446.49,
+    1925476.09,
+    1902799.84,
+    1915121.61,
+    1876037.33,
+    1851877.18,
+    1835497.4,
+    1799497.98,
+    1799623.24,
+    1786904.61,
+    1777697.25,
+    1781866.58,
+    1804284.29,
+    1842174.21,
+    1863896.19,
+    1870657.5,
+    1836618.59,
+    1845819.78,
+    1844885.67,
+    1852373.54,
+    1875398.24,
+    1848520.12,
+    1820639.06,
+    1811750.56,
+    1839663.21,
+    1839896.19,
+    1799985.97,
+    1781630.13,
+    1760092.43,
+    1737729.82,
+    1750474.51,
+    1790113.73,
+    1799898.02,
+    1782929.17,
+    1809138.99,
+    1798447.58,
+    1794706.0,
+    1761732.14,
+    1756424.27,
+    1780414.35,
+    1779991.62,
+    1765547.07,
+    1755100.32,
+    1770147.04,
+    1793959.8,
+    1820385.15,
+    1829417.48,
+    1836344.63,
+    1850277.19,
+    1834688.62,
+    1854631.83,
+    1858162.31,
+    1864501.58,
+    1881183.76,
+    1868412.38,
+    1839635.93,
+    1845085.36,
+    1859059.61,
+    1826379.45,
+    1812924.18,
+    1823566.02,
+    1822311.44,
+    1797332.43,
+    1791933.98,
+    1806972.57,
+    1796927.61,
+    1794839.82,
+    1810856.89,
+    1807050.15,
+    1782893.54,
+    1735790.84,
+    1740174.02,
+    1697354.59,
+    1686691.33,
+    1730701.97,
+    1676087.59,
+    1684965.39,
+    1690543.01,
+    1736847.97,
+    1691681.47,
+    1683719.29,
+    1614036.11,
+    1609085.97,
+    1585230.28,
+    1595865.3,
+    1636070.81,
+    1632984.2,
+    1664426.91,
+    1597778.71,
+    1589266.23,
+    1593292.9,
+    1618809.42,
+    1616388.68,
+    1634432.3,
+    1659781.73,
+    1686999.99,
+    1672150.41,
+    1663625.94,
+    1696674.23,
+    1675108.62,
+    1677299.53,
+    1692872.9,
+    1679284.28,
+    1638929.64,
+    1592264.22,
+    1530343.21,
+    1532096.35,
+    1546104.42,
+    1495065.52,
+    1496861.18,
+    1533275.51,
+    1524534.38,
+    1529984.65,
+    1574703.57,
+    1570318.32,
+    1543006.33,
+    1531279.64,
+    1518541.26,
+    1530481.03,
+    1533569.9,
+    1530298.41,
+    1556070.59,
+    1554487.1,
+    1531991.15,
+    1517456.89,
+    1508924.55,
+    1509421.36,
+    1539807.22,
+    1526455.58,
+    1567879.63,
+    1582383.03,
+    1594851.33,
+    1576840.57,
+    1576007.56,
+    1557054.73,
+    1591877.11,
+    1605873.17,
+    1622840.23,
+    1624409.0,
+    1618253.42,
+    1642082.17,
+    1647462.45,
+    1640483.39,
+    1627928.26,
+    1606392.98,
+    1649839.73,
+    1643710.5,
+    1675598.16,
+    1682445.0,
+    1682824.95,
+    1662853.54,
+    1663771.25,
+    1635556.29,
+    1595145.12,
+    1595083.78,
+    1604097.98,
+    1629070.94,
+    1574532.39,
+    1566034.53,
+    1547071.75,
+    1534607.42,
+    1533636.43,
+    1519715.27,
+    1508897.42,
+    1533407.89,
+    1545723.1,
+    1571811.5,
+    1588863.42,
+    1525210.43,
+    1542551.97,
+    1529788.96,
+    1511318.99,
+    1520912.3,
+    1498724.9,
+    1474376.5,
+    1452554.79,
+    1421354.35,
+    1405369.16,
+    1407052.28,
+    1442009.59,
+    1415274.73,
+    1390926.46,
+    1420241.74,
+    1463795.72,
+    1460671.49,
+    1453351.14,
+    1416147.46,
+    1408601.97,
+    1400454.93,
+    1399286.9,
+    1435367.77,
+    1398998.18,
+    1421876.84,
+    1436288.37,
+    1438000.23,
+    1429479.55,
+    1464367.4,
+    1477313.44,
+    1498593.93,
+    1507751.52,
+    1501374.84,
+    1531690.95,
+    1519057.3,
+    1519620.03,
+    1482017.74,
+    1479338.02,
+    1495665.0,
+    1511212.05,
+    1522923.06,
+    1485262.87,
+    1560991.63,
+    1584619.85,
+    1573066.43,
+    1590117.02,
+    1567821.49,
+    1561768.75,
+    1563433.98,
+    1555248.11,
+    1574870.01,
+    1589552.47,
+    1586711.88,
+    1561101.99,
+    1559484.46,
+    1602513.79,
+    1601424.13,
+    1597429.68,
+    1564964.03,
+    1538435.57,
+    1536914.15,
+    1547567.81,
+    1536017.15,
+    1554153.16,
+    1570397.91,
+    1559509.42,
+    1516479.94,
+    1500568.05,
+    1487178.65,
+    1488473.16,
+    1517431.46,
+    1490400.0,
+    1494897.51,
+    1484398.63,
+    1469746.51,
+    1497359.61,
+    1496630.08,
+    1491834.84,
+    1518436.49,
+    1506831.01,
+    1541334.57,
+    1544640.17,
+    1556525.78,
+    1568148.66,
+    1575038.7,
+    1579063.28,
+    1575308.97,
+    1550228.65,
+    1530207.55,
+    1559226.96,
+    1588391.74,
+    1586745.93,
+    1587928.6,
+    1607317.3,
+    1610862.41,
+    1585446.93,
+    1605691.54,
+    1628750.75,
+    1659118.37,
+    1639021.33,
+    1631516.51,
+    1651177.64,
+    1636556.74,
+    1622809.0,
+    1608209.17,
+    1625242.62,
+    1645339.29,
+    1655609.56,
+    1624708.12,
+    1615706.59,
+    1580163.19,
+    1578350.45,
+    1588601.5,
+    1568760.36,
+    1573958.31,
+    1569535.59,
+    1564655.05,
+    1584548.51,
+    1610903.68,
+    1606366.37,
+    1584850.94,
+    1588584.25,
+    1550489.89,
+    1523571.9,
+    1503527.77,
+    1549256.89,
+    1538623.62,
+    1575111.21,
+    1552851.3,
+    1560859.94,
+    1593546.05,
+    1564009.73,
+    1570957.01,
+    1570406.61,
+    1572210.87,
+    1564522.18,
+    1593550.47,
+    1598124.8,
+    1620101.89,
+    1620767.43,
+    1606330.17,
+    1593597.25,
+    1597556.81,
+    1606390.21,
+    1606281.43,
+    1596019.7,
+    1615234.27,
+    1613596.53,
+    1618253.8,
+    1622969.11,
+    1624733.67,
+    1611612.39,
+    1613819.18,
+    1609447.87,
+    1581885.05,
+    1571771.21,
+    1602229.05,
+    1620627.1,
+    1625500.24,
+    1609829.29,
+    1598841.53,
+    1589035.69,
+    1612431.83,
+    1616431.2,
+    1611688.97,
+    1619729.09,
+    1621845.8,
+    1614978.74,
+    1621519.39,
+    1613325.29,
+    1641523.57,
+    1671447.06,
+    1665665.11,
+    1666998.68,
+    1653297.69,
+    1638863.26,
+    1666242.58,
+    1702311.1,
+    1705096.5,
+    1694781.49,
+    1706522.41,
+    1727471.98,
+    1728606.41,
+    1736982.72,
+    1717712.51,
+    1737189.9,
+    1747717.1,
+    1778994.01,
+    1792924.1,
+    1804929.54,
+    1825554.55,
+    1815003.55,
+    1806530.31,
+    1780818.55,
+    1777249.52,
+    1762700.28,
+    1750349.85,
+    1776253.9,
+    1777844.71,
+    1780218.72,
+    1797683.25,
+    1806823.19,
+    1802029.76,
+    1779472.57,
+    1778465.65,
+    1793305.07,
+    1805090.24,
+    1818895.16,
+    1834438.09,
+    1826157.31,
+    1834002.88,
+    1854464.38,
+    1865120.42,
+    1838110.43,
+    1830940.25,
+    1840350.5,
+    1840225.43,
+    1838542.98,
+    1824321.29,
+    1849505.19,
+    1864840.38,
+    1855610.8,
+    1826735.46,
+    1817135.56,
+    1809446.51,
+    1825434.06,
+    1816075.17,
+    1797944.17,
+    1797905.65,
+    1792459.39,
+    1805156.61,
+    1783059.32,
+    1766670.71,
+    1752652.4,
+    1750778.62,
+    1758251.65,
+    1747612.97,
+    1761919.33,
+    1737204.63,
+    1750096.57,
+    1760704.11,
+    1783263.67,
+    1788517.18,
+    1782456.47,
+    1784062.2,
+    1778437.07,
+    1769780.96,
+    1767913.27,
+    1771151.84,
+    1781853.49,
+    1773435.02,
+    1769981.16,
+    1783810.33,
+    1764152.35,
+    1761891.96,
+    1755173.11,
+    1741399.36,
+    1711852.92,
+    1706550.55,
+    1713326.56,
+    1693041.69,
+    1696591.89,
+    1700546.65,
+    1697369.57,
+    1685652.03,
+    1665640.02,
+    1666331.39,
+    1664018.43,
+    1680333.85,
+    1691412.62,
+    1701612.37,
+    1708824.38,
+    1699253.51,
+    1690995.15,
+    1703881.1,
+    1704679.76,
+    1682634.01,
+    1672194.38,
+    1651400.91,
+    1644321.0,
+    1660716.44,
+    1638512.19,
+    1626344.74,
+    1608317.18,
+    1626365.24,
+    1642493.72,
+    1655026.71,
+    1694636.78,
+    1713926.59,
+    1712138.16,
+    1715232.59,
+    1708845.72,
+    1691597.39,
+    1720736.22,
+    1716208.01,
+    1751157.61,
+    1758166.4,
+    1759405.07,
+    1763423.13,
+    1778606.4,
+    1764829.25,
+    1771606.29,
+    1773174.72,
+    1767553.33,
+    1766639.93,
+    1773336.16,
+    1782721.01,
+    1794311.86,
+    1783591.59,
+    1778849.82,
+    1770891.23,
+    1785464.61,
+    1798343.05,
+    1809305.51,
+    1814696.15,
+    1834239.93,
+    1857315.95,
+    1860850.18,
+    1861488.37,
+    1877907.88,
+    1840764.01,
+    1859831.08,
+    1858695.68,
+    1871948.27,
+    1874173.43,
+    1876603.89,
+    1866830.22,
+    1852167.56,
+    1832198.34,
+    1830146.1,
+    1837411.97,
+    1852521.6,
+    1845756.13,
+    1845618.02,
+    1842151.54,
+    1841795.69,
+    1831365.71,
+    1819613.8,
+    1830730.85,
+    1864981.47,
+    1862364.32,
+    1863827.6,
+    1865961.83,
+    1872206.14,
+    1867168.17,
+    1879884.35,
+    1876558.13,
+    1855347.76,
+    1871607.35,
+    1883972.77,
+    1877742.23,
+    1885511.3,
+    1901043.86,
+    1899824.8,
+    1904030.51,
+    1908192.28,
+    1882781.3,
+    1912002.3,
+    1925589.75,
+    1909917.33,
+    1884172.61,
+    1878576.87,
+    1931298.14,
+    1923989.84,
+    1929313.0,
+    1934178.2,
+    1926376.75,
+    1944914.38,
+    1971517.73,
+    1968405.21,
+    1946593.26,
+    1961945.87,
+    1987866.51,
+    1964868.11,
+    1952736.81,
+    1970619.82,
+    1963454.27,
+    1948132.66,
+    1938174.81,
+    1953967.83,
+    1959911.16,
+    1977462.82,
+    1987914.21,
+    1979547.33,
+    1978701.17,
+    1975406.58,
+    1990388.01,
+    1987803.73,
+    1985631.81,
+    1969227.55,
+    1975022.42,
+    1944161.55,
+    1964765.66,
+    1964532.04,
+    1966546.7,
+    1950430.29,
+    1961331.84,
+    1926651.19,
+    1910708.37,
+    1911784.1,
+    1899851.99,
+    1896807.24,
+    1880046.58,
+    1895293.26,
+    1926746.79,
+    1923374.49,
+    1922215.87,
+    1932791.14,
+    1939070.49,
+    1907227.29,
+    1896183.41,
+    1908755.71,
+    1930731.84,
+    1950829.44,
+    1939714.39,
+    1938431.3,
+    1951126.22,
+    1951821.46,
+    1950237.28,
+    1963326.77,
+    1988712.06,
+    1987280.57,
+    1985757.27,
+    1984581.24,
+    1984535.29,
+    1977011.92,
+    1948122.05,
+    1965682.2,
+    1968679.14,
+    1948741.83,
+    1934698.87,
+    1958499.93,
+    1958714.94,
+    1960615.57,
+    1983774.49,
+    1980990.5,
+    1979314.3,
+    1986074.42,
+    1981403.16,
+    1999583.43,
+    2003806.66,
+    2005095.01,
+    2026584.21,
+    2040414.19,
+    2025618.45,
+    2014732.68,
+    1999083.88,
+    2007626.47,
+    2010346.49,
+    2010485.03,
+    2011065.21,
+    2015096.11,
+    2027890.44,
+    2041311.83,
+    2054019.85,
+    2053610.55,
+    2051153.0,
+    2071728.73,
+    2046260.06,
+    2062815.15,
+    2068383.99,
+    2089441.46,
+    2045298.72,
+    2029529.27,
+    2012543.38,
+    2042962.69,
+    2034624.8,
+    1981643.95,
+    1977465.86,
+    2002068.13,
+    2000732.51,
+    1987142.11,
+    2027451.34,
+    1995224.72,
+    1958548.95,
+    1913317.6,
+    1924729.66,
+    1907702.35,
+    1955821.56,
+    1957995.03,
+    1954688.24,
+    1991563.74,
+    1995854.22,
+    2021680.73,
+    2026241.17,
+    2045287.58,
+    2040253.47,
+    2045798.96,
+    2025288.72,
+    2046435.0,
+    2038389.44,
+    2043456.29,
+    2026341.6,
+    2032425.2,
+    2057065.5,
+    2011721.51,
+    2015356.63,
+    2003132.23,
+    1971483.26,
+    1997884.07,
+    2008899.01,
+    2021292.66,
+    2031411.07,
+    2050655.66,
+    2060030.14,
+    2057872.49,
+    2046591.39,
+    2070834.82,
+    2070643.24,
+    2086357.37,
+    2092408.68,
+    2090237.89,
+    2105961.58,
+    2103855.78,
+    2103579.27,
+    2086232.03,
+    2081573.96,
+    2078902.74,
+    2105756.97,
+    2088440.26,
+    2104906.75,
+    2122864.11,
+    2115265.04,
+    2125121.25,
+    2134930.25,
+    2104913.68,
+    2118227.65,
+    2119687.12,
+    2127117.62,
+    2117816.97,
+    2116579.67,
+    2104673.91,
+    2112986.61,
+    2105866.86,
+    2108303.3,
+    2109248.5,
+    2093610.84,
+    2070627.57,
+    2076677.33,
+    2067253.21,
+    2113417.34,
+    2192885.17,
+    2187010.37,
+    2208767.09,
+    2232117.61,
+    2202981.52,
+    2207260.26,
+    2186920.23,
+    2186372.32,
+    2182057.66,
+    2183047.18,
+    2189877.09,
+    2207621.07,
+    2227589.69,
+    2232759.15,
+    2232515.53,
+    2227433.71,
+    2238994.48,
+    2236837.4,
+    2237947.47,
+    2247771.64,
+    2244457.95,
+    2261087.0,
+    2237742.81,
+    2230985.98,
+    2252599.36,
+    2237410.52,
+    2243129.32,
+    2258623.4,
+    2240981.76,
+    2173614.17,
+    2166186.9,
+    2196322.85,
+    2212366.08,
+    2244214.31,
+    2243597.75,
+    2215734.24,
+    2184596.66,
+    2174376.11,
+    2164033.27,
+    2200144.2,
+    2212232.01,
+    2187486.36,
+    2180202.31,
+    2151523.07,
+    2156779.12,
+    2165632.43,
+    2207502.37,
+    2212013.92,
+    2239935.14,
+    2269841.02,
+    2275985.78,
+    2291859.66,
+    2283721.05,
+    2233169.01,
+    2247061.39,
+    2240341.23,
+    2279566.59,
+    2270139.81,
+    2253138.33,
+    2291149.95,
+    2295705.69,
+    2310055.72,
+    2290996.75,
+    2308404.87,
+    2302222.14,
+    2313684.76,
+    2335353.36,
+    2334496.19,
+    2355950.33,
+    2349132.72,
+    2341192.65,
+    2298168.98,
+    2275243.59,
+    2270164.09,
+    2270365.79,
+    2243106.74,
+    2275058.28,
+    2252997.17,
+    2221022.15,
+    2247772.18,
+    2213267.34,
+    2236859.58,
+    2183134.14,
+    2168176.39,
+    2177244.13,
+    2157603.08,
+    2187933.29,
+    2212895.53,
+    2192892.55,
+    2201007.12,
+    2200422.88,
+    2200353.45,
+    2227333.4,
+    2223572.32,
+    2199575.51,
+    2191643.31,
+    2161813.09,
+    2174644.65,
+    2177533.46,
+    2184919.84,
+    2114830.74,
+    1995330.55,
+    1990103.18,
+    1964829.59,
+    2108289.27,
+    2045030.89,
+    2072287.11,
+    2093505.87,
+    2088765.53,
+    2058503.68,
+    2049982.57,
+    2010349.54,
+    2052726.02,
+    2081783.54,
+    2125063.73,
+    2128157.93,
+    2132549.2,
+    2145469.45,
+    2156379.43,
+    2148205.81,
+    2189182.08,
+    2181027.69,
+    2157686.11,
+    2167018.71,
+    2174594.0,
+    2169152.69,
+    2229755.92,
+    2241677.71,
+    2239601.14,
+    2247259.39,
+    2267327.2,
+    2277452.55,
+    2276748.57,
+    2238655.85,
+    2237191.02,
+    2228452.4,
+    2272737.86,
+    2267496.35,
+    2268644.45,
+    2272410.06,
+    2289122.94,
+    2309721.06,
+    2307074.8,
+    2285594.9,
+    2308730.7,
+    2318521.0,
+    2327283.5,
+    2332199.69,
+    2338707.47,
+    2328490.85,
+    2351148.74,
+    2331208.86,
+    2327196.33,
+    2320278.07,
+    2343088.54,
+    2380968.55,
+    2377884.85,
+    2395016.03,
+    2400848.78,
+    2416376.8,
+    2401598.65,
+    2418192.27,
+    2437981.86,
+    2417653.62,
+    2423474.95,
+    2427521.62,
+    2439250.06,
+    2426512.98,
+    2429483.86,
+    2429587.05,
+    2439703.17,
+    2450431.28,
+    2445088.76,
+    2438863.47,
+    2433931.6,
+    2472966.22,
+    2471866.13,
+    2488873.75,
+    2496463.4,
+    2489019.58,
+    2491632.2,
+    2458498.66,
+    2422595.3,
+    2455421.59,
+    2458233.8,
+    2457219.54,
+    2452075.76,
+    2465653.45,
+    2459457.38,
+    2486594.52,
+    2497486.1,
+    2494482.45,
+    2487880.12,
+    2489043.34,
+    2472319.11,
+    2459322.98,
+    2450477.67,
+    2484448.36,
+    2465209.73,
+    2476817.54,
+    2481468.8,
+    2485568.98,
+    2475267.7,
+    2459579.59,
+    2457660.31,
+    2473313.41,
+    2480005.46,
+    2487180.21,
+    2503356.42,
+    2538067.69,
+    2558631.93,
+    2556943.15,
+    2576508.94,
+    2576906.27,
+    2580121.26,
+    2608119.25,
+    2615189.05,
+    2628351.32,
+    2623718.0,
+    2619176.53,
+    2597883.32,
+    2619945.1,
+    2620716.09,
+    2636373.6,
+    2694747.24,
+    2699274.08,
+    2693334.26,
+    2711215.19,
+    2686248.29,
+    2707771.05,
+    2694668.25,
+    2621140.99,
+    2670883.78,
+    2668673.19,
+    2706394.72,
+    2699508.81,
+    2697958.56,
+    2728446.11,
+    2722517.28,
+    2702557.92,
+    2729233.49,
+    2755925.33,
+    2787381.56,
+    2779117.94,
+    2789362.45,
+    2757691.33,
+    2759873.62,
+    2762440.64,
+    2706140.44,
+    2753118.18,
+    2717649.0,
+    2715488.26,
+    2762591.78,
+    2759362.27,
+    2775874.97,
+    2722265.54,
+    2714157.52,
+    2690838.01,
+    2670274.86,
+    2681359.16,
+    2618108.92,
+    2653866.46,
+    2698517.64,
+    2730977.98,
+    2749785.31,
+    2763814.52,
+    2742819.82,
+    2757294.87,
+    2781490.81,
+    2766956.57,
+    2779978.51,
+    2767782.82,
+    2765853.27,
+    2798277.5,
+    2791459.29,
+    2759731.32,
+    2763933.32,
+    2759660.42,
+    2712420.83,
+    2741129.63,
+    2775798.79,
+    2798139.65,
+    2797272.69,
+    2815072.25,
+    2813680.08,
+    2806249.84,
+    2797876.38,
+    2776788.88,
+    2808899.6,
+    2835933.57,
+    2877599.37,
+    2857089.71,
+    2849742.86,
+    2882119.03,
+    2888154.11,
+    2876502.67,
+    2867924.73,
+    2877825.31,
+    2878375.12,
+    2837783.67,
+    2891749.46,
+    2905171.29,
+    2885309.06,
+    2878550.99,
+    2892884.98,
+    2914025.89,
+    2918070.28,
+    2883293.37,
+    2911489.67,
+    2891995.66,
+    2862407.01,
+    2827002.95,
+    2888380.44,
+    2900068.82,
+    2888950.54,
+    2909556.52,
+    2882754.2,
+    2908337.4,
+    2894014.76,
+    2912678.3,
+    2908403.76,
+    2915228.51,
+    2878500.55,
+    2906804.51,
+    2924775.72,
+    2921474.84,
+    2930919.27,
+    2936327.65,
+    2900181.29,
+    2930169.34,
+    2907334.32,
+    2878133.65,
+    2888503.58,
+    2870364.9,
+    2869953.12,
+    2831511.65,
+    2830529.31,
+    2856126.48,
+    2872664.39,
+    2842873.28,
+    2845775.09,
+    2813905.14,
+    2839917.95,
+    2841403.32,
+    2842285.51,
+    2791080.73,
+    2760974.3,
+    2745620.93,
+    2805557.73,
+    2806827.65,
+    2811919.39,
+    2821326.98,
+    2817854.8,
+    2861360.67,
+    2868863.84,
+    2856407.52,
+    2901572.9,
+    2914889.38,
+    2942673.39,
+    2974153.81,
+    2990683.45,
+    2976505.41,
+    2974478.66,
+    3021596.51,
+    3006045.7,
+    3042776.21,
+    3038357.11,
+    3019368.96,
+    3046774.89,
+    3099526.09,
+    3116090.94,
+    3099249.39,
+    3163163.85,
+    3241434.2,
+    3216199.81,
+    3301837.59,
+    3333341.55,
+    3301627.89,
+    3313960.3,
+    3318006.54,
+    3265080.08,
+    3270714.17,
+    3254604.96,
+    3314991.89,
+    3330486.84,
+    3374807.53,
+    3430248.7,
+    3425987.33,
+    3459673.62,
+    3503222.45,
+    3525262.55,
+    3528295.0,
+    3521137.51,
+    3501584.86,
+    3348793.01,
+    3411275.52,
+    3375080.73,
+    3303049.44,
+    3408290.1,
+    3436831.6,
+    3505477.78
   ],
   "market": [
     {
