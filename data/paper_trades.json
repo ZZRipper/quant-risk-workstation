@@ -6,8 +6,8 @@
     "ticker": "ACN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -16,8 +16,8 @@
     "ticker": "ADBE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -26,8 +26,8 @@
     "ticker": "AMD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -36,8 +36,8 @@
     "ticker": "AMZN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -46,8 +46,28 @@
     "ticker": "CRM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "HON",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 14476.66,
+    "cost": 7.24
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "IBM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -56,8 +76,8 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -66,8 +86,8 @@
     "ticker": "MSFT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -76,8 +96,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -86,8 +106,8 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -96,8 +116,8 @@
     "ticker": "ORCL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -106,8 +126,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-09",
@@ -116,8 +136,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 15280.28,
-    "cost": 7.64
+    "notional": 14476.66,
+    "cost": 7.24
   },
   {
     "date": "2026-06-10",
@@ -126,18 +146,18 @@
     "ticker": "ACN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14890.3,
-    "cost": 7.45
+    "notional": 14061.92,
+    "cost": 7.03
   },
   {
     "date": "2026-06-10",
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
-    "ticker": "HON",
+    "ticker": "MSFT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14890.3,
-    "cost": 7.45
+    "notional": 14061.92,
+    "cost": 7.03
   },
   {
     "date": "2026-06-10",
@@ -146,8 +166,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14890.3,
-    "cost": 7.45
+    "notional": 14061.92,
+    "cost": 7.03
   },
   {
     "date": "2026-06-10",
@@ -156,8 +176,18 @@
     "ticker": "QCOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14890.3,
-    "cost": 7.45
+    "notional": 14061.92,
+    "cost": 7.03
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ADBE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13626.97,
+    "cost": 6.81
   },
   {
     "date": "2026-06-11",
@@ -166,8 +196,8 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14434.92,
-    "cost": 7.22
+    "notional": 13626.97,
+    "cost": 6.81
   },
   {
     "date": "2026-06-11",
@@ -176,8 +206,8 @@
     "ticker": "GEV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14434.92,
-    "cost": 7.22
+    "notional": 13626.97,
+    "cost": 6.81
   },
   {
     "date": "2026-06-11",
@@ -186,18 +216,8 @@
     "ticker": "INTU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14434.92,
-    "cost": 7.22
-  },
-  {
-    "date": "2026-06-11",
-    "strategyId": "STR-01",
-    "strategy": "WQ Alpha 001 - Short-Term Reversal",
-    "ticker": "MSFT",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 14434.92,
-    "cost": 7.22
+    "notional": 13626.97,
+    "cost": 6.81
   },
   {
     "date": "2026-06-11",
@@ -206,8 +226,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14434.92,
-    "cost": 7.22
+    "notional": 13626.97,
+    "cost": 6.81
   },
   {
     "date": "2026-06-11",
@@ -216,8 +236,18 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14434.92,
-    "cost": 7.22
+    "notional": 13626.97,
+    "cost": 6.81
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "ADBE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13974.37,
+    "cost": 6.99
   },
   {
     "date": "2026-06-12",
@@ -226,8 +256,8 @@
     "ticker": "AMD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14699.54,
-    "cost": 7.35
+    "notional": 13974.37,
+    "cost": 6.99
   },
   {
     "date": "2026-06-12",
@@ -236,8 +266,8 @@
     "ticker": "GEV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14699.54,
-    "cost": 7.35
+    "notional": 13974.37,
+    "cost": 6.99
   },
   {
     "date": "2026-06-12",
@@ -246,8 +276,8 @@
     "ticker": "INTU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14699.54,
-    "cost": 7.35
+    "notional": 13974.37,
+    "cost": 6.99
   },
   {
     "date": "2026-06-12",
@@ -256,8 +286,8 @@
     "ticker": "META",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14699.54,
-    "cost": 7.35
+    "notional": 13974.37,
+    "cost": 6.99
   },
   {
     "date": "2026-06-12",
@@ -266,8 +296,8 @@
     "ticker": "MSFT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14699.54,
-    "cost": 7.35
+    "notional": 13974.37,
+    "cost": 6.99
   },
   {
     "date": "2026-06-12",
@@ -276,18 +306,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14699.54,
-    "cost": 7.35
-  },
-  {
-    "date": "2026-06-12",
-    "strategyId": "STR-01",
-    "strategy": "WQ Alpha 001 - Short-Term Reversal",
-    "ticker": "PLTR",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 14699.54,
-    "cost": 7.35
+    "notional": 13974.37,
+    "cost": 6.99
   },
   {
     "date": "2026-06-12",
@@ -296,8 +316,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14699.54,
-    "cost": 7.35
+    "notional": 13974.37,
+    "cost": 6.99
   },
   {
     "date": "2026-06-15",
@@ -306,8 +326,8 @@
     "ticker": "AAPL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14588.65,
-    "cost": 7.29
+    "notional": 13888.62,
+    "cost": 6.94
   },
   {
     "date": "2026-06-15",
@@ -316,8 +336,8 @@
     "ticker": "ACN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14588.65,
-    "cost": 7.29
+    "notional": 13888.62,
+    "cost": 6.94
   },
   {
     "date": "2026-06-15",
@@ -326,8 +346,28 @@
     "ticker": "AVGO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14588.65,
-    "cost": 7.29
+    "notional": 13888.62,
+    "cost": 6.94
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "META",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 13888.62,
+    "cost": 6.94
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "ticker": "PLTR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 13888.62,
+    "cost": 6.94
   },
   {
     "date": "2026-06-15",
@@ -336,8 +376,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14588.65,
-    "cost": 7.29
+    "notional": 13888.62,
+    "cost": 6.94
   },
   {
     "date": "2026-06-16",
@@ -346,8 +386,8 @@
     "ticker": "AAPL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14877.47,
-    "cost": 7.44
+    "notional": 14077.92,
+    "cost": 7.04
   },
   {
     "date": "2026-06-16",
@@ -356,18 +396,8 @@
     "ticker": "COP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14877.47,
-    "cost": 7.44
-  },
-  {
-    "date": "2026-06-16",
-    "strategyId": "STR-01",
-    "strategy": "WQ Alpha 001 - Short-Term Reversal",
-    "ticker": "CSCO",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 14877.47,
-    "cost": 7.44
+    "notional": 14077.92,
+    "cost": 7.04
   },
   {
     "date": "2026-06-16",
@@ -376,18 +406,8 @@
     "ticker": "CVX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14877.47,
-    "cost": 7.44
-  },
-  {
-    "date": "2026-06-16",
-    "strategyId": "STR-01",
-    "strategy": "WQ Alpha 001 - Short-Term Reversal",
-    "ticker": "META",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 14877.47,
-    "cost": 7.44
+    "notional": 14077.92,
+    "cost": 7.04
   },
   {
     "date": "2026-06-16",
@@ -396,8 +416,8 @@
     "ticker": "MSFT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14877.47,
-    "cost": 7.44
+    "notional": 14077.92,
+    "cost": 7.04
   },
   {
     "date": "2026-06-16",
@@ -406,8 +426,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14877.47,
-    "cost": 7.44
+    "notional": 14077.92,
+    "cost": 7.04
   },
   {
     "date": "2026-06-16",
@@ -416,8 +436,8 @@
     "ticker": "XOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14877.47,
-    "cost": 7.44
+    "notional": 14077.92,
+    "cost": 7.04
   },
   {
     "date": "2026-06-12",
@@ -426,8 +446,8 @@
     "ticker": "CVS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 70868.42,
-    "cost": 35.43
+    "notional": 65957.64,
+    "cost": 32.98
   },
   {
     "date": "2026-06-12",
@@ -436,8 +456,8 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 70868.42,
-    "cost": 35.43
+    "notional": 65957.64,
+    "cost": 32.98
   },
   {
     "date": "2026-06-09",
@@ -446,8 +466,8 @@
     "ticker": "ABT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12425.99,
-    "cost": 6.21
+    "notional": 12695.07,
+    "cost": 6.35
   },
   {
     "date": "2026-06-09",
@@ -456,18 +476,8 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12425.99,
-    "cost": 6.21
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-03",
-    "strategy": "WQ Alpha 006 - Volume Price Divergence",
-    "ticker": "BAC",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 12425.99,
-    "cost": 6.21
+    "notional": 12695.07,
+    "cost": 6.35
   },
   {
     "date": "2026-06-09",
@@ -476,8 +486,8 @@
     "ticker": "BRK-B",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12425.99,
-    "cost": 6.21
+    "notional": 12695.07,
+    "cost": 6.35
   },
   {
     "date": "2026-06-09",
@@ -486,8 +496,8 @@
     "ticker": "C",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12425.99,
-    "cost": 6.21
+    "notional": 12695.07,
+    "cost": 6.35
   },
   {
     "date": "2026-06-09",
@@ -496,8 +506,8 @@
     "ticker": "CAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12425.99,
-    "cost": 6.21
+    "notional": 12695.07,
+    "cost": 6.35
   },
   {
     "date": "2026-06-09",
@@ -506,18 +516,8 @@
     "ticker": "LLY",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12425.99,
-    "cost": 6.21
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-03",
-    "strategy": "WQ Alpha 006 - Volume Price Divergence",
-    "ticker": "LRCX",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 12425.99,
-    "cost": 6.21
+    "notional": 12695.07,
+    "cost": 6.35
   },
   {
     "date": "2026-06-09",
@@ -526,8 +526,8 @@
     "ticker": "MRK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12425.99,
-    "cost": 6.21
+    "notional": 12695.07,
+    "cost": 6.35
   },
   {
     "date": "2026-06-09",
@@ -536,8 +536,8 @@
     "ticker": "WFC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12425.99,
-    "cost": 6.21
+    "notional": 12695.07,
+    "cost": 6.35
   },
   {
     "date": "2026-06-10",
@@ -546,8 +546,8 @@
     "ticker": "ABBV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -556,8 +556,8 @@
     "ticker": "ABT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -566,8 +566,8 @@
     "ticker": "AMAT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -576,8 +576,8 @@
     "ticker": "CAT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -586,8 +586,8 @@
     "ticker": "DE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -596,8 +596,8 @@
     "ticker": "DHR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -606,18 +606,8 @@
     "ticker": "JNJ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12479.13,
-    "cost": 6.24
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-03",
-    "strategy": "WQ Alpha 006 - Volume Price Divergence",
-    "ticker": "LIN",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -626,18 +616,8 @@
     "ticker": "LOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12479.13,
-    "cost": 6.24
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-03",
-    "strategy": "WQ Alpha 006 - Volume Price Divergence",
-    "ticker": "LRCX",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -646,8 +626,8 @@
     "ticker": "MRK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-10",
@@ -656,8 +636,8 @@
     "ticker": "SPG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12479.13,
-    "cost": 6.24
+    "notional": 12760.11,
+    "cost": 6.38
   },
   {
     "date": "2026-06-11",
@@ -666,8 +646,8 @@
     "ticker": "ABT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -676,8 +656,8 @@
     "ticker": "AMGN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -686,8 +666,8 @@
     "ticker": "CL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -696,8 +676,8 @@
     "ticker": "DHR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -706,18 +686,18 @@
     "ticker": "KO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
-    "ticker": "LIN",
+    "ticker": "LLY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -726,8 +706,8 @@
     "ticker": "LOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -736,8 +716,8 @@
     "ticker": "MDLZ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -746,8 +726,8 @@
     "ticker": "MDT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -756,8 +736,8 @@
     "ticker": "MMM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -766,8 +746,8 @@
     "ticker": "PG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-11",
@@ -776,8 +756,8 @@
     "ticker": "USB",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12354.7,
-    "cost": 6.18
+    "notional": 12632.95,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -786,8 +766,8 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -796,8 +776,8 @@
     "ticker": "CL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -806,8 +786,8 @@
     "ticker": "GD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -816,8 +796,8 @@
     "ticker": "INTC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -826,18 +806,8 @@
     "ticker": "JNJ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12397.19,
-    "cost": 6.2
-  },
-  {
-    "date": "2026-06-12",
-    "strategyId": "STR-03",
-    "strategy": "WQ Alpha 006 - Volume Price Divergence",
-    "ticker": "LLY",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -846,8 +816,8 @@
     "ticker": "LMT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -856,8 +826,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -866,8 +836,8 @@
     "ticker": "MDLZ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -876,8 +846,8 @@
     "ticker": "MMM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -886,8 +856,8 @@
     "ticker": "PG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -896,8 +866,8 @@
     "ticker": "SBUX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -906,8 +876,18 @@
     "ticker": "TMUS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "ticker": "UNH",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-12",
@@ -916,8 +896,8 @@
     "ticker": "USB",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12397.19,
-    "cost": 6.2
+    "notional": 12643.15,
+    "cost": 6.32
   },
   {
     "date": "2026-06-15",
@@ -926,8 +906,8 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -936,8 +916,8 @@
     "ticker": "GD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -946,8 +926,8 @@
     "ticker": "KO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -956,8 +936,8 @@
     "ticker": "LMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -966,8 +946,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -976,8 +956,8 @@
     "ticker": "SBUX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -986,8 +966,8 @@
     "ticker": "TMUS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -996,8 +976,8 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -1006,8 +986,8 @@
     "ticker": "USB",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-15",
@@ -1016,8 +996,8 @@
     "ticker": "VZ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12577.27,
-    "cost": 6.29
+    "notional": 12826.8,
+    "cost": 6.41
   },
   {
     "date": "2026-06-16",
@@ -1026,8 +1006,8 @@
     "ticker": "AXP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1036,8 +1016,8 @@
     "ticker": "BKNG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1046,8 +1026,8 @@
     "ticker": "COF",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1056,8 +1036,8 @@
     "ticker": "CVS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1066,8 +1046,8 @@
     "ticker": "GD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1076,8 +1056,8 @@
     "ticker": "HON",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1086,8 +1066,8 @@
     "ticker": "SPG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1096,8 +1076,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1106,8 +1086,8 @@
     "ticker": "USB",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-16",
@@ -1116,8 +1096,8 @@
     "ticker": "VZ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 12872.83,
-    "cost": 6.44
+    "notional": 13128.23,
+    "cost": 6.56
   },
   {
     "date": "2026-06-09",
@@ -1126,8 +1106,8 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1136,8 +1116,8 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1146,8 +1126,8 @@
     "ticker": "AVGO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1156,8 +1136,8 @@
     "ticker": "CL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1166,8 +1146,8 @@
     "ticker": "CMCSA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1176,8 +1156,8 @@
     "ticker": "DUK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1186,8 +1166,8 @@
     "ticker": "INTC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1196,8 +1176,8 @@
     "ticker": "INTU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1206,8 +1186,8 @@
     "ticker": "KO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1216,8 +1196,8 @@
     "ticker": "LOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1226,8 +1206,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1236,8 +1216,8 @@
     "ticker": "MA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1246,8 +1226,8 @@
     "ticker": "MCD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1256,8 +1236,8 @@
     "ticker": "MO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1266,8 +1246,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1276,8 +1256,8 @@
     "ticker": "NVDA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1286,8 +1266,8 @@
     "ticker": "PG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1296,8 +1276,8 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1306,8 +1286,8 @@
     "ticker": "TXN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-09",
@@ -1316,8 +1296,8 @@
     "ticker": "UNP",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3721.84,
-    "cost": 1.86
+    "notional": 3732.66,
+    "cost": 1.87
   },
   {
     "date": "2026-06-10",
@@ -1326,8 +1306,8 @@
     "ticker": "AMAT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1336,8 +1316,8 @@
     "ticker": "AMD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1346,8 +1326,8 @@
     "ticker": "AVGO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1356,8 +1336,8 @@
     "ticker": "EMR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1366,8 +1346,8 @@
     "ticker": "GE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1376,8 +1356,8 @@
     "ticker": "HD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1386,8 +1366,8 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1396,8 +1376,8 @@
     "ticker": "INTU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1406,8 +1386,8 @@
     "ticker": "LIN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1416,8 +1396,8 @@
     "ticker": "LOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1426,8 +1406,8 @@
     "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1436,8 +1416,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1446,8 +1426,8 @@
     "ticker": "NKE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1456,8 +1436,8 @@
     "ticker": "NVDA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1466,8 +1446,8 @@
     "ticker": "PG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1476,8 +1456,8 @@
     "ticker": "SBUX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1486,8 +1466,8 @@
     "ticker": "SPG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1496,8 +1476,8 @@
     "ticker": "TMO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1506,8 +1486,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-10",
@@ -1516,8 +1496,8 @@
     "ticker": "TXN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3668.79,
-    "cost": 1.83
+    "notional": 3679.46,
+    "cost": 1.84
   },
   {
     "date": "2026-06-11",
@@ -1526,8 +1506,8 @@
     "ticker": "CL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1536,8 +1516,8 @@
     "ticker": "COP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1546,8 +1526,8 @@
     "ticker": "EMR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1556,8 +1536,8 @@
     "ticker": "GE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1566,8 +1546,8 @@
     "ticker": "HD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1576,8 +1556,8 @@
     "ticker": "KO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1586,8 +1566,8 @@
     "ticker": "LIN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1596,8 +1576,8 @@
     "ticker": "LOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1606,8 +1586,8 @@
     "ticker": "MDLZ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1616,8 +1596,8 @@
     "ticker": "MO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1626,8 +1606,8 @@
     "ticker": "NKE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1636,8 +1616,8 @@
     "ticker": "PG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1646,8 +1626,8 @@
     "ticker": "PM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1656,8 +1636,8 @@
     "ticker": "SBUX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1666,8 +1646,8 @@
     "ticker": "SPG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1676,8 +1656,8 @@
     "ticker": "T",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1686,8 +1666,8 @@
     "ticker": "TMO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1696,8 +1676,8 @@
     "ticker": "TMUS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1706,8 +1686,8 @@
     "ticker": "VZ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-11",
@@ -1716,8 +1696,8 @@
     "ticker": "WMT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3622.13,
-    "cost": 1.81
+    "notional": 3632.66,
+    "cost": 1.82
   },
   {
     "date": "2026-06-12",
@@ -1726,7 +1706,7 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1736,7 +1716,7 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1746,7 +1726,7 @@
     "ticker": "BA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1756,7 +1736,7 @@
     "ticker": "CL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1766,7 +1746,7 @@
     "ticker": "COP",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1776,7 +1756,7 @@
     "ticker": "GEV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1786,7 +1766,7 @@
     "ticker": "HON",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1796,7 +1776,7 @@
     "ticker": "INTC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1806,7 +1786,7 @@
     "ticker": "KO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1816,7 +1796,7 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1826,7 +1806,7 @@
     "ticker": "MDLZ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1836,7 +1816,7 @@
     "ticker": "MO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1846,7 +1826,7 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1856,7 +1836,7 @@
     "ticker": "PM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1866,7 +1846,7 @@
     "ticker": "QCOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1876,7 +1856,7 @@
     "ticker": "T",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1886,7 +1866,7 @@
     "ticker": "TMUS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1896,7 +1876,7 @@
     "ticker": "TXN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1906,7 +1886,7 @@
     "ticker": "VZ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1916,7 +1896,7 @@
     "ticker": "WMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3577.32,
+    "notional": 3587.73,
     "cost": 1.79
   },
   {
@@ -1926,7 +1906,7 @@
     "ticker": "AMAT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -1936,7 +1916,7 @@
     "ticker": "BA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -1946,7 +1926,7 @@
     "ticker": "CMCSA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -1956,7 +1936,7 @@
     "ticker": "HON",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -1966,7 +1946,7 @@
     "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -1976,7 +1956,7 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -1986,7 +1966,7 @@
     "ticker": "PM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -1996,7 +1976,7 @@
     "ticker": "SCHW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -2006,7 +1986,7 @@
     "ticker": "T",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -2016,7 +1996,7 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -2026,7 +2006,7 @@
     "ticker": "TXN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -2036,7 +2016,7 @@
     "ticker": "VZ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3653.95,
+    "notional": 3664.57,
     "cost": 1.83
   },
   {
@@ -2046,7 +2026,7 @@
     "ticker": "BKNG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2056,7 +2036,7 @@
     "ticker": "CMCSA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2066,7 +2046,7 @@
     "ticker": "COF",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2076,7 +2056,7 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2086,7 +2066,7 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2096,7 +2076,7 @@
     "ticker": "META",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2106,7 +2086,7 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2116,7 +2096,7 @@
     "ticker": "ORCL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2126,7 +2106,7 @@
     "ticker": "PLTR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2136,7 +2116,7 @@
     "ticker": "PM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2146,7 +2126,7 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2156,7 +2136,7 @@
     "ticker": "SCHW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2166,7 +2146,7 @@
     "ticker": "T",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2176,7 +2156,7 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2186,7 +2166,7 @@
     "ticker": "UBER",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
   },
   {
@@ -2196,28 +2176,8 @@
     "ticker": "VZ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 3695.91,
+    "notional": 3706.66,
     "cost": 1.85
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-05",
-    "strategy": "WQ Alpha 021 - Trend Stability",
-    "ticker": "AAPL",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 32413.94,
-    "cost": 16.21
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-05",
-    "strategy": "WQ Alpha 021 - Trend Stability",
-    "ticker": "LLY",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 32413.94,
-    "cost": 16.21
   },
   {
     "date": "2026-06-09",
@@ -2226,8 +2186,8 @@
     "ticker": "MS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 32413.94,
-    "cost": 16.21
+    "notional": 30529.21,
+    "cost": 15.26
   },
   {
     "date": "2026-06-09",
@@ -2236,8 +2196,8 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 32413.94,
-    "cost": 16.21
+    "notional": 30529.21,
+    "cost": 15.26
   },
   {
     "date": "2026-06-10",
@@ -2246,8 +2206,8 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 31576.42,
-    "cost": 15.79
+    "notional": 29803.61,
+    "cost": 14.9
   },
   {
     "date": "2026-06-10",
@@ -2256,8 +2216,38 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 31576.42,
-    "cost": 15.79
+    "notional": 29803.61,
+    "cost": 14.9
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 29088.5,
+    "cost": 14.54
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "ORCL",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 29088.5,
+    "cost": 14.54
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 30782.76,
+    "cost": 15.39
   },
   {
     "date": "2026-06-12",
@@ -2266,28 +2256,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 32388.99,
-    "cost": 16.19
-  },
-  {
-    "date": "2026-06-12",
-    "strategyId": "STR-05",
-    "strategy": "WQ Alpha 021 - Trend Stability",
-    "ticker": "ORCL",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 32388.99,
-    "cost": 16.19
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-06",
-    "strategy": "WQ Alpha 024 - Delayed Momentum",
-    "ticker": "AMAT",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 46701.71,
-    "cost": 23.35
+    "notional": 30782.76,
+    "cost": 15.39
   },
   {
     "date": "2026-06-09",
@@ -2296,8 +2266,18 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 46701.71,
-    "cost": 23.35
+    "notional": 43870.24,
+    "cost": 21.94
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "UNH",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 43870.24,
+    "cost": 21.94
   },
   {
     "date": "2026-06-10",
@@ -2306,8 +2286,8 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 45505.55,
-    "cost": 22.75
+    "notional": 42746.6,
+    "cost": 21.37
   },
   {
     "date": "2026-06-10",
@@ -2316,8 +2296,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 45505.55,
-    "cost": 22.75
+    "notional": 42746.6,
+    "cost": 21.37
   },
   {
     "date": "2026-06-12",
@@ -2326,58 +2306,58 @@
     "ticker": "AVGO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 46853.07,
-    "cost": 23.43
+    "notional": 44012.42,
+    "cost": 22.01
   },
   {
     "date": "2026-06-12",
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 44012.42,
+    "cost": 22.01
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "AMAT",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 44864.22,
+    "cost": 22.43
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "IBM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 44864.22,
+    "cost": 22.43
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "ticker": "LRCX",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 44864.22,
+    "cost": 22.43
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 46853.07,
-    "cost": 23.43
-  },
-  {
-    "date": "2026-06-15",
-    "strategyId": "STR-06",
-    "strategy": "WQ Alpha 024 - Delayed Momentum",
-    "ticker": "AMAT",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 47683.26,
-    "cost": 23.84
-  },
-  {
-    "date": "2026-06-15",
-    "strategyId": "STR-06",
-    "strategy": "WQ Alpha 024 - Delayed Momentum",
-    "ticker": "CVS",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 47683.26,
-    "cost": 23.84
-  },
-  {
-    "date": "2026-06-15",
-    "strategyId": "STR-06",
-    "strategy": "WQ Alpha 024 - Delayed Momentum",
-    "ticker": "LRCX",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 47683.26,
-    "cost": 23.84
-  },
-  {
-    "date": "2026-06-15",
-    "strategyId": "STR-06",
-    "strategy": "WQ Alpha 024 - Delayed Momentum",
-    "ticker": "MS",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 47683.26,
-    "cost": 23.84
+    "notional": 44864.22,
+    "cost": 22.43
   },
   {
     "date": "2026-06-16",
@@ -2386,38 +2366,18 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 49352.35,
-    "cost": 24.68
+    "notional": 46403.65,
+    "cost": 23.2
   },
   {
     "date": "2026-06-16",
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
-    "ticker": "CVS",
+    "ticker": "IBM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 49352.35,
-    "cost": 24.68
-  },
-  {
-    "date": "2026-06-16",
-    "strategyId": "STR-06",
-    "strategy": "WQ Alpha 024 - Delayed Momentum",
-    "ticker": "LRCX",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 49352.35,
-    "cost": 24.68
-  },
-  {
-    "date": "2026-06-16",
-    "strategyId": "STR-06",
-    "strategy": "WQ Alpha 024 - Delayed Momentum",
-    "ticker": "MS",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 49352.35,
-    "cost": 24.68
+    "notional": 46403.65,
+    "cost": 23.2
   },
   {
     "date": "2026-06-09",
@@ -2426,8 +2386,8 @@
     "ticker": "BLK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14756.57,
-    "cost": 7.38
+    "notional": 14494.45,
+    "cost": 7.25
   },
   {
     "date": "2026-06-09",
@@ -2436,8 +2396,8 @@
     "ticker": "CL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14756.57,
-    "cost": 7.38
+    "notional": 14494.45,
+    "cost": 7.25
   },
   {
     "date": "2026-06-09",
@@ -2446,8 +2406,8 @@
     "ticker": "JNJ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14756.57,
-    "cost": 7.38
+    "notional": 14494.45,
+    "cost": 7.25
   },
   {
     "date": "2026-06-09",
@@ -2456,8 +2416,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14756.57,
-    "cost": 7.38
+    "notional": 14494.45,
+    "cost": 7.25
   },
   {
     "date": "2026-06-10",
@@ -2466,8 +2426,8 @@
     "ticker": "CL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14807.26,
-    "cost": 7.4
+    "notional": 14544.25,
+    "cost": 7.27
   },
   {
     "date": "2026-06-10",
@@ -2476,8 +2436,8 @@
     "ticker": "GOOGL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14807.26,
-    "cost": 7.4
+    "notional": 14544.25,
+    "cost": 7.27
   },
   {
     "date": "2026-06-10",
@@ -2486,8 +2446,8 @@
     "ticker": "JNJ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14807.26,
-    "cost": 7.4
+    "notional": 14544.25,
+    "cost": 7.27
   },
   {
     "date": "2026-06-10",
@@ -2496,8 +2456,8 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14807.26,
-    "cost": 7.4
+    "notional": 14544.25,
+    "cost": 7.27
   },
   {
     "date": "2026-06-11",
@@ -2506,8 +2466,8 @@
     "ticker": "BNY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14667.12,
-    "cost": 7.33
+    "notional": 14406.6,
+    "cost": 7.2
   },
   {
     "date": "2026-06-11",
@@ -2516,8 +2476,8 @@
     "ticker": "GEV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14667.12,
-    "cost": 7.33
+    "notional": 14406.6,
+    "cost": 7.2
   },
   {
     "date": "2026-06-11",
@@ -2526,8 +2486,8 @@
     "ticker": "JNJ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14667.12,
-    "cost": 7.33
+    "notional": 14406.6,
+    "cost": 7.2
   },
   {
     "date": "2026-06-11",
@@ -2536,8 +2496,8 @@
     "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14667.12,
-    "cost": 7.33
+    "notional": 14406.6,
+    "cost": 7.2
   },
   {
     "date": "2026-06-12",
@@ -2546,8 +2506,8 @@
     "ticker": "CL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14738.84,
-    "cost": 7.37
+    "notional": 14477.05,
+    "cost": 7.24
   },
   {
     "date": "2026-06-12",
@@ -2556,8 +2516,8 @@
     "ticker": "GOOGL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14738.84,
-    "cost": 7.37
+    "notional": 14477.05,
+    "cost": 7.24
   },
   {
     "date": "2026-06-15",
@@ -2566,8 +2526,8 @@
     "ticker": "BNY",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14934.41,
-    "cost": 7.47
+    "notional": 14669.14,
+    "cost": 7.33
   },
   {
     "date": "2026-06-15",
@@ -2576,8 +2536,8 @@
     "ticker": "ISRG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14934.41,
-    "cost": 7.47
+    "notional": 14669.14,
+    "cost": 7.33
   },
   {
     "date": "2026-06-16",
@@ -2586,8 +2546,8 @@
     "ticker": "CVX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14995.71,
-    "cost": 7.5
+    "notional": 14729.35,
+    "cost": 7.36
   },
   {
     "date": "2026-06-16",
@@ -2596,8 +2556,8 @@
     "ticker": "DE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 14995.71,
-    "cost": 7.5
+    "notional": 14729.35,
+    "cost": 7.36
   },
   {
     "date": "2026-06-16",
@@ -2606,8 +2566,8 @@
     "ticker": "JNJ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14995.71,
-    "cost": 7.5
+    "notional": 14729.35,
+    "cost": 7.36
   },
   {
     "date": "2026-06-16",
@@ -2616,8 +2576,8 @@
     "ticker": "NEE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 14995.71,
-    "cost": 7.5
+    "notional": 14729.35,
+    "cost": 7.36
   },
   {
     "date": "2026-06-09",
@@ -2626,8 +2586,8 @@
     "ticker": "BLK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24329.68,
-    "cost": 12.16
+    "notional": 25860.85,
+    "cost": 12.93
   },
   {
     "date": "2026-06-09",
@@ -2636,8 +2596,8 @@
     "ticker": "GOOG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24329.68,
-    "cost": 12.16
+    "notional": 25860.85,
+    "cost": 12.93
   },
   {
     "date": "2026-06-09",
@@ -2646,8 +2606,8 @@
     "ticker": "GOOGL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24329.68,
-    "cost": 12.16
+    "notional": 25860.85,
+    "cost": 12.93
   },
   {
     "date": "2026-06-09",
@@ -2656,8 +2616,8 @@
     "ticker": "HON",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24329.68,
-    "cost": 12.16
+    "notional": 25860.85,
+    "cost": 12.93
   },
   {
     "date": "2026-06-09",
@@ -2666,8 +2626,8 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24329.68,
-    "cost": 12.16
+    "notional": 25860.85,
+    "cost": 12.93
   },
   {
     "date": "2026-06-09",
@@ -2676,8 +2636,8 @@
     "ticker": "NVDA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24329.68,
-    "cost": 12.16
+    "notional": 25860.85,
+    "cost": 12.93
   },
   {
     "date": "2026-06-09",
@@ -2686,8 +2646,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24329.68,
-    "cost": 12.16
+    "notional": 25860.85,
+    "cost": 12.93
   },
   {
     "date": "2026-06-09",
@@ -2696,8 +2656,8 @@
     "ticker": "TXN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24329.68,
-    "cost": 12.16
+    "notional": 25860.85,
+    "cost": 12.93
   },
   {
     "date": "2026-06-10",
@@ -2706,8 +2666,8 @@
     "ticker": "BLK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2716,8 +2676,8 @@
     "ticker": "GOOG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2726,8 +2686,8 @@
     "ticker": "GOOGL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2736,8 +2696,8 @@
     "ticker": "HON",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2746,8 +2706,8 @@
     "ticker": "INTC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2756,8 +2716,8 @@
     "ticker": "NFLX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2766,8 +2726,8 @@
     "ticker": "PLTR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2776,8 +2736,8 @@
     "ticker": "QCOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2786,8 +2746,8 @@
     "ticker": "SBUX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-10",
@@ -2796,8 +2756,8 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24343.3,
-    "cost": 12.17
+    "notional": 25875.33,
+    "cost": 12.94
   },
   {
     "date": "2026-06-11",
@@ -2806,8 +2766,8 @@
     "ticker": "GILD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23681.29,
-    "cost": 11.84
+    "notional": 25171.66,
+    "cost": 12.59
   },
   {
     "date": "2026-06-11",
@@ -2816,8 +2776,8 @@
     "ticker": "HON",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23681.29,
-    "cost": 11.84
+    "notional": 25171.66,
+    "cost": 12.59
   },
   {
     "date": "2026-06-11",
@@ -2826,8 +2786,8 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23681.29,
-    "cost": 11.84
+    "notional": 25171.66,
+    "cost": 12.59
   },
   {
     "date": "2026-06-11",
@@ -2836,8 +2796,8 @@
     "ticker": "NFLX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23681.29,
-    "cost": 11.84
+    "notional": 25171.66,
+    "cost": 12.59
   },
   {
     "date": "2026-06-11",
@@ -2846,8 +2806,8 @@
     "ticker": "NVDA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23681.29,
-    "cost": 11.84
+    "notional": 25171.66,
+    "cost": 12.59
   },
   {
     "date": "2026-06-11",
@@ -2856,8 +2816,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23681.29,
-    "cost": 11.84
+    "notional": 25171.66,
+    "cost": 12.59
   },
   {
     "date": "2026-06-11",
@@ -2866,8 +2826,8 @@
     "ticker": "T",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23681.29,
-    "cost": 11.84
+    "notional": 25171.66,
+    "cost": 12.59
   },
   {
     "date": "2026-06-11",
@@ -2876,8 +2836,8 @@
     "ticker": "TXN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23681.29,
-    "cost": 11.84
+    "notional": 25171.66,
+    "cost": 12.59
   },
   {
     "date": "2026-06-12",
@@ -2886,8 +2846,8 @@
     "ticker": "ADBE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2896,8 +2856,8 @@
     "ticker": "CRM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2906,8 +2866,8 @@
     "ticker": "GILD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2916,8 +2876,8 @@
     "ticker": "HON",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2926,8 +2886,8 @@
     "ticker": "META",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2936,8 +2896,8 @@
     "ticker": "MSFT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2946,8 +2906,8 @@
     "ticker": "NVDA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2956,8 +2916,8 @@
     "ticker": "ORCL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2966,8 +2926,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-12",
@@ -2976,8 +2936,8 @@
     "ticker": "TXN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24511.78,
-    "cost": 12.26
+    "notional": 26054.42,
+    "cost": 13.03
   },
   {
     "date": "2026-06-15",
@@ -2986,8 +2946,8 @@
     "ticker": "GEV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24465.83,
-    "cost": 12.23
+    "notional": 26005.57,
+    "cost": 13.0
   },
   {
     "date": "2026-06-15",
@@ -2996,8 +2956,8 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24465.83,
-    "cost": 12.23
+    "notional": 26005.57,
+    "cost": 13.0
   },
   {
     "date": "2026-06-15",
@@ -3006,8 +2966,8 @@
     "ticker": "PLTR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24465.83,
-    "cost": 12.23
+    "notional": 26005.57,
+    "cost": 13.0
   },
   {
     "date": "2026-06-15",
@@ -3016,8 +2976,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 24465.83,
-    "cost": 12.23
+    "notional": 26005.57,
+    "cost": 13.0
   },
   {
     "date": "2026-06-16",
@@ -3026,8 +2986,8 @@
     "ticker": "ACN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 25129.05,
-    "cost": 12.56
+    "notional": 26710.53,
+    "cost": 13.36
   },
   {
     "date": "2026-06-16",
@@ -3036,8 +2996,8 @@
     "ticker": "AMZN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 25129.05,
-    "cost": 12.56
+    "notional": 26710.53,
+    "cost": 13.36
   },
   {
     "date": "2026-06-16",
@@ -3046,8 +3006,8 @@
     "ticker": "COP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 25129.05,
-    "cost": 12.56
+    "notional": 26710.53,
+    "cost": 13.36
   },
   {
     "date": "2026-06-16",
@@ -3056,8 +3016,8 @@
     "ticker": "META",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 25129.05,
-    "cost": 12.56
+    "notional": 26710.53,
+    "cost": 13.36
   },
   {
     "date": "2026-06-16",
@@ -3066,8 +3026,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 25129.05,
-    "cost": 12.56
+    "notional": 26710.53,
+    "cost": 13.36
   },
   {
     "date": "2026-06-16",
@@ -3076,8 +3036,8 @@
     "ticker": "XOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 25129.05,
-    "cost": 12.56
+    "notional": 26710.53,
+    "cost": 13.36
   },
   {
     "date": "2026-06-09",
@@ -3086,8 +3046,8 @@
     "ticker": "AMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3096,8 +3056,8 @@
     "ticker": "BA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3106,8 +3066,8 @@
     "ticker": "CRM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3116,8 +3076,8 @@
     "ticker": "CVS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3126,8 +3086,8 @@
     "ticker": "DIS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3136,8 +3096,8 @@
     "ticker": "GM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3146,8 +3106,8 @@
     "ticker": "HD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3156,8 +3116,8 @@
     "ticker": "MMM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3166,8 +3126,8 @@
     "ticker": "PG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3176,8 +3136,8 @@
     "ticker": "PLTR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3186,8 +3146,8 @@
     "ticker": "QCOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3196,8 +3156,8 @@
     "ticker": "SBUX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3206,8 +3166,8 @@
     "ticker": "TMO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3216,8 +3176,8 @@
     "ticker": "UBER",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3226,8 +3186,8 @@
     "ticker": "USB",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-09",
@@ -3236,8 +3196,8 @@
     "ticker": "WFC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2826.05,
-    "cost": 1.41
+    "notional": 2996.83,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3246,8 +3206,8 @@
     "ticker": "ACN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3256,8 +3216,8 @@
     "ticker": "BA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3266,8 +3226,8 @@
     "ticker": "CMCSA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3276,8 +3236,8 @@
     "ticker": "COST",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3286,8 +3246,8 @@
     "ticker": "CRM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3296,8 +3256,8 @@
     "ticker": "CVS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3306,8 +3266,8 @@
     "ticker": "DIS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3316,8 +3276,8 @@
     "ticker": "HON",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3326,18 +3286,8 @@
     "ticker": "ISRG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-09",
-    "strategy": "WQ Alpha 041 - High-Low Range",
-    "ticker": "NEE",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3346,8 +3296,8 @@
     "ticker": "NFLX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3356,8 +3306,8 @@
     "ticker": "PG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3366,8 +3316,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3376,8 +3326,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3386,8 +3336,8 @@
     "ticker": "SBUX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3396,8 +3346,8 @@
     "ticker": "TMO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3406,8 +3356,18 @@
     "ticker": "UBER",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-10",
@@ -3416,8 +3376,8 @@
     "ticker": "UNP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2823.94,
-    "cost": 1.41
+    "notional": 2994.59,
+    "cost": 1.5
   },
   {
     "date": "2026-06-11",
@@ -3426,8 +3386,8 @@
     "ticker": "ABBV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3436,8 +3396,8 @@
     "ticker": "ACN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3446,8 +3406,8 @@
     "ticker": "CMCSA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3456,8 +3416,8 @@
     "ticker": "COST",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3466,8 +3426,8 @@
     "ticker": "CRM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3476,8 +3436,8 @@
     "ticker": "CSCO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3486,8 +3446,8 @@
     "ticker": "CVS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3496,8 +3456,8 @@
     "ticker": "DIS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3506,8 +3466,8 @@
     "ticker": "HD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3516,8 +3476,8 @@
     "ticker": "HON",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3526,8 +3486,8 @@
     "ticker": "LOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3536,8 +3496,18 @@
     "ticker": "MSFT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "NEE",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3546,8 +3516,8 @@
     "ticker": "NFLX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3556,8 +3526,8 @@
     "ticker": "PFE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3566,8 +3536,8 @@
     "ticker": "PG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3576,8 +3546,8 @@
     "ticker": "PLTR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3586,8 +3556,18 @@
     "ticker": "SCHW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNH",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-11",
@@ -3596,8 +3576,8 @@
     "ticker": "UNP",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2810.36,
-    "cost": 1.41
+    "notional": 2975.16,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3606,8 +3586,8 @@
     "ticker": "CL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3616,8 +3596,8 @@
     "ticker": "CMCSA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3626,8 +3606,8 @@
     "ticker": "CRM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3636,8 +3616,8 @@
     "ticker": "CSCO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3646,8 +3626,8 @@
     "ticker": "HD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3656,8 +3636,8 @@
     "ticker": "LIN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3666,8 +3646,8 @@
     "ticker": "LOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3676,8 +3656,8 @@
     "ticker": "MDT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3686,8 +3666,8 @@
     "ticker": "MSFT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3696,8 +3676,8 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3706,8 +3686,8 @@
     "ticker": "PEP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3716,8 +3696,8 @@
     "ticker": "PFE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3726,8 +3706,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-12",
@@ -3736,8 +3716,8 @@
     "ticker": "SCHW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2821.6,
-    "cost": 1.41
+    "notional": 2986.76,
+    "cost": 1.49
   },
   {
     "date": "2026-06-15",
@@ -3746,8 +3726,8 @@
     "ticker": "ABBV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3756,8 +3736,8 @@
     "ticker": "AVGO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3766,8 +3746,8 @@
     "ticker": "BMY",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3776,8 +3756,8 @@
     "ticker": "CL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3786,8 +3766,8 @@
     "ticker": "CMCSA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3796,8 +3776,8 @@
     "ticker": "CSCO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3806,8 +3786,8 @@
     "ticker": "DHR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3816,8 +3796,8 @@
     "ticker": "DUK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3826,8 +3806,8 @@
     "ticker": "GM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3836,8 +3816,8 @@
     "ticker": "LIN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3846,18 +3826,8 @@
     "ticker": "MDT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
-  },
-  {
-    "date": "2026-06-15",
-    "strategyId": "STR-09",
-    "strategy": "WQ Alpha 041 - High-Low Range",
-    "ticker": "MO",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3866,8 +3836,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3876,8 +3846,8 @@
     "ticker": "NVDA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3886,8 +3856,8 @@
     "ticker": "PEP",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3896,8 +3866,8 @@
     "ticker": "PG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3906,8 +3876,8 @@
     "ticker": "SCHW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-15",
@@ -3916,8 +3886,18 @@
     "ticker": "TXN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2846.16,
-    "cost": 1.42
+    "notional": 3012.75,
+    "cost": 1.51
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 3012.75,
+    "cost": 1.51
   },
   {
     "date": "2026-06-16",
@@ -3926,8 +3906,8 @@
     "ticker": "AMZN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -3936,8 +3916,8 @@
     "ticker": "BMY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -3946,8 +3926,8 @@
     "ticker": "CAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -3956,8 +3936,8 @@
     "ticker": "CSCO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -3966,8 +3946,8 @@
     "ticker": "DUK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -3976,8 +3956,8 @@
     "ticker": "GM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -3986,8 +3966,8 @@
     "ticker": "GS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -3996,8 +3976,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -4006,18 +3986,8 @@
     "ticker": "MDT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2873.95,
-    "cost": 1.44
-  },
-  {
-    "date": "2026-06-16",
-    "strategyId": "STR-09",
-    "strategy": "WQ Alpha 041 - High-Low Range",
-    "ticker": "MO",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -4026,8 +3996,8 @@
     "ticker": "NEE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -4036,8 +4006,8 @@
     "ticker": "NVDA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -4046,8 +4016,8 @@
     "ticker": "TMO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -4056,8 +4026,8 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -4066,8 +4036,18 @@
     "ticker": "TXN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
+  },
+  {
+    "date": "2026-06-16",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "ticker": "UNH",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-16",
@@ -4076,8 +4056,8 @@
     "ticker": "V",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 2873.95,
-    "cost": 1.44
+    "notional": 3051.24,
+    "cost": 1.53
   },
   {
     "date": "2026-06-09",
@@ -4086,18 +4066,8 @@
     "ticker": "BLK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8333.36,
-    "cost": 4.17
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-10",
-    "strategy": "WQ Alpha 043 - Volume Acceleration",
-    "ticker": "COP",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 8333.36,
-    "cost": 4.17
+    "notional": 8862.76,
+    "cost": 4.43
   },
   {
     "date": "2026-06-09",
@@ -4106,8 +4076,8 @@
     "ticker": "CVX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8333.36,
-    "cost": 4.17
+    "notional": 8862.76,
+    "cost": 4.43
   },
   {
     "date": "2026-06-09",
@@ -4116,8 +4086,8 @@
     "ticker": "GOOG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8333.36,
-    "cost": 4.17
+    "notional": 8862.76,
+    "cost": 4.43
   },
   {
     "date": "2026-06-09",
@@ -4126,8 +4096,8 @@
     "ticker": "GOOGL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8333.36,
-    "cost": 4.17
+    "notional": 8862.76,
+    "cost": 4.43
   },
   {
     "date": "2026-06-09",
@@ -4136,8 +4106,8 @@
     "ticker": "META",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8333.36,
-    "cost": 4.17
+    "notional": 8862.76,
+    "cost": 4.43
   },
   {
     "date": "2026-06-09",
@@ -4146,8 +4116,8 @@
     "ticker": "MO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8333.36,
-    "cost": 4.17
+    "notional": 8862.76,
+    "cost": 4.43
   },
   {
     "date": "2026-06-09",
@@ -4156,8 +4126,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8333.36,
-    "cost": 4.17
+    "notional": 8862.76,
+    "cost": 4.43
   },
   {
     "date": "2026-06-09",
@@ -4166,18 +4136,8 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8333.36,
-    "cost": 4.17
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-10",
-    "strategy": "WQ Alpha 043 - Volume Acceleration",
-    "ticker": "TXN",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 8333.36,
-    "cost": 4.17
+    "notional": 8862.76,
+    "cost": 4.43
   },
   {
     "date": "2026-06-10",
@@ -4186,8 +4146,8 @@
     "ticker": "AAPL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-10",
@@ -4196,18 +4156,8 @@
     "ticker": "ADBE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8276.36,
-    "cost": 4.14
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-10",
-    "strategy": "WQ Alpha 043 - Volume Acceleration",
-    "ticker": "COP",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-10",
@@ -4216,8 +4166,8 @@
     "ticker": "CVX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-10",
@@ -4226,8 +4176,8 @@
     "ticker": "GE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-10",
@@ -4236,8 +4186,8 @@
     "ticker": "GILD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-10",
@@ -4246,8 +4196,8 @@
     "ticker": "GOOG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-10",
@@ -4256,8 +4206,18 @@
     "ticker": "GOOGL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-10",
@@ -4266,8 +4226,8 @@
     "ticker": "LMT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-10",
@@ -4276,8 +4236,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8276.36,
-    "cost": 4.14
+    "notional": 8808.16,
+    "cost": 4.4
   },
   {
     "date": "2026-06-11",
@@ -4286,8 +4246,8 @@
     "ticker": "GE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4296,8 +4256,8 @@
     "ticker": "GEV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4306,8 +4266,8 @@
     "ticker": "GILD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4316,8 +4276,8 @@
     "ticker": "HON",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4326,8 +4286,8 @@
     "ticker": "LMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4336,8 +4296,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4346,8 +4306,8 @@
     "ticker": "META",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4356,8 +4316,8 @@
     "ticker": "MO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4366,8 +4326,8 @@
     "ticker": "ORCL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-11",
@@ -4376,8 +4336,8 @@
     "ticker": "T",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8112.65,
-    "cost": 4.06
+    "notional": 8633.94,
+    "cost": 4.32
   },
   {
     "date": "2026-06-12",
@@ -4386,8 +4346,8 @@
     "ticker": "AAPL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8268.6,
-    "cost": 4.13
+    "notional": 8799.9,
+    "cost": 4.4
   },
   {
     "date": "2026-06-12",
@@ -4396,8 +4356,8 @@
     "ticker": "GS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8268.6,
-    "cost": 4.13
+    "notional": 8799.9,
+    "cost": 4.4
   },
   {
     "date": "2026-06-12",
@@ -4406,8 +4366,8 @@
     "ticker": "HD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8268.6,
-    "cost": 4.13
+    "notional": 8799.9,
+    "cost": 4.4
   },
   {
     "date": "2026-06-12",
@@ -4416,8 +4376,8 @@
     "ticker": "INTU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8268.6,
-    "cost": 4.13
+    "notional": 8799.9,
+    "cost": 4.4
   },
   {
     "date": "2026-06-12",
@@ -4426,8 +4386,8 @@
     "ticker": "LMT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8268.6,
-    "cost": 4.13
+    "notional": 8799.9,
+    "cost": 4.4
   },
   {
     "date": "2026-06-12",
@@ -4436,8 +4396,8 @@
     "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8268.6,
-    "cost": 4.13
+    "notional": 8799.9,
+    "cost": 4.4
   },
   {
     "date": "2026-06-12",
@@ -4446,8 +4406,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8268.6,
-    "cost": 4.13
+    "notional": 8799.9,
+    "cost": 4.4
   },
   {
     "date": "2026-06-12",
@@ -4456,8 +4416,8 @@
     "ticker": "NKE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8268.6,
-    "cost": 4.13
+    "notional": 8799.9,
+    "cost": 4.4
   },
   {
     "date": "2026-06-15",
@@ -4466,8 +4426,8 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4476,8 +4436,8 @@
     "ticker": "AVGO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4486,8 +4446,8 @@
     "ticker": "AXP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4496,8 +4456,8 @@
     "ticker": "BAC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4506,8 +4466,8 @@
     "ticker": "EMR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4516,8 +4476,8 @@
     "ticker": "GEV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4526,8 +4486,8 @@
     "ticker": "GILD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4536,8 +4496,8 @@
     "ticker": "GS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4546,8 +4506,8 @@
     "ticker": "META",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-15",
@@ -4556,8 +4516,8 @@
     "ticker": "WFC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8225.57,
-    "cost": 4.11
+    "notional": 8754.11,
+    "cost": 4.38
   },
   {
     "date": "2026-06-16",
@@ -4566,8 +4526,8 @@
     "ticker": "BAC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8356.6,
-    "cost": 4.18
+    "notional": 8893.56,
+    "cost": 4.45
   },
   {
     "date": "2026-06-16",
@@ -4576,8 +4536,8 @@
     "ticker": "COP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8356.6,
-    "cost": 4.18
+    "notional": 8893.56,
+    "cost": 4.45
   },
   {
     "date": "2026-06-16",
@@ -4586,8 +4546,8 @@
     "ticker": "EMR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8356.6,
-    "cost": 4.18
+    "notional": 8893.56,
+    "cost": 4.45
   },
   {
     "date": "2026-06-16",
@@ -4596,8 +4556,8 @@
     "ticker": "GE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8356.6,
-    "cost": 4.18
+    "notional": 8893.56,
+    "cost": 4.45
   },
   {
     "date": "2026-06-16",
@@ -4606,8 +4566,8 @@
     "ticker": "LMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8356.6,
-    "cost": 4.18
+    "notional": 8893.56,
+    "cost": 4.45
   },
   {
     "date": "2026-06-16",
@@ -4616,8 +4576,8 @@
     "ticker": "MRK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8356.6,
-    "cost": 4.18
+    "notional": 8893.56,
+    "cost": 4.45
   },
   {
     "date": "2026-06-16",
@@ -4626,8 +4586,8 @@
     "ticker": "WFC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 8356.6,
-    "cost": 4.18
+    "notional": 8893.56,
+    "cost": 4.45
   },
   {
     "date": "2026-06-16",
@@ -4636,8 +4596,8 @@
     "ticker": "XOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 8356.6,
-    "cost": 4.18
+    "notional": 8893.56,
+    "cost": 4.45
   },
   {
     "date": "2026-06-09",
@@ -4646,8 +4606,8 @@
     "ticker": "ABBV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30359.58,
-    "cost": 15.18
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
     "date": "2026-06-09",
@@ -4656,8 +4616,8 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30359.58,
-    "cost": 15.18
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
     "date": "2026-06-09",
@@ -4666,8 +4626,18 @@
     "ticker": "AMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30359.58,
-    "cost": 15.18
+    "notional": 29234.0,
+    "cost": 14.62
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "DHR",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
     "date": "2026-06-09",
@@ -4676,8 +4646,8 @@
     "ticker": "GE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30359.58,
-    "cost": 15.18
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
     "date": "2026-06-09",
@@ -4686,8 +4656,8 @@
     "ticker": "GM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30359.58,
-    "cost": 15.18
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
     "date": "2026-06-09",
@@ -4696,8 +4666,8 @@
     "ticker": "GS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30359.58,
-    "cost": 15.18
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
     "date": "2026-06-09",
@@ -4706,8 +4676,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30359.58,
-    "cost": 15.18
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
     "date": "2026-06-09",
@@ -4716,18 +4686,18 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30359.58,
-    "cost": 15.18
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
-    "date": "2026-06-10",
+    "date": "2026-06-09",
     "strategyId": "STR-11",
     "strategy": "WQ Alpha 051 - Decay Momentum",
-    "ticker": "C",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 30158.57,
-    "cost": 15.08
+    "ticker": "WFC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 29234.0,
+    "cost": 14.62
   },
   {
     "date": "2026-06-10",
@@ -4736,8 +4706,8 @@
     "ticker": "CSCO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30158.57,
-    "cost": 15.08
+    "notional": 28965.3,
+    "cost": 14.48
   },
   {
     "date": "2026-06-10",
@@ -4746,8 +4716,8 @@
     "ticker": "GE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30158.57,
-    "cost": 15.08
+    "notional": 28965.3,
+    "cost": 14.48
   },
   {
     "date": "2026-06-10",
@@ -4756,8 +4726,8 @@
     "ticker": "GM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30158.57,
-    "cost": 15.08
+    "notional": 28965.3,
+    "cost": 14.48
   },
   {
     "date": "2026-06-10",
@@ -4766,8 +4736,8 @@
     "ticker": "GS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30158.57,
-    "cost": 15.08
+    "notional": 28965.3,
+    "cost": 14.48
   },
   {
     "date": "2026-06-10",
@@ -4776,8 +4746,8 @@
     "ticker": "MDT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30158.57,
-    "cost": 15.08
+    "notional": 28965.3,
+    "cost": 14.48
   },
   {
     "date": "2026-06-10",
@@ -4786,8 +4756,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30158.57,
-    "cost": 15.08
+    "notional": 28965.3,
+    "cost": 14.48
   },
   {
     "date": "2026-06-10",
@@ -4796,8 +4766,18 @@
     "ticker": "TMO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30158.57,
-    "cost": 15.08
+    "notional": 28965.3,
+    "cost": 14.48
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "WFC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 28965.3,
+    "cost": 14.48
   },
   {
     "date": "2026-06-11",
@@ -4806,8 +4786,8 @@
     "ticker": "AMT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 29568.13,
-    "cost": 14.78
+    "notional": 28373.69,
+    "cost": 14.19
   },
   {
     "date": "2026-06-11",
@@ -4816,8 +4796,8 @@
     "ticker": "BAC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 29568.13,
-    "cost": 14.78
+    "notional": 28373.69,
+    "cost": 14.19
   },
   {
     "date": "2026-06-11",
@@ -4826,8 +4806,8 @@
     "ticker": "GE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 29568.13,
-    "cost": 14.78
+    "notional": 28373.69,
+    "cost": 14.19
   },
   {
     "date": "2026-06-11",
@@ -4836,8 +4816,8 @@
     "ticker": "MDT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 29568.13,
-    "cost": 14.78
+    "notional": 28373.69,
+    "cost": 14.19
   },
   {
     "date": "2026-06-11",
@@ -4846,8 +4826,8 @@
     "ticker": "SPG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 29568.13,
-    "cost": 14.78
+    "notional": 28373.69,
+    "cost": 14.19
   },
   {
     "date": "2026-06-11",
@@ -4856,8 +4836,8 @@
     "ticker": "TMO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 29568.13,
-    "cost": 14.78
+    "notional": 28373.69,
+    "cost": 14.19
   },
   {
     "date": "2026-06-12",
@@ -4866,8 +4846,18 @@
     "ticker": "AMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30759.78,
-    "cost": 15.38
+    "notional": 29443.38,
+    "cost": 14.72
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 29443.38,
+    "cost": 14.72
   },
   {
     "date": "2026-06-12",
@@ -4876,8 +4866,8 @@
     "ticker": "CVS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30759.78,
-    "cost": 15.38
+    "notional": 29443.38,
+    "cost": 14.72
   },
   {
     "date": "2026-06-12",
@@ -4886,18 +4876,8 @@
     "ticker": "DHR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30759.78,
-    "cost": 15.38
-  },
-  {
-    "date": "2026-06-12",
-    "strategyId": "STR-11",
-    "strategy": "WQ Alpha 051 - Decay Momentum",
-    "ticker": "FDX",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 30759.78,
-    "cost": 15.38
+    "notional": 29443.38,
+    "cost": 14.72
   },
   {
     "date": "2026-06-12",
@@ -4906,8 +4886,8 @@
     "ticker": "GE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30759.78,
-    "cost": 15.38
+    "notional": 29443.38,
+    "cost": 14.72
   },
   {
     "date": "2026-06-12",
@@ -4916,8 +4896,8 @@
     "ticker": "SPG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30759.78,
-    "cost": 15.38
+    "notional": 29443.38,
+    "cost": 14.72
   },
   {
     "date": "2026-06-15",
@@ -4926,18 +4906,18 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30958.59,
-    "cost": 15.48
+    "notional": 29603.02,
+    "cost": 14.8
   },
   {
     "date": "2026-06-15",
     "strategyId": "STR-11",
     "strategy": "WQ Alpha 051 - Decay Momentum",
-    "ticker": "FDX",
+    "ticker": "IBM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30958.59,
-    "cost": 15.48
+    "notional": 29603.02,
+    "cost": 14.8
   },
   {
     "date": "2026-06-15",
@@ -4946,8 +4926,8 @@
     "ticker": "INTC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30958.59,
-    "cost": 15.48
+    "notional": 29603.02,
+    "cost": 14.8
   },
   {
     "date": "2026-06-15",
@@ -4956,8 +4936,8 @@
     "ticker": "LLY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30958.59,
-    "cost": 15.48
+    "notional": 29603.02,
+    "cost": 14.8
   },
   {
     "date": "2026-06-15",
@@ -4966,8 +4946,8 @@
     "ticker": "USB",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 30958.59,
-    "cost": 15.48
+    "notional": 29603.02,
+    "cost": 14.8
   },
   {
     "date": "2026-06-15",
@@ -4976,8 +4956,8 @@
     "ticker": "WFC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 30958.59,
-    "cost": 15.48
+    "notional": 29603.02,
+    "cost": 14.8
   },
   {
     "date": "2026-06-16",
@@ -4986,8 +4966,8 @@
     "ticker": "AXP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 31857.56,
-    "cost": 15.93
+    "notional": 30462.62,
+    "cost": 15.23
   },
   {
     "date": "2026-06-16",
@@ -4996,8 +4976,8 @@
     "ticker": "BKNG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 31857.56,
-    "cost": 15.93
+    "notional": 30462.62,
+    "cost": 15.23
   },
   {
     "date": "2026-06-16",
@@ -5006,8 +4986,8 @@
     "ticker": "CVS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 31857.56,
-    "cost": 15.93
+    "notional": 30462.62,
+    "cost": 15.23
   },
   {
     "date": "2026-06-16",
@@ -5016,8 +4996,8 @@
     "ticker": "USB",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 31857.56,
-    "cost": 15.93
+    "notional": 30462.62,
+    "cost": 15.23
   },
   {
     "date": "2026-06-09",
@@ -5026,8 +5006,8 @@
     "ticker": "ADBE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5036,8 +5016,8 @@
     "ticker": "AMD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5046,8 +5026,8 @@
     "ticker": "AMZN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5056,8 +5036,8 @@
     "ticker": "CRM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5066,8 +5046,8 @@
     "ticker": "HON",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5076,8 +5056,8 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5086,8 +5066,8 @@
     "ticker": "INTU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5096,8 +5076,8 @@
     "ticker": "META",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5106,8 +5086,8 @@
     "ticker": "MSFT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5116,8 +5096,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5126,8 +5106,8 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5136,8 +5116,8 @@
     "ticker": "ORCL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5146,8 +5126,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-09",
@@ -5156,8 +5136,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11319.92,
-    "cost": 5.66
+    "notional": 10835.58,
+    "cost": 5.42
   },
   {
     "date": "2026-06-10",
@@ -5166,18 +5146,8 @@
     "ticker": "AAPL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11046.68,
-    "cost": 5.52
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-12",
-    "strategy": "WQ Alpha 055 - Turnover Reversal",
-    "ticker": "AMD",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 11046.68,
-    "cost": 5.52
+    "notional": 10574.03,
+    "cost": 5.29
   },
   {
     "date": "2026-06-10",
@@ -5186,8 +5156,18 @@
     "ticker": "HON",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11046.68,
-    "cost": 5.52
+    "notional": 10574.03,
+    "cost": 5.29
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "IBM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10574.03,
+    "cost": 5.29
   },
   {
     "date": "2026-06-10",
@@ -5196,8 +5176,8 @@
     "ticker": "INTU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11046.68,
-    "cost": 5.52
+    "notional": 10574.03,
+    "cost": 5.29
   },
   {
     "date": "2026-06-10",
@@ -5206,8 +5186,8 @@
     "ticker": "MSFT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11046.68,
-    "cost": 5.52
+    "notional": 10574.03,
+    "cost": 5.29
   },
   {
     "date": "2026-06-10",
@@ -5216,8 +5196,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11046.68,
-    "cost": 5.52
+    "notional": 10574.03,
+    "cost": 5.29
   },
   {
     "date": "2026-06-10",
@@ -5226,8 +5206,8 @@
     "ticker": "QCOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11046.68,
-    "cost": 5.52
+    "notional": 10574.03,
+    "cost": 5.29
   },
   {
     "date": "2026-06-10",
@@ -5236,8 +5216,8 @@
     "ticker": "T",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11046.68,
-    "cost": 5.52
+    "notional": 10574.03,
+    "cost": 5.29
   },
   {
     "date": "2026-06-11",
@@ -5246,8 +5226,18 @@
     "ticker": "AAPL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 10709.38,
-    "cost": 5.35
+    "notional": 10283.01,
+    "cost": 5.14
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "AMD",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 10283.01,
+    "cost": 5.14
   },
   {
     "date": "2026-06-11",
@@ -5256,8 +5246,8 @@
     "ticker": "CAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 10709.38,
-    "cost": 5.35
+    "notional": 10283.01,
+    "cost": 5.14
   },
   {
     "date": "2026-06-11",
@@ -5266,8 +5256,8 @@
     "ticker": "CRM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 10709.38,
-    "cost": 5.35
+    "notional": 10283.01,
+    "cost": 5.14
   },
   {
     "date": "2026-06-11",
@@ -5276,8 +5266,18 @@
     "ticker": "GEV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 10709.38,
-    "cost": 5.35
+    "notional": 10283.01,
+    "cost": 5.14
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 10283.01,
+    "cost": 5.14
   },
   {
     "date": "2026-06-11",
@@ -5286,8 +5286,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 10709.38,
-    "cost": 5.35
+    "notional": 10283.01,
+    "cost": 5.14
   },
   {
     "date": "2026-06-11",
@@ -5296,8 +5296,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 10709.38,
-    "cost": 5.35
+    "notional": 10283.01,
+    "cost": 5.14
   },
   {
     "date": "2026-06-11",
@@ -5306,8 +5306,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 10709.38,
-    "cost": 5.35
+    "notional": 10283.01,
+    "cost": 5.14
   },
   {
     "date": "2026-06-11",
@@ -5316,8 +5316,8 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 10709.38,
-    "cost": 5.35
+    "notional": 10283.01,
+    "cost": 5.14
   },
   {
     "date": "2026-06-12",
@@ -5326,8 +5326,8 @@
     "ticker": "AMD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5336,8 +5336,8 @@
     "ticker": "CAT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5346,8 +5346,8 @@
     "ticker": "CRM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5356,8 +5356,8 @@
     "ticker": "INTU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5366,8 +5366,8 @@
     "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5376,8 +5376,8 @@
     "ticker": "META",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5386,8 +5386,8 @@
     "ticker": "MSFT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5396,8 +5396,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5406,8 +5406,8 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-12",
@@ -5416,8 +5416,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11147.43,
-    "cost": 5.57
+    "notional": 10702.59,
+    "cost": 5.35
   },
   {
     "date": "2026-06-15",
@@ -5426,8 +5426,8 @@
     "ticker": "AAPL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11130.14,
-    "cost": 5.57
+    "notional": 10685.99,
+    "cost": 5.34
   },
   {
     "date": "2026-06-15",
@@ -5436,8 +5436,8 @@
     "ticker": "ACN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11130.14,
-    "cost": 5.57
+    "notional": 10685.99,
+    "cost": 5.34
   },
   {
     "date": "2026-06-15",
@@ -5446,8 +5446,8 @@
     "ticker": "AMZN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11130.14,
-    "cost": 5.57
+    "notional": 10685.99,
+    "cost": 5.34
   },
   {
     "date": "2026-06-15",
@@ -5456,8 +5456,8 @@
     "ticker": "AVGO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11130.14,
-    "cost": 5.57
+    "notional": 10685.99,
+    "cost": 5.34
   },
   {
     "date": "2026-06-15",
@@ -5466,8 +5466,8 @@
     "ticker": "GEV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11130.14,
-    "cost": 5.57
+    "notional": 10685.99,
+    "cost": 5.34
   },
   {
     "date": "2026-06-15",
@@ -5476,8 +5476,8 @@
     "ticker": "META",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11130.14,
-    "cost": 5.57
+    "notional": 10685.99,
+    "cost": 5.34
   },
   {
     "date": "2026-06-15",
@@ -5486,8 +5486,8 @@
     "ticker": "PLTR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11130.14,
-    "cost": 5.57
+    "notional": 10685.99,
+    "cost": 5.34
   },
   {
     "date": "2026-06-15",
@@ -5496,8 +5496,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11130.14,
-    "cost": 5.57
+    "notional": 10685.99,
+    "cost": 5.34
   },
   {
     "date": "2026-06-16",
@@ -5506,8 +5506,8 @@
     "ticker": "AAPL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11330.01,
-    "cost": 5.67
+    "notional": 10877.88,
+    "cost": 5.44
   },
   {
     "date": "2026-06-16",
@@ -5516,8 +5516,8 @@
     "ticker": "AMZN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11330.01,
-    "cost": 5.67
+    "notional": 10877.88,
+    "cost": 5.44
   },
   {
     "date": "2026-06-16",
@@ -5526,8 +5526,8 @@
     "ticker": "COP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11330.01,
-    "cost": 5.67
+    "notional": 10877.88,
+    "cost": 5.44
   },
   {
     "date": "2026-06-16",
@@ -5536,8 +5536,8 @@
     "ticker": "CVX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11330.01,
-    "cost": 5.67
+    "notional": 10877.88,
+    "cost": 5.44
   },
   {
     "date": "2026-06-16",
@@ -5546,8 +5546,8 @@
     "ticker": "MRK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11330.01,
-    "cost": 5.67
+    "notional": 10877.88,
+    "cost": 5.44
   },
   {
     "date": "2026-06-16",
@@ -5556,8 +5556,8 @@
     "ticker": "MSFT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11330.01,
-    "cost": 5.67
+    "notional": 10877.88,
+    "cost": 5.44
   },
   {
     "date": "2026-06-16",
@@ -5566,8 +5566,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 11330.01,
-    "cost": 5.67
+    "notional": 10877.88,
+    "cost": 5.44
   },
   {
     "date": "2026-06-16",
@@ -5576,8 +5576,8 @@
     "ticker": "XOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 11330.01,
-    "cost": 5.67
+    "notional": 10877.88,
+    "cost": 5.44
   },
   {
     "date": "2026-06-09",
@@ -5586,18 +5586,8 @@
     "ticker": "C",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23070.96,
-    "cost": 11.54
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-13",
-    "strategy": "WQ Alpha 060 - Price Volume Rank",
-    "ticker": "DHR",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 23070.96,
-    "cost": 11.54
+    "notional": 24134.03,
+    "cost": 12.07
   },
   {
     "date": "2026-06-09",
@@ -5606,8 +5596,18 @@
     "ticker": "GE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23070.96,
-    "cost": 11.54
+    "notional": 24134.03,
+    "cost": 12.07
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "GM",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 24134.03,
+    "cost": 12.07
   },
   {
     "date": "2026-06-09",
@@ -5616,8 +5616,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23070.96,
-    "cost": 11.54
+    "notional": 24134.03,
+    "cost": 12.07
   },
   {
     "date": "2026-06-09",
@@ -5626,8 +5626,8 @@
     "ticker": "UPS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23070.96,
-    "cost": 11.54
+    "notional": 24134.03,
+    "cost": 12.07
   },
   {
     "date": "2026-06-09",
@@ -5636,18 +5636,28 @@
     "ticker": "WFC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23070.96,
-    "cost": 11.54
+    "notional": 24134.03,
+    "cost": 12.07
   },
   {
     "date": "2026-06-10",
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
-    "ticker": "CVS",
+    "ticker": "C",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 23929.76,
+    "cost": 11.96
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "DHR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22964.39,
-    "cost": 11.48
+    "notional": 23929.76,
+    "cost": 11.96
   },
   {
     "date": "2026-06-10",
@@ -5656,8 +5666,8 @@
     "ticker": "GM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22964.39,
-    "cost": 11.48
+    "notional": 23929.76,
+    "cost": 11.96
   },
   {
     "date": "2026-06-10",
@@ -5666,8 +5676,8 @@
     "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22964.39,
-    "cost": 11.48
+    "notional": 23929.76,
+    "cost": 11.96
   },
   {
     "date": "2026-06-10",
@@ -5676,8 +5686,18 @@
     "ticker": "TMO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22964.39,
-    "cost": 11.48
+    "notional": 23929.76,
+    "cost": 11.96
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 23929.76,
+    "cost": 11.96
   },
   {
     "date": "2026-06-11",
@@ -5686,8 +5706,38 @@
     "ticker": "BAC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22571.5,
-    "cost": 11.29
+    "notional": 23441.94,
+    "cost": 11.72
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 23441.94,
+    "cost": 11.72
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "CVS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 23441.94,
+    "cost": 11.72
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "DE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 23441.94,
+    "cost": 11.72
   },
   {
     "date": "2026-06-11",
@@ -5696,8 +5746,8 @@
     "ticker": "LLY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22571.5,
-    "cost": 11.29
+    "notional": 23441.94,
+    "cost": 11.72
   },
   {
     "date": "2026-06-11",
@@ -5706,8 +5756,18 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22571.5,
-    "cost": 11.29
+    "notional": 23441.94,
+    "cost": 11.72
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "TMO",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 23441.94,
+    "cost": 11.72
   },
   {
     "date": "2026-06-11",
@@ -5716,8 +5776,8 @@
     "ticker": "WFC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22571.5,
-    "cost": 11.29
+    "notional": 23441.94,
+    "cost": 11.72
   },
   {
     "date": "2026-06-12",
@@ -5726,18 +5786,8 @@
     "ticker": "AMGN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22707.11,
-    "cost": 11.35
-  },
-  {
-    "date": "2026-06-12",
-    "strategyId": "STR-13",
-    "strategy": "WQ Alpha 060 - Price Volume Rank",
-    "ticker": "DE",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-12",
@@ -5746,8 +5796,18 @@
     "ticker": "DHR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-12",
@@ -5756,8 +5816,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-12",
@@ -5766,8 +5826,8 @@
     "ticker": "MDT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-12",
@@ -5776,8 +5836,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-12",
@@ -5786,8 +5846,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-12",
@@ -5796,18 +5856,18 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-12",
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
-    "ticker": "TMO",
+    "ticker": "UNH",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-12",
@@ -5816,8 +5876,8 @@
     "ticker": "USB",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22707.11,
-    "cost": 11.35
+    "notional": 23583.6,
+    "cost": 11.79
   },
   {
     "date": "2026-06-15",
@@ -5826,8 +5886,8 @@
     "ticker": "AMGN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22939.84,
-    "cost": 11.47
+    "notional": 23825.31,
+    "cost": 11.91
   },
   {
     "date": "2026-06-15",
@@ -5836,8 +5896,8 @@
     "ticker": "INTC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22939.84,
-    "cost": 11.47
+    "notional": 23825.31,
+    "cost": 11.91
   },
   {
     "date": "2026-06-15",
@@ -5846,8 +5906,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22939.84,
-    "cost": 11.47
+    "notional": 23825.31,
+    "cost": 11.91
   },
   {
     "date": "2026-06-15",
@@ -5856,8 +5916,8 @@
     "ticker": "SPG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22939.84,
-    "cost": 11.47
+    "notional": 23825.31,
+    "cost": 11.91
   },
   {
     "date": "2026-06-16",
@@ -5866,8 +5926,8 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23105.57,
-    "cost": 11.55
+    "notional": 23997.44,
+    "cost": 12.0
   },
   {
     "date": "2026-06-16",
@@ -5876,8 +5936,8 @@
     "ticker": "CAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23105.57,
-    "cost": 11.55
+    "notional": 23997.44,
+    "cost": 12.0
   },
   {
     "date": "2026-06-16",
@@ -5886,8 +5946,28 @@
     "ticker": "SPG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23105.57,
-    "cost": 11.55
+    "notional": 23997.44,
+    "cost": 12.0
+  },
+  {
+    "date": "2026-06-16",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 23997.44,
+    "cost": 12.0
+  },
+  {
+    "date": "2026-06-16",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "ticker": "USB",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 23997.44,
+    "cost": 12.0
   },
   {
     "date": "2026-06-16",
@@ -5896,28 +5976,8 @@
     "ticker": "WFC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23105.57,
-    "cost": 11.55
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-14",
-    "strategy": "WQ Alpha 071 - Composite Rank",
-    "ticker": "AAPL",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 35756.92,
-    "cost": 17.88
-  },
-  {
-    "date": "2026-06-09",
-    "strategyId": "STR-14",
-    "strategy": "WQ Alpha 071 - Composite Rank",
-    "ticker": "CRM",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 35756.92,
-    "cost": 17.88
+    "notional": 23997.44,
+    "cost": 12.0
   },
   {
     "date": "2026-06-09",
@@ -5926,8 +5986,8 @@
     "ticker": "CVS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 35756.92,
-    "cost": 17.88
+    "notional": 33765.21,
+    "cost": 16.88
   },
   {
     "date": "2026-06-09",
@@ -5936,28 +5996,8 @@
     "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 35756.92,
-    "cost": 17.88
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-14",
-    "strategy": "WQ Alpha 071 - Composite Rank",
-    "ticker": "AAPL",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 34719.9,
-    "cost": 17.36
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-14",
-    "strategy": "WQ Alpha 071 - Composite Rank",
-    "ticker": "CRM",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 34719.9,
-    "cost": 17.36
+    "notional": 33765.21,
+    "cost": 16.88
   },
   {
     "date": "2026-06-10",
@@ -5966,8 +6006,8 @@
     "ticker": "CVS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 34719.9,
-    "cost": 17.36
+    "notional": 32882.46,
+    "cost": 16.44
   },
   {
     "date": "2026-06-10",
@@ -5976,18 +6016,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 34719.9,
-    "cost": 17.36
-  },
-  {
-    "date": "2026-06-11",
-    "strategyId": "STR-14",
-    "strategy": "WQ Alpha 071 - Composite Rank",
-    "ticker": "AAPL",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 33891.22,
-    "cost": 16.95
+    "notional": 32882.46,
+    "cost": 16.44
   },
   {
     "date": "2026-06-11",
@@ -5996,18 +6026,18 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 33891.22,
-    "cost": 16.95
+    "notional": 32028.47,
+    "cost": 16.01
   },
   {
-    "date": "2026-06-12",
+    "date": "2026-06-11",
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
-    "ticker": "GS",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 35659.35,
-    "cost": 17.83
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 32028.47,
+    "cost": 16.01
   },
   {
     "date": "2026-06-12",
@@ -6016,8 +6046,18 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 35659.35,
-    "cost": 17.83
+    "notional": 33659.43,
+    "cost": 16.83
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 33659.43,
+    "cost": 16.83
   },
   {
     "date": "2026-06-15",
@@ -6026,8 +6066,8 @@
     "ticker": "AAPL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 36018.42,
-    "cost": 18.01
+    "notional": 33878.29,
+    "cost": 16.94
   },
   {
     "date": "2026-06-15",
@@ -6036,8 +6076,8 @@
     "ticker": "AMAT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 36018.42,
-    "cost": 18.01
+    "notional": 33878.29,
+    "cost": 16.94
   },
   {
     "date": "2026-06-15",
@@ -6046,18 +6086,18 @@
     "ticker": "CVS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 36018.42,
-    "cost": 18.01
+    "notional": 33878.29,
+    "cost": 16.94
   },
   {
     "date": "2026-06-15",
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
-    "ticker": "GS",
+    "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 36018.42,
-    "cost": 18.01
+    "notional": 33878.29,
+    "cost": 16.94
   },
   {
     "date": "2026-06-16",
@@ -6066,8 +6106,8 @@
     "ticker": "AAPL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 37242.55,
-    "cost": 18.62
+    "notional": 34781.55,
+    "cost": 17.39
   },
   {
     "date": "2026-06-16",
@@ -6076,8 +6116,28 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 37242.55,
-    "cost": 18.62
+    "notional": 34781.55,
+    "cost": 17.39
+  },
+  {
+    "date": "2026-06-16",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "CVS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 34781.55,
+    "cost": 17.39
+  },
+  {
+    "date": "2026-06-16",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "ticker": "LRCX",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 34781.55,
+    "cost": 17.39
   },
   {
     "date": "2026-06-09",
@@ -6086,8 +6146,8 @@
     "ticker": "FDX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17519.48,
-    "cost": 8.76
+    "notional": 18316.64,
+    "cost": 9.16
   },
   {
     "date": "2026-06-09",
@@ -6096,8 +6156,8 @@
     "ticker": "GOOG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17519.48,
-    "cost": 8.76
+    "notional": 18316.64,
+    "cost": 9.16
   },
   {
     "date": "2026-06-09",
@@ -6106,8 +6166,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17519.48,
-    "cost": 8.76
+    "notional": 18316.64,
+    "cost": 9.16
   },
   {
     "date": "2026-06-09",
@@ -6116,8 +6176,8 @@
     "ticker": "WFC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17519.48,
-    "cost": 8.76
+    "notional": 18316.64,
+    "cost": 9.16
   },
   {
     "date": "2026-06-10",
@@ -6126,8 +6186,8 @@
     "ticker": "FDX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17417.25,
-    "cost": 8.71
+    "notional": 18209.75,
+    "cost": 9.1
   },
   {
     "date": "2026-06-10",
@@ -6136,8 +6196,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17417.25,
-    "cost": 8.71
+    "notional": 18209.75,
+    "cost": 9.1
   },
   {
     "date": "2026-06-10",
@@ -6146,8 +6206,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17417.25,
-    "cost": 8.71
+    "notional": 18209.75,
+    "cost": 9.1
   },
   {
     "date": "2026-06-10",
@@ -6156,8 +6216,8 @@
     "ticker": "RTX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17417.25,
-    "cost": 8.71
+    "notional": 18209.75,
+    "cost": 9.1
   },
   {
     "date": "2026-06-11",
@@ -6166,8 +6226,8 @@
     "ticker": "FDX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 16902.79,
-    "cost": 8.45
+    "notional": 17671.89,
+    "cost": 8.84
   },
   {
     "date": "2026-06-11",
@@ -6176,8 +6236,8 @@
     "ticker": "GOOG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 16902.79,
-    "cost": 8.45
+    "notional": 17671.89,
+    "cost": 8.84
   },
   {
     "date": "2026-06-11",
@@ -6186,8 +6246,8 @@
     "ticker": "HD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 16902.79,
-    "cost": 8.45
+    "notional": 17671.89,
+    "cost": 8.84
   },
   {
     "date": "2026-06-11",
@@ -6196,8 +6256,8 @@
     "ticker": "LLY",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 16902.79,
-    "cost": 8.45
+    "notional": 17671.89,
+    "cost": 8.84
   },
   {
     "date": "2026-06-11",
@@ -6206,8 +6266,8 @@
     "ticker": "SCHW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 16902.79,
-    "cost": 8.45
+    "notional": 17671.89,
+    "cost": 8.84
   },
   {
     "date": "2026-06-11",
@@ -6216,8 +6276,8 @@
     "ticker": "TXN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 16902.79,
-    "cost": 8.45
+    "notional": 17671.89,
+    "cost": 8.84
   },
   {
     "date": "2026-06-11",
@@ -6226,8 +6286,8 @@
     "ticker": "UPS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 16902.79,
-    "cost": 8.45
+    "notional": 17671.89,
+    "cost": 8.84
   },
   {
     "date": "2026-06-11",
@@ -6236,8 +6296,8 @@
     "ticker": "WFC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 16902.79,
-    "cost": 8.45
+    "notional": 17671.89,
+    "cost": 8.84
   },
   {
     "date": "2026-06-12",
@@ -6246,8 +6306,8 @@
     "ticker": "ACN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17600.25,
-    "cost": 8.8
+    "notional": 18401.08,
+    "cost": 9.2
   },
   {
     "date": "2026-06-12",
@@ -6256,8 +6316,8 @@
     "ticker": "BAC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17600.25,
-    "cost": 8.8
+    "notional": 18401.08,
+    "cost": 9.2
   },
   {
     "date": "2026-06-12",
@@ -6266,8 +6326,8 @@
     "ticker": "BLK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17600.25,
-    "cost": 8.8
+    "notional": 18401.08,
+    "cost": 9.2
   },
   {
     "date": "2026-06-12",
@@ -6276,8 +6336,8 @@
     "ticker": "FDX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17600.25,
-    "cost": 8.8
+    "notional": 18401.08,
+    "cost": 9.2
   },
   {
     "date": "2026-06-12",
@@ -6286,8 +6346,8 @@
     "ticker": "HD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17600.25,
-    "cost": 8.8
+    "notional": 18401.08,
+    "cost": 9.2
   },
   {
     "date": "2026-06-12",
@@ -6296,8 +6356,8 @@
     "ticker": "LLY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17600.25,
-    "cost": 8.8
+    "notional": 18401.08,
+    "cost": 9.2
   },
   {
     "date": "2026-06-12",
@@ -6306,8 +6366,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17600.25,
-    "cost": 8.8
+    "notional": 18401.08,
+    "cost": 9.2
   },
   {
     "date": "2026-06-12",
@@ -6316,8 +6376,8 @@
     "ticker": "TXN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17600.25,
-    "cost": 8.8
+    "notional": 18401.08,
+    "cost": 9.2
   },
   {
     "date": "2026-06-15",
@@ -6326,8 +6386,8 @@
     "ticker": "ACN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17884.21,
-    "cost": 8.94
+    "notional": 18697.96,
+    "cost": 9.35
   },
   {
     "date": "2026-06-15",
@@ -6336,8 +6396,8 @@
     "ticker": "BLK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17884.21,
-    "cost": 8.94
+    "notional": 18697.96,
+    "cost": 9.35
   },
   {
     "date": "2026-06-15",
@@ -6346,8 +6406,8 @@
     "ticker": "FDX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17884.21,
-    "cost": 8.94
+    "notional": 18697.96,
+    "cost": 9.35
   },
   {
     "date": "2026-06-15",
@@ -6356,8 +6416,8 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 17884.21,
-    "cost": 8.94
+    "notional": 18697.96,
+    "cost": 9.35
   },
   {
     "date": "2026-06-15",
@@ -6366,8 +6426,8 @@
     "ticker": "JNJ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17884.21,
-    "cost": 8.94
+    "notional": 18697.96,
+    "cost": 9.35
   },
   {
     "date": "2026-06-15",
@@ -6376,8 +6436,8 @@
     "ticker": "LMT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17884.21,
-    "cost": 8.94
+    "notional": 18697.96,
+    "cost": 9.35
   },
   {
     "date": "2026-06-15",
@@ -6386,8 +6446,8 @@
     "ticker": "MDT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17884.21,
-    "cost": 8.94
+    "notional": 18697.96,
+    "cost": 9.35
   },
   {
     "date": "2026-06-15",
@@ -6396,8 +6456,8 @@
     "ticker": "MRK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 17884.21,
-    "cost": 8.94
+    "notional": 18697.96,
+    "cost": 9.35
   },
   {
     "date": "2026-06-16",
@@ -6406,8 +6466,8 @@
     "ticker": "ABT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6416,8 +6476,8 @@
     "ticker": "BAC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6426,8 +6486,8 @@
     "ticker": "BKNG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6436,8 +6496,8 @@
     "ticker": "GOOGL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6446,8 +6506,8 @@
     "ticker": "JNJ",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6456,8 +6516,8 @@
     "ticker": "LOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6466,8 +6526,8 @@
     "ticker": "MRK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6476,8 +6536,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6486,8 +6546,8 @@
     "ticker": "QCOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-16",
@@ -6496,8 +6556,8 @@
     "ticker": "UPS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 18136.89,
-    "cost": 9.07
+    "notional": 18962.14,
+    "cost": 9.48
   },
   {
     "date": "2026-06-09",
@@ -6506,8 +6566,8 @@
     "ticker": "AMAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6516,8 +6576,8 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6526,8 +6586,8 @@
     "ticker": "CRM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6536,8 +6596,8 @@
     "ticker": "GM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6546,8 +6606,8 @@
     "ticker": "GS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6556,8 +6616,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6566,8 +6626,8 @@
     "ticker": "MRK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6576,8 +6636,8 @@
     "ticker": "MS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6586,8 +6646,8 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19186.7,
-    "cost": 9.59
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-09",
@@ -6596,18 +6656,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19186.7,
-    "cost": 9.59
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-16",
-    "strategy": "WQ Alpha 083 - Range Momentum",
-    "ticker": "DHR",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 19108.87,
-    "cost": 9.55
+    "notional": 17704.07,
+    "cost": 8.85
   },
   {
     "date": "2026-06-10",
@@ -6616,8 +6666,18 @@
     "ticker": "GS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19108.87,
-    "cost": 9.55
+    "notional": 17564.18,
+    "cost": 8.78
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 17564.18,
+    "cost": 8.78
   },
   {
     "date": "2026-06-10",
@@ -6626,8 +6686,8 @@
     "ticker": "MRK",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19108.87,
-    "cost": 9.55
+    "notional": 17564.18,
+    "cost": 8.78
   },
   {
     "date": "2026-06-10",
@@ -6636,8 +6696,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19108.87,
-    "cost": 9.55
+    "notional": 17564.18,
+    "cost": 8.78
   },
   {
     "date": "2026-06-10",
@@ -6646,8 +6706,8 @@
     "ticker": "ORCL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19108.87,
-    "cost": 9.55
+    "notional": 17564.18,
+    "cost": 8.78
   },
   {
     "date": "2026-06-10",
@@ -6656,8 +6716,8 @@
     "ticker": "TMO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19108.87,
-    "cost": 9.55
+    "notional": 17564.18,
+    "cost": 8.78
   },
   {
     "date": "2026-06-11",
@@ -6666,8 +6726,8 @@
     "ticker": "C",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 18553.85,
-    "cost": 9.28
+    "notional": 17034.3,
+    "cost": 8.52
   },
   {
     "date": "2026-06-11",
@@ -6676,18 +6736,8 @@
     "ticker": "GS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 18553.85,
-    "cost": 9.28
-  },
-  {
-    "date": "2026-06-11",
-    "strategyId": "STR-16",
-    "strategy": "WQ Alpha 083 - Range Momentum",
-    "ticker": "LLY",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 18553.85,
-    "cost": 9.28
+    "notional": 17034.3,
+    "cost": 8.52
   },
   {
     "date": "2026-06-11",
@@ -6696,8 +6746,8 @@
     "ticker": "MMM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 18553.85,
-    "cost": 9.28
+    "notional": 17034.3,
+    "cost": 8.52
   },
   {
     "date": "2026-06-11",
@@ -6706,18 +6756,8 @@
     "ticker": "TMO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 18553.85,
-    "cost": 9.28
-  },
-  {
-    "date": "2026-06-11",
-    "strategyId": "STR-16",
-    "strategy": "WQ Alpha 083 - Range Momentum",
-    "ticker": "USB",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 18553.85,
-    "cost": 9.28
+    "notional": 17034.3,
+    "cost": 8.52
   },
   {
     "date": "2026-06-12",
@@ -6726,8 +6766,8 @@
     "ticker": "AMD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-12",
@@ -6736,8 +6776,18 @@
     "ticker": "AMGN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "C",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-12",
@@ -6746,8 +6796,8 @@
     "ticker": "FDX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-12",
@@ -6756,8 +6806,8 @@
     "ticker": "GD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-12",
@@ -6766,8 +6816,8 @@
     "ticker": "GM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-12",
@@ -6776,8 +6826,8 @@
     "ticker": "LLY",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-12",
@@ -6786,8 +6836,8 @@
     "ticker": "MMM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-12",
@@ -6796,8 +6846,8 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-12",
@@ -6806,18 +6856,8 @@
     "ticker": "UPS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19416.95,
-    "cost": 9.71
-  },
-  {
-    "date": "2026-06-12",
-    "strategyId": "STR-16",
-    "strategy": "WQ Alpha 083 - Range Momentum",
-    "ticker": "USB",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 19416.95,
-    "cost": 9.71
+    "notional": 17819.41,
+    "cost": 8.91
   },
   {
     "date": "2026-06-15",
@@ -6826,8 +6866,8 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19452.14,
-    "cost": 9.73
+    "notional": 17812.06,
+    "cost": 8.91
   },
   {
     "date": "2026-06-15",
@@ -6836,8 +6876,18 @@
     "ticker": "AMGN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19452.14,
-    "cost": 9.73
+    "notional": 17812.06,
+    "cost": 8.91
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "C",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 17812.06,
+    "cost": 8.91
   },
   {
     "date": "2026-06-15",
@@ -6846,8 +6896,8 @@
     "ticker": "CVS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19452.14,
-    "cost": 9.73
+    "notional": 17812.06,
+    "cost": 8.91
   },
   {
     "date": "2026-06-15",
@@ -6856,8 +6906,8 @@
     "ticker": "FDX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19452.14,
-    "cost": 9.73
+    "notional": 17812.06,
+    "cost": 8.91
   },
   {
     "date": "2026-06-15",
@@ -6866,8 +6916,18 @@
     "ticker": "GD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 19452.14,
-    "cost": 9.73
+    "notional": 17812.06,
+    "cost": 8.91
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "IBM",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 17812.06,
+    "cost": 8.91
   },
   {
     "date": "2026-06-15",
@@ -6876,8 +6936,8 @@
     "ticker": "INTC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 19452.14,
-    "cost": 9.73
+    "notional": 17812.06,
+    "cost": 8.91
   },
   {
     "date": "2026-06-16",
@@ -6886,8 +6946,8 @@
     "ticker": "AXP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6896,8 +6956,8 @@
     "ticker": "BAC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6906,8 +6966,8 @@
     "ticker": "BKNG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6916,8 +6976,8 @@
     "ticker": "C",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6926,8 +6986,8 @@
     "ticker": "CVS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6936,8 +6996,8 @@
     "ticker": "DE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6946,8 +7006,8 @@
     "ticker": "GE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6956,8 +7016,8 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6966,8 +7026,8 @@
     "ticker": "LLY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6976,8 +7036,18 @@
     "ticker": "SPG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
+  },
+  {
+    "date": "2026-06-16",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "ticker": "UNH",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
     "date": "2026-06-16",
@@ -6986,18 +7056,28 @@
     "ticker": "UPS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 18373.32,
+    "cost": 9.19
   },
   {
-    "date": "2026-06-16",
-    "strategyId": "STR-16",
-    "strategy": "WQ Alpha 083 - Range Momentum",
-    "ticker": "WFC",
+    "date": "2026-06-09",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "LLY",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 24016.39,
+    "cost": 12.01
+  },
+  {
+    "date": "2026-06-09",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "ORCL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 20067.01,
-    "cost": 10.03
+    "notional": 24016.39,
+    "cost": 12.01
   },
   {
     "date": "2026-06-10",
@@ -7006,18 +7086,8 @@
     "ticker": "ABBV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23628.8,
-    "cost": 11.81
-  },
-  {
-    "date": "2026-06-10",
-    "strategyId": "STR-17",
-    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-    "ticker": "AMAT",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 23628.8,
-    "cost": 11.81
+    "notional": 23460.5,
+    "cost": 11.73
   },
   {
     "date": "2026-06-10",
@@ -7026,8 +7096,18 @@
     "ticker": "GE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23628.8,
-    "cost": 11.81
+    "notional": 23460.5,
+    "cost": 11.73
+  },
+  {
+    "date": "2026-06-10",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "LLY",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 23460.5,
+    "cost": 11.73
   },
   {
     "date": "2026-06-10",
@@ -7036,8 +7116,8 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23628.8,
-    "cost": 11.81
+    "notional": 23460.5,
+    "cost": 11.73
   },
   {
     "date": "2026-06-11",
@@ -7046,8 +7126,28 @@
     "ticker": "ABBV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 23155.44,
-    "cost": 11.58
+    "notional": 22957.48,
+    "cost": 11.48
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "AMAT",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 22957.48,
+    "cost": 11.48
+  },
+  {
+    "date": "2026-06-11",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "CVS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 22957.48,
+    "cost": 11.48
   },
   {
     "date": "2026-06-11",
@@ -7056,18 +7156,8 @@
     "ticker": "LRCX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 23155.44,
-    "cost": 11.58
-  },
-  {
-    "date": "2026-06-12",
-    "strategyId": "STR-17",
-    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-    "ticker": "CVS",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 24619.02,
-    "cost": 12.31
+    "notional": 22957.48,
+    "cost": 11.48
   },
   {
     "date": "2026-06-12",
@@ -7076,8 +7166,38 @@
     "ticker": "GE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 24619.02,
-    "cost": 12.31
+    "notional": 24369.62,
+    "cost": 12.18
+  },
+  {
+    "date": "2026-06-12",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "INTC",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 24369.62,
+    "cost": 12.18
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "GE",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 24546.29,
+    "cost": 12.27
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "ticker": "INTC",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 24546.29,
+    "cost": 12.27
   },
   {
     "date": "2026-06-16",
@@ -7086,18 +7206,8 @@
     "ticker": "CVS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 25905.01,
-    "cost": 12.95
-  },
-  {
-    "date": "2026-06-16",
-    "strategyId": "STR-17",
-    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-    "ticker": "GE",
-    "side": "SELL",
-    "weightChange": -0.1,
-    "notional": 25905.01,
-    "cost": 12.95
+    "notional": 25368.92,
+    "cost": 12.68
   },
   {
     "date": "2026-06-16",
@@ -7106,18 +7216,8 @@
     "ticker": "LLY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 25905.01,
-    "cost": 12.95
-  },
-  {
-    "date": "2026-06-16",
-    "strategyId": "STR-17",
-    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-    "ticker": "ORCL",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 25905.01,
-    "cost": 12.95
+    "notional": 25368.92,
+    "cost": 12.68
   },
   {
     "date": "2026-06-09",
@@ -7126,8 +7226,8 @@
     "ticker": "COP",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 21860.43,
-    "cost": 10.93
+    "notional": 23584.4,
+    "cost": 11.79
   },
   {
     "date": "2026-06-09",
@@ -7136,8 +7236,8 @@
     "ticker": "ISRG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 21860.43,
-    "cost": 10.93
+    "notional": 23584.4,
+    "cost": 11.79
   },
   {
     "date": "2026-06-09",
@@ -7146,8 +7246,8 @@
     "ticker": "MDT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 21860.43,
-    "cost": 10.93
+    "notional": 23584.4,
+    "cost": 11.79
   },
   {
     "date": "2026-06-09",
@@ -7156,8 +7256,8 @@
     "ticker": "MO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 21860.43,
-    "cost": 10.93
+    "notional": 23584.4,
+    "cost": 11.79
   },
   {
     "date": "2026-06-09",
@@ -7166,8 +7266,8 @@
     "ticker": "NFLX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 21860.43,
-    "cost": 10.93
+    "notional": 23584.4,
+    "cost": 11.79
   },
   {
     "date": "2026-06-09",
@@ -7176,8 +7276,8 @@
     "ticker": "SBUX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 21860.43,
-    "cost": 10.93
+    "notional": 23584.4,
+    "cost": 11.79
   },
   {
     "date": "2026-06-10",
@@ -7186,8 +7286,8 @@
     "ticker": "MO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 21991.36,
-    "cost": 11.0
+    "notional": 23725.66,
+    "cost": 11.86
   },
   {
     "date": "2026-06-10",
@@ -7196,8 +7296,8 @@
     "ticker": "NFLX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 21991.36,
-    "cost": 11.0
+    "notional": 23725.66,
+    "cost": 11.86
   },
   {
     "date": "2026-06-11",
@@ -7206,8 +7306,8 @@
     "ticker": "AMZN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 21823.99,
-    "cost": 10.91
+    "notional": 23545.08,
+    "cost": 11.77
   },
   {
     "date": "2026-06-11",
@@ -7216,8 +7316,8 @@
     "ticker": "LOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 21823.99,
-    "cost": 10.91
+    "notional": 23545.08,
+    "cost": 11.77
   },
   {
     "date": "2026-06-11",
@@ -7226,8 +7326,8 @@
     "ticker": "NFLX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 21823.99,
-    "cost": 10.91
+    "notional": 23545.08,
+    "cost": 11.77
   },
   {
     "date": "2026-06-11",
@@ -7236,8 +7336,8 @@
     "ticker": "T",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 21823.99,
-    "cost": 10.91
+    "notional": 23545.08,
+    "cost": 11.77
   },
   {
     "date": "2026-06-12",
@@ -7246,8 +7346,8 @@
     "ticker": "AMZN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 21940.57,
-    "cost": 10.97
+    "notional": 23670.86,
+    "cost": 11.84
   },
   {
     "date": "2026-06-12",
@@ -7256,8 +7356,8 @@
     "ticker": "ISRG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 21940.57,
-    "cost": 10.97
+    "notional": 23670.86,
+    "cost": 11.84
   },
   {
     "date": "2026-06-12",
@@ -7266,8 +7366,8 @@
     "ticker": "LOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 21940.57,
-    "cost": 10.97
+    "notional": 23670.86,
+    "cost": 11.84
   },
   {
     "date": "2026-06-12",
@@ -7276,8 +7376,8 @@
     "ticker": "UBER",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 21940.57,
-    "cost": 10.97
+    "notional": 23670.86,
+    "cost": 11.84
   },
   {
     "date": "2026-06-15",
@@ -7286,8 +7386,8 @@
     "ticker": "AMZN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22159.9,
-    "cost": 11.08
+    "notional": 23907.49,
+    "cost": 11.95
   },
   {
     "date": "2026-06-15",
@@ -7296,8 +7396,8 @@
     "ticker": "DIS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22159.9,
-    "cost": 11.08
+    "notional": 23907.49,
+    "cost": 11.95
   },
   {
     "date": "2026-06-15",
@@ -7306,8 +7406,8 @@
     "ticker": "NEE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22159.9,
-    "cost": 11.08
+    "notional": 23907.49,
+    "cost": 11.95
   },
   {
     "date": "2026-06-15",
@@ -7316,8 +7416,8 @@
     "ticker": "UBER",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22159.9,
-    "cost": 11.08
+    "notional": 23907.49,
+    "cost": 11.95
   },
   {
     "date": "2026-06-16",
@@ -7326,8 +7426,8 @@
     "ticker": "CMCSA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22306.35,
-    "cost": 11.15
+    "notional": 24065.48,
+    "cost": 12.03
   },
   {
     "date": "2026-06-16",
@@ -7336,8 +7436,8 @@
     "ticker": "DIS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22306.35,
-    "cost": 11.15
+    "notional": 24065.48,
+    "cost": 12.03
   },
   {
     "date": "2026-06-16",
@@ -7346,8 +7446,8 @@
     "ticker": "GOOG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22306.35,
-    "cost": 11.15
+    "notional": 24065.48,
+    "cost": 12.03
   },
   {
     "date": "2026-06-16",
@@ -7356,8 +7456,8 @@
     "ticker": "GOOGL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22306.35,
-    "cost": 11.15
+    "notional": 24065.48,
+    "cost": 12.03
   },
   {
     "date": "2026-06-16",
@@ -7366,8 +7466,8 @@
     "ticker": "INTC",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22306.35,
-    "cost": 11.15
+    "notional": 24065.48,
+    "cost": 12.03
   },
   {
     "date": "2026-06-16",
@@ -7376,8 +7476,8 @@
     "ticker": "NEE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 22306.35,
-    "cost": 11.15
+    "notional": 24065.48,
+    "cost": 12.03
   },
   {
     "date": "2026-06-16",
@@ -7386,8 +7486,8 @@
     "ticker": "PEP",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22306.35,
-    "cost": 11.15
+    "notional": 24065.48,
+    "cost": 12.03
   },
   {
     "date": "2026-06-16",
@@ -7396,8 +7496,8 @@
     "ticker": "WMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 22306.35,
-    "cost": 11.15
+    "notional": 24065.48,
+    "cost": 12.03
   },
   {
     "date": "2026-06-09",
@@ -7406,8 +7506,8 @@
     "ticker": "AAPL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 33168.22,
-    "cost": 16.58
+    "notional": 32505.32,
+    "cost": 16.25
   },
   {
     "date": "2026-06-09",
@@ -7416,8 +7516,8 @@
     "ticker": "C",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 33168.22,
-    "cost": 16.58
+    "notional": 32505.32,
+    "cost": 16.25
   },
   {
     "date": "2026-06-09",
@@ -7426,18 +7526,18 @@
     "ticker": "CVS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 33168.22,
-    "cost": 16.58
+    "notional": 32505.32,
+    "cost": 16.25
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
-    "ticker": "LRCX",
+    "ticker": "TXN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 33168.22,
-    "cost": 16.58
+    "notional": 32505.32,
+    "cost": 16.25
   },
   {
     "date": "2026-06-11",
@@ -7446,38 +7546,58 @@
     "ticker": "CVS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 32063.04,
-    "cost": 16.03
+    "notional": 31455.47,
+    "cost": 15.73
   },
   {
     "date": "2026-06-11",
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
-    "ticker": "LRCX",
+    "ticker": "TXN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 32063.04,
-    "cost": 16.03
+    "notional": 31455.47,
+    "cost": 15.73
   },
   {
-    "date": "2026-06-16",
+    "date": "2026-06-12",
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
-    "ticker": "AMAT",
-    "side": "BUY",
-    "weightChange": 0.1,
-    "notional": 35169.16,
-    "cost": 17.58
+    "ticker": "GS",
+    "side": "SELL",
+    "weightChange": -0.1,
+    "notional": 32868.2,
+    "cost": 16.43
   },
   {
-    "date": "2026-06-16",
+    "date": "2026-06-12",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "TXN",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 32868.2,
+    "cost": 16.43
+  },
+  {
+    "date": "2026-06-15",
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "ticker": "C",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 35169.16,
-    "cost": 17.58
+    "notional": 33391.49,
+    "cost": 16.7
+  },
+  {
+    "date": "2026-06-15",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "ticker": "GS",
+    "side": "BUY",
+    "weightChange": 0.1,
+    "notional": 33391.49,
+    "cost": 16.7
   },
   {
     "date": "2026-06-09",
@@ -7486,8 +7606,8 @@
     "ticker": "AAPL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7496,8 +7616,8 @@
     "ticker": "ABBV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7506,8 +7626,8 @@
     "ticker": "ACN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7516,8 +7636,8 @@
     "ticker": "ADBE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7526,8 +7646,8 @@
     "ticker": "AMAT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7536,8 +7656,8 @@
     "ticker": "AMD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7546,8 +7666,8 @@
     "ticker": "AMT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7556,8 +7676,8 @@
     "ticker": "AVGO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7566,8 +7686,8 @@
     "ticker": "BKNG",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7576,8 +7696,8 @@
     "ticker": "BMY",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7586,8 +7706,8 @@
     "ticker": "CL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7596,8 +7716,8 @@
     "ticker": "GE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7606,8 +7726,8 @@
     "ticker": "INTC",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7616,8 +7736,8 @@
     "ticker": "LRCX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7626,8 +7746,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7636,8 +7756,8 @@
     "ticker": "NEE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7646,8 +7766,8 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7656,8 +7776,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7666,8 +7786,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-09",
@@ -7676,8 +7796,8 @@
     "ticker": "TXN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4675.55,
-    "cost": 2.34
+    "notional": 4342.12,
+    "cost": 2.17
   },
   {
     "date": "2026-06-10",
@@ -7686,8 +7806,8 @@
     "ticker": "ABBV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7696,8 +7816,8 @@
     "ticker": "ACN",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7706,8 +7826,8 @@
     "ticker": "AMD",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7716,8 +7836,8 @@
     "ticker": "AMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7726,8 +7846,8 @@
     "ticker": "BKNG",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7736,8 +7856,8 @@
     "ticker": "BMY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7746,8 +7866,8 @@
     "ticker": "CL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7756,8 +7876,8 @@
     "ticker": "CRM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7766,8 +7886,8 @@
     "ticker": "CSCO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7776,8 +7896,8 @@
     "ticker": "GE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7786,8 +7906,8 @@
     "ticker": "INTU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7796,8 +7916,8 @@
     "ticker": "NEE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7806,8 +7926,8 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7816,8 +7936,8 @@
     "ticker": "PLTR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7826,8 +7946,8 @@
     "ticker": "QCOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-10",
@@ -7836,8 +7956,8 @@
     "ticker": "TSLA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4685.58,
-    "cost": 2.34
+    "notional": 4351.44,
+    "cost": 2.18
   },
   {
     "date": "2026-06-11",
@@ -7846,8 +7966,8 @@
     "ticker": "AAPL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7856,8 +7976,8 @@
     "ticker": "ADBE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7866,8 +7986,8 @@
     "ticker": "AVGO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7876,8 +7996,8 @@
     "ticker": "CAT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7886,8 +8006,8 @@
     "ticker": "CRM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7896,8 +8016,8 @@
     "ticker": "CSCO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7906,8 +8026,8 @@
     "ticker": "GEV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7916,8 +8036,8 @@
     "ticker": "GM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7926,8 +8046,8 @@
     "ticker": "HON",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7936,8 +8056,8 @@
     "ticker": "INTU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7946,8 +8066,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7956,8 +8076,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7966,8 +8086,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-11",
@@ -7976,8 +8096,8 @@
     "ticker": "UPS",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4557.85,
-    "cost": 2.28
+    "notional": 4232.82,
+    "cost": 2.12
   },
   {
     "date": "2026-06-12",
@@ -7986,8 +8106,8 @@
     "ticker": "ADBE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -7996,8 +8116,8 @@
     "ticker": "AMD",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8006,8 +8126,8 @@
     "ticker": "AVGO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8016,8 +8136,8 @@
     "ticker": "CAT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8026,8 +8146,8 @@
     "ticker": "COP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8036,8 +8156,8 @@
     "ticker": "CRM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8046,8 +8166,8 @@
     "ticker": "CVX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8056,8 +8176,8 @@
     "ticker": "GEV",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8066,8 +8186,8 @@
     "ticker": "GM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8076,8 +8196,8 @@
     "ticker": "HON",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8086,8 +8206,8 @@
     "ticker": "INTU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8096,8 +8216,8 @@
     "ticker": "MO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8106,8 +8226,8 @@
     "ticker": "MSFT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8116,8 +8236,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8126,8 +8246,8 @@
     "ticker": "NOW",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8136,8 +8256,8 @@
     "ticker": "ORCL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8146,8 +8266,8 @@
     "ticker": "QCOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8156,8 +8276,8 @@
     "ticker": "TSLA",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8166,8 +8286,8 @@
     "ticker": "UPS",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-12",
@@ -8176,8 +8296,8 @@
     "ticker": "XOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4814.0,
-    "cost": 2.41
+    "notional": 4470.7,
+    "cost": 2.24
   },
   {
     "date": "2026-06-15",
@@ -8186,8 +8306,8 @@
     "ticker": "AAPL",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8196,8 +8316,8 @@
     "ticker": "ABT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8206,8 +8326,8 @@
     "ticker": "COP",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8216,8 +8336,8 @@
     "ticker": "CRM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8226,8 +8346,8 @@
     "ticker": "CVX",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8236,8 +8356,8 @@
     "ticker": "INTU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8246,8 +8366,8 @@
     "ticker": "LLY",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8256,8 +8376,8 @@
     "ticker": "LMT",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8266,8 +8386,8 @@
     "ticker": "MO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8276,8 +8396,8 @@
     "ticker": "MRK",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8286,8 +8406,8 @@
     "ticker": "MSFT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8296,8 +8416,8 @@
     "ticker": "MU",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8306,8 +8426,8 @@
     "ticker": "NKE",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8316,8 +8436,8 @@
     "ticker": "NOW",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8326,8 +8446,8 @@
     "ticker": "ORCL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8336,8 +8456,8 @@
     "ticker": "PLTR",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8346,8 +8466,8 @@
     "ticker": "TMO",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-15",
@@ -8356,8 +8476,8 @@
     "ticker": "XOM",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4786.27,
-    "cost": 2.39
+    "notional": 4444.95,
+    "cost": 2.22
   },
   {
     "date": "2026-06-16",
@@ -8366,8 +8486,8 @@
     "ticker": "AAPL",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8376,8 +8496,8 @@
     "ticker": "ABBV",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8386,8 +8506,8 @@
     "ticker": "ABT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8396,8 +8516,8 @@
     "ticker": "ACN",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8406,8 +8526,8 @@
     "ticker": "ADBE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8416,8 +8536,8 @@
     "ticker": "CMCSA",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8426,8 +8546,8 @@
     "ticker": "COP",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8436,8 +8556,8 @@
     "ticker": "CVX",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8446,8 +8566,8 @@
     "ticker": "JNJ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8456,8 +8576,8 @@
     "ticker": "LLY",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8466,8 +8586,8 @@
     "ticker": "LMT",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8476,8 +8596,8 @@
     "ticker": "MDLZ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8486,8 +8606,8 @@
     "ticker": "MU",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8496,8 +8616,8 @@
     "ticker": "NKE",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8506,8 +8626,8 @@
     "ticker": "PLTR",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8516,8 +8636,8 @@
     "ticker": "TMO",
     "side": "SELL",
     "weightChange": -0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8526,8 +8646,8 @@
     "ticker": "VZ",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   },
   {
     "date": "2026-06-16",
@@ -8536,7 +8656,7 @@
     "ticker": "XOM",
     "side": "BUY",
     "weightChange": 0.1,
-    "notional": 4859.9,
-    "cost": 2.43
+    "notional": 4513.33,
+    "cost": 2.26
   }
 ]

@@ -4,42 +4,42 @@
     "factor": "Market beta",
     "purpose": "Broad U.S. equity benchmark",
     "use": "Compare stock strategy returns against market beta",
-    "loading": 0.974
+    "loading": 0.969
   },
   {
     "ticker": "QQQ",
     "factor": "Growth / tech",
     "purpose": "Nasdaq growth proxy",
     "use": "Separate alpha from growth crowding",
-    "loading": 0.788
+    "loading": 0.78
   },
   {
     "ticker": "IWM",
     "factor": "Small cap",
     "purpose": "Size and domestic cyclicality proxy",
     "use": "Detect small-cap sensitivity",
-    "loading": 0.399
+    "loading": 0.395
   },
   {
     "ticker": "TLT",
     "factor": "Rates duration",
     "purpose": "Long-duration Treasury proxy",
     "use": "Map rate-sensitive growth exposure",
-    "loading": -0.177
+    "loading": -0.18
   },
   {
     "ticker": "HYG",
     "factor": "Credit spread",
     "purpose": "High-yield credit proxy",
     "use": "Stress-test credit-sensitive equities",
-    "loading": 1.044
+    "loading": 1.043
   },
   {
     "ticker": "LQD",
     "factor": "Investment grade credit",
     "purpose": "IG credit proxy",
     "use": "Benchmark spread-risk beta",
-    "loading": 1.044
+    "loading": 1.043
   },
   {
     "ticker": "GLD",
@@ -60,6 +60,6 @@
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.308
+    "loading": -0.304
   }
 ]

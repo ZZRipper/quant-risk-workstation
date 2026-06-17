@@ -1,49 +1,49 @@
 [
   {
     "name": "Market beta",
-    "value": 0.974,
+    "value": 0.969,
     "limit": 0.3,
     "status": "Breach"
   },
   {
     "name": "Size beta",
-    "value": 0.399,
+    "value": 0.395,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Value beta",
-    "value": -0.788,
+    "value": -0.78,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Momentum beta",
-    "value": 0.788,
+    "value": 0.78,
     "limit": 0.25,
     "status": "Breach"
   },
   {
     "name": "Rates beta",
-    "value": -0.177,
+    "value": -0.18,
     "limit": 0.2,
     "status": "Warning"
   },
   {
     "name": "Credit beta",
-    "value": 1.044,
+    "value": 1.043,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Volatility beta",
-    "value": -0.974,
+    "value": -0.969,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "USD beta",
-    "value": -0.308,
+    "value": -0.304,
     "limit": 0.2,
     "status": "Breach"
   },
