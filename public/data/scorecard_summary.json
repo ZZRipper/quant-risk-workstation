@@ -1,38 +1,38 @@
 {
   "counts": {
     "Approve": 0,
-    "Watch": 2,
-    "Revise": 16,
-    "Reject": 2
+    "Watch": 5,
+    "Revise": 12,
+    "Reject": 3
   },
-  "averageScore": 52.4,
+  "averageScore": 53.1,
   "topStrategy": {
     "id": "STR-02",
     "name": "WQ Alpha 004 - Rank Momentum",
-    "score": 63.9,
+    "score": 64.5,
     "decision": "Watch"
   },
   "middleStrategy": {
     "id": "STR-15",
     "name": "WQ Alpha 078 - Correlation Break",
-    "score": 54.9,
+    "score": 56.2,
     "decision": "Revise"
   },
   "bottomStrategy": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "score": 37.1,
+    "score": 35.7,
     "decision": "Reject"
   },
   "mostCrowded": {
     "id": "STR-12",
     "name": "WQ Alpha 055 - Turnover Reversal",
-    "maxCorrelation": 0.957
+    "maxCorrelation": 0.959
   },
   "highestOosSharpe": {
     "id": "STR-02",
     "name": "WQ Alpha 004 - Rank Momentum",
-    "oosSharpe": 1.57
+    "oosSharpe": 1.61
   },
   "worstOosDrawdown": {
     "id": "STR-20",
@@ -44,24 +44,24 @@
       "id": "STR-02",
       "name": "WQ Alpha 004 - Rank Momentum",
       "sleeve": "Momentum",
-      "score": 63.9,
+      "score": 64.5,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
         "oosPerformance": 100.0,
         "robustness": 100.0,
         "drawdownControl": 41.4,
-        "costEfficiency": 35.4,
+        "costEfficiency": 36.0,
         "diversification": 0.0,
-        "factorIndependence": 8.1,
-        "paperBehavior": 83.5,
-        "hitRate": 78.5
+        "factorIndependence": 7.5,
+        "paperBehavior": 90.4,
+        "hitRate": 79.0
       },
-      "oosSharpe": 1.57,
+      "oosSharpe": 1.61,
       "oosDrawdown": -19.66,
-      "sharpeDecay": 0.66,
-      "paperPnl": 25632.25,
-      "maxCorrelation": 0.939,
+      "sharpeDecay": 0.7,
+      "paperPnl": 56995.41,
+      "maxCorrelation": 0.943,
       "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
@@ -79,24 +79,24 @@
       "id": "STR-15",
       "name": "WQ Alpha 078 - Correlation Break",
       "sleeve": "Correlation",
-      "score": 54.9,
+      "score": 56.2,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 69.4,
+        "oosPerformance": 69.8,
         "robustness": 93.7,
         "drawdownControl": 48.6,
         "costEfficiency": 0.0,
-        "diversification": 60.5,
+        "diversification": 61.2,
         "factorIndependence": 13.5,
-        "paperBehavior": 50.7,
-        "hitRate": 55.0
+        "paperBehavior": 64.8,
+        "hitRate": 55.5
       },
       "oosSharpe": 0.85,
       "oosDrawdown": -17.86,
       "sharpeDecay": 0.14,
-      "paperPnl": 2384.77,
-      "maxCorrelation": 0.658,
+      "paperPnl": 3284.0,
+      "maxCorrelation": 0.655,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay"
@@ -111,28 +111,27 @@
       "id": "STR-20",
       "name": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "score": 37.1,
+      "score": 35.7,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
-        "oosPerformance": 22.1,
-        "robustness": 99.4,
+        "oosPerformance": 20.2,
+        "robustness": 98.3,
         "drawdownControl": 0.0,
         "costEfficiency": 0.0,
-        "diversification": 58.7,
+        "diversification": 63.0,
         "factorIndependence": 0.0,
-        "paperBehavior": 66.4,
+        "paperBehavior": 52.1,
         "hitRate": 63.0
       },
-      "oosSharpe": 0.31,
+      "oosSharpe": 0.29,
       "oosDrawdown": -35.75,
-      "sharpeDecay": 0.24,
-      "paperPnl": 1900.79,
-      "maxCorrelation": 0.665,
+      "sharpeDecay": 0.22,
+      "paperPnl": 961.62,
+      "maxCorrelation": 0.648,
       "dominantFactor": "Credit beta",
       "strengths": [
-        "Limited Sharpe decay",
-        "Paper trading behavior is positive"
+        "Limited Sharpe decay"
       ],
       "weaknesses": [
         "OOS performance is weak",
