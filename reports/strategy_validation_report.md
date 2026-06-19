@@ -32,7 +32,7 @@ This report validates the current prototype stock-alpha strategies using the sam
 | STR-17 | WQ Alpha 088 - Liquidity Adjusted Momentum | 0.56 | 1.41 | 0.86 | -27.56% | -19.39% | 52.8% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
 | STR-18 | WQ Alpha 092 - Delayed Reversal | 0.60 | 1.02 | 0.42 | -39.67% | -20.85% | 54.0% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
 | STR-19 | WQ Alpha 096 - Risk Controlled Momentum | 1.14 | 1.16 | 0.02 | -30.79% | -16.06% | 54.2% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
-| STR-20 | WQ Alpha 101 - Close To Open Reversal | 0.07 | 0.29 | 0.22 | -48.24% | -35.75% | 52.6% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
+| STR-20 | WQ Alpha 101 - Close To Open Reversal | 0.06 | 0.29 | 0.22 | -48.24% | -35.73% | 52.6% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
 
 ## Methodology Notes
 

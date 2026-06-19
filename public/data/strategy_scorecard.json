@@ -12,14 +12,14 @@
       "drawdownControl": 41.4,
       "costEfficiency": 36.0,
       "diversification": 0.0,
-      "factorIndependence": 7.5,
+      "factorIndependence": 7.6,
       "paperBehavior": 90.4,
       "hitRate": 79.0
     },
     "oosSharpe": 1.61,
     "oosDrawdown": -19.66,
     "sharpeDecay": 0.7,
-    "paperPnl": 56995.41,
+    "paperPnl": 56995.35,
     "maxCorrelation": 0.943,
     "dominantFactor": "Value beta",
     "strengths": [
@@ -53,7 +53,7 @@
     "oosSharpe": 1.47,
     "oosDrawdown": -18.07,
     "sharpeDecay": 0.83,
-    "paperPnl": 5996.84,
+    "paperPnl": 5996.86,
     "maxCorrelation": 0.933,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -113,14 +113,14 @@
       "drawdownControl": 38.7,
       "costEfficiency": 20.0,
       "diversification": 0.0,
-      "factorIndependence": 36.8,
+      "factorIndependence": 36.9,
       "paperBehavior": 90.4,
       "hitRate": 64.0
     },
     "oosSharpe": 1.26,
     "oosDrawdown": -20.33,
     "sharpeDecay": 0.36,
-    "paperPnl": 25125.26,
+    "paperPnl": 25125.31,
     "maxCorrelation": 0.954,
     "dominantFactor": "Value beta",
     "strengths": [
@@ -188,7 +188,7 @@
     "oosSharpe": 1.41,
     "oosDrawdown": -19.39,
     "sharpeDecay": 0.86,
-    "paperPnl": 10312.88,
+    "paperPnl": 10312.86,
     "maxCorrelation": 0.937,
     "dominantFactor": "Value beta",
     "strengths": [
@@ -222,7 +222,7 @@
     "oosSharpe": 1.46,
     "oosDrawdown": -20.97,
     "sharpeDecay": 1.0,
-    "paperPnl": -458.82,
+    "paperPnl": -458.81,
     "maxCorrelation": 0.907,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -255,7 +255,7 @@
     "oosSharpe": 1.33,
     "oosDrawdown": -23.79,
     "sharpeDecay": 0.68,
-    "paperPnl": 13591.4,
+    "paperPnl": 13591.38,
     "maxCorrelation": 0.945,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -289,7 +289,7 @@
     "oosSharpe": 1.02,
     "oosDrawdown": -20.85,
     "sharpeDecay": 0.42,
-    "paperPnl": 7194.99,
+    "paperPnl": 7194.98,
     "maxCorrelation": 0.78,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -316,14 +316,14 @@
       "drawdownControl": 28.2,
       "costEfficiency": 12.0,
       "diversification": 0.0,
-      "factorIndependence": 12.0,
+      "factorIndependence": 12.1,
       "paperBehavior": 74.3,
       "hitRate": 64.0
     },
     "oosSharpe": 1.32,
     "oosDrawdown": -22.96,
     "sharpeDecay": 0.5,
-    "paperPnl": 25631.65,
+    "paperPnl": 25631.62,
     "maxCorrelation": 0.954,
     "dominantFactor": "Value beta",
     "strengths": [
@@ -351,13 +351,13 @@
       "costEfficiency": 0.0,
       "diversification": 61.2,
       "factorIndependence": 13.5,
-      "paperBehavior": 64.8,
+      "paperBehavior": 64.9,
       "hitRate": 55.5
     },
     "oosSharpe": 0.85,
     "oosDrawdown": -17.86,
     "sharpeDecay": 0.14,
-    "paperPnl": 3284.0,
+    "paperPnl": 3289.27,
     "maxCorrelation": 0.655,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -489,7 +489,7 @@
     "oosSharpe": 0.81,
     "oosDrawdown": -29.93,
     "sharpeDecay": 0.66,
-    "paperPnl": 336.32,
+    "paperPnl": 336.33,
     "maxCorrelation": 0.658,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -522,7 +522,7 @@
     "oosSharpe": 0.95,
     "oosDrawdown": -22.44,
     "sharpeDecay": 0.32,
-    "paperPnl": -7817.58,
+    "paperPnl": -7817.59,
     "maxCorrelation": 0.877,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -588,7 +588,7 @@
     "oosSharpe": 0.84,
     "oosDrawdown": -27.4,
     "sharpeDecay": 0.67,
-    "paperPnl": -5828.25,
+    "paperPnl": -5828.27,
     "maxCorrelation": 0.959,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -651,9 +651,9 @@
       "hitRate": 63.0
     },
     "oosSharpe": 0.29,
-    "oosDrawdown": -35.75,
+    "oosDrawdown": -35.73,
     "sharpeDecay": 0.22,
-    "paperPnl": 961.62,
+    "paperPnl": 961.01,
     "maxCorrelation": 0.648,
     "dominantFactor": "Credit beta",
     "strengths": [
