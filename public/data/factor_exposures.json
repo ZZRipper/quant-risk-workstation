@@ -13,13 +13,13 @@
   },
   {
     "name": "Value beta",
-    "value": -0.78,
+    "value": -0.779,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Momentum beta",
-    "value": 0.78,
+    "value": 0.779,
     "limit": 0.25,
     "status": "Breach"
   },
