@@ -25,21 +25,21 @@
     "factor": "Rates duration",
     "purpose": "Long-duration Treasury proxy",
     "use": "Map rate-sensitive growth exposure",
-    "loading": -0.18
+    "loading": -0.181
   },
   {
     "ticker": "HYG",
     "factor": "Credit spread",
     "purpose": "High-yield credit proxy",
     "use": "Stress-test credit-sensitive equities",
-    "loading": 1.051
+    "loading": 1.057
   },
   {
     "ticker": "LQD",
     "factor": "Investment grade credit",
     "purpose": "IG credit proxy",
     "use": "Benchmark spread-risk beta",
-    "loading": 1.051
+    "loading": 1.057
   },
   {
     "ticker": "GLD",
