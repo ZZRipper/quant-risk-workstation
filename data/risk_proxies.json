@@ -4,14 +4,14 @@
     "factor": "Market beta",
     "purpose": "Broad U.S. equity benchmark",
     "use": "Compare stock strategy returns against market beta",
-    "loading": 0.974
+    "loading": 0.975
   },
   {
     "ticker": "QQQ",
     "factor": "Growth / tech",
     "purpose": "Nasdaq growth proxy",
     "use": "Separate alpha from growth crowding",
-    "loading": 0.783
+    "loading": 0.784
   },
   {
     "ticker": "IWM",
