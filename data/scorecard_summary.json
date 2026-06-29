@@ -1,27 +1,27 @@
 {
   "counts": {
     "Approve": 0,
-    "Watch": 4,
-    "Revise": 13,
-    "Reject": 3
+    "Watch": 3,
+    "Revise": 15,
+    "Reject": 2
   },
-  "averageScore": 52.2,
+  "averageScore": 51.5,
   "topStrategy": {
-    "id": "STR-02",
-    "name": "WQ Alpha 004 - Rank Momentum",
-    "score": 62.8,
+    "id": "STR-03",
+    "name": "WQ Alpha 006 - Volume Price Divergence",
+    "score": 62.9,
     "decision": "Watch"
   },
   "middleStrategy": {
-    "id": "STR-13",
-    "name": "WQ Alpha 060 - Price Volume Rank",
-    "score": 54.7,
+    "id": "STR-06",
+    "name": "WQ Alpha 024 - Delayed Momentum",
+    "score": 52.8,
     "decision": "Revise"
   },
   "bottomStrategy": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "score": 34.8,
+    "score": 36.9,
     "decision": "Reject"
   },
   "mostCrowded": {
@@ -32,7 +32,7 @@
   "highestOosSharpe": {
     "id": "STR-02",
     "name": "WQ Alpha 004 - Rank Momentum",
-    "oosSharpe": 1.55
+    "oosSharpe": 1.5
   },
   "worstOosDrawdown": {
     "id": "STR-20",
@@ -41,28 +41,28 @@
   },
   "deepDive": [
     {
-      "id": "STR-02",
-      "name": "WQ Alpha 004 - Rank Momentum",
-      "sleeve": "Momentum",
-      "score": 62.8,
+      "id": "STR-03",
+      "name": "WQ Alpha 006 - Volume Price Divergence",
+      "sleeve": "Volume",
+      "score": 62.9,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 100.0,
+        "oosPerformance": 89.2,
         "robustness": 100.0,
-        "drawdownControl": 41.4,
-        "costEfficiency": 30.2,
-        "diversification": 0.0,
-        "factorIndependence": 5.8,
-        "paperBehavior": 79.2,
-        "hitRate": 79.0
+        "drawdownControl": 36.9,
+        "costEfficiency": 0.0,
+        "diversification": 39.5,
+        "factorIndependence": 28.4,
+        "paperBehavior": 100.0,
+        "hitRate": 71.0
       },
-      "oosSharpe": 1.55,
-      "oosDrawdown": -19.66,
-      "sharpeDecay": 0.66,
-      "paperPnl": 30489.67,
-      "maxCorrelation": 0.959,
-      "dominantFactor": "Value beta",
+      "oosSharpe": 1.25,
+      "oosDrawdown": -20.77,
+      "sharpeDecay": 1.11,
+      "paperPnl": 19094.71,
+      "maxCorrelation": 0.742,
+      "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
         "Limited Sharpe decay",
@@ -71,33 +71,33 @@
       "weaknesses": [
         "OOS drawdown is high",
         "Cost or turnover drag is high",
-        "High correlation with STR-06, STR-05, STR-17"
+        "High correlation with STR-13, STR-11"
       ],
       "reviewBucket": "Top score"
     },
     {
-      "id": "STR-13",
-      "name": "WQ Alpha 060 - Price Volume Rank",
-      "sleeve": "Volume",
-      "score": 54.7,
+      "id": "STR-06",
+      "name": "WQ Alpha 024 - Delayed Momentum",
+      "sleeve": "Momentum",
+      "score": 52.8,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 95.7,
+        "oosPerformance": 89.6,
         "robustness": 100.0,
-        "drawdownControl": 36.1,
-        "costEfficiency": 0.0,
+        "drawdownControl": 28.2,
+        "costEfficiency": 12.6,
         "diversification": 0.0,
-        "factorIndependence": 24.1,
-        "paperBehavior": 34.1,
-        "hitRate": 67.5
+        "factorIndependence": 10.7,
+        "paperBehavior": 41.2,
+        "hitRate": 63.0
       },
-      "oosSharpe": 1.4,
-      "oosDrawdown": -20.97,
-      "sharpeDecay": 0.96,
-      "paperPnl": -7670.29,
-      "maxCorrelation": 0.926,
-      "dominantFactor": "Credit beta",
+      "oosSharpe": 1.26,
+      "oosDrawdown": -22.96,
+      "sharpeDecay": 0.45,
+      "paperPnl": 656.62,
+      "maxCorrelation": 0.96,
+      "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
         "Limited Sharpe decay"
@@ -105,7 +105,7 @@
       "weaknesses": [
         "OOS drawdown is high",
         "Cost or turnover drag is high",
-        "High correlation with STR-11, STR-03, STR-16"
+        "High correlation with STR-05, STR-02, STR-17"
       ],
       "reviewBucket": "Middle score"
     },
@@ -113,24 +113,24 @@
       "id": "STR-20",
       "name": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "score": 34.8,
+      "score": 36.9,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
-        "oosPerformance": 16.7,
-        "robustness": 94.9,
+        "oosPerformance": 18.7,
+        "robustness": 96.0,
         "drawdownControl": 0.0,
         "costEfficiency": 0.0,
-        "diversification": 82.0,
+        "diversification": 85.7,
         "factorIndependence": 0.0,
-        "paperBehavior": 36.0,
+        "paperBehavior": 49.3,
         "hitRate": 62.0
       },
-      "oosSharpe": 0.25,
+      "oosSharpe": 0.27,
       "oosDrawdown": -35.73,
-      "sharpeDecay": 0.16,
-      "paperPnl": 729.81,
-      "maxCorrelation": 0.572,
+      "sharpeDecay": 0.18,
+      "paperPnl": 2119.77,
+      "maxCorrelation": 0.557,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",
