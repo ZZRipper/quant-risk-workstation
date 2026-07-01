@@ -11,7 +11,7 @@
     "factor": "Growth / tech",
     "purpose": "Nasdaq growth proxy",
     "use": "Separate alpha from growth crowding",
-    "loading": 0.786
+    "loading": 0.788
   },
   {
     "ticker": "IWM",
@@ -25,41 +25,41 @@
     "factor": "Rates duration",
     "purpose": "Long-duration Treasury proxy",
     "use": "Map rate-sensitive growth exposure",
-    "loading": -0.181
+    "loading": -0.18
   },
   {
     "ticker": "HYG",
     "factor": "Credit spread",
     "purpose": "High-yield credit proxy",
     "use": "Stress-test credit-sensitive equities",
-    "loading": 1.06
+    "loading": 1.062
   },
   {
     "ticker": "LQD",
     "factor": "Investment grade credit",
     "purpose": "IG credit proxy",
     "use": "Benchmark spread-risk beta",
-    "loading": 1.06
+    "loading": 1.062
   },
   {
     "ticker": "GLD",
     "factor": "Gold / real asset",
     "purpose": "Inflation hedge proxy",
     "use": "Compare inflation sleeve behavior",
-    "loading": 0.337
+    "loading": 0.338
   },
   {
     "ticker": "DBC",
     "factor": "Commodities",
     "purpose": "Broad commodity proxy",
     "use": "Monitor commodity/inflation linkage",
-    "loading": 0.337
+    "loading": 0.338
   },
   {
     "ticker": "UUP",
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.311
+    "loading": -0.314
   }
 ]
