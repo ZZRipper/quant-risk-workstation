@@ -18,7 +18,7 @@
     "factor": "Small cap",
     "purpose": "Size and domestic cyclicality proxy",
     "use": "Detect small-cap sensitivity",
-    "loading": 0.39
+    "loading": 0.391
   },
   {
     "ticker": "TLT",
@@ -32,14 +32,14 @@
     "factor": "Credit spread",
     "purpose": "High-yield credit proxy",
     "use": "Stress-test credit-sensitive equities",
-    "loading": 1.062
+    "loading": 1.061
   },
   {
     "ticker": "LQD",
     "factor": "Investment grade credit",
     "purpose": "IG credit proxy",
     "use": "Benchmark spread-risk beta",
-    "loading": 1.062
+    "loading": 1.061
   },
   {
     "ticker": "GLD",
@@ -60,6 +60,6 @@
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.314
+    "loading": -0.312
   }
 ]

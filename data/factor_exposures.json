@@ -7,7 +7,7 @@
   },
   {
     "name": "Size beta",
-    "value": 0.39,
+    "value": 0.391,
     "limit": 0.2,
     "status": "Breach"
   },
@@ -31,7 +31,7 @@
   },
   {
     "name": "Credit beta",
-    "value": 1.062,
+    "value": 1.061,
     "limit": 0.2,
     "status": "Breach"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "USD beta",
-    "value": -0.314,
+    "value": -0.312,
     "limit": 0.2,
     "status": "Breach"
   },
