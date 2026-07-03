@@ -37,7 +37,7 @@
   "worstOosDrawdown": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "oosDrawdown": -35.73
+    "oosDrawdown": -35.75
   },
   "deepDive": [
     {
@@ -60,7 +60,7 @@
       "oosSharpe": 0.96,
       "oosDrawdown": -17.86,
       "sharpeDecay": 0.25,
-      "paperPnl": 16153.52,
+      "paperPnl": 16242.65,
       "maxCorrelation": 0.604,
       "dominantFactor": "Credit beta",
       "strengths": [
@@ -94,7 +94,7 @@
       "oosSharpe": 1.0,
       "oosDrawdown": -16.06,
       "sharpeDecay": -0.15,
-      "paperPnl": -2478.45,
+      "paperPnl": -2478.46,
       "maxCorrelation": 0.942,
       "dominantFactor": "Credit beta",
       "strengths": [
@@ -126,9 +126,9 @@
         "hitRate": 62.0
       },
       "oosSharpe": 0.25,
-      "oosDrawdown": -35.73,
+      "oosDrawdown": -35.75,
       "sharpeDecay": 0.18,
-      "paperPnl": -181.23,
+      "paperPnl": -181.34,
       "maxCorrelation": 0.522,
       "dominantFactor": "Credit beta",
       "strengths": [
