@@ -20,6 +20,14 @@
   "signal_status": "stale_needs_prediction_refresh",
   "reset_ledger": true,
   "lookahead_control": "Weekly paper rebalances use the latest available signal strictly before the rebalance date. Stale signals are skipped instead of forward-filled.",
+  "signal_source_policy": "Historical paper ledger uses walk-forward validation predictions plus archived live signal snapshots when available.",
+  "historical_prediction_file": "data/model_outputs/ml_predictions.csv",
+  "archived_live_signal_count": 1,
+  "archived_live_signal_files": [
+    "data/live_signal_archive/live_signal_2026-07-06.csv"
+  ],
+  "combined_prediction_start": "2023-05-02",
+  "combined_prediction_end": "2026-07-06",
   "rebalance_frequency": "weekly_monday_when_fresh_signal_available",
   "executed_rebalances": 2,
   "skipped_rebalances": 3,

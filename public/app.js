@@ -319,6 +319,8 @@ function renderMlAlphaPaper() {
   const positions = mlAlpha.positions || [];
   const trades = mlAlpha.trades || [];
   const ledger = mlAlpha.ledger || [];
+  const liveMeta = mlAlpha.liveMetadata || {};
+  const archiveIndex = mlAlpha.archiveIndex || {};
   const metaEl = $("mlAlphaMeta");
   if (!metaEl) return;
   if (!Object.keys(meta).length) {
@@ -327,7 +329,7 @@ function renderMlAlphaPaper() {
     return;
   }
   $("mlAlphaStatus").textContent = meta.signal_status || "Loaded";
-  metaEl.textContent = `Model ${meta.model_version} · latest executed signal ${shortDate(meta.signal_date)} · paper start ${shortDate(meta.paper_start_date)} · latest NAV date ${shortDate(meta.latest_nav_date)} · rebalances ${meta.executed_rebalances || 0} executed / ${meta.skipped_rebalances || 0} skipped`;
+  metaEl.textContent = `Model ${meta.model_version} · latest executed signal ${shortDate(meta.signal_date)} · latest live snapshot ${shortDate(liveMeta.live_signal_date || archiveIndex.latest_signal_date)} · paper start ${shortDate(meta.paper_start_date)} · latest NAV date ${shortDate(meta.latest_nav_date)} · rebalances ${meta.executed_rebalances || 0} executed / ${meta.skipped_rebalances || 0} skipped`;
   const latestNav = ledger.length ? Number(ledger.at(-1).navAfter) : Number(meta.estimated_nav || meta.initial_capital || 0);
   const latestPnl = ledger.length ? Number(ledger.at(-1).netPnl || 0) : 0;
   const summary = [
@@ -336,7 +338,7 @@ function renderMlAlphaPaper() {
     ["Target Names", String(meta.num_target_positions || positions.length), "Latest long-only top-ranked book", "info"],
     ["Latest Rebalance Turnover", pct(Number(meta.estimated_turnover || 0) * 100, 1), "Most recent executed rebalance", "warn"],
     ["Total Cost", money.format(meta.total_transaction_cost || meta.estimated_transaction_cost || 0), `${meta.transaction_cost_bps_per_side || 5} bps per side`, "warn"],
-    ["Signal Age", `${meta.signal_staleness_calendar_days || 0} days`, "Stale signals are skipped, not reused", meta.signal_status === "stale_needs_prediction_refresh" ? "neg" : "pos"],
+    ["Signal Archive", `${archiveIndex.snapshot_count || liveMeta.archive_snapshot_count || 0}`, "Saved live snapshots", "info"],
   ];
   $("mlAlphaSummary").innerHTML = summary.map(([label, value, note, color]) => `
     <article class="pulse-card"><span>${label}</span><strong class="${color}">${value}</strong><small>${note}</small></article>

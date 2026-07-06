@@ -1,0 +1,12 @@
+{
+  "model_type": "xgboost_classifier",
+  "training_label_end_date": "2026-06-18",
+  "live_signal_date": "2026-07-06",
+  "archive_file": "data/live_signal_archive/live_signal_2026-07-06.csv",
+  "rows_trained": 553882,
+  "tickers_predicted": 271,
+  "features": 104,
+  "label_horizon_days": 10,
+  "lookahead_control": "Live predictions use latest features only; future labels are not required or used for the live signal.",
+  "archive_snapshot_count": 1
+}

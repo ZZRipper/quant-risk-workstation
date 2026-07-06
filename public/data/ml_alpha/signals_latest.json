@@ -4,7 +4,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MU",
     "prediction": 0.44424343,
+    "signal_source": "walk_forward_validation",
     "rank": 1,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -13,7 +15,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AMD",
     "prediction": 0.43036777,
+    "signal_source": "walk_forward_validation",
     "rank": 2,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -22,7 +26,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ENPH",
     "prediction": 0.41072693,
+    "signal_source": "walk_forward_validation",
     "rank": 3,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -31,7 +37,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "QCOM",
     "prediction": 0.40497804,
+    "signal_source": "walk_forward_validation",
     "rank": 4,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -40,7 +48,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NOW",
     "prediction": 0.40253356,
+    "signal_source": "walk_forward_validation",
     "rank": 5,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -49,7 +59,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DELL",
     "prediction": 0.40105578,
+    "signal_source": "walk_forward_validation",
     "rank": 6,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -58,7 +70,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "META",
     "prediction": 0.39975247,
+    "signal_source": "walk_forward_validation",
     "rank": 7,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -67,7 +81,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FTNT",
     "prediction": 0.3908669,
+    "signal_source": "walk_forward_validation",
     "rank": 8,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -76,7 +92,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FCX",
     "prediction": 0.39052498,
+    "signal_source": "walk_forward_validation",
     "rank": 9,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -85,7 +103,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AVGO",
     "prediction": 0.39028427,
+    "signal_source": "walk_forward_validation",
     "rank": 10,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -94,7 +114,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TSLA",
     "prediction": 0.3895101,
+    "signal_source": "walk_forward_validation",
     "rank": 11,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -103,7 +125,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SHOP",
     "prediction": 0.38907132,
+    "signal_source": "walk_forward_validation",
     "rank": 12,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -112,7 +136,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CRM",
     "prediction": 0.38817686,
+    "signal_source": "walk_forward_validation",
     "rank": 13,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -121,7 +147,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NVDA",
     "prediction": 0.38801965,
+    "signal_source": "walk_forward_validation",
     "rank": 14,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -130,7 +158,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TEAM",
     "prediction": 0.3863801,
+    "signal_source": "walk_forward_validation",
     "rank": 15,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -139,7 +169,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "HPE",
     "prediction": 0.38165602,
+    "signal_source": "walk_forward_validation",
     "rank": 16,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -148,7 +180,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SNAP",
     "prediction": 0.3813337,
+    "signal_source": "walk_forward_validation",
     "rank": 17,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -157,7 +191,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LEN",
     "prediction": 0.38010144,
+    "signal_source": "walk_forward_validation",
     "rank": 18,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -166,7 +202,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AMAT",
     "prediction": 0.37818727,
+    "signal_source": "walk_forward_validation",
     "rank": 19,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -175,7 +213,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SEDG",
     "prediction": 0.3778747,
+    "signal_source": "walk_forward_validation",
     "rank": 20,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -184,7 +224,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WDC",
     "prediction": 0.37782785,
+    "signal_source": "walk_forward_validation",
     "rank": 21,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -193,7 +235,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AKAM",
     "prediction": 0.3767738,
+    "signal_source": "walk_forward_validation",
     "rank": 22,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -202,7 +246,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AA",
     "prediction": 0.37574327,
+    "signal_source": "walk_forward_validation",
     "rank": 23,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -211,7 +257,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "OKTA",
     "prediction": 0.37537104,
+    "signal_source": "walk_forward_validation",
     "rank": 24,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -220,7 +268,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ANET",
     "prediction": 0.37501177,
+    "signal_source": "walk_forward_validation",
     "rank": 25,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -229,7 +279,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NKE",
     "prediction": 0.3745909,
+    "signal_source": "walk_forward_validation",
     "rank": 26,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -238,7 +290,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ORCL",
     "prediction": 0.37425786,
+    "signal_source": "walk_forward_validation",
     "rank": 27,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -247,7 +301,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CSCO",
     "prediction": 0.3730712,
+    "signal_source": "walk_forward_validation",
     "rank": 28,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -256,7 +312,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PANW",
     "prediction": 0.37267268,
+    "signal_source": "walk_forward_validation",
     "rank": 29,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -265,7 +323,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "RUN",
     "prediction": 0.37233725,
+    "signal_source": "walk_forward_validation",
     "rank": 30,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -274,7 +334,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AAL",
     "prediction": 0.37229133,
+    "signal_source": "walk_forward_validation",
     "rank": 31,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -283,7 +345,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NTAP",
     "prediction": 0.3712589,
+    "signal_source": "walk_forward_validation",
     "rank": 32,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -292,7 +356,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CCL",
     "prediction": 0.37117013,
+    "signal_source": "walk_forward_validation",
     "rank": 33,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -301,7 +367,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NEM",
     "prediction": 0.37056693,
+    "signal_source": "walk_forward_validation",
     "rank": 34,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -310,7 +378,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LRCX",
     "prediction": 0.3703452,
+    "signal_source": "walk_forward_validation",
     "rank": 35,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -319,7 +389,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ADBE",
     "prediction": 0.3698444,
+    "signal_source": "walk_forward_validation",
     "rank": 36,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -328,7 +400,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "STX",
     "prediction": 0.36855265,
+    "signal_source": "walk_forward_validation",
     "rank": 37,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -337,7 +411,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "INTU",
     "prediction": 0.36838394,
+    "signal_source": "walk_forward_validation",
     "rank": 38,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -346,7 +422,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "OXY",
     "prediction": 0.36817938,
+    "signal_source": "walk_forward_validation",
     "rank": 39,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -355,7 +433,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CENX",
     "prediction": 0.36594185,
+    "signal_source": "walk_forward_validation",
     "rank": 40,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -364,7 +444,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "KLAC",
     "prediction": 0.36571413,
+    "signal_source": "walk_forward_validation",
     "rank": 41,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -373,7 +455,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GOOGL",
     "prediction": 0.3652271,
+    "signal_source": "walk_forward_validation",
     "rank": 42,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -382,7 +466,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TXN",
     "prediction": 0.3643576,
+    "signal_source": "walk_forward_validation",
     "rank": 43,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -391,7 +477,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LUV",
     "prediction": 0.36435038,
+    "signal_source": "walk_forward_validation",
     "rank": 44,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -400,7 +488,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AMZN",
     "prediction": 0.36295736,
+    "signal_source": "walk_forward_validation",
     "rank": 45,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -409,7 +499,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CF",
     "prediction": 0.36191076,
+    "signal_source": "walk_forward_validation",
     "rank": 46,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -418,7 +510,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "W",
     "prediction": 0.36141402,
+    "signal_source": "walk_forward_validation",
     "rank": 47,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -427,7 +521,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MOS",
     "prediction": 0.36068848,
+    "signal_source": "walk_forward_validation",
     "rank": 48,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -436,7 +532,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SLB",
     "prediction": 0.3597086,
+    "signal_source": "walk_forward_validation",
     "rank": 49,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -445,7 +543,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "HPQ",
     "prediction": 0.35917014,
+    "signal_source": "walk_forward_validation",
     "rank": 50,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -454,7 +554,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BSX",
     "prediction": 0.3584344,
+    "signal_source": "walk_forward_validation",
     "rank": 51,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -463,7 +565,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GOOG",
     "prediction": 0.3575377,
+    "signal_source": "walk_forward_validation",
     "rank": 52,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -472,7 +576,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ACN",
     "prediction": 0.35702246,
+    "signal_source": "walk_forward_validation",
     "rank": 53,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -481,7 +587,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "F",
     "prediction": 0.35625687,
+    "signal_source": "walk_forward_validation",
     "rank": 54,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -490,7 +598,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FMC",
     "prediction": 0.3557425,
+    "signal_source": "walk_forward_validation",
     "rank": 55,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -499,7 +609,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FICO",
     "prediction": 0.35440722,
+    "signal_source": "walk_forward_validation",
     "rank": 56,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -508,7 +620,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ZTS",
     "prediction": 0.35422042,
+    "signal_source": "walk_forward_validation",
     "rank": 57,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -517,7 +631,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "IBM",
     "prediction": 0.3531533,
+    "signal_source": "walk_forward_validation",
     "rank": 58,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -526,7 +642,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DAL",
     "prediction": 0.3528866,
+    "signal_source": "walk_forward_validation",
     "rank": 59,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -535,7 +653,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "IT",
     "prediction": 0.35260978,
+    "signal_source": "walk_forward_validation",
     "rank": 60,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -544,7 +664,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MSFT",
     "prediction": 0.35215387,
+    "signal_source": "walk_forward_validation",
     "rank": 61,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -553,7 +675,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ETSY",
     "prediction": 0.35129327,
+    "signal_source": "walk_forward_validation",
     "rank": 62,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -562,7 +686,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CDW",
     "prediction": 0.34996065,
+    "signal_source": "walk_forward_validation",
     "rank": 63,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -571,7 +697,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "VLO",
     "prediction": 0.34981567,
+    "signal_source": "walk_forward_validation",
     "rank": 64,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -580,7 +708,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "UAL",
     "prediction": 0.348821,
+    "signal_source": "walk_forward_validation",
     "rank": 65,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -589,7 +719,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CTSH",
     "prediction": 0.3484245,
+    "signal_source": "walk_forward_validation",
     "rank": 66,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -598,7 +730,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PSX",
     "prediction": 0.3456427,
+    "signal_source": "walk_forward_validation",
     "rank": 67,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -607,7 +741,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BA",
     "prediction": 0.3450773,
+    "signal_source": "walk_forward_validation",
     "rank": 68,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -616,7 +752,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CHTR",
     "prediction": 0.3446508,
+    "signal_source": "walk_forward_validation",
     "rank": 69,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -625,7 +763,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BKNG",
     "prediction": 0.34370777,
+    "signal_source": "walk_forward_validation",
     "rank": 70,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -634,7 +774,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CAT",
     "prediction": 0.34280595,
+    "signal_source": "walk_forward_validation",
     "rank": 71,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -643,7 +785,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FIS",
     "prediction": 0.3414953,
+    "signal_source": "walk_forward_validation",
     "rank": 72,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -652,7 +796,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EL",
     "prediction": 0.34148324,
+    "signal_source": "walk_forward_validation",
     "rank": 73,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -661,7 +807,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "URI",
     "prediction": 0.34117153,
+    "signal_source": "walk_forward_validation",
     "rank": 74,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -670,7 +818,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AAPL",
     "prediction": 0.34115118,
+    "signal_source": "walk_forward_validation",
     "rank": 75,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -679,7 +829,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SNPS",
     "prediction": 0.34014687,
+    "signal_source": "walk_forward_validation",
     "rank": 76,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -688,7 +840,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CMI",
     "prediction": 0.3399127,
+    "signal_source": "walk_forward_validation",
     "rank": 77,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -697,7 +851,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CMCSA",
     "prediction": 0.3394662,
+    "signal_source": "walk_forward_validation",
     "rank": 78,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -706,7 +862,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "XYZ",
     "prediction": 0.33939755,
+    "signal_source": "walk_forward_validation",
     "rank": 79,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -715,7 +873,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ALB",
     "prediction": 0.33796546,
+    "signal_source": "walk_forward_validation",
     "rank": 80,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -724,7 +884,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ETN",
     "prediction": 0.3379269,
+    "signal_source": "walk_forward_validation",
     "rank": 81,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -733,7 +895,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CDNS",
     "prediction": 0.3369117,
+    "signal_source": "walk_forward_validation",
     "rank": 82,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -742,7 +906,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FSLR",
     "prediction": 0.33672437,
+    "signal_source": "walk_forward_validation",
     "rank": 83,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -751,7 +917,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GM",
     "prediction": 0.33660346,
+    "signal_source": "walk_forward_validation",
     "rank": 84,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -760,7 +928,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ADI",
     "prediction": 0.33572373,
+    "signal_source": "walk_forward_validation",
     "rank": 85,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -769,7 +939,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DG",
     "prediction": 0.33552447,
+    "signal_source": "walk_forward_validation",
     "rank": 86,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -778,7 +950,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DLTR",
     "prediction": 0.33506706,
+    "signal_source": "walk_forward_validation",
     "rank": 87,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -787,7 +961,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "RCL",
     "prediction": 0.33453172,
+    "signal_source": "walk_forward_validation",
     "rank": 88,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -796,7 +972,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SCCO",
     "prediction": 0.33140412,
+    "signal_source": "walk_forward_validation",
     "rank": 89,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -805,7 +983,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LLY",
     "prediction": 0.33012405,
+    "signal_source": "walk_forward_validation",
     "rank": 90,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -814,7 +994,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MPC",
     "prediction": 0.32974732,
+    "signal_source": "walk_forward_validation",
     "rank": 91,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -823,7 +1005,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GPN",
     "prediction": 0.32797652,
+    "signal_source": "walk_forward_validation",
     "rank": 92,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -832,7 +1016,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ADSK",
     "prediction": 0.32528982,
+    "signal_source": "walk_forward_validation",
     "rank": 93,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -841,7 +1027,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GE",
     "prediction": 0.32510316,
+    "signal_source": "walk_forward_validation",
     "rank": 94,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -850,7 +1038,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CAG",
     "prediction": 0.32154918,
+    "signal_source": "walk_forward_validation",
     "rank": 95,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -859,7 +1049,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ODFL",
     "prediction": 0.3212221,
+    "signal_source": "walk_forward_validation",
     "rank": 96,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -868,7 +1060,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NFLX",
     "prediction": 0.3209114,
+    "signal_source": "walk_forward_validation",
     "rank": 97,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -877,7 +1071,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "C",
     "prediction": 0.31987518,
+    "signal_source": "walk_forward_validation",
     "rank": 98,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -886,7 +1082,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "COP",
     "prediction": 0.31926343,
+    "signal_source": "walk_forward_validation",
     "rank": 99,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -895,7 +1093,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CLX",
     "prediction": 0.31764287,
+    "signal_source": "walk_forward_validation",
     "rank": 100,
+    "archive_file": null,
     "selected": true,
     "target_weight": 0.01
   },
@@ -904,7 +1104,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FDX",
     "prediction": 0.3130779,
+    "signal_source": "walk_forward_validation",
     "rank": 101,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -913,7 +1115,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PYPL",
     "prediction": 0.31261405,
+    "signal_source": "walk_forward_validation",
     "rank": 102,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -922,7 +1126,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CBOE",
     "prediction": 0.31236064,
+    "signal_source": "walk_forward_validation",
     "rank": 103,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -931,7 +1137,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BF-B",
     "prediction": 0.31232166,
+    "signal_source": "walk_forward_validation",
     "rank": 104,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -940,7 +1148,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "STLD",
     "prediction": 0.31055576,
+    "signal_source": "walk_forward_validation",
     "rank": 105,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -949,7 +1159,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DHI",
     "prediction": 0.30829838,
+    "signal_source": "walk_forward_validation",
     "rank": 106,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -958,7 +1170,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "JCI",
     "prediction": 0.3080015,
+    "signal_source": "walk_forward_validation",
     "rank": 107,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -967,7 +1181,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "XOM",
     "prediction": 0.30612716,
+    "signal_source": "walk_forward_validation",
     "rank": 108,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -976,7 +1192,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EOG",
     "prediction": 0.3056575,
+    "signal_source": "walk_forward_validation",
     "rank": 109,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -985,7 +1203,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TMO",
     "prediction": 0.30510855,
+    "signal_source": "walk_forward_validation",
     "rank": 110,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -994,7 +1214,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EBAY",
     "prediction": 0.30454588,
+    "signal_source": "walk_forward_validation",
     "rank": 111,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1003,7 +1225,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EMR",
     "prediction": 0.3039452,
+    "signal_source": "walk_forward_validation",
     "rank": 112,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1012,7 +1236,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ISRG",
     "prediction": 0.30363286,
+    "signal_source": "walk_forward_validation",
     "rank": 113,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1021,7 +1247,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WSO",
     "prediction": 0.30337358,
+    "signal_source": "walk_forward_validation",
     "rank": 114,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1030,7 +1258,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TOL",
     "prediction": 0.3033656,
+    "signal_source": "walk_forward_validation",
     "rank": 115,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1039,7 +1269,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DE",
     "prediction": 0.30328348,
+    "signal_source": "walk_forward_validation",
     "rank": 116,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1048,7 +1280,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "UPS",
     "prediction": 0.3021535,
+    "signal_source": "walk_forward_validation",
     "rank": 117,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1057,7 +1291,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "VZ",
     "prediction": 0.3017987,
+    "signal_source": "walk_forward_validation",
     "rank": 118,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1066,7 +1302,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TMUS",
     "prediction": 0.30153438,
+    "signal_source": "walk_forward_validation",
     "rank": 119,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1075,7 +1313,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TSN",
     "prediction": 0.29949874,
+    "signal_source": "walk_forward_validation",
     "rank": 120,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1084,7 +1324,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ROP",
     "prediction": 0.29933983,
+    "signal_source": "walk_forward_validation",
     "rank": 121,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1093,7 +1335,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CPB",
     "prediction": 0.29869515,
+    "signal_source": "walk_forward_validation",
     "rank": 122,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1102,7 +1346,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CVS",
     "prediction": 0.29825705,
+    "signal_source": "walk_forward_validation",
     "rank": 123,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1111,7 +1357,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ABT",
     "prediction": 0.29802245,
+    "signal_source": "walk_forward_validation",
     "rank": 124,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1120,7 +1368,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BG",
     "prediction": 0.29792073,
+    "signal_source": "walk_forward_validation",
     "rank": 125,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1129,7 +1379,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "T",
     "prediction": 0.2979115,
+    "signal_source": "walk_forward_validation",
     "rank": 126,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1138,7 +1390,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ROK",
     "prediction": 0.29760414,
+    "signal_source": "walk_forward_validation",
     "rank": 127,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1147,7 +1401,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MAS",
     "prediction": 0.29639074,
+    "signal_source": "walk_forward_validation",
     "rank": 128,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1156,7 +1412,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PCAR",
     "prediction": 0.29547283,
+    "signal_source": "walk_forward_validation",
     "rank": 129,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1165,7 +1423,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ADM",
     "prediction": 0.294302,
+    "signal_source": "walk_forward_validation",
     "rank": 130,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1174,7 +1434,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GIS",
     "prediction": 0.29418612,
+    "signal_source": "walk_forward_validation",
     "rank": 131,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1183,7 +1445,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NUE",
     "prediction": 0.29397112,
+    "signal_source": "walk_forward_validation",
     "rank": 132,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1192,7 +1456,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "REGN",
     "prediction": 0.2938496,
+    "signal_source": "walk_forward_validation",
     "rank": 133,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1201,7 +1467,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SBUX",
     "prediction": 0.29313755,
+    "signal_source": "walk_forward_validation",
     "rank": 134,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1210,7 +1478,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MS",
     "prediction": 0.29262295,
+    "signal_source": "walk_forward_validation",
     "rank": 135,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1219,7 +1489,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "HSY",
     "prediction": 0.2917123,
+    "signal_source": "walk_forward_validation",
     "rank": 136,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1228,7 +1500,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MKC",
     "prediction": 0.291573,
+    "signal_source": "walk_forward_validation",
     "rank": 137,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1237,7 +1511,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "UNH",
     "prediction": 0.29033586,
+    "signal_source": "walk_forward_validation",
     "rank": 138,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1246,7 +1522,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PHM",
     "prediction": 0.29017758,
+    "signal_source": "walk_forward_validation",
     "rank": 139,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1255,7 +1533,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TTWO",
     "prediction": 0.287912,
+    "signal_source": "walk_forward_validation",
     "rank": 140,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1264,7 +1544,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "KDP",
     "prediction": 0.28770703,
+    "signal_source": "walk_forward_validation",
     "rank": 141,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1273,7 +1555,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TT",
     "prediction": 0.28761774,
+    "signal_source": "walk_forward_validation",
     "rank": 142,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1282,7 +1566,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MNST",
     "prediction": 0.28694245,
+    "signal_source": "walk_forward_validation",
     "rank": 143,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1291,7 +1577,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LW",
     "prediction": 0.2867876,
+    "signal_source": "walk_forward_validation",
     "rank": 144,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1300,7 +1588,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GILD",
     "prediction": 0.28662091,
+    "signal_source": "walk_forward_validation",
     "rank": 145,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1309,7 +1599,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SCHW",
     "prediction": 0.2864749,
+    "signal_source": "walk_forward_validation",
     "rank": 146,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1318,7 +1610,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LYV",
     "prediction": 0.2859744,
+    "signal_source": "walk_forward_validation",
     "rank": 147,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1327,7 +1621,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PM",
     "prediction": 0.2853861,
+    "signal_source": "walk_forward_validation",
     "rank": 148,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1336,7 +1632,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ICE",
     "prediction": 0.2848211,
+    "signal_source": "walk_forward_validation",
     "rank": 149,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1345,7 +1643,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PFE",
     "prediction": 0.28475106,
+    "signal_source": "walk_forward_validation",
     "rank": 150,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1354,7 +1654,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PAYX",
     "prediction": 0.283843,
+    "signal_source": "walk_forward_validation",
     "rank": 151,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1363,7 +1665,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CSX",
     "prediction": 0.28342244,
+    "signal_source": "walk_forward_validation",
     "rank": 152,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1372,7 +1676,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BMY",
     "prediction": 0.28341058,
+    "signal_source": "walk_forward_validation",
     "rank": 153,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1381,7 +1687,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MDT",
     "prediction": 0.28335932,
+    "signal_source": "walk_forward_validation",
     "rank": 154,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1390,7 +1698,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ELV",
     "prediction": 0.28331065,
+    "signal_source": "walk_forward_validation",
     "rank": 155,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1399,7 +1709,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "STT",
     "prediction": 0.28315756,
+    "signal_source": "walk_forward_validation",
     "rank": 156,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1408,7 +1720,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "HON",
     "prediction": 0.28308678,
+    "signal_source": "walk_forward_validation",
     "rank": 157,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1417,7 +1731,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GS",
     "prediction": 0.28220573,
+    "signal_source": "walk_forward_validation",
     "rank": 158,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1426,7 +1742,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "COF",
     "prediction": 0.28193495,
+    "signal_source": "walk_forward_validation",
     "rank": 159,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1435,7 +1753,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ADP",
     "prediction": 0.2809734,
+    "signal_source": "walk_forward_validation",
     "rank": 160,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1444,7 +1764,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "VMC",
     "prediction": 0.2801398,
+    "signal_source": "walk_forward_validation",
     "rank": 161,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1453,7 +1775,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MRK",
     "prediction": 0.2795672,
+    "signal_source": "walk_forward_validation",
     "rank": 162,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1462,7 +1786,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MO",
     "prediction": 0.27467963,
+    "signal_source": "walk_forward_validation",
     "rank": 163,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1471,7 +1797,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "KMI",
     "prediction": 0.27293685,
+    "signal_source": "walk_forward_validation",
     "rank": 164,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1480,7 +1808,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "STZ",
     "prediction": 0.27273157,
+    "signal_source": "walk_forward_validation",
     "rank": 165,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1489,7 +1819,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TAP",
     "prediction": 0.2724631,
+    "signal_source": "walk_forward_validation",
     "rank": 166,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1498,7 +1830,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NEE",
     "prediction": 0.27235827,
+    "signal_source": "walk_forward_validation",
     "rank": 167,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1507,7 +1841,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SYK",
     "prediction": 0.2712102,
+    "signal_source": "walk_forward_validation",
     "rank": 168,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1516,7 +1852,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WMT",
     "prediction": 0.27103353,
+    "signal_source": "walk_forward_validation",
     "rank": 169,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1525,7 +1863,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DIS",
     "prediction": 0.27060366,
+    "signal_source": "walk_forward_validation",
     "rank": 170,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1534,7 +1874,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PCG",
     "prediction": 0.27047384,
+    "signal_source": "walk_forward_validation",
     "rank": 171,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1543,7 +1885,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MDLZ",
     "prediction": 0.2703867,
+    "signal_source": "walk_forward_validation",
     "rank": 172,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1552,7 +1896,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CME",
     "prediction": 0.27012438,
+    "signal_source": "walk_forward_validation",
     "rank": 173,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1561,7 +1907,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AMT",
     "prediction": 0.27006206,
+    "signal_source": "walk_forward_validation",
     "rank": 174,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1570,7 +1918,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "USB",
     "prediction": 0.26998743,
+    "signal_source": "walk_forward_validation",
     "rank": 175,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1579,7 +1929,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "HCA",
     "prediction": 0.26885936,
+    "signal_source": "walk_forward_validation",
     "rank": 176,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1588,7 +1940,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "KHC",
     "prediction": 0.26850578,
+    "signal_source": "walk_forward_validation",
     "rank": 177,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1597,7 +1951,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FE",
     "prediction": 0.2680964,
+    "signal_source": "walk_forward_validation",
     "rank": 178,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1606,7 +1962,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DHR",
     "prediction": 0.26806235,
+    "signal_source": "walk_forward_validation",
     "rank": 179,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1615,7 +1973,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WFC",
     "prediction": 0.2679252,
+    "signal_source": "walk_forward_validation",
     "rank": 180,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1624,7 +1984,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BAC",
     "prediction": 0.267719,
+    "signal_source": "walk_forward_validation",
     "rank": 181,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1633,7 +1995,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TRV",
     "prediction": 0.2676554,
+    "signal_source": "walk_forward_validation",
     "rank": 182,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1642,7 +2006,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MMM",
     "prediction": 0.26758,
+    "signal_source": "walk_forward_validation",
     "rank": 183,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1651,7 +2017,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MTCH",
     "prediction": 0.26709825,
+    "signal_source": "walk_forward_validation",
     "rank": 184,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1660,7 +2028,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AON",
     "prediction": 0.26577967,
+    "signal_source": "walk_forward_validation",
     "rank": 185,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1669,7 +2039,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TFC",
     "prediction": 0.26559886,
+    "signal_source": "walk_forward_validation",
     "rank": 186,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1678,7 +2050,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MLM",
     "prediction": 0.2646007,
+    "signal_source": "walk_forward_validation",
     "rank": 187,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1687,7 +2061,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SO",
     "prediction": 0.2636037,
+    "signal_source": "walk_forward_validation",
     "rank": 188,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1696,7 +2072,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CB",
     "prediction": 0.26347503,
+    "signal_source": "walk_forward_validation",
     "rank": 189,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1705,7 +2083,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CL",
     "prediction": 0.2632187,
+    "signal_source": "walk_forward_validation",
     "rank": 190,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1714,7 +2094,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LOW",
     "prediction": 0.26289362,
+    "signal_source": "walk_forward_validation",
     "rank": 191,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1723,7 +2105,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SHW",
     "prediction": 0.26281333,
+    "signal_source": "walk_forward_validation",
     "rank": 192,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1732,7 +2116,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "KMB",
     "prediction": 0.26278144,
+    "signal_source": "walk_forward_validation",
     "rank": 193,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1741,7 +2127,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "JPM",
     "prediction": 0.26248813,
+    "signal_source": "walk_forward_validation",
     "rank": 194,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1750,7 +2138,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MAR",
     "prediction": 0.2622539,
+    "signal_source": "walk_forward_validation",
     "rank": 195,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1759,7 +2149,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CP",
     "prediction": 0.26147062,
+    "signal_source": "walk_forward_validation",
     "rank": 196,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1768,7 +2160,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ES",
     "prediction": 0.26140976,
+    "signal_source": "walk_forward_validation",
     "rank": 197,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1777,7 +2171,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SJM",
     "prediction": 0.26083434,
+    "signal_source": "walk_forward_validation",
     "rank": 198,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1786,7 +2182,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WMB",
     "prediction": 0.26082644,
+    "signal_source": "walk_forward_validation",
     "rank": 199,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1795,7 +2193,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "RTX",
     "prediction": 0.26051742,
+    "signal_source": "walk_forward_validation",
     "rank": 200,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1804,7 +2204,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MCD",
     "prediction": 0.26032907,
+    "signal_source": "walk_forward_validation",
     "rank": 201,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1813,7 +2215,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "FAST",
     "prediction": 0.25985083,
+    "signal_source": "walk_forward_validation",
     "rank": 202,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1822,7 +2226,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BK",
     "prediction": 0.2597724,
+    "signal_source": "walk_forward_validation",
     "rank": 203,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1831,7 +2237,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PH",
     "prediction": 0.259633,
+    "signal_source": "walk_forward_validation",
     "rank": 204,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1840,7 +2248,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SPGI",
     "prediction": 0.25951773,
+    "signal_source": "walk_forward_validation",
     "rank": 205,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1849,7 +2259,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "HLT",
     "prediction": 0.25875506,
+    "signal_source": "walk_forward_validation",
     "rank": 206,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1858,7 +2270,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "D",
     "prediction": 0.2585258,
+    "signal_source": "walk_forward_validation",
     "rank": 207,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1867,7 +2281,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AFL",
     "prediction": 0.25813347,
+    "signal_source": "walk_forward_validation",
     "rank": 208,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1876,7 +2292,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EXC",
     "prediction": 0.25793338,
+    "signal_source": "walk_forward_validation",
     "rank": 209,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1885,7 +2303,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "HD",
     "prediction": 0.25772086,
+    "signal_source": "walk_forward_validation",
     "rank": 210,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1894,7 +2314,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "V",
     "prediction": 0.25769717,
+    "signal_source": "walk_forward_validation",
     "rank": 211,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1903,7 +2325,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WM",
     "prediction": 0.25717106,
+    "signal_source": "walk_forward_validation",
     "rank": 212,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1912,7 +2336,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PEP",
     "prediction": 0.2570649,
+    "signal_source": "walk_forward_validation",
     "rank": 213,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1921,7 +2347,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PRU",
     "prediction": 0.25676736,
+    "signal_source": "walk_forward_validation",
     "rank": 214,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1930,7 +2358,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PPL",
     "prediction": 0.25656587,
+    "signal_source": "walk_forward_validation",
     "rank": 215,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1939,7 +2369,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PG",
     "prediction": 0.25572652,
+    "signal_source": "walk_forward_validation",
     "rank": 216,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1948,7 +2380,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NDAQ",
     "prediction": 0.25532672,
+    "signal_source": "walk_forward_validation",
     "rank": 217,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1957,7 +2391,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AEP",
     "prediction": 0.25509787,
+    "signal_source": "walk_forward_validation",
     "rank": 218,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1966,7 +2402,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LMT",
     "prediction": 0.25491974,
+    "signal_source": "walk_forward_validation",
     "rank": 219,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1975,7 +2413,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PGR",
     "prediction": 0.25481305,
+    "signal_source": "walk_forward_validation",
     "rank": 220,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1984,7 +2424,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "UNP",
     "prediction": 0.2540344,
+    "signal_source": "walk_forward_validation",
     "rank": 221,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -1993,7 +2435,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "HRL",
     "prediction": 0.25375637,
+    "signal_source": "walk_forward_validation",
     "rank": 222,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2002,7 +2446,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AIG",
     "prediction": 0.2531662,
+    "signal_source": "walk_forward_validation",
     "rank": 223,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2011,7 +2457,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "JNJ",
     "prediction": 0.25283098,
+    "signal_source": "walk_forward_validation",
     "rank": 224,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2020,7 +2468,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "KO",
     "prediction": 0.25233638,
+    "signal_source": "walk_forward_validation",
     "rank": 225,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2029,7 +2479,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MSCI",
     "prediction": 0.2520126,
+    "signal_source": "walk_forward_validation",
     "rank": 226,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2038,7 +2490,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "VRTX",
     "prediction": 0.25185755,
+    "signal_source": "walk_forward_validation",
     "rank": 227,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2047,7 +2501,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CI",
     "prediction": 0.2516651,
+    "signal_source": "walk_forward_validation",
     "rank": 228,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2056,7 +2512,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "DUK",
     "prediction": 0.25134167,
+    "signal_source": "walk_forward_validation",
     "rank": 229,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2065,7 +2523,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CNI",
     "prediction": 0.2511979,
+    "signal_source": "walk_forward_validation",
     "rank": 230,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2074,7 +2534,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GWW",
     "prediction": 0.25000104,
+    "signal_source": "walk_forward_validation",
     "rank": 231,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2083,7 +2545,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NVR",
     "prediction": 0.24994768,
+    "signal_source": "walk_forward_validation",
     "rank": 232,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2092,7 +2556,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "GD",
     "prediction": 0.24919638,
+    "signal_source": "walk_forward_validation",
     "rank": 233,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2101,7 +2567,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MA",
     "prediction": 0.24887909,
+    "signal_source": "walk_forward_validation",
     "rank": 234,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2110,7 +2578,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AXP",
     "prediction": 0.24883942,
+    "signal_source": "walk_forward_validation",
     "rank": 235,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2119,7 +2589,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WEC",
     "prediction": 0.24823767,
+    "signal_source": "walk_forward_validation",
     "rank": 236,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2128,7 +2600,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "TJX",
     "prediction": 0.24815166,
+    "signal_source": "walk_forward_validation",
     "rank": 237,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2137,7 +2611,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BLK",
     "prediction": 0.24811617,
+    "signal_source": "walk_forward_validation",
     "rank": 238,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2146,7 +2622,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PEG",
     "prediction": 0.24759279,
+    "signal_source": "walk_forward_validation",
     "rank": 239,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2155,7 +2633,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LIN",
     "prediction": 0.24746281,
+    "signal_source": "walk_forward_validation",
     "rank": 240,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2164,7 +2644,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ETR",
     "prediction": 0.24671088,
+    "signal_source": "walk_forward_validation",
     "rank": 241,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2173,7 +2655,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WTRG",
     "prediction": 0.24601015,
+    "signal_source": "walk_forward_validation",
     "rank": 242,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2182,7 +2666,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NSC",
     "prediction": 0.24565525,
+    "signal_source": "walk_forward_validation",
     "rank": 243,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2191,7 +2677,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MCO",
     "prediction": 0.24556947,
+    "signal_source": "walk_forward_validation",
     "rank": 244,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2200,7 +2688,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AMGN",
     "prediction": 0.24547036,
+    "signal_source": "walk_forward_validation",
     "rank": 245,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2209,7 +2699,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EXPD",
     "prediction": 0.24539106,
+    "signal_source": "walk_forward_validation",
     "rank": 246,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2218,7 +2710,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ATO",
     "prediction": 0.24499686,
+    "signal_source": "walk_forward_validation",
     "rank": 247,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2227,7 +2721,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ABBV",
     "prediction": 0.24459681,
+    "signal_source": "walk_forward_validation",
     "rank": 248,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2236,7 +2732,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CNP",
     "prediction": 0.24397902,
+    "signal_source": "walk_forward_validation",
     "rank": 249,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2245,7 +2743,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AWK",
     "prediction": 0.24375829,
+    "signal_source": "walk_forward_validation",
     "rank": 250,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2254,7 +2754,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CMS",
     "prediction": 0.24233522,
+    "signal_source": "walk_forward_validation",
     "rank": 251,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2263,7 +2765,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "CHD",
     "prediction": 0.24200274,
+    "signal_source": "walk_forward_validation",
     "rank": 252,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2272,7 +2776,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "BRK-B",
     "prediction": 0.24194492,
+    "signal_source": "walk_forward_validation",
     "rank": 253,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2281,7 +2787,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "MET",
     "prediction": 0.2412486,
+    "signal_source": "walk_forward_validation",
     "rank": 254,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2290,7 +2798,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EIX",
     "prediction": 0.24067898,
+    "signal_source": "walk_forward_validation",
     "rank": 255,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2299,7 +2809,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "APD",
     "prediction": 0.24011187,
+    "signal_source": "walk_forward_validation",
     "rank": 256,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2308,7 +2820,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ED",
     "prediction": 0.23938033,
+    "signal_source": "walk_forward_validation",
     "rank": 257,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2317,7 +2831,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "COST",
     "prediction": 0.2390908,
+    "signal_source": "walk_forward_validation",
     "rank": 258,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2326,7 +2842,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "XEL",
     "prediction": 0.23830648,
+    "signal_source": "walk_forward_validation",
     "rank": 259,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2335,7 +2853,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "SRE",
     "prediction": 0.23794538,
+    "signal_source": "walk_forward_validation",
     "rank": 260,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2344,7 +2864,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "NI",
     "prediction": 0.23766421,
+    "signal_source": "walk_forward_validation",
     "rank": 261,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2353,7 +2875,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "LNT",
     "prediction": 0.23740911,
+    "signal_source": "walk_forward_validation",
     "rank": 262,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2362,7 +2886,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "WBD",
     "prediction": 0.23721845,
+    "signal_source": "walk_forward_validation",
     "rank": 263,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2371,7 +2897,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ITW",
     "prediction": 0.23705006,
+    "signal_source": "walk_forward_validation",
     "rank": 264,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2380,7 +2908,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PLD",
     "prediction": 0.23693335,
+    "signal_source": "walk_forward_validation",
     "rank": 265,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2389,7 +2919,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EQIX",
     "prediction": 0.23682567,
+    "signal_source": "walk_forward_validation",
     "rank": 266,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2398,7 +2930,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AEE",
     "prediction": 0.23378469,
+    "signal_source": "walk_forward_validation",
     "rank": 267,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2407,7 +2941,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "PNW",
     "prediction": 0.23354699,
+    "signal_source": "walk_forward_validation",
     "rank": 268,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2416,7 +2952,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "ALL",
     "prediction": 0.2334043,
+    "signal_source": "walk_forward_validation",
     "rank": 269,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2425,7 +2963,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "AES",
     "prediction": 0.20523384,
+    "signal_source": "walk_forward_validation",
     "rank": 270,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   },
@@ -2434,7 +2974,9 @@
     "planned_trade_date": "2026-06-15",
     "ticker": "EA",
     "prediction": 0.1978808,
+    "signal_source": "walk_forward_validation",
     "rank": 271,
+    "archive_file": null,
     "selected": false,
     "target_weight": 0.0
   }

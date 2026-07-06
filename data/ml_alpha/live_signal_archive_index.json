@@ -1,0 +1,16 @@
+{
+  "snapshot_count": 1,
+  "latest_signal_date": "2026-07-06",
+  "snapshots": [
+    {
+      "signal_date": "2026-07-06",
+      "file": "data/live_signal_archive/live_signal_2026-07-06.csv",
+      "columns": [
+        "date",
+        "ticker",
+        "prediction",
+        "rank"
+      ]
+    }
+  ]
+}
