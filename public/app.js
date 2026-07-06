@@ -327,16 +327,16 @@ function renderMlAlphaPaper() {
     return;
   }
   $("mlAlphaStatus").textContent = meta.signal_status || "Loaded";
-  metaEl.textContent = `Model ${meta.model_version} · signal ${shortDate(meta.signal_date)} · paper start ${shortDate(meta.paper_start_date)} · latest NAV date ${shortDate(meta.latest_nav_date)}`;
+  metaEl.textContent = `Model ${meta.model_version} · latest executed signal ${shortDate(meta.signal_date)} · paper start ${shortDate(meta.paper_start_date)} · latest NAV date ${shortDate(meta.latest_nav_date)} · rebalances ${meta.executed_rebalances || 0} executed / ${meta.skipped_rebalances || 0} skipped`;
   const latestNav = ledger.length ? Number(ledger.at(-1).navAfter) : Number(meta.estimated_nav || meta.initial_capital || 0);
   const latestPnl = ledger.length ? Number(ledger.at(-1).netPnl || 0) : 0;
   const summary = [
     ["Paper NAV", money.format(latestNav), "ML alpha ledger only", cls(latestNav - Number(meta.initial_capital || latestNav))],
-    ["Latest Net PnL", money.format(latestPnl), "Most recent paper ledger row", cls(latestPnl)],
-    ["Target Names", String(meta.num_target_positions || positions.length), "Long-only top-ranked book", "info"],
-    ["Turnover", pct(Number(meta.estimated_turnover || 0) * 100, 1), "Estimated rebalance turnover", "warn"],
-    ["Est. Cost", money.format(meta.estimated_transaction_cost || 0), `${meta.transaction_cost_bps_per_side || 5} bps per side`, "warn"],
-    ["Signal Age", `${meta.signal_staleness_calendar_days || 0} days`, "Refresh predictions if stale", meta.signal_status === "stale_needs_prediction_refresh" ? "neg" : "pos"],
+    ["Latest Day Net PnL", money.format(latestPnl), "Most recent ledger row", cls(latestPnl)],
+    ["Target Names", String(meta.num_target_positions || positions.length), "Latest long-only top-ranked book", "info"],
+    ["Latest Rebalance Turnover", pct(Number(meta.estimated_turnover || 0) * 100, 1), "Most recent executed rebalance", "warn"],
+    ["Total Cost", money.format(meta.total_transaction_cost || meta.estimated_transaction_cost || 0), `${meta.transaction_cost_bps_per_side || 5} bps per side`, "warn"],
+    ["Signal Age", `${meta.signal_staleness_calendar_days || 0} days`, "Stale signals are skipped, not reused", meta.signal_status === "stale_needs_prediction_refresh" ? "neg" : "pos"],
   ];
   $("mlAlphaSummary").innerHTML = summary.map(([label, value, note, color]) => `
     <article class="pulse-card"><span>${label}</span><strong class="${color}">${value}</strong><small>${note}</small></article>
@@ -351,7 +351,7 @@ function renderMlAlphaPaper() {
     Number(row.shares || 0).toFixed(2),
   ]);
   table("mlAlphaPositionsTable", ["Date", "Ticker", "Rank", "Score", "Weight", "Notional", "Shares"], positionRows);
-  const tradeRows = trades.slice(0, 40).map((row) => [
+  const tradeRows = [...trades].sort((a, b) => String(b.date).localeCompare(String(a.date))).slice(0, 40).map((row) => [
     row.date,
     row.ticker,
     `<span class="${row.side === "BUY" ? "pos" : "neg"}">${row.side}</span>`,
