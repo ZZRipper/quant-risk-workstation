@@ -21,6 +21,14 @@ def copy_file(src: Path, dst: Path) -> None:
     shutil.copy2(src, dst)
 
 
+def copy_tree(src: Path, dst: Path) -> None:
+    if not src.exists():
+        return
+    if dst.exists():
+        shutil.rmtree(dst)
+    shutil.copytree(src, dst)
+
+
 def copy_index(dst: Path) -> None:
     content = (FRONTEND_DIR / "index.html").read_text(encoding="utf-8")
     content = content.replace("../data/data_bundle.js", "./data/data_bundle.js")
@@ -38,6 +46,9 @@ def prepare_site(target_dir: Path, data_dir: Path) -> None:
 
     for path in DATA_DIR.glob("*.json"):
         copy_file(path, data_dir / path.name)
+    for path in DATA_DIR.iterdir():
+        if path.is_dir():
+            copy_tree(path, data_dir / path.name)
 
     bundle = DATA_DIR / "data_bundle.js"
     if bundle.exists():

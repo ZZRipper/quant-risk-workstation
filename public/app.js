@@ -16,6 +16,7 @@ let strategyValidation = [];
 let strategyScorecard = [];
 let scorecardSummary = {};
 let strategyCorrelation = {};
+let mlAlpha = {};
 
 const $ = (id) => document.getElementById(id);
 const pct = (v, d = 1) => `${Number(v).toFixed(d)}%`;
@@ -46,7 +47,7 @@ async function loadOptionalJson(path, fallback) {
 
 async function loadData() {
   try {
-    [portfolio, strategies, paperPositions, paperTrades, paperPnlLedger, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyScorecard, scorecardSummary, strategyCorrelation] = await Promise.all([
+    [portfolio, strategies, paperPositions, paperTrades, paperPnlLedger, factors, proxies, navSeries, backtestNavSeries, market, news, macroRegime, strategyValidation, strategyScorecard, scorecardSummary, strategyCorrelation, mlAlpha] = await Promise.all([
       loadJson(`${dataBase}/portfolio.json`),
       loadJson(`${dataBase}/strategies.json`),
       loadOptionalJson(`${dataBase}/paper_positions.json`, []),
@@ -63,6 +64,7 @@ async function loadData() {
       loadOptionalJson(`${dataBase}/strategy_scorecard.json`, []),
       loadOptionalJson(`${dataBase}/scorecard_summary.json`, {}),
       loadJson(`${dataBase}/strategy_correlation.json`),
+      loadOptionalJson(`${dataBase}/ml_alpha/paper_trading_bundle.json`, {}),
     ]);
   } catch (err) {
     const d = window.DASHBOARD_DATA;
@@ -83,6 +85,7 @@ async function loadData() {
     strategyScorecard = d.strategyScorecard || [];
     scorecardSummary = d.scorecardSummary || {};
     strategyCorrelation = d.strategyCorrelation || {};
+    mlAlpha = d.mlAlpha || {};
   }
 }
 
@@ -311,6 +314,66 @@ function renderPaperLedger() {
   table("paperPnlTable", ["Date", "Strategy", "Gross PnL", "Cost", "Net PnL", "Strategy NAV", "Turnover"], pnlRows);
 }
 
+function renderMlAlphaPaper() {
+  const meta = mlAlpha.metadata || {};
+  const positions = mlAlpha.positions || [];
+  const trades = mlAlpha.trades || [];
+  const ledger = mlAlpha.ledger || [];
+  const metaEl = $("mlAlphaMeta");
+  if (!metaEl) return;
+  if (!Object.keys(meta).length) {
+    metaEl.textContent = "ML alpha paper-trading export has not been loaded yet.";
+    $("mlAlphaStatus").textContent = "Not connected";
+    return;
+  }
+  $("mlAlphaStatus").textContent = meta.signal_status || "Loaded";
+  metaEl.textContent = `Model ${meta.model_version} · signal ${shortDate(meta.signal_date)} · paper start ${shortDate(meta.paper_start_date)} · latest NAV date ${shortDate(meta.latest_nav_date)}`;
+  const latestNav = ledger.length ? Number(ledger.at(-1).navAfter) : Number(meta.estimated_nav || meta.initial_capital || 0);
+  const latestPnl = ledger.length ? Number(ledger.at(-1).netPnl || 0) : 0;
+  const summary = [
+    ["Paper NAV", money.format(latestNav), "ML alpha ledger only", cls(latestNav - Number(meta.initial_capital || latestNav))],
+    ["Latest Net PnL", money.format(latestPnl), "Most recent paper ledger row", cls(latestPnl)],
+    ["Target Names", String(meta.num_target_positions || positions.length), "Long-only top-ranked book", "info"],
+    ["Turnover", pct(Number(meta.estimated_turnover || 0) * 100, 1), "Estimated rebalance turnover", "warn"],
+    ["Est. Cost", money.format(meta.estimated_transaction_cost || 0), `${meta.transaction_cost_bps_per_side || 5} bps per side`, "warn"],
+    ["Signal Age", `${meta.signal_staleness_calendar_days || 0} days`, "Refresh predictions if stale", meta.signal_status === "stale_needs_prediction_refresh" ? "neg" : "pos"],
+  ];
+  $("mlAlphaSummary").innerHTML = summary.map(([label, value, note, color]) => `
+    <article class="pulse-card"><span>${label}</span><strong class="${color}">${value}</strong><small>${note}</small></article>
+  `).join("");
+  const positionRows = positions.slice(0, 25).map((row) => [
+    row.date,
+    row.ticker,
+    row.rank,
+    Number(row.prediction).toFixed(4),
+    pct(Number(row.weight) * 100, 2),
+    money.format(row.notional),
+    Number(row.shares || 0).toFixed(2),
+  ]);
+  table("mlAlphaPositionsTable", ["Date", "Ticker", "Rank", "Score", "Weight", "Notional", "Shares"], positionRows);
+  const tradeRows = trades.slice(0, 40).map((row) => [
+    row.date,
+    row.ticker,
+    `<span class="${row.side === "BUY" ? "pos" : "neg"}">${row.side}</span>`,
+    pct(Number(row.weightChange) * 100, 2),
+    money.format(row.notional),
+    money.format(row.cost),
+    row.status,
+  ]);
+  table("mlAlphaTradesTable", ["Date", "Ticker", "Side", "Weight Change", "Notional", "Cost", "Status"], tradeRows);
+  const ledgerRows = [...ledger].slice(-20).reverse().map((row) => [
+    row.date,
+    row.eventType,
+    money.format(row.navBefore),
+    `<span class="${cls(row.grossPnl)}">${money.format(row.grossPnl)}</span>`,
+    money.format(row.cost),
+    `<span class="${cls(row.netPnl)}">${money.format(row.netPnl)}</span>`,
+    money.format(row.navAfter),
+    pct(Number(row.turnover), 1),
+  ]);
+  table("mlAlphaLedgerTable", ["Date", "Event", "NAV Before", "Gross PnL", "Cost", "Net PnL", "NAV After", "Turnover"], ledgerRows);
+}
+
 function renderProxyTable() {
   const rows = proxies.map((p) => [
     `<strong>${p.ticker}</strong>`, p.factor, p.purpose,
@@ -521,7 +584,7 @@ function setView(view) {
 
 function renderAll() {
   renderPulse(); renderBacktestSummary(); renderDecisions(); renderFactors(); renderWatchlist(); renderHotspots(); renderCorrelationPlot();
-  renderStrategyBook(); renderPaperLedger(); renderProxyTable(); renderRiskContribution(); renderBacktestDiagnostics(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderScorecardSummary(); renderScorecard(); renderDeepDiveQueue(); renderValidation(); renderWorkflow(); renderCharts();
+  renderStrategyBook(); renderPaperLedger(); renderMlAlphaPaper(); renderProxyTable(); renderRiskContribution(); renderBacktestDiagnostics(); renderMarket(); renderMacroRegime(); renderNewsFeed(); renderStress(); renderScorecardSummary(); renderScorecard(); renderDeepDiveQueue(); renderValidation(); renderWorkflow(); renderCharts();
 }
 
 document.addEventListener("DOMContentLoaded", async () => {

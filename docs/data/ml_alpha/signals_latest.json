@@ -1,0 +1,2441 @@
+[
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AMD",
+    "prediction": 0.409549,
+    "rank": 1,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MU",
+    "prediction": 0.4077694,
+    "rank": 2,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NVDA",
+    "prediction": 0.39652067,
+    "rank": 3,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "QCOM",
+    "prediction": 0.39189345,
+    "rank": 4,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CENX",
+    "prediction": 0.38882834,
+    "rank": 5,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FTNT",
+    "prediction": 0.38841337,
+    "rank": 6,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ENPH",
+    "prediction": 0.38495773,
+    "rank": 7,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LRCX",
+    "prediction": 0.38359097,
+    "rank": 8,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FCX",
+    "prediction": 0.38031432,
+    "rank": 9,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AKAM",
+    "prediction": 0.37770036,
+    "rank": 10,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TSLA",
+    "prediction": 0.37605554,
+    "rank": 11,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AMAT",
+    "prediction": 0.37445787,
+    "rank": 12,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WDC",
+    "prediction": 0.37383115,
+    "rank": 13,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DELL",
+    "prediction": 0.3734293,
+    "rank": 14,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "META",
+    "prediction": 0.36944196,
+    "rank": 15,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SNAP",
+    "prediction": 0.36848617,
+    "rank": 16,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "KLAC",
+    "prediction": 0.367873,
+    "rank": 17,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "STX",
+    "prediction": 0.36746472,
+    "rank": 18,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TXN",
+    "prediction": 0.36674058,
+    "rank": 19,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CSCO",
+    "prediction": 0.36608648,
+    "rank": 20,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ANET",
+    "prediction": 0.3659566,
+    "rank": 21,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SHOP",
+    "prediction": 0.36593518,
+    "rank": 22,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PANW",
+    "prediction": 0.36512285,
+    "rank": 23,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SEDG",
+    "prediction": 0.365078,
+    "rank": 24,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TEAM",
+    "prediction": 0.36403483,
+    "rank": 25,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AMZN",
+    "prediction": 0.36377937,
+    "rank": 26,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FMC",
+    "prediction": 0.363242,
+    "rank": 27,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "HPE",
+    "prediction": 0.3630187,
+    "rank": 28,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AAL",
+    "prediction": 0.3626011,
+    "rank": 29,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SLB",
+    "prediction": 0.36019838,
+    "rank": 30,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CTSH",
+    "prediction": 0.3599991,
+    "rank": 31,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "VLO",
+    "prediction": 0.35906398,
+    "rank": 32,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AA",
+    "prediction": 0.35894477,
+    "rank": 33,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MOS",
+    "prediction": 0.35884553,
+    "rank": 34,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NOW",
+    "prediction": 0.35805693,
+    "rank": 35,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "RUN",
+    "prediction": 0.35795185,
+    "rank": 36,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CF",
+    "prediction": 0.35758975,
+    "rank": 37,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NKE",
+    "prediction": 0.35744542,
+    "rank": 38,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LLY",
+    "prediction": 0.35639897,
+    "rank": 39,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ORCL",
+    "prediction": 0.35586664,
+    "rank": 40,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CHTR",
+    "prediction": 0.35514858,
+    "rank": 41,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CRM",
+    "prediction": 0.3548466,
+    "rank": 42,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ACN",
+    "prediction": 0.35355598,
+    "rank": 43,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AVGO",
+    "prediction": 0.35192823,
+    "rank": 44,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NEM",
+    "prediction": 0.35166377,
+    "rank": 45,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ETSY",
+    "prediction": 0.35093123,
+    "rank": 46,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BSX",
+    "prediction": 0.3506262,
+    "rank": 47,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ALB",
+    "prediction": 0.3505078,
+    "rank": 48,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "INTU",
+    "prediction": 0.34981474,
+    "rank": 49,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CAT",
+    "prediction": 0.34966904,
+    "rank": 50,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EL",
+    "prediction": 0.34883025,
+    "rank": 51,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "OKTA",
+    "prediction": 0.34876543,
+    "rank": 52,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "W",
+    "prediction": 0.34840682,
+    "rank": 53,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FIS",
+    "prediction": 0.34815672,
+    "rank": 54,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "HPQ",
+    "prediction": 0.34806386,
+    "rank": 55,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "STLD",
+    "prediction": 0.34759358,
+    "rank": 56,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SCCO",
+    "prediction": 0.34608874,
+    "rank": 57,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CLX",
+    "prediction": 0.3459562,
+    "rank": 58,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CMCSA",
+    "prediction": 0.3448802,
+    "rank": 59,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ADBE",
+    "prediction": 0.34431443,
+    "rank": 60,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CMI",
+    "prediction": 0.34340426,
+    "rank": 61,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GPN",
+    "prediction": 0.34273383,
+    "rank": 62,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MSFT",
+    "prediction": 0.34214583,
+    "rank": 63,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "UAL",
+    "prediction": 0.34173414,
+    "rank": 64,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AAPL",
+    "prediction": 0.3412021,
+    "rank": 65,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LUV",
+    "prediction": 0.3405581,
+    "rank": 66,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "URI",
+    "prediction": 0.34024358,
+    "rank": 67,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CDNS",
+    "prediction": 0.33998993,
+    "rank": 68,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ODFL",
+    "prediction": 0.3393829,
+    "rank": 69,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "OXY",
+    "prediction": 0.33916974,
+    "rank": 70,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CCL",
+    "prediction": 0.33826575,
+    "rank": 71,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ZTS",
+    "prediction": 0.33812907,
+    "rank": 72,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FICO",
+    "prediction": 0.3379754,
+    "rank": 73,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "F",
+    "prediction": 0.3374786,
+    "rank": 74,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DG",
+    "prediction": 0.3373758,
+    "rank": 75,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GM",
+    "prediction": 0.33714014,
+    "rank": 76,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "XYZ",
+    "prediction": 0.3368168,
+    "rank": 77,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ADSK",
+    "prediction": 0.33619592,
+    "rank": 78,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ETN",
+    "prediction": 0.33523816,
+    "rank": 79,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BF-B",
+    "prediction": 0.33436793,
+    "rank": 80,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "RCL",
+    "prediction": 0.33398744,
+    "rank": 81,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ADI",
+    "prediction": 0.3330831,
+    "rank": 82,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NTAP",
+    "prediction": 0.33264595,
+    "rank": 83,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "IT",
+    "prediction": 0.33175668,
+    "rank": 84,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DLTR",
+    "prediction": 0.331333,
+    "rank": 85,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GE",
+    "prediction": 0.33092594,
+    "rank": 86,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MPC",
+    "prediction": 0.33052394,
+    "rank": 87,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "JCI",
+    "prediction": 0.3300354,
+    "rank": 88,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CPB",
+    "prediction": 0.32930028,
+    "rank": 89,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "IBM",
+    "prediction": 0.32908678,
+    "rank": 90,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BKNG",
+    "prediction": 0.32783407,
+    "rank": 91,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GOOGL",
+    "prediction": 0.3241918,
+    "rank": 92,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SNPS",
+    "prediction": 0.323348,
+    "rank": 93,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CAG",
+    "prediction": 0.32290247,
+    "rank": 94,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FSLR",
+    "prediction": 0.32247263,
+    "rank": 95,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CDW",
+    "prediction": 0.32235372,
+    "rank": 96,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ADM",
+    "prediction": 0.32222733,
+    "rank": 97,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NUE",
+    "prediction": 0.320221,
+    "rank": 98,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BG",
+    "prediction": 0.31859607,
+    "rank": 99,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GOOG",
+    "prediction": 0.31839275,
+    "rank": 100,
+    "selected": true,
+    "target_weight": 0.01
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "C",
+    "prediction": 0.316142,
+    "rank": 101,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LW",
+    "prediction": 0.31563407,
+    "rank": 102,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PM",
+    "prediction": 0.31321388,
+    "rank": 103,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GIS",
+    "prediction": 0.31273767,
+    "rank": 104,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BA",
+    "prediction": 0.31207398,
+    "rank": 105,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PSX",
+    "prediction": 0.31101483,
+    "rank": 106,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DE",
+    "prediction": 0.31083664,
+    "rank": 107,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EBAY",
+    "prediction": 0.31022808,
+    "rank": 108,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "HSY",
+    "prediction": 0.3098216,
+    "rank": 109,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BMY",
+    "prediction": 0.3087531,
+    "rank": 110,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TSN",
+    "prediction": 0.30862507,
+    "rank": 111,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GS",
+    "prediction": 0.30812725,
+    "rank": 112,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PAYX",
+    "prediction": 0.3081128,
+    "rank": 113,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NFLX",
+    "prediction": 0.30788577,
+    "rank": 114,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MRK",
+    "prediction": 0.30733314,
+    "rank": 115,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "STZ",
+    "prediction": 0.30711326,
+    "rank": 116,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WSO",
+    "prediction": 0.30676574,
+    "rank": 117,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MKC",
+    "prediction": 0.3067538,
+    "rank": 118,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CBOE",
+    "prediction": 0.30555165,
+    "rank": 119,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PYPL",
+    "prediction": 0.30483645,
+    "rank": 120,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SBUX",
+    "prediction": 0.30364096,
+    "rank": 121,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DAL",
+    "prediction": 0.30253288,
+    "rank": 122,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MNST",
+    "prediction": 0.30147448,
+    "rank": 123,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "HCA",
+    "prediction": 0.29969433,
+    "rank": 124,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TMO",
+    "prediction": 0.29950923,
+    "rank": 125,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LEN",
+    "prediction": 0.29832888,
+    "rank": 126,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CVS",
+    "prediction": 0.2971263,
+    "rank": 127,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "XOM",
+    "prediction": 0.29637966,
+    "rank": 128,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "HON",
+    "prediction": 0.29532245,
+    "rank": 129,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PCG",
+    "prediction": 0.2947795,
+    "rank": 130,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ICE",
+    "prediction": 0.29403606,
+    "rank": 131,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MAS",
+    "prediction": 0.29351985,
+    "rank": 132,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FDX",
+    "prediction": 0.29305926,
+    "rank": 133,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TMUS",
+    "prediction": 0.29297408,
+    "rank": 134,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MO",
+    "prediction": 0.2922852,
+    "rank": 135,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TTWO",
+    "prediction": 0.29206887,
+    "rank": 136,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CME",
+    "prediction": 0.29200953,
+    "rank": 137,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ISRG",
+    "prediction": 0.2918394,
+    "rank": 138,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TOL",
+    "prediction": 0.2917817,
+    "rank": 139,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "T",
+    "prediction": 0.29132107,
+    "rank": 140,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "UNH",
+    "prediction": 0.29097623,
+    "rank": 141,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PCAR",
+    "prediction": 0.29033843,
+    "rank": 142,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "COP",
+    "prediction": 0.2900193,
+    "rank": 143,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ABT",
+    "prediction": 0.28982747,
+    "rank": 144,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EMR",
+    "prediction": 0.28956503,
+    "rank": 145,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "KHC",
+    "prediction": 0.28744262,
+    "rank": 146,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LOW",
+    "prediction": 0.28710502,
+    "rank": 147,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EOG",
+    "prediction": 0.28541183,
+    "rank": 148,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LYV",
+    "prediction": 0.28445068,
+    "rank": 149,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TAP",
+    "prediction": 0.2822487,
+    "rank": 150,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CNI",
+    "prediction": 0.28186998,
+    "rank": 151,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EXPD",
+    "prediction": 0.2818189,
+    "rank": 152,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CSX",
+    "prediction": 0.2816942,
+    "rank": 153,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FAST",
+    "prediction": 0.28153598,
+    "rank": 154,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "REGN",
+    "prediction": 0.28133255,
+    "rank": 155,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NEE",
+    "prediction": 0.28098518,
+    "rank": 156,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DHI",
+    "prediction": 0.28067127,
+    "rank": 157,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PFE",
+    "prediction": 0.27978033,
+    "rank": 158,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ROK",
+    "prediction": 0.2782558,
+    "rank": 159,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AMT",
+    "prediction": 0.2782555,
+    "rank": 160,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CL",
+    "prediction": 0.2781357,
+    "rank": 161,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "KMI",
+    "prediction": 0.27794692,
+    "rank": 162,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "UNP",
+    "prediction": 0.2774069,
+    "rank": 163,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MS",
+    "prediction": 0.27705124,
+    "rank": 164,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "HRL",
+    "prediction": 0.27646023,
+    "rank": 165,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "VZ",
+    "prediction": 0.27643692,
+    "rank": 166,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "FE",
+    "prediction": 0.27581686,
+    "rank": 167,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ES",
+    "prediction": 0.27575144,
+    "rank": 168,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "VMC",
+    "prediction": 0.2750384,
+    "rank": 169,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "UPS",
+    "prediction": 0.27481943,
+    "rank": 170,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SJM",
+    "prediction": 0.2747602,
+    "rank": 171,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EIX",
+    "prediction": 0.2743342,
+    "rank": 172,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "KMB",
+    "prediction": 0.27362886,
+    "rank": 173,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MDLZ",
+    "prediction": 0.27342975,
+    "rank": 174,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SYK",
+    "prediction": 0.2730992,
+    "rank": 175,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GWW",
+    "prediction": 0.27210334,
+    "rank": 176,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DHR",
+    "prediction": 0.27189612,
+    "rank": 177,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DIS",
+    "prediction": 0.27146628,
+    "rank": 178,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WMT",
+    "prediction": 0.27144486,
+    "rank": 179,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MDT",
+    "prediction": 0.271393,
+    "rank": 180,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GILD",
+    "prediction": 0.271355,
+    "rank": 181,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SCHW",
+    "prediction": 0.27131677,
+    "rank": 182,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BAC",
+    "prediction": 0.27034143,
+    "rank": 183,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ADP",
+    "prediction": 0.27010134,
+    "rank": 184,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "STT",
+    "prediction": 0.26969564,
+    "rank": 185,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SO",
+    "prediction": 0.2695548,
+    "rank": 186,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TJX",
+    "prediction": 0.26867476,
+    "rank": 187,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WMB",
+    "prediction": 0.26863378,
+    "rank": 188,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BK",
+    "prediction": 0.26827243,
+    "rank": 189,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PGR",
+    "prediction": 0.26822305,
+    "rank": 190,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "COF",
+    "prediction": 0.2679762,
+    "rank": 191,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ROP",
+    "prediction": 0.26793578,
+    "rank": 192,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MLM",
+    "prediction": 0.26786014,
+    "rank": 193,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SHW",
+    "prediction": 0.26782224,
+    "rank": 194,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "RTX",
+    "prediction": 0.26779234,
+    "rank": 195,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MTCH",
+    "prediction": 0.26709226,
+    "rank": 196,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PEP",
+    "prediction": 0.2666399,
+    "rank": 197,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "HLT",
+    "prediction": 0.26650137,
+    "rank": 198,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CP",
+    "prediction": 0.26627716,
+    "rank": 199,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "JNJ",
+    "prediction": 0.26623037,
+    "rank": 200,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PNW",
+    "prediction": 0.26613075,
+    "rank": 201,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "USB",
+    "prediction": 0.265892,
+    "rank": 202,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PHM",
+    "prediction": 0.26578552,
+    "rank": 203,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EXC",
+    "prediction": 0.26562965,
+    "rank": 204,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LIN",
+    "prediction": 0.26557598,
+    "rank": 205,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PLD",
+    "prediction": 0.26545364,
+    "rank": 206,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CMS",
+    "prediction": 0.2653137,
+    "rank": 207,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "APD",
+    "prediction": 0.2651838,
+    "rank": 208,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "JPM",
+    "prediction": 0.26491806,
+    "rank": 209,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "HD",
+    "prediction": 0.26488128,
+    "rank": 210,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MAR",
+    "prediction": 0.26466873,
+    "rank": 211,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WM",
+    "prediction": 0.2646205,
+    "rank": 212,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TT",
+    "prediction": 0.26436058,
+    "rank": 213,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "KDP",
+    "prediction": 0.26433975,
+    "rank": 214,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CI",
+    "prediction": 0.2642352,
+    "rank": 215,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "KO",
+    "prediction": 0.26389027,
+    "rank": 216,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "D",
+    "prediction": 0.26382074,
+    "rank": 217,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WFC",
+    "prediction": 0.2633632,
+    "rank": 218,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CNP",
+    "prediction": 0.26266465,
+    "rank": 219,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PG",
+    "prediction": 0.26250327,
+    "rank": 220,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AFL",
+    "prediction": 0.26226333,
+    "rank": 221,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "V",
+    "prediction": 0.2621571,
+    "rank": 222,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TRV",
+    "prediction": 0.26198512,
+    "rank": 223,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CHD",
+    "prediction": 0.26184398,
+    "rank": 224,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ELV",
+    "prediction": 0.2618066,
+    "rank": 225,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LNT",
+    "prediction": 0.26149657,
+    "rank": 226,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AIG",
+    "prediction": 0.26101,
+    "rank": 227,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ABBV",
+    "prediction": 0.26099256,
+    "rank": 228,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AMGN",
+    "prediction": 0.2603676,
+    "rank": 229,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MCD",
+    "prediction": 0.2598795,
+    "rank": 230,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AON",
+    "prediction": 0.25942826,
+    "rank": 231,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PEG",
+    "prediction": 0.25931996,
+    "rank": 232,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "DUK",
+    "prediction": 0.25893486,
+    "rank": 233,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PRU",
+    "prediction": 0.2585829,
+    "rank": 234,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ALL",
+    "prediction": 0.2581786,
+    "rank": 235,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MCO",
+    "prediction": 0.25794208,
+    "rank": 236,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "LMT",
+    "prediction": 0.25777668,
+    "rank": 237,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NI",
+    "prediction": 0.2572441,
+    "rank": 238,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "TFC",
+    "prediction": 0.25717774,
+    "rank": 239,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WTRG",
+    "prediction": 0.25628325,
+    "rank": 240,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PPL",
+    "prediction": 0.25553387,
+    "rank": 241,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AXP",
+    "prediction": 0.25515237,
+    "rank": 242,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MSCI",
+    "prediction": 0.25492352,
+    "rank": 243,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NVR",
+    "prediction": 0.25488737,
+    "rank": 244,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ITW",
+    "prediction": 0.25458783,
+    "rank": 245,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SRE",
+    "prediction": 0.25390655,
+    "rank": 246,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "VRTX",
+    "prediction": 0.25389522,
+    "rank": 247,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "COST",
+    "prediction": 0.25352165,
+    "rank": 248,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "GD",
+    "prediction": 0.25343898,
+    "rank": 249,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EQIX",
+    "prediction": 0.25260216,
+    "rank": 250,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WEC",
+    "prediction": 0.25255764,
+    "rank": 251,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BRK-B",
+    "prediction": 0.25238052,
+    "rank": 252,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NSC",
+    "prediction": 0.25231934,
+    "rank": 253,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AEP",
+    "prediction": 0.25212458,
+    "rank": 254,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ATO",
+    "prediction": 0.25144556,
+    "rank": 255,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ETR",
+    "prediction": 0.2512715,
+    "rank": 256,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "CB",
+    "prediction": 0.25114048,
+    "rank": 257,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "PH",
+    "prediction": 0.25100824,
+    "rank": 258,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "NDAQ",
+    "prediction": 0.25078124,
+    "rank": 259,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "SPGI",
+    "prediction": 0.25056782,
+    "rank": 260,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MMM",
+    "prediction": 0.2500673,
+    "rank": 261,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "ED",
+    "prediction": 0.24981518,
+    "rank": 262,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "XEL",
+    "prediction": 0.24832079,
+    "rank": 263,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AEE",
+    "prediction": 0.24671303,
+    "rank": 264,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MA",
+    "prediction": 0.24657704,
+    "rank": 265,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "BLK",
+    "prediction": 0.24656576,
+    "rank": 266,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AWK",
+    "prediction": 0.24218252,
+    "rank": 267,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "MET",
+    "prediction": 0.24152373,
+    "rank": 268,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "WBD",
+    "prediction": 0.23959997,
+    "rank": 269,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "AES",
+    "prediction": 0.21305908,
+    "rank": 270,
+    "selected": false,
+    "target_weight": 0.0
+  },
+  {
+    "date": "2026-06-08",
+    "planned_trade_date": "2026-06-09",
+    "ticker": "EA",
+    "prediction": 0.21233116,
+    "rank": 271,
+    "selected": false,
+    "target_weight": 0.0
+  }
+]

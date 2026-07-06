@@ -1,0 +1,23 @@
+{
+  "model_version": "xgboost_all_fred_top100_weekly_long_only_v1",
+  "source_prediction_file": "data/model_outputs/ml_predictions.csv",
+  "price_cache_file": "data/raw/ohlcv_10y_271tickers_d18bc5a6ed.csv",
+  "paper_start_date": "2026-06-09",
+  "signal_date": "2026-06-08",
+  "planned_trade_date": "2026-06-09",
+  "reference_price_date": "2026-06-08",
+  "latest_nav_date": "2026-07-06",
+  "top_n": 100,
+  "gross_exposure": 1.0,
+  "transaction_cost_bps_per_side": 5.0,
+  "initial_capital": 1000000.0,
+  "estimated_nav": 996745.796033,
+  "num_available_predictions": 271,
+  "num_target_positions": 100,
+  "estimated_turnover": 0.9999999999999999,
+  "estimated_transaction_cost": 500.0,
+  "signal_staleness_calendar_days": 1,
+  "signal_status": "current_enough_for_paper_plan",
+  "reset_ledger": true,
+  "lookahead_control": "Signals from date t generate planned trades for the next business day. No future PnL is written by this script."
+}
