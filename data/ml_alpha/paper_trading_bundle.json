@@ -65,6 +65,18 @@
       }
     ]
   },
+  "paperMetrics": {
+    "startDate": "2026-06-09",
+    "endDate": "2026-07-06",
+    "days": 18,
+    "initialCapital": 1000000.0,
+    "latestNav": 1001303.255650986,
+    "paperReturn": 0.0013032556509859905,
+    "paperSharpe": 0.22596329919907623,
+    "paperMaxDrawdown": -0.0426017353,
+    "totalCost": 596.9535240646001,
+    "totalNetPnl": 1303.2556509859023
+  },
   "signals": [
     {
       "date": "2026-06-12",

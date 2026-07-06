@@ -321,6 +321,7 @@ function renderMlAlphaPaper() {
   const ledger = mlAlpha.ledger || [];
   const liveMeta = mlAlpha.liveMetadata || {};
   const archiveIndex = mlAlpha.archiveIndex || {};
+  const paperMetrics = mlAlpha.paperMetrics || {};
   const metaEl = $("mlAlphaMeta");
   if (!metaEl) return;
   if (!Object.keys(meta).length) {
@@ -334,6 +335,9 @@ function renderMlAlphaPaper() {
   const latestPnl = ledger.length ? Number(ledger.at(-1).netPnl || 0) : 0;
   const summary = [
     ["Paper NAV", money.format(latestNav), "ML alpha ledger only", cls(latestNav - Number(meta.initial_capital || latestNav))],
+    ["Paper Return", pct(Number(paperMetrics.paperReturn || 0) * 100, 2), `${paperMetrics.startDate || meta.paper_start_date} to ${paperMetrics.endDate || meta.latest_nav_date}`, cls(Number(paperMetrics.paperReturn || 0))],
+    ["Paper Sharpe", paperMetrics.paperSharpe == null ? "N/A" : Number(paperMetrics.paperSharpe).toFixed(2), `${paperMetrics.days || ledger.length} paper days`, Number(paperMetrics.paperSharpe || 0) >= 1 ? "pos" : "warn"],
+    ["Paper Max DD", paperMetrics.paperMaxDrawdown == null ? "N/A" : pct(Number(paperMetrics.paperMaxDrawdown) * 100, 2), "Peak-to-trough paper drawdown", Number(paperMetrics.paperMaxDrawdown || 0) < -0.1 ? "neg" : "warn"],
     ["Latest Day Net PnL", money.format(latestPnl), "Most recent ledger row", cls(latestPnl)],
     ["Target Names", String(meta.num_target_positions || positions.length), "Latest long-only top-ranked book", "info"],
     ["Latest Rebalance Turnover", pct(Number(meta.estimated_turnover || 0) * 100, 1), "Most recent executed rebalance", "warn"],
