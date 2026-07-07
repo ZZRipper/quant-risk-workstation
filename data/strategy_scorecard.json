@@ -3,24 +3,24 @@
     "id": "STR-15",
     "name": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "score": 62.7,
+    "score": 63.1,
     "decision": "Watch",
     "recommendedAction": "Keep paper allocation and monitor decay",
     "components": {
-      "oosPerformance": 77.0,
+      "oosPerformance": 77.5,
       "robustness": 100.0,
       "drawdownControl": 48.6,
       "costEfficiency": 0.0,
-      "diversification": 73.2,
-      "factorIndependence": 11.5,
-      "paperBehavior": 95.7,
+      "diversification": 74.0,
+      "factorIndependence": 11.4,
+      "paperBehavior": 98.0,
       "hitRate": 57.5
     },
-    "oosSharpe": 0.97,
+    "oosSharpe": 0.98,
     "oosDrawdown": -17.86,
-    "sharpeDecay": 0.27,
-    "paperPnl": 15777.41,
-    "maxCorrelation": 0.607,
+    "sharpeDecay": 0.28,
+    "paperPnl": 18255.15,
+    "maxCorrelation": 0.604,
     "dominantFactor": "Credit beta",
     "strengths": [
       "OOS performance remains strong",
@@ -33,28 +33,28 @@
     ]
   },
   {
-    "id": "STR-02",
-    "name": "WQ Alpha 004 - Rank Momentum",
-    "sleeve": "Momentum",
-    "score": 62.3,
+    "id": "STR-07",
+    "name": "WQ Alpha 028 - Correlation Reversal",
+    "sleeve": "Correlation",
+    "score": 60.1,
     "decision": "Watch",
     "recommendedAction": "Keep paper allocation and monitor decay",
     "components": {
-      "oosPerformance": 100.0,
+      "oosPerformance": 77.5,
       "robustness": 100.0,
-      "drawdownControl": 41.4,
-      "costEfficiency": 25.8,
-      "diversification": 0.0,
-      "factorIndependence": 4.2,
-      "paperBehavior": 81.4,
-      "hitRate": 79.0
+      "drawdownControl": 42.5,
+      "costEfficiency": 0.0,
+      "diversification": 53.7,
+      "factorIndependence": 14.8,
+      "paperBehavior": 90.4,
+      "hitRate": 65.0
     },
-    "oosSharpe": 1.5,
-    "oosDrawdown": -19.66,
-    "sharpeDecay": 0.62,
-    "paperPnl": 11500.9,
-    "maxCorrelation": 0.967,
-    "dominantFactor": "Value beta",
+    "oosSharpe": 0.98,
+    "oosDrawdown": -19.38,
+    "sharpeDecay": 0.49,
+    "paperPnl": 4861.84,
+    "maxCorrelation": 0.685,
+    "dominantFactor": "Credit beta",
     "strengths": [
       "OOS performance remains strong",
       "Limited Sharpe decay",
@@ -63,31 +63,31 @@
     "weaknesses": [
       "OOS drawdown is high",
       "Cost or turnover drag is high",
-      "High correlation with STR-06, STR-05, STR-17"
+      "Crowded factor beta: Credit beta"
     ]
   },
   {
     "id": "STR-05",
     "name": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "score": 59.7,
+    "score": 58.7,
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 86.6,
+      "oosPerformance": 85.3,
       "robustness": 100.0,
       "drawdownControl": 38.7,
-      "costEfficiency": 20.4,
+      "costEfficiency": 18.1,
       "diversification": 0.0,
-      "factorIndependence": 33.9,
-      "paperBehavior": 81.4,
-      "hitRate": 64.0
+      "factorIndependence": 33.8,
+      "paperBehavior": 77.7,
+      "hitRate": 63.5
     },
-    "oosSharpe": 1.19,
+    "oosSharpe": 1.16,
     "oosDrawdown": -20.33,
-    "sharpeDecay": 0.3,
-    "paperPnl": 13460.22,
-    "maxCorrelation": 0.968,
+    "sharpeDecay": 0.27,
+    "paperPnl": 9613.29,
+    "maxCorrelation": 0.962,
     "dominantFactor": "Value beta",
     "strengths": [
       "OOS performance remains strong",
@@ -101,26 +101,26 @@
     ]
   },
   {
-    "id": "STR-07",
-    "name": "WQ Alpha 028 - Correlation Reversal",
-    "sleeve": "Correlation",
-    "score": 59.5,
+    "id": "STR-18",
+    "name": "WQ Alpha 092 - Delayed Reversal",
+    "sleeve": "Reversal",
+    "score": 57.6,
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 77.0,
+      "oosPerformance": 78.8,
       "robustness": 100.0,
-      "drawdownControl": 42.5,
+      "drawdownControl": 36.6,
       "costEfficiency": 0.0,
       "diversification": 53.7,
-      "factorIndependence": 14.8,
-      "paperBehavior": 84.0,
-      "hitRate": 64.5
+      "factorIndependence": 0.0,
+      "paperBehavior": 77.7,
+      "hitRate": 70.0
     },
-    "oosSharpe": 0.97,
-    "oosDrawdown": -19.38,
-    "sharpeDecay": 0.47,
-    "paperPnl": 4162.96,
+    "oosSharpe": 1.01,
+    "oosDrawdown": -20.85,
+    "sharpeDecay": 0.42,
+    "paperPnl": 7123.76,
     "maxCorrelation": 0.685,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -135,27 +135,60 @@
     ]
   },
   {
-    "id": "STR-14",
-    "name": "WQ Alpha 071 - Composite Rank",
-    "sleeve": "Composite",
-    "score": 59.0,
+    "id": "STR-02",
+    "name": "WQ Alpha 004 - Rank Momentum",
+    "sleeve": "Momentum",
+    "score": 57.0,
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 98.7,
+      "oosPerformance": 98.3,
+      "robustness": 100.0,
+      "drawdownControl": 41.4,
+      "costEfficiency": 24.8,
+      "diversification": 0.0,
+      "factorIndependence": 3.8,
+      "paperBehavior": 22.7,
+      "hitRate": 78.5
+    },
+    "oosSharpe": 1.46,
+    "oosDrawdown": -19.66,
+    "sharpeDecay": 0.57,
+    "paperPnl": -11252.89,
+    "maxCorrelation": 0.969,
+    "dominantFactor": "Value beta",
+    "strengths": [
+      "OOS performance remains strong",
+      "Limited Sharpe decay"
+    ],
+    "weaknesses": [
+      "OOS drawdown is high",
+      "Cost or turnover drag is high",
+      "High correlation with STR-06, STR-05, STR-17"
+    ]
+  },
+  {
+    "id": "STR-14",
+    "name": "WQ Alpha 071 - Composite Rank",
+    "sleeve": "Composite",
+    "score": 56.1,
+    "decision": "Revise",
+    "recommendedAction": "Research changes before adding capital",
+    "components": {
+      "oosPerformance": 97.0,
       "robustness": 100.0,
       "drawdownControl": 47.7,
       "costEfficiency": 0.0,
       "diversification": 0.0,
-      "factorIndependence": 28.3,
-      "paperBehavior": 53.9,
-      "hitRate": 64.5
+      "factorIndependence": 28.4,
+      "paperBehavior": 22.8,
+      "hitRate": 64.0
     },
-    "oosSharpe": 1.47,
+    "oosSharpe": 1.43,
     "oosDrawdown": -18.07,
-    "sharpeDecay": 0.87,
-    "paperPnl": 2.55,
-    "maxCorrelation": 0.952,
+    "sharpeDecay": 0.84,
+    "paperPnl": -4980.26,
+    "maxCorrelation": 0.949,
     "dominantFactor": "Credit beta",
     "strengths": [
       "OOS performance remains strong",
@@ -168,27 +201,192 @@
     ]
   },
   {
-    "id": "STR-18",
-    "name": "WQ Alpha 092 - Delayed Reversal",
-    "sleeve": "Reversal",
-    "score": 57.4,
+    "id": "STR-17",
+    "name": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "sleeve": "Liquidity",
+    "score": 54.0,
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 79.2,
+      "oosPerformance": 91.8,
       "robustness": 100.0,
-      "drawdownControl": 36.6,
+      "drawdownControl": 42.4,
       "costEfficiency": 0.0,
-      "diversification": 53.7,
-      "factorIndependence": 0.0,
-      "paperBehavior": 74.3,
+      "diversification": 0.0,
+      "factorIndependence": 29.0,
+      "paperBehavior": 22.7,
+      "hitRate": 64.0
+    },
+    "oosSharpe": 1.31,
+    "oosDrawdown": -19.39,
+    "sharpeDecay": 0.78,
+    "paperPnl": -9461.14,
+    "maxCorrelation": 0.955,
+    "dominantFactor": "Value beta",
+    "strengths": [
+      "OOS performance remains strong",
+      "Limited Sharpe decay"
+    ],
+    "weaknesses": [
+      "OOS drawdown is high",
+      "Cost or turnover drag is high",
+      "High correlation with STR-06, STR-05, STR-02"
+    ]
+  },
+  {
+    "id": "STR-13",
+    "name": "WQ Alpha 060 - Price Volume Rank",
+    "sleeve": "Volume",
+    "score": 53.7,
+    "decision": "Revise",
+    "recommendedAction": "Research changes before adding capital",
+    "components": {
+      "oosPerformance": 93.5,
+      "robustness": 100.0,
+      "drawdownControl": 36.1,
+      "costEfficiency": 0.0,
+      "diversification": 0.0,
+      "factorIndependence": 23.8,
+      "paperBehavior": 29.4,
+      "hitRate": 67.0
+    },
+    "oosSharpe": 1.35,
+    "oosDrawdown": -20.97,
+    "sharpeDecay": 0.9,
+    "paperPnl": -15239.22,
+    "maxCorrelation": 0.927,
+    "dominantFactor": "Credit beta",
+    "strengths": [
+      "OOS performance remains strong",
+      "Limited Sharpe decay"
+    ],
+    "weaknesses": [
+      "OOS drawdown is high",
+      "Cost or turnover drag is high",
+      "High correlation with STR-11, STR-03, STR-16"
+    ]
+  },
+  {
+    "id": "STR-03",
+    "name": "WQ Alpha 006 - Volume Price Divergence",
+    "sleeve": "Volume",
+    "score": 53.2,
+    "decision": "Revise",
+    "recommendedAction": "Research changes before adding capital",
+    "components": {
+      "oosPerformance": 85.3,
+      "robustness": 100.0,
+      "drawdownControl": 36.9,
+      "costEfficiency": 0.0,
+      "diversification": 7.2,
+      "factorIndependence": 28.8,
+      "paperBehavior": 30.9,
       "hitRate": 70.0
     },
-    "oosSharpe": 1.02,
-    "oosDrawdown": -20.85,
-    "sharpeDecay": 0.42,
-    "paperPnl": 6382.84,
-    "maxCorrelation": 0.685,
+    "oosSharpe": 1.16,
+    "oosDrawdown": -20.77,
+    "sharpeDecay": 1.05,
+    "paperPnl": -3505.72,
+    "maxCorrelation": 0.871,
+    "dominantFactor": "Credit beta",
+    "strengths": [
+      "OOS performance remains strong",
+      "Limited Sharpe decay"
+    ],
+    "weaknesses": [
+      "OOS drawdown is high",
+      "Cost or turnover drag is high",
+      "High correlation with STR-13, STR-11, STR-16"
+    ]
+  },
+  {
+    "id": "STR-11",
+    "name": "WQ Alpha 051 - Decay Momentum",
+    "sleeve": "Momentum",
+    "score": 51.5,
+    "decision": "Revise",
+    "recommendedAction": "Research changes before adding capital",
+    "components": {
+      "oosPerformance": 89.6,
+      "robustness": 100.0,
+      "drawdownControl": 24.8,
+      "costEfficiency": 0.0,
+      "diversification": 0.0,
+      "factorIndependence": 28.3,
+      "paperBehavior": 33.7,
+      "hitRate": 61.0
+    },
+    "oosSharpe": 1.26,
+    "oosDrawdown": -23.79,
+    "sharpeDecay": 0.65,
+    "paperPnl": -2989.06,
+    "maxCorrelation": 0.943,
+    "dominantFactor": "Credit beta",
+    "strengths": [
+      "OOS performance remains strong",
+      "Limited Sharpe decay"
+    ],
+    "weaknesses": [
+      "OOS drawdown is high",
+      "Cost or turnover drag is high",
+      "High correlation with STR-16, STR-13, STR-02"
+    ]
+  },
+  {
+    "id": "STR-19",
+    "name": "WQ Alpha 096 - Risk Controlled Momentum",
+    "sleeve": "Momentum",
+    "score": 51.2,
+    "decision": "Revise",
+    "recommendedAction": "Research changes before adding capital",
+    "components": {
+      "oosPerformance": 78.3,
+      "robustness": 77.7,
+      "drawdownControl": 55.8,
+      "costEfficiency": 1.3,
+      "diversification": 0.0,
+      "factorIndependence": 46.8,
+      "paperBehavior": 32.0,
+      "hitRate": 70.5
+    },
+    "oosSharpe": 1.0,
+    "oosDrawdown": -16.06,
+    "sharpeDecay": -0.14,
+    "paperPnl": -3300.97,
+    "maxCorrelation": 0.941,
+    "dominantFactor": "Credit beta",
+    "strengths": [
+      "OOS performance remains strong",
+      "Limited Sharpe decay"
+    ],
+    "weaknesses": [
+      "Cost or turnover drag is high",
+      "High correlation with STR-02, STR-05, STR-06",
+      "Paper-period PnL is negative"
+    ]
+  },
+  {
+    "id": "STR-10",
+    "name": "WQ Alpha 043 - Volume Acceleration",
+    "sleeve": "Volume",
+    "score": 51.1,
+    "decision": "Revise",
+    "recommendedAction": "Research changes before adding capital",
+    "components": {
+      "oosPerformance": 72.3,
+      "robustness": 100.0,
+      "drawdownControl": 0.3,
+      "costEfficiency": 0.0,
+      "diversification": 63.0,
+      "factorIndependence": 4.4,
+      "paperBehavior": 69.9,
+      "hitRate": 68.0
+    },
+    "oosSharpe": 0.86,
+    "oosDrawdown": -29.93,
+    "sharpeDecay": 0.72,
+    "paperPnl": 3592.29,
+    "maxCorrelation": 0.648,
     "dominantFactor": "Credit beta",
     "strengths": [
       "OOS performance remains strong",
@@ -202,92 +400,27 @@
     ]
   },
   {
-    "id": "STR-17",
-    "name": "WQ Alpha 088 - Liquidity Adjusted Momentum",
-    "sleeve": "Liquidity",
-    "score": 55.5,
-    "decision": "Revise",
-    "recommendedAction": "Research changes before adding capital",
-    "components": {
-      "oosPerformance": 93.9,
-      "robustness": 100.0,
-      "drawdownControl": 42.4,
-      "costEfficiency": 0.0,
-      "diversification": 0.0,
-      "factorIndependence": 29.2,
-      "paperBehavior": 33.9,
-      "hitRate": 64.5
-    },
-    "oosSharpe": 1.36,
-    "oosDrawdown": -19.39,
-    "sharpeDecay": 0.83,
-    "paperPnl": -3647.42,
-    "maxCorrelation": 0.954,
-    "dominantFactor": "Value beta",
-    "strengths": [
-      "OOS performance remains strong",
-      "Limited Sharpe decay"
-    ],
-    "weaknesses": [
-      "OOS drawdown is high",
-      "Cost or turnover drag is high",
-      "High correlation with STR-06, STR-05, STR-02"
-    ]
-  },
-  {
-    "id": "STR-19",
-    "name": "WQ Alpha 096 - Risk Controlled Momentum",
-    "sleeve": "Momentum",
-    "score": 54.3,
-    "decision": "Revise",
-    "recommendedAction": "Research changes before adding capital",
-    "components": {
-      "oosPerformance": 79.6,
-      "robustness": 80.0,
-      "drawdownControl": 55.8,
-      "costEfficiency": 0.9,
-      "diversification": 0.0,
-      "factorIndependence": 46.7,
-      "paperBehavior": 62.0,
-      "hitRate": 71.0
-    },
-    "oosSharpe": 1.03,
-    "oosDrawdown": -16.06,
-    "sharpeDecay": -0.1,
-    "paperPnl": 1465.3,
-    "maxCorrelation": 0.942,
-    "dominantFactor": "Credit beta",
-    "strengths": [
-      "OOS performance remains strong",
-      "Limited Sharpe decay"
-    ],
-    "weaknesses": [
-      "Cost or turnover drag is high",
-      "High correlation with STR-02, STR-06, STR-05"
-    ]
-  },
-  {
     "id": "STR-06",
     "name": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "score": 54.1,
+    "score": 50.3,
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 90.0,
+      "oosPerformance": 87.4,
       "robustness": 100.0,
       "drawdownControl": 28.2,
-      "costEfficiency": 15.1,
+      "costEfficiency": 14.7,
       "diversification": 0.0,
-      "factorIndependence": 8.9,
-      "paperBehavior": 53.8,
-      "hitRate": 64.0
+      "factorIndependence": 8.5,
+      "paperBehavior": 15.9,
+      "hitRate": 63.5
     },
-    "oosSharpe": 1.27,
+    "oosSharpe": 1.21,
     "oosDrawdown": -22.96,
-    "sharpeDecay": 0.43,
-    "paperPnl": 1283.44,
-    "maxCorrelation": 0.968,
+    "sharpeDecay": 0.37,
+    "paperPnl": -17197.39,
+    "maxCorrelation": 0.969,
     "dominantFactor": "Value beta",
     "strengths": [
       "OOS performance remains strong",
@@ -296,172 +429,7 @@
     "weaknesses": [
       "OOS drawdown is high",
       "Cost or turnover drag is high",
-      "High correlation with STR-05, STR-02, STR-17"
-    ]
-  },
-  {
-    "id": "STR-11",
-    "name": "WQ Alpha 051 - Decay Momentum",
-    "sleeve": "Momentum",
-    "score": 53.9,
-    "decision": "Revise",
-    "recommendedAction": "Research changes before adding capital",
-    "components": {
-      "oosPerformance": 90.9,
-      "robustness": 100.0,
-      "drawdownControl": 24.8,
-      "costEfficiency": 0.0,
-      "diversification": 0.0,
-      "factorIndependence": 28.1,
-      "paperBehavior": 58.9,
-      "hitRate": 61.5
-    },
-    "oosSharpe": 1.29,
-    "oosDrawdown": -23.79,
-    "sharpeDecay": 0.68,
-    "paperPnl": 910.49,
-    "maxCorrelation": 0.944,
-    "dominantFactor": "Credit beta",
-    "strengths": [
-      "OOS performance remains strong",
-      "Limited Sharpe decay"
-    ],
-    "weaknesses": [
-      "OOS drawdown is high",
-      "Cost or turnover drag is high",
-      "High correlation with STR-16, STR-13, STR-02"
-    ]
-  },
-  {
-    "id": "STR-03",
-    "name": "WQ Alpha 006 - Volume Price Divergence",
-    "sleeve": "Volume",
-    "score": 53.8,
-    "decision": "Revise",
-    "recommendedAction": "Research changes before adding capital",
-    "components": {
-      "oosPerformance": 85.7,
-      "robustness": 100.0,
-      "drawdownControl": 36.9,
-      "costEfficiency": 0.0,
-      "diversification": 6.0,
-      "factorIndependence": 28.6,
-      "paperBehavior": 39.3,
-      "hitRate": 70.5
-    },
-    "oosSharpe": 1.17,
-    "oosDrawdown": -20.77,
-    "sharpeDecay": 1.06,
-    "paperPnl": -2657.24,
-    "maxCorrelation": 0.876,
-    "dominantFactor": "Credit beta",
-    "strengths": [
-      "OOS performance remains strong",
-      "Limited Sharpe decay"
-    ],
-    "weaknesses": [
-      "OOS drawdown is high",
-      "Cost or turnover drag is high",
-      "High correlation with STR-13, STR-11, STR-16"
-    ]
-  },
-  {
-    "id": "STR-13",
-    "name": "WQ Alpha 060 - Price Volume Rank",
-    "sleeve": "Volume",
-    "score": 53.5,
-    "decision": "Revise",
-    "recommendedAction": "Research changes before adding capital",
-    "components": {
-      "oosPerformance": 93.5,
-      "robustness": 100.0,
-      "drawdownControl": 36.1,
-      "costEfficiency": 0.0,
-      "diversification": 0.0,
-      "factorIndependence": 23.8,
-      "paperBehavior": 26.4,
-      "hitRate": 67.0
-    },
-    "oosSharpe": 1.35,
-    "oosDrawdown": -20.97,
-    "sharpeDecay": 0.89,
-    "paperPnl": -18242.23,
-    "maxCorrelation": 0.935,
-    "dominantFactor": "Credit beta",
-    "strengths": [
-      "OOS performance remains strong",
-      "Limited Sharpe decay"
-    ],
-    "weaknesses": [
-      "OOS drawdown is high",
-      "Cost or turnover drag is high",
-      "High correlation with STR-11, STR-03, STR-16"
-    ]
-  },
-  {
-    "id": "STR-10",
-    "name": "WQ Alpha 043 - Volume Acceleration",
-    "sleeve": "Volume",
-    "score": 50.8,
-    "decision": "Revise",
-    "recommendedAction": "Research changes before adding capital",
-    "components": {
-      "oosPerformance": 72.7,
-      "robustness": 100.0,
-      "drawdownControl": 0.3,
-      "costEfficiency": 0.0,
-      "diversification": 63.7,
-      "factorIndependence": 4.4,
-      "paperBehavior": 64.7,
-      "hitRate": 68.0
-    },
-    "oosSharpe": 0.87,
-    "oosDrawdown": -29.93,
-    "sharpeDecay": 0.73,
-    "paperPnl": 3264.93,
-    "maxCorrelation": 0.645,
-    "dominantFactor": "Credit beta",
-    "strengths": [
-      "OOS performance remains strong",
-      "Limited Sharpe decay"
-    ],
-    "weaknesses": [
-      "OOS drawdown is high",
-      "Cost or turnover drag is high",
-      "Crowded factor beta: Credit beta"
-    ]
-  },
-  {
-    "id": "STR-16",
-    "name": "WQ Alpha 083 - Range Momentum",
-    "sleeve": "Volatility",
-    "score": 49.8,
-    "decision": "Revise",
-    "recommendedAction": "Research changes before adding capital",
-    "components": {
-      "oosPerformance": 83.1,
-      "robustness": 100.0,
-      "drawdownControl": 19.0,
-      "costEfficiency": 0.0,
-      "diversification": 0.0,
-      "factorIndependence": 25.1,
-      "paperBehavior": 50.7,
-      "hitRate": 53.5
-    },
-    "oosSharpe": 1.11,
-    "oosDrawdown": -25.25,
-    "sharpeDecay": 0.76,
-    "paperPnl": -581.01,
-    "maxCorrelation": 0.944,
-    "dominantFactor": "Credit beta",
-    "strengths": [
-      "OOS performance remains strong",
-      "Limited Sharpe decay"
-    ],
-    "weaknesses": [
-      "OOS drawdown is high",
-      "Cost or turnover drag is high",
-      "High correlation with STR-11, STR-02, STR-13"
+      "High correlation with STR-02, STR-05, STR-17"
     ]
   },
   {
@@ -472,20 +440,20 @@
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 77.5,
+      "oosPerformance": 77.9,
       "robustness": 100.0,
       "drawdownControl": 30.2,
       "costEfficiency": 0.0,
-      "diversification": 14.5,
+      "diversification": 15.5,
       "factorIndependence": 0.0,
-      "paperBehavior": 40.1,
+      "paperBehavior": 37.0,
       "hitRate": 74.5
     },
-    "oosSharpe": 0.98,
+    "oosSharpe": 0.99,
     "oosDrawdown": -22.44,
-    "sharpeDecay": 0.36,
-    "paperPnl": -1213.24,
-    "maxCorrelation": 0.842,
+    "sharpeDecay": 0.38,
+    "paperPnl": -1164.22,
+    "maxCorrelation": 0.838,
     "dominantFactor": "Credit beta",
     "strengths": [
       "OOS performance remains strong",
@@ -498,27 +466,60 @@
     ]
   },
   {
-    "id": "STR-04",
-    "name": "WQ Alpha 012 - Open-Close Pressure",
-    "sleeve": "Intraday",
-    "score": 48.9,
+    "id": "STR-16",
+    "name": "WQ Alpha 083 - Range Momentum",
+    "sleeve": "Volatility",
+    "score": 47.5,
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 54.2,
+      "oosPerformance": 81.8,
+      "robustness": 100.0,
+      "drawdownControl": 19.0,
+      "costEfficiency": 0.0,
+      "diversification": 0.0,
+      "factorIndependence": 25.4,
+      "paperBehavior": 25.8,
+      "hitRate": 53.0
+    },
+    "oosSharpe": 1.08,
+    "oosDrawdown": -25.25,
+    "sharpeDecay": 0.73,
+    "paperPnl": -4432.22,
+    "maxCorrelation": 0.943,
+    "dominantFactor": "Credit beta",
+    "strengths": [
+      "OOS performance remains strong",
+      "Limited Sharpe decay"
+    ],
+    "weaknesses": [
+      "OOS drawdown is high",
+      "Cost or turnover drag is high",
+      "High correlation with STR-11, STR-02, STR-13"
+    ]
+  },
+  {
+    "id": "STR-04",
+    "name": "WQ Alpha 012 - Open-Close Pressure",
+    "sleeve": "Intraday",
+    "score": 47.4,
+    "decision": "Revise",
+    "recommendedAction": "Research changes before adding capital",
+    "components": {
+      "oosPerformance": 50.4,
       "robustness": 100.0,
       "drawdownControl": 25.7,
       "costEfficiency": 0.0,
-      "diversification": 83.8,
-      "factorIndependence": 15.5,
-      "paperBehavior": 17.3,
-      "hitRate": 62.5
+      "diversification": 83.3,
+      "factorIndependence": 15.7,
+      "paperBehavior": 11.2,
+      "hitRate": 62.0
     },
-    "oosSharpe": 0.64,
+    "oosSharpe": 0.6,
     "oosDrawdown": -23.57,
-    "sharpeDecay": 1.11,
-    "paperPnl": -2763.52,
-    "maxCorrelation": 0.565,
+    "sharpeDecay": 1.07,
+    "paperPnl": -3398.01,
+    "maxCorrelation": 0.567,
     "dominantFactor": "Credit beta",
     "strengths": [
       "Limited Sharpe decay",
@@ -531,59 +532,26 @@
     ]
   },
   {
-    "id": "STR-12",
-    "name": "WQ Alpha 055 - Turnover Reversal",
-    "sleeve": "Liquidity",
-    "score": 43.8,
-    "decision": "Revise",
-    "recommendedAction": "Research changes before adding capital",
-    "components": {
-      "oosPerformance": 74.0,
-      "robustness": 100.0,
-      "drawdownControl": 10.4,
-      "costEfficiency": 0.0,
-      "diversification": 0.0,
-      "factorIndependence": 0.0,
-      "paperBehavior": 40.3,
-      "hitRate": 64.0
-    },
-    "oosSharpe": 0.9,
-    "oosDrawdown": -27.4,
-    "sharpeDecay": 0.73,
-    "paperPnl": -1174.2,
-    "maxCorrelation": 0.953,
-    "dominantFactor": "Credit beta",
-    "strengths": [
-      "OOS performance remains strong",
-      "Limited Sharpe decay"
-    ],
-    "weaknesses": [
-      "OOS drawdown is high",
-      "Cost or turnover drag is high",
-      "High correlation with STR-01, STR-08"
-    ]
-  },
-  {
     "id": "STR-09",
     "name": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "score": 43.7,
+    "score": 43.9,
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 5.7,
+      "oosPerformance": 5.0,
       "robustness": 100.0,
       "drawdownControl": 54.4,
       "costEfficiency": 0.0,
       "diversification": 92.0,
-      "factorIndependence": 31.0,
-      "paperBehavior": 27.2,
+      "factorIndependence": 31.1,
+      "paperBehavior": 31.6,
       "hitRate": 57.5
     },
-    "oosSharpe": 0.11,
+    "oosSharpe": 0.1,
     "oosDrawdown": -16.4,
     "sharpeDecay": 0.38,
-    "paperPnl": -964.54,
+    "paperPnl": -914.99,
     "maxCorrelation": 0.532,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -597,27 +565,60 @@
     ]
   },
   {
-    "id": "STR-01",
-    "name": "WQ Alpha 001 - Short-Term Reversal",
-    "sleeve": "Reversal",
-    "score": 40.7,
+    "id": "STR-12",
+    "name": "WQ Alpha 055 - Turnover Reversal",
+    "sleeve": "Liquidity",
+    "score": 42.7,
     "decision": "Revise",
     "recommendedAction": "Research changes before adding capital",
     "components": {
-      "oosPerformance": 69.7,
+      "oosPerformance": 73.1,
+      "robustness": 100.0,
+      "drawdownControl": 10.4,
+      "costEfficiency": 0.0,
+      "diversification": 0.0,
+      "factorIndependence": 0.0,
+      "paperBehavior": 29.2,
+      "hitRate": 63.5
+    },
+    "oosSharpe": 0.88,
+    "oosDrawdown": -27.4,
+    "sharpeDecay": 0.71,
+    "paperPnl": -2581.25,
+    "maxCorrelation": 0.952,
+    "dominantFactor": "Credit beta",
+    "strengths": [
+      "OOS performance remains strong",
+      "Limited Sharpe decay"
+    ],
+    "weaknesses": [
+      "OOS drawdown is high",
+      "Cost or turnover drag is high",
+      "High correlation with STR-01, STR-08"
+    ]
+  },
+  {
+    "id": "STR-01",
+    "name": "WQ Alpha 001 - Short-Term Reversal",
+    "sleeve": "Reversal",
+    "score": 40.1,
+    "decision": "Revise",
+    "recommendedAction": "Research changes before adding capital",
+    "components": {
+      "oosPerformance": 68.4,
       "robustness": 100.0,
       "drawdownControl": 13.1,
       "costEfficiency": 0.0,
       "diversification": 0.0,
       "factorIndependence": 0.0,
-      "paperBehavior": 12.1,
-      "hitRate": 59.5
+      "paperBehavior": 9.1,
+      "hitRate": 59.0
     },
-    "oosSharpe": 0.8,
+    "oosSharpe": 0.77,
     "oosDrawdown": -26.73,
-    "sharpeDecay": 0.51,
-    "paperPnl": -7173.68,
-    "maxCorrelation": 0.953,
+    "sharpeDecay": 0.48,
+    "paperPnl": -9937.93,
+    "maxCorrelation": 0.952,
     "dominantFactor": "Credit beta",
     "strengths": [
       "Limited Sharpe decay"
@@ -632,24 +633,24 @@
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "score": 38.7,
+    "score": 39.6,
     "decision": "Reject",
     "recommendedAction": "Remove from active candidate set",
     "components": {
-      "oosPerformance": 21.1,
+      "oosPerformance": 21.3,
       "robustness": 99.4,
       "drawdownControl": 0.0,
       "costEfficiency": 0.0,
-      "diversification": 94.2,
+      "diversification": 97.8,
       "factorIndependence": 0.0,
-      "paperBehavior": 44.4,
+      "paperBehavior": 51.8,
       "hitRate": 62.5
     },
     "oosSharpe": 0.3,
     "oosDrawdown": -35.75,
     "sharpeDecay": 0.24,
-    "paperPnl": 857.28,
-    "maxCorrelation": 0.523,
+    "paperPnl": 1532.42,
+    "maxCorrelation": 0.509,
     "dominantFactor": "Credit beta",
     "strengths": [
       "Limited Sharpe decay",
