@@ -7,19 +7,19 @@
   },
   {
     "name": "Size beta",
-    "value": 0.39,
+    "value": 0.391,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Value beta",
-    "value": -0.788,
+    "value": -0.787,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Momentum beta",
-    "value": 0.788,
+    "value": 0.787,
     "limit": 0.25,
     "status": "Breach"
   },
@@ -49,7 +49,7 @@
   },
   {
     "name": "Commodity beta",
-    "value": 0.338,
+    "value": 0.337,
     "limit": 0.2,
     "status": "Breach"
   }
