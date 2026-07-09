@@ -4,11 +4,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 135149.09,
-    "grossPnl": -3777.26,
+    "navBefore": 135149.33,
+    "grossPnl": -3777.27,
     "cost": 94.6,
-    "netPnl": -3871.86,
-    "navAfter": 131277.22,
+    "netPnl": -3871.87,
+    "navAfter": 131277.46,
     "turnover": 140.0
   },
   {
@@ -16,11 +16,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 131277.22,
-    "grossPnl": -4034.27,
+    "navBefore": 131277.46,
+    "grossPnl": -4034.28,
     "cost": 26.26,
-    "netPnl": -4060.52,
-    "navAfter": 127216.7,
+    "netPnl": -4060.53,
+    "navAfter": 127216.93,
     "turnover": 40.0
   },
   {
@@ -28,11 +28,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 127216.7,
+    "navBefore": 127216.93,
     "grossPnl": 3281.37,
     "cost": 38.17,
-    "netPnl": 3243.2,
-    "navAfter": 130459.9,
+    "netPnl": 3243.21,
+    "navAfter": 130460.14,
     "turnover": 60.0
   },
   {
@@ -40,11 +40,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 130459.9,
+    "navBefore": 130460.14,
     "grossPnl": -748.35,
     "cost": 52.18,
     "netPnl": -800.53,
-    "navAfter": 129659.37,
+    "navAfter": 129659.6,
     "turnover": 80.0
   },
   {
@@ -52,11 +52,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 129659.37,
-    "grossPnl": 1806.15,
+    "navBefore": 129659.6,
+    "grossPnl": 1806.16,
     "cost": 38.9,
     "netPnl": 1767.26,
-    "navAfter": 131426.62,
+    "navAfter": 131426.86,
     "turnover": 60.0
   },
   {
@@ -64,11 +64,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 131426.62,
+    "navBefore": 131426.86,
     "grossPnl": -777.71,
     "cost": 39.43,
     "netPnl": -817.14,
-    "navAfter": 130609.49,
+    "navAfter": 130609.72,
     "turnover": 60.0
   },
   {
@@ -76,11 +76,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 130609.49,
-    "grossPnl": -4306.03,
+    "navBefore": 130609.72,
+    "grossPnl": -4306.04,
     "cost": 26.12,
     "netPnl": -4332.16,
-    "navAfter": 126277.33,
+    "navAfter": 126277.56,
     "turnover": 40.0
   },
   {
@@ -88,11 +88,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 126277.33,
+    "navBefore": 126277.56,
     "grossPnl": -3624.26,
     "cost": 37.88,
-    "netPnl": -3662.14,
-    "navAfter": 122615.19,
+    "netPnl": -3662.15,
+    "navAfter": 122615.41,
     "turnover": 60.0
   },
   {
@@ -100,11 +100,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 122615.19,
+    "navBefore": 122615.41,
     "grossPnl": -686.54,
     "cost": 36.78,
     "netPnl": -723.32,
-    "navAfter": 121891.87,
+    "navAfter": 121892.09,
     "turnover": 60.0
   },
   {
@@ -112,11 +112,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 121891.87,
-    "grossPnl": 1771.99,
+    "navBefore": 121892.09,
+    "grossPnl": 1772.0,
     "cost": 36.57,
     "netPnl": 1735.43,
-    "navAfter": 123627.3,
+    "navAfter": 123627.52,
     "turnover": 60.0
   },
   {
@@ -124,11 +124,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 123627.3,
-    "grossPnl": -1880.71,
+    "navBefore": 123627.52,
+    "grossPnl": -1880.72,
     "cost": 49.45,
     "netPnl": -1930.17,
-    "navAfter": 121697.13,
+    "navAfter": 121697.35,
     "turnover": 80.0
   },
   {
@@ -136,11 +136,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 121697.13,
-    "grossPnl": -1958.61,
+    "navBefore": 121697.35,
+    "grossPnl": -1958.62,
     "cost": 36.51,
-    "netPnl": -1995.12,
-    "navAfter": 119702.01,
+    "netPnl": -1995.13,
+    "navAfter": 119702.22,
     "turnover": 60.0
   },
   {
@@ -148,11 +148,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 119702.01,
+    "navBefore": 119702.22,
     "grossPnl": 2841.94,
     "cost": 47.88,
     "netPnl": 2794.06,
-    "navAfter": 122496.07,
+    "navAfter": 122496.29,
     "turnover": 80.0
   },
   {
@@ -160,11 +160,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 122496.07,
-    "grossPnl": 1832.71,
+    "navBefore": 122496.29,
+    "grossPnl": 1832.72,
     "cost": 73.5,
     "netPnl": 1759.22,
-    "navAfter": 124255.28,
+    "navAfter": 124255.51,
     "turnover": 120.0
   },
   {
@@ -172,11 +172,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 124255.28,
+    "navBefore": 124255.51,
     "grossPnl": 1451.39,
     "cost": 62.13,
     "netPnl": 1389.26,
-    "navAfter": 125644.54,
+    "navAfter": 125644.77,
     "turnover": 100.0
   },
   {
@@ -184,11 +184,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 125644.54,
+    "navBefore": 125644.77,
     "grossPnl": 8.37,
     "cost": 75.39,
     "netPnl": -67.02,
-    "navAfter": 125577.53,
+    "navAfter": 125577.75,
     "turnover": 120.0
   },
   {
@@ -196,11 +196,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 125577.53,
+    "navBefore": 125577.75,
     "grossPnl": 1042.08,
     "cost": 37.67,
-    "netPnl": 1004.4,
-    "navAfter": 126581.93,
+    "netPnl": 1004.41,
+    "navAfter": 126582.16,
     "turnover": 60.0
   },
   {
@@ -208,11 +208,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 126581.93,
+    "navBefore": 126582.16,
     "grossPnl": 1494.96,
     "cost": 75.95,
     "netPnl": 1419.01,
-    "navAfter": 128000.94,
+    "navAfter": 128001.17,
     "turnover": 120.0
   },
   {
@@ -220,11 +220,11 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 128000.94,
-    "grossPnl": -2721.88,
+    "navBefore": 128001.17,
+    "grossPnl": -2721.89,
     "cost": 51.2,
-    "netPnl": -2773.08,
-    "navAfter": 125227.86,
+    "netPnl": -2773.09,
+    "navAfter": 125228.08,
     "turnover": 80.0
   },
   {
@@ -232,23 +232,35 @@
     "strategyId": "STR-01",
     "strategy": "WQ Alpha 001 - Short-Term Reversal",
     "sleeve": "Reversal",
-    "navBefore": 125227.86,
-    "grossPnl": 764.9,
+    "navBefore": 125228.08,
+    "grossPnl": 765.02,
     "cost": 75.14,
-    "netPnl": 689.76,
-    "navAfter": 125917.62,
+    "netPnl": 689.88,
+    "navAfter": 125917.97,
     "turnover": 120.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-01",
+    "strategy": "WQ Alpha 001 - Short-Term Reversal",
+    "sleeve": "Reversal",
+    "navBefore": 125917.97,
+    "grossPnl": 3036.01,
+    "cost": 50.37,
+    "netPnl": 2985.64,
+    "navAfter": 128903.61,
+    "turnover": 80.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 612621.68,
+    "navBefore": 612621.55,
     "grossPnl": -9225.15,
     "cost": 0.0,
     "netPnl": -9225.15,
-    "navAfter": 603396.53,
+    "navAfter": 603396.4,
     "turnover": 0.0
   },
   {
@@ -256,11 +268,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 603396.53,
-    "grossPnl": -16002.85,
+    "navBefore": 603396.4,
+    "grossPnl": -16002.84,
     "cost": 0.0,
-    "netPnl": -16002.85,
-    "navAfter": 587393.69,
+    "netPnl": -16002.84,
+    "navAfter": 587393.56,
     "turnover": 0.0
   },
   {
@@ -268,11 +280,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 587393.69,
-    "grossPnl": 33951.09,
+    "navBefore": 587393.56,
+    "grossPnl": 33951.08,
     "cost": 0.0,
-    "netPnl": 33951.09,
-    "navAfter": 621344.78,
+    "netPnl": 33951.08,
+    "navAfter": 621344.64,
     "turnover": 0.0
   },
   {
@@ -280,11 +292,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 621344.78,
+    "navBefore": 621344.64,
     "grossPnl": 12992.47,
     "cost": 62.13,
     "netPnl": 12930.34,
-    "navAfter": 634275.12,
+    "navAfter": 634274.97,
     "turnover": 20.0
   },
   {
@@ -292,11 +304,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 634275.12,
-    "grossPnl": 23638.8,
+    "navBefore": 634274.97,
+    "grossPnl": 23638.79,
     "cost": 0.0,
-    "netPnl": 23638.8,
-    "navAfter": 657913.91,
+    "netPnl": 23638.79,
+    "navAfter": 657913.76,
     "turnover": 0.0
   },
   {
@@ -304,11 +316,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 657913.91,
+    "navBefore": 657913.76,
     "grossPnl": -24171.57,
     "cost": 0.0,
     "netPnl": -24171.57,
-    "navAfter": 633742.34,
+    "navAfter": 633742.2,
     "turnover": 0.0
   },
   {
@@ -316,11 +328,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 633742.34,
+    "navBefore": 633742.2,
     "grossPnl": 3312.31,
     "cost": 0.0,
     "netPnl": 3312.31,
-    "navAfter": 637054.65,
+    "navAfter": 637054.51,
     "turnover": 0.0
   },
   {
@@ -328,11 +340,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 637054.65,
-    "grossPnl": 29795.14,
+    "navBefore": 637054.51,
+    "grossPnl": 29795.13,
     "cost": 0.0,
-    "netPnl": 29795.14,
-    "navAfter": 666849.79,
+    "netPnl": 29795.13,
+    "navAfter": 666849.64,
     "turnover": 0.0
   },
   {
@@ -340,11 +352,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 666849.79,
+    "navBefore": 666849.64,
     "grossPnl": 21018.08,
     "cost": 66.68,
     "netPnl": 20951.39,
-    "navAfter": 687801.19,
+    "navAfter": 687801.03,
     "turnover": 20.0
   },
   {
@@ -352,11 +364,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 687801.19,
-    "grossPnl": -43129.21,
+    "navBefore": 687801.03,
+    "grossPnl": -43129.2,
     "cost": 0.0,
-    "netPnl": -43129.21,
-    "navAfter": 644671.98,
+    "netPnl": -43129.2,
+    "navAfter": 644671.84,
     "turnover": 0.0
   },
   {
@@ -364,11 +376,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 644671.98,
-    "grossPnl": -3073.77,
+    "navBefore": 644671.84,
+    "grossPnl": -3073.76,
     "cost": 64.47,
     "netPnl": -3138.23,
-    "navAfter": 641533.75,
+    "navAfter": 641533.6,
     "turnover": 20.0
   },
   {
@@ -376,11 +388,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 641533.75,
-    "grossPnl": 32673.51,
+    "navBefore": 641533.6,
+    "grossPnl": 32673.5,
     "cost": 0.0,
-    "netPnl": 32673.51,
-    "navAfter": 674207.25,
+    "netPnl": 32673.5,
+    "navAfter": 674207.1,
     "turnover": 0.0
   },
   {
@@ -388,11 +400,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 674207.25,
-    "grossPnl": -31727.5,
+    "navBefore": 674207.1,
+    "grossPnl": -31727.49,
     "cost": 67.42,
-    "netPnl": -31794.92,
-    "navAfter": 642412.33,
+    "netPnl": -31794.91,
+    "navAfter": 642412.19,
     "turnover": 20.0
   },
   {
@@ -400,11 +412,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 642412.33,
-    "grossPnl": 17307.06,
+    "navBefore": 642412.19,
+    "grossPnl": 17307.05,
     "cost": 64.24,
-    "netPnl": 17242.82,
-    "navAfter": 659655.15,
+    "netPnl": 17242.81,
+    "navAfter": 659655.0,
     "turnover": 20.0
   },
   {
@@ -412,11 +424,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 659655.15,
+    "navBefore": 659655.0,
     "grossPnl": 16497.02,
     "cost": 0.0,
     "netPnl": 16497.02,
-    "navAfter": 676152.17,
+    "navAfter": 676152.02,
     "turnover": 0.0
   },
   {
@@ -424,11 +436,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 676152.17,
-    "grossPnl": -35342.4,
+    "navBefore": 676152.02,
+    "grossPnl": -35342.39,
     "cost": 67.62,
-    "netPnl": -35410.01,
-    "navAfter": 640742.16,
+    "netPnl": -35410.0,
+    "navAfter": 640742.02,
     "turnover": 20.0
   },
   {
@@ -436,11 +448,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 640742.16,
+    "navBefore": 640742.02,
     "grossPnl": -26594.62,
     "cost": 64.07,
-    "netPnl": -26658.7,
-    "navAfter": 614083.46,
+    "netPnl": -26658.69,
+    "navAfter": 614083.32,
     "turnover": 20.0
   },
   {
@@ -448,11 +460,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 614083.46,
+    "navBefore": 614083.32,
     "grossPnl": 10362.25,
     "cost": 61.41,
     "netPnl": 10300.84,
-    "navAfter": 624384.3,
+    "navAfter": 624384.16,
     "turnover": 20.0
   },
   {
@@ -460,11 +472,11 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 624384.3,
-    "grossPnl": -22937.44,
+    "navBefore": 624384.16,
+    "grossPnl": -22937.43,
     "cost": 62.44,
-    "netPnl": -22999.88,
-    "navAfter": 601384.43,
+    "netPnl": -22999.87,
+    "navAfter": 601384.29,
     "turnover": 20.0
   },
   {
@@ -472,11 +484,23 @@
     "strategyId": "STR-02",
     "strategy": "WQ Alpha 004 - Rank Momentum",
     "sleeve": "Momentum",
-    "navBefore": 601384.43,
-    "grossPnl": 5304.13,
+    "navBefore": 601384.29,
+    "grossPnl": 5304.71,
     "cost": 60.14,
-    "netPnl": 5243.99,
-    "navAfter": 606628.42,
+    "netPnl": 5244.57,
+    "navAfter": 606628.86,
+    "turnover": 20.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-02",
+    "strategy": "WQ Alpha 004 - Rank Momentum",
+    "sleeve": "Momentum",
+    "navBefore": 606628.86,
+    "grossPnl": 14803.75,
+    "cost": 60.66,
+    "netPnl": 14743.09,
+    "navAfter": 621371.95,
     "turnover": 20.0
   },
   {
@@ -484,11 +508,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 127243.21,
+    "navBefore": 127243.09,
     "grossPnl": 702.77,
     "cost": 50.9,
     "netPnl": 651.87,
-    "navAfter": 127895.09,
+    "navAfter": 127894.96,
     "turnover": 80.0
   },
   {
@@ -496,11 +520,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 127895.09,
+    "navBefore": 127894.96,
     "grossPnl": -1210.58,
     "cost": 63.95,
     "netPnl": -1274.52,
-    "navAfter": 126620.56,
+    "navAfter": 126620.44,
     "turnover": 100.0
   },
   {
@@ -508,11 +532,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 126620.56,
+    "navBefore": 126620.44,
     "grossPnl": 178.15,
     "cost": 75.97,
     "netPnl": 102.18,
-    "navAfter": 126722.74,
+    "navAfter": 126722.62,
     "turnover": 120.0
   },
   {
@@ -520,11 +544,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 126722.74,
+    "navBefore": 126722.62,
     "grossPnl": 1929.52,
     "cost": 88.71,
     "netPnl": 1840.82,
-    "navAfter": 128563.56,
+    "navAfter": 128563.43,
     "turnover": 140.0
   },
   {
@@ -532,11 +556,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 128563.56,
-    "grossPnl": 3085.43,
+    "navBefore": 128563.43,
+    "grossPnl": 3085.42,
     "cost": 64.28,
     "netPnl": 3021.14,
-    "navAfter": 131584.7,
+    "navAfter": 131584.57,
     "turnover": 100.0
   },
   {
@@ -544,11 +568,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 131584.7,
+    "navBefore": 131584.57,
     "grossPnl": -2958.01,
     "cost": 65.79,
     "netPnl": -3023.8,
-    "navAfter": 128560.9,
+    "navAfter": 128560.78,
     "turnover": 100.0
   },
   {
@@ -556,11 +580,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 128560.9,
+    "navBefore": 128560.78,
     "grossPnl": 1350.33,
     "cost": 38.57,
     "netPnl": 1311.76,
-    "navAfter": 129872.66,
+    "navAfter": 129872.54,
     "turnover": 60.0
   },
   {
@@ -568,11 +592,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 129872.66,
+    "navBefore": 129872.54,
     "grossPnl": 4927.14,
     "cost": 64.94,
-    "netPnl": 4862.21,
-    "navAfter": 134734.87,
+    "netPnl": 4862.2,
+    "navAfter": 134734.74,
     "turnover": 100.0
   },
   {
@@ -580,11 +604,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 134734.87,
+    "navBefore": 134734.74,
     "grossPnl": 3991.48,
     "cost": 40.42,
     "netPnl": 3951.06,
-    "navAfter": 138685.93,
+    "navAfter": 138685.8,
     "turnover": 60.0
   },
   {
@@ -592,11 +616,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 138685.93,
-    "grossPnl": -9033.57,
+    "navBefore": 138685.8,
+    "grossPnl": -9033.56,
     "cost": 13.87,
-    "netPnl": -9047.44,
-    "navAfter": 129638.49,
+    "netPnl": -9047.43,
+    "navAfter": 129638.36,
     "turnover": 20.0
   },
   {
@@ -604,11 +628,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 129638.49,
+    "navBefore": 129638.36,
     "grossPnl": 118.49,
     "cost": 77.78,
     "netPnl": 40.71,
-    "navAfter": 129679.2,
+    "navAfter": 129679.07,
     "turnover": 120.0
   },
   {
@@ -616,11 +640,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 129679.2,
-    "grossPnl": 6227.19,
+    "navBefore": 129679.07,
+    "grossPnl": 6227.18,
     "cost": 51.87,
-    "netPnl": 6175.32,
-    "navAfter": 135854.51,
+    "netPnl": 6175.31,
+    "navAfter": 135854.38,
     "turnover": 80.0
   },
   {
@@ -628,11 +652,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 135854.51,
-    "grossPnl": -2309.24,
+    "navBefore": 135854.38,
+    "grossPnl": -2309.23,
     "cost": 40.76,
     "netPnl": -2349.99,
-    "navAfter": 133504.52,
+    "navAfter": 133504.39,
     "turnover": 60.0
   },
   {
@@ -640,11 +664,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 133504.52,
+    "navBefore": 133504.39,
     "grossPnl": 369.3,
     "cost": 66.75,
     "netPnl": 302.55,
-    "navAfter": 133807.07,
+    "navAfter": 133806.94,
     "turnover": 100.0
   },
   {
@@ -652,11 +676,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 133807.07,
+    "navBefore": 133806.94,
     "grossPnl": -597.6,
     "cost": 53.52,
     "netPnl": -651.13,
-    "navAfter": 133155.94,
+    "navAfter": 133155.81,
     "turnover": 80.0
   },
   {
@@ -664,11 +688,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 133155.94,
+    "navBefore": 133155.81,
     "grossPnl": -5433.31,
     "cost": 79.89,
-    "netPnl": -5513.21,
-    "navAfter": 127642.73,
+    "netPnl": -5513.2,
+    "navAfter": 127642.61,
     "turnover": 120.0
   },
   {
@@ -676,11 +700,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 127642.73,
+    "navBefore": 127642.61,
     "grossPnl": -2509.32,
     "cost": 76.59,
-    "netPnl": -2585.91,
-    "navAfter": 125056.83,
+    "netPnl": -2585.9,
+    "navAfter": 125056.71,
     "turnover": 120.0
   },
   {
@@ -688,11 +712,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 125056.83,
+    "navBefore": 125056.71,
     "grossPnl": -373.09,
     "cost": 75.03,
     "netPnl": -448.12,
-    "navAfter": 124608.71,
+    "navAfter": 124608.59,
     "turnover": 120.0
   },
   {
@@ -700,11 +724,11 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 124608.71,
+    "navBefore": 124608.59,
     "grossPnl": -771.95,
     "cost": 112.15,
     "netPnl": -884.1,
-    "navAfter": 123724.61,
+    "navAfter": 123724.49,
     "turnover": 180.0
   },
   {
@@ -712,23 +736,35 @@
     "strategyId": "STR-03",
     "strategy": "WQ Alpha 006 - Volume Price Divergence",
     "sleeve": "Volume",
-    "navBefore": 123724.61,
+    "navBefore": 123724.49,
     "grossPnl": -1734.88,
     "cost": 61.86,
     "netPnl": -1796.74,
-    "navAfter": 121927.86,
+    "navAfter": 121927.74,
     "turnover": 100.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-03",
+    "strategy": "WQ Alpha 006 - Volume Price Divergence",
+    "sleeve": "Volume",
+    "navBefore": 121927.74,
+    "grossPnl": -89.34,
+    "cost": 24.39,
+    "netPnl": -113.73,
+    "navAfter": 121814.01,
+    "turnover": 40.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 37302.62,
-    "grossPnl": -494.4,
+    "navBefore": 37302.77,
+    "grossPnl": -494.41,
     "cost": 37.3,
     "netPnl": -531.71,
-    "navAfter": 36770.92,
+    "navAfter": 36771.06,
     "turnover": 200.0
   },
   {
@@ -736,11 +772,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 36770.92,
+    "navBefore": 36771.06,
     "grossPnl": -430.88,
     "cost": 36.77,
-    "netPnl": -467.65,
-    "navAfter": 36303.26,
+    "netPnl": -467.66,
+    "navAfter": 36303.4,
     "turnover": 200.0
   },
   {
@@ -748,11 +784,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 36303.26,
+    "navBefore": 36303.4,
     "grossPnl": -412.75,
     "cost": 36.3,
     "netPnl": -449.06,
-    "navAfter": 35854.21,
+    "navAfter": 35854.35,
     "turnover": 200.0
   },
   {
@@ -760,11 +796,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 35854.21,
+    "navBefore": 35854.35,
     "grossPnl": 803.79,
     "cost": 35.85,
     "netPnl": 767.94,
-    "navAfter": 36622.14,
+    "navAfter": 36622.29,
     "turnover": 200.0
   },
   {
@@ -772,11 +808,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 36622.14,
-    "grossPnl": 442.58,
+    "navBefore": 36622.29,
+    "grossPnl": 442.59,
     "cost": 21.97,
     "netPnl": 420.61,
-    "navAfter": 37042.75,
+    "navAfter": 37042.9,
     "turnover": 120.0
   },
   {
@@ -784,11 +820,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 37042.75,
+    "navBefore": 37042.9,
     "grossPnl": -595.2,
     "cost": 29.63,
     "netPnl": -624.83,
-    "navAfter": 36417.92,
+    "navAfter": 36418.06,
     "turnover": 160.0
   },
   {
@@ -796,11 +832,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 36417.92,
+    "navBefore": 36418.06,
     "grossPnl": -216.27,
     "cost": 32.78,
     "netPnl": -249.05,
-    "navAfter": 36168.87,
+    "navAfter": 36169.01,
     "turnover": 180.0
   },
   {
@@ -808,11 +844,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 36168.87,
-    "grossPnl": 584.74,
+    "navBefore": 36169.01,
+    "grossPnl": 584.75,
     "cost": 32.55,
     "netPnl": 552.19,
-    "navAfter": 36721.07,
+    "navAfter": 36721.21,
     "turnover": 180.0
   },
   {
@@ -820,11 +856,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 36721.07,
+    "navBefore": 36721.21,
     "grossPnl": 209.6,
     "cost": 25.7,
     "netPnl": 183.9,
-    "navAfter": 36904.96,
+    "navAfter": 36905.11,
     "turnover": 140.0
   },
   {
@@ -832,11 +868,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 36904.96,
+    "navBefore": 36905.11,
     "grossPnl": -1433.64,
     "cost": 25.83,
     "netPnl": -1459.47,
-    "navAfter": 35445.49,
+    "navAfter": 35445.63,
     "turnover": 140.0
   },
   {
@@ -844,11 +880,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 35445.49,
+    "navBefore": 35445.63,
     "grossPnl": -93.75,
     "cost": 35.45,
     "netPnl": -129.19,
-    "navAfter": 35316.3,
+    "navAfter": 35316.44,
     "turnover": 200.0
   },
   {
@@ -856,11 +892,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 35316.3,
+    "navBefore": 35316.44,
     "grossPnl": -91.2,
     "cost": 31.78,
     "netPnl": -122.98,
-    "navAfter": 35193.32,
+    "navAfter": 35193.46,
     "turnover": 180.0
   },
   {
@@ -868,11 +904,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 35193.32,
+    "navBefore": 35193.46,
     "grossPnl": -1215.65,
     "cost": 35.19,
-    "netPnl": -1250.84,
-    "navAfter": 33942.48,
+    "netPnl": -1250.85,
+    "navAfter": 33942.61,
     "turnover": 200.0
   },
   {
@@ -880,11 +916,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 33942.48,
+    "navBefore": 33942.61,
     "grossPnl": 243.57,
     "cost": 33.94,
     "netPnl": 209.63,
-    "navAfter": 34152.11,
+    "navAfter": 34152.24,
     "turnover": 200.0
   },
   {
@@ -892,11 +928,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 34152.11,
+    "navBefore": 34152.24,
     "grossPnl": 720.99,
     "cost": 30.74,
     "netPnl": 690.25,
-    "navAfter": 34842.36,
+    "navAfter": 34842.49,
     "turnover": 180.0
   },
   {
@@ -904,11 +940,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 34842.36,
+    "navBefore": 34842.49,
     "grossPnl": -694.28,
     "cost": 24.39,
     "netPnl": -718.67,
-    "navAfter": 34123.69,
+    "navAfter": 34123.82,
     "turnover": 140.0
   },
   {
@@ -916,11 +952,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 34123.69,
-    "grossPnl": 679.89,
+    "navBefore": 34123.82,
+    "grossPnl": 679.9,
     "cost": 27.3,
     "netPnl": 652.6,
-    "navAfter": 34776.29,
+    "navAfter": 34776.42,
     "turnover": 160.0
   },
   {
@@ -928,11 +964,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 34776.29,
+    "navBefore": 34776.42,
     "grossPnl": -194.76,
     "cost": 24.34,
     "netPnl": -219.1,
-    "navAfter": 34557.18,
+    "navAfter": 34557.32,
     "turnover": 140.0
   },
   {
@@ -940,11 +976,11 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 34557.18,
+    "navBefore": 34557.32,
     "grossPnl": -632.92,
     "cost": 34.56,
     "netPnl": -667.48,
-    "navAfter": 33889.7,
+    "navAfter": 33889.84,
     "turnover": 200.0
   },
   {
@@ -952,23 +988,35 @@
     "strategyId": "STR-04",
     "strategy": "WQ Alpha 012 - Open-Close Pressure",
     "sleeve": "Intraday",
-    "navBefore": 33889.7,
+    "navBefore": 33889.84,
     "grossPnl": -293.28,
     "cost": 33.89,
     "netPnl": -327.17,
-    "navAfter": 33562.54,
+    "navAfter": 33562.67,
     "turnover": 200.0
   },
   {
+    "date": "2026-07-09",
+    "strategyId": "STR-04",
+    "strategy": "WQ Alpha 012 - Open-Close Pressure",
+    "sleeve": "Intraday",
+    "navBefore": 33562.67,
+    "grossPnl": 543.42,
+    "cost": 26.85,
+    "netPnl": 516.57,
+    "navAfter": 34079.24,
+    "turnover": 160.0
+  },
+  {
     "date": "2026-06-09",
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 298418.09,
+    "navBefore": 298418.14,
     "grossPnl": -7062.82,
     "cost": 29.84,
     "netPnl": -7092.66,
-    "navAfter": 291325.43,
+    "navAfter": 291325.48,
     "turnover": 20.0
   },
   {
@@ -976,11 +1024,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 291325.43,
-    "grossPnl": -6960.88,
+    "navBefore": 291325.48,
+    "grossPnl": -6960.89,
     "cost": 29.13,
     "netPnl": -6990.02,
-    "navAfter": 284335.41,
+    "navAfter": 284335.46,
     "turnover": 20.0
   },
   {
@@ -988,11 +1036,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 284335.41,
+    "navBefore": 284335.46,
     "grossPnl": 16589.47,
     "cost": 28.43,
     "netPnl": 16561.04,
-    "navAfter": 300896.45,
+    "navAfter": 300896.5,
     "turnover": 20.0
   },
   {
@@ -1000,11 +1048,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 300896.45,
+    "navBefore": 300896.5,
     "grossPnl": 6291.82,
     "cost": 30.09,
     "netPnl": 6261.73,
-    "navAfter": 307158.18,
+    "navAfter": 307158.23,
     "turnover": 20.0
   },
   {
@@ -1012,11 +1060,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 307158.18,
+    "navBefore": 307158.23,
     "grossPnl": 11447.48,
     "cost": 0.0,
     "netPnl": 11447.48,
-    "navAfter": 318605.66,
+    "navAfter": 318605.71,
     "turnover": 0.0
   },
   {
@@ -1024,11 +1072,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 318605.66,
+    "navBefore": 318605.71,
     "grossPnl": -11705.48,
     "cost": 0.0,
     "netPnl": -11705.48,
-    "navAfter": 306900.18,
+    "navAfter": 306900.23,
     "turnover": 0.0
   },
   {
@@ -1036,11 +1084,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 306900.18,
+    "navBefore": 306900.23,
     "grossPnl": 1604.04,
     "cost": 0.0,
     "netPnl": 1604.04,
-    "navAfter": 308504.22,
+    "navAfter": 308504.27,
     "turnover": 0.0
   },
   {
@@ -1048,11 +1096,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 308504.22,
+    "navBefore": 308504.27,
     "grossPnl": 14371.08,
     "cost": 30.85,
     "netPnl": 14340.23,
-    "navAfter": 322844.45,
+    "navAfter": 322844.5,
     "turnover": 20.0
   },
   {
@@ -1060,11 +1108,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 322844.45,
+    "navBefore": 322844.5,
     "grossPnl": 9272.01,
     "cost": 0.0,
     "netPnl": 9272.01,
-    "navAfter": 332116.45,
+    "navAfter": 332116.51,
     "turnover": 0.0
   },
   {
@@ -1072,11 +1120,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 332116.45,
-    "grossPnl": -16949.33,
+    "navBefore": 332116.51,
+    "grossPnl": -16949.34,
     "cost": 33.21,
-    "netPnl": -16982.54,
-    "navAfter": 315133.91,
+    "netPnl": -16982.55,
+    "navAfter": 315133.96,
     "turnover": 20.0
   },
   {
@@ -1084,11 +1132,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 315133.91,
+    "navBefore": 315133.96,
     "grossPnl": 14.2,
     "cost": 31.51,
     "netPnl": -17.31,
-    "navAfter": 315116.6,
+    "navAfter": 315116.65,
     "turnover": 20.0
   },
   {
@@ -1096,11 +1144,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 315116.6,
+    "navBefore": 315116.65,
     "grossPnl": 15155.09,
     "cost": 0.0,
     "netPnl": 15155.09,
-    "navAfter": 330271.69,
+    "navAfter": 330271.74,
     "turnover": 0.0
   },
   {
@@ -1108,11 +1156,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 330271.69,
+    "navBefore": 330271.74,
     "grossPnl": -9825.35,
     "cost": 0.0,
     "netPnl": -9825.35,
-    "navAfter": 320446.34,
+    "navAfter": 320446.39,
     "turnover": 0.0
   },
   {
@@ -1120,11 +1168,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 320446.34,
-    "grossPnl": 10454.11,
+    "navBefore": 320446.39,
+    "grossPnl": 10454.12,
     "cost": 32.04,
     "netPnl": 10422.07,
-    "navAfter": 330868.41,
+    "navAfter": 330868.46,
     "turnover": 20.0
   },
   {
@@ -1132,11 +1180,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 330868.41,
-    "grossPnl": 6668.51,
+    "navBefore": 330868.46,
+    "grossPnl": 6668.52,
     "cost": 0.0,
-    "netPnl": 6668.51,
-    "navAfter": 337536.92,
+    "netPnl": 6668.52,
+    "navAfter": 337536.98,
     "turnover": 0.0
   },
   {
@@ -1144,11 +1192,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 337536.92,
+    "navBefore": 337536.98,
     "grossPnl": -15455.1,
     "cost": 0.0,
     "netPnl": -15455.1,
-    "navAfter": 322081.82,
+    "navAfter": 322081.88,
     "turnover": 0.0
   },
   {
@@ -1156,11 +1204,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 322081.82,
+    "navBefore": 322081.88,
     "grossPnl": -10511.35,
     "cost": 32.21,
     "netPnl": -10543.56,
-    "navAfter": 311538.26,
+    "navAfter": 311538.31,
     "turnover": 20.0
   },
   {
@@ -1168,11 +1216,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 311538.26,
+    "navBefore": 311538.31,
     "grossPnl": 498.03,
     "cost": 62.31,
     "netPnl": 435.73,
-    "navAfter": 311973.99,
+    "navAfter": 311974.04,
     "turnover": 40.0
   },
   {
@@ -1180,11 +1228,11 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 311973.99,
+    "navBefore": 311974.04,
     "grossPnl": -3841.41,
     "cost": 62.39,
     "netPnl": -3903.81,
-    "navAfter": 308070.18,
+    "navAfter": 308070.23,
     "turnover": 40.0
   },
   {
@@ -1192,11 +1240,23 @@
     "strategyId": "STR-05",
     "strategy": "WQ Alpha 021 - Trend Stability",
     "sleeve": "Trend",
-    "navBefore": 308070.18,
-    "grossPnl": -1703.91,
+    "navBefore": 308070.23,
+    "grossPnl": -1703.61,
     "cost": 30.81,
-    "netPnl": -1734.71,
-    "navAfter": 306335.47,
+    "netPnl": -1734.42,
+    "navAfter": 306335.81,
+    "turnover": 20.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-05",
+    "strategy": "WQ Alpha 021 - Trend Stability",
+    "sleeve": "Trend",
+    "navBefore": 306335.81,
+    "grossPnl": 2272.03,
+    "cost": 30.63,
+    "netPnl": 2241.4,
+    "navAfter": 308577.21,
     "turnover": 20.0
   },
   {
@@ -1204,11 +1264,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 457996.74,
-    "grossPnl": -11684.74,
+    "navBefore": 457996.58,
+    "grossPnl": -11684.73,
     "cost": 45.8,
-    "netPnl": -11730.54,
-    "navAfter": 446266.2,
+    "netPnl": -11730.53,
+    "navAfter": 446266.05,
     "turnover": 20.0
   },
   {
@@ -1216,11 +1276,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 446266.2,
+    "navBefore": 446266.05,
     "grossPnl": -13519.69,
     "cost": 44.63,
-    "netPnl": -13564.32,
-    "navAfter": 432701.88,
+    "netPnl": -13564.31,
+    "navAfter": 432701.73,
     "turnover": 20.0
   },
   {
@@ -1228,11 +1288,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 432701.88,
-    "grossPnl": 26779.18,
+    "navBefore": 432701.73,
+    "grossPnl": 26779.17,
     "cost": 0.0,
-    "netPnl": 26779.18,
-    "navAfter": 459481.07,
+    "netPnl": 26779.17,
+    "navAfter": 459480.91,
     "turnover": 0.0
   },
   {
@@ -1240,11 +1300,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 459481.07,
+    "navBefore": 459480.91,
     "grossPnl": 8938.57,
     "cost": 45.95,
     "netPnl": 8892.62,
-    "navAfter": 468373.69,
+    "navAfter": 468373.53,
     "turnover": 20.0
   },
   {
@@ -1252,11 +1312,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 468373.69,
-    "grossPnl": 16165.02,
+    "navBefore": 468373.53,
+    "grossPnl": 16165.01,
     "cost": 93.67,
-    "netPnl": 16071.35,
-    "navAfter": 484445.03,
+    "netPnl": 16071.34,
+    "navAfter": 484444.87,
     "turnover": 40.0
   },
   {
@@ -1264,11 +1324,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 484445.03,
-    "grossPnl": -17774.27,
+    "navBefore": 484444.87,
+    "grossPnl": -17774.26,
     "cost": 48.44,
     "netPnl": -17822.71,
-    "navAfter": 466622.32,
+    "navAfter": 466622.16,
     "turnover": 20.0
   },
   {
@@ -1276,11 +1336,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 466622.32,
+    "navBefore": 466622.16,
     "grossPnl": -1366.41,
     "cost": 0.0,
     "netPnl": -1366.41,
-    "navAfter": 465255.91,
+    "navAfter": 465255.75,
     "turnover": 0.0
   },
   {
@@ -1288,11 +1348,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 465255.91,
-    "grossPnl": 19697.99,
+    "navBefore": 465255.75,
+    "grossPnl": 19697.98,
     "cost": 46.53,
-    "netPnl": 19651.46,
-    "navAfter": 484907.37,
+    "netPnl": 19651.45,
+    "navAfter": 484907.2,
     "turnover": 20.0
   },
   {
@@ -1300,11 +1360,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 484907.37,
+    "navBefore": 484907.2,
     "grossPnl": 14423.02,
     "cost": 96.98,
     "netPnl": 14326.04,
-    "navAfter": 499233.41,
+    "navAfter": 499233.24,
     "turnover": 40.0
   },
   {
@@ -1312,11 +1372,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 499233.41,
-    "grossPnl": -29314.13,
+    "navBefore": 499233.24,
+    "grossPnl": -29314.12,
     "cost": 49.92,
-    "netPnl": -29364.06,
-    "navAfter": 469869.35,
+    "netPnl": -29364.05,
+    "navAfter": 469869.19,
     "turnover": 20.0
   },
   {
@@ -1324,11 +1384,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 469869.35,
+    "navBefore": 469869.19,
     "grossPnl": -2240.31,
     "cost": 0.0,
     "netPnl": -2240.31,
-    "navAfter": 467629.04,
+    "navAfter": 467628.88,
     "turnover": 0.0
   },
   {
@@ -1336,11 +1396,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 467629.04,
-    "grossPnl": 23816.49,
+    "navBefore": 467628.88,
+    "grossPnl": 23816.48,
     "cost": 0.0,
-    "netPnl": 23816.49,
-    "navAfter": 491445.53,
+    "netPnl": 23816.48,
+    "navAfter": 491445.36,
     "turnover": 0.0
   },
   {
@@ -1348,11 +1408,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 491445.53,
-    "grossPnl": -22283.06,
+    "navBefore": 491445.36,
+    "grossPnl": -22283.05,
     "cost": 49.14,
-    "netPnl": -22332.2,
-    "navAfter": 469113.32,
+    "netPnl": -22332.19,
+    "navAfter": 469113.16,
     "turnover": 20.0
   },
   {
@@ -1360,11 +1420,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 469113.32,
+    "navBefore": 469113.16,
     "grossPnl": 14121.79,
     "cost": 0.0,
     "netPnl": 14121.79,
-    "navAfter": 483235.11,
+    "navAfter": 483234.95,
     "turnover": 0.0
   },
   {
@@ -1372,11 +1432,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 483235.11,
-    "grossPnl": 11921.89,
+    "navBefore": 483234.95,
+    "grossPnl": 11921.88,
     "cost": 48.32,
     "netPnl": 11873.56,
-    "navAfter": 495108.68,
+    "navAfter": 495108.51,
     "turnover": 20.0
   },
   {
@@ -1384,11 +1444,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 495108.68,
-    "grossPnl": -23324.82,
+    "navBefore": 495108.51,
+    "grossPnl": -23324.81,
     "cost": 49.51,
-    "netPnl": -23374.33,
-    "navAfter": 471734.35,
+    "netPnl": -23374.32,
+    "navAfter": 471734.19,
     "turnover": 20.0
   },
   {
@@ -1396,11 +1456,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 471734.35,
-    "grossPnl": -17404.53,
+    "navBefore": 471734.19,
+    "grossPnl": -17404.52,
     "cost": 0.0,
-    "netPnl": -17404.53,
-    "navAfter": 454329.82,
+    "netPnl": -17404.52,
+    "navAfter": 454329.66,
     "turnover": 0.0
   },
   {
@@ -1408,11 +1468,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 454329.82,
+    "navBefore": 454329.66,
     "grossPnl": 5174.67,
     "cost": 45.43,
     "netPnl": 5129.24,
-    "navAfter": 459459.06,
+    "navAfter": 459458.9,
     "turnover": 20.0
   },
   {
@@ -1420,11 +1480,11 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 459459.06,
-    "grossPnl": -18940.56,
+    "navBefore": 459458.9,
+    "grossPnl": -18940.55,
     "cost": 45.95,
-    "netPnl": -18986.51,
-    "navAfter": 440472.56,
+    "netPnl": -18986.5,
+    "navAfter": 440472.4,
     "turnover": 20.0
   },
   {
@@ -1432,23 +1492,35 @@
     "strategyId": "STR-06",
     "strategy": "WQ Alpha 024 - Delayed Momentum",
     "sleeve": "Momentum",
-    "navBefore": 440472.56,
-    "grossPnl": 1013.13,
+    "navBefore": 440472.4,
+    "grossPnl": 1013.56,
     "cost": 88.09,
-    "netPnl": 925.04,
-    "navAfter": 441397.59,
+    "netPnl": 925.46,
+    "navAfter": 441397.87,
     "turnover": 40.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-06",
+    "strategy": "WQ Alpha 024 - Delayed Momentum",
+    "sleeve": "Momentum",
+    "navBefore": 441397.87,
+    "grossPnl": 9939.15,
+    "cost": 0.0,
+    "netPnl": 9939.15,
+    "navAfter": 451337.02,
+    "turnover": 0.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 147070.61,
+    "navBefore": 147070.82,
     "grossPnl": 534.66,
     "cost": 14.71,
     "netPnl": 519.95,
-    "navAfter": 147590.56,
+    "navAfter": 147590.77,
     "turnover": 20.0
   },
   {
@@ -1456,11 +1528,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 147590.56,
+    "navBefore": 147590.77,
     "grossPnl": -1367.34,
     "cost": 29.52,
     "netPnl": -1396.86,
-    "navAfter": 146193.7,
+    "navAfter": 146193.91,
     "turnover": 40.0
   },
   {
@@ -1468,11 +1540,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 146193.7,
+    "navBefore": 146193.91,
     "grossPnl": 744.16,
     "cost": 29.24,
     "netPnl": 714.92,
-    "navAfter": 146908.62,
+    "navAfter": 146908.83,
     "turnover": 40.0
   },
   {
@@ -1480,11 +1552,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 146908.62,
+    "navBefore": 146908.83,
     "grossPnl": 1963.95,
     "cost": 14.69,
     "netPnl": 1949.26,
-    "navAfter": 148857.87,
+    "navAfter": 148858.09,
     "turnover": 20.0
   },
   {
@@ -1492,11 +1564,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 148857.87,
+    "navBefore": 148858.09,
     "grossPnl": 625.95,
     "cost": 14.89,
     "netPnl": 611.06,
-    "navAfter": 149468.94,
+    "navAfter": 149469.15,
     "turnover": 20.0
   },
   {
@@ -1504,11 +1576,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 149468.94,
+    "navBefore": 149469.15,
     "grossPnl": 468.06,
     "cost": 29.89,
     "netPnl": 438.16,
-    "navAfter": 149907.1,
+    "navAfter": 149907.31,
     "turnover": 40.0
   },
   {
@@ -1516,11 +1588,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 149907.1,
+    "navBefore": 149907.31,
     "grossPnl": -1596.01,
     "cost": 14.99,
     "netPnl": -1611.0,
-    "navAfter": 148296.1,
+    "navAfter": 148296.31,
     "turnover": 20.0
   },
   {
@@ -1528,11 +1600,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 148296.1,
+    "navBefore": 148296.31,
     "grossPnl": -790.22,
     "cost": 44.49,
     "netPnl": -834.71,
-    "navAfter": 147461.39,
+    "navAfter": 147461.6,
     "turnover": 60.0
   },
   {
@@ -1540,11 +1612,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 147461.39,
+    "navBefore": 147461.6,
     "grossPnl": -225.71,
     "cost": 58.98,
-    "netPnl": -284.69,
-    "navAfter": 147176.7,
+    "netPnl": -284.7,
+    "navAfter": 147176.91,
     "turnover": 80.0
   },
   {
@@ -1552,11 +1624,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 147176.7,
+    "navBefore": 147176.91,
     "grossPnl": 830.69,
     "cost": 29.44,
     "netPnl": 801.26,
-    "navAfter": 147977.95,
+    "navAfter": 147978.16,
     "turnover": 40.0
   },
   {
@@ -1564,11 +1636,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 147977.95,
+    "navBefore": 147978.16,
     "grossPnl": -2191.95,
     "cost": 14.8,
     "netPnl": -2206.75,
-    "navAfter": 145771.2,
+    "navAfter": 145771.41,
     "turnover": 20.0
   },
   {
@@ -1576,11 +1648,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 145771.2,
+    "navBefore": 145771.41,
     "grossPnl": -928.79,
     "cost": 14.58,
     "netPnl": -943.37,
-    "navAfter": 144827.83,
+    "navAfter": 144828.04,
     "turnover": 20.0
   },
   {
@@ -1588,11 +1660,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 144827.83,
+    "navBefore": 144828.04,
     "grossPnl": 1164.56,
     "cost": 28.97,
     "netPnl": 1135.59,
-    "navAfter": 145963.43,
+    "navAfter": 145963.64,
     "turnover": 40.0
   },
   {
@@ -1600,11 +1672,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 145963.43,
+    "navBefore": 145963.64,
     "grossPnl": 797.19,
     "cost": 58.39,
     "netPnl": 738.81,
-    "navAfter": 146702.23,
+    "navAfter": 146702.44,
     "turnover": 80.0
   },
   {
@@ -1612,11 +1684,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 146702.23,
+    "navBefore": 146702.44,
     "grossPnl": -176.52,
     "cost": 29.34,
     "netPnl": -205.87,
-    "navAfter": 146496.37,
+    "navAfter": 146496.58,
     "turnover": 40.0
   },
   {
@@ -1624,11 +1696,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 146496.37,
+    "navBefore": 146496.58,
     "grossPnl": 179.86,
     "cost": 43.95,
     "netPnl": 135.91,
-    "navAfter": 146632.27,
+    "navAfter": 146632.48,
     "turnover": 60.0
   },
   {
@@ -1636,11 +1708,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 146632.27,
-    "grossPnl": 2184.13,
+    "navBefore": 146632.48,
+    "grossPnl": 2184.14,
     "cost": 58.65,
     "netPnl": 2125.48,
-    "navAfter": 148757.75,
+    "navAfter": 148757.97,
     "turnover": 80.0
   },
   {
@@ -1648,11 +1720,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 148757.75,
+    "navBefore": 148757.97,
     "grossPnl": 2109.23,
     "cost": 44.63,
-    "netPnl": 2064.6,
-    "navAfter": 150822.36,
+    "netPnl": 2064.61,
+    "navAfter": 150822.58,
     "turnover": 60.0
   },
   {
@@ -1660,11 +1732,11 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 150822.36,
+    "navBefore": 150822.58,
     "grossPnl": 735.97,
     "cost": 0.0,
     "netPnl": 735.97,
-    "navAfter": 151558.33,
+    "navAfter": 151558.54,
     "turnover": 0.0
   },
   {
@@ -1672,12 +1744,24 @@
     "strategyId": "STR-07",
     "strategy": "WQ Alpha 028 - Correlation Reversal",
     "sleeve": "Correlation",
-    "navBefore": 151558.33,
+    "navBefore": 151558.54,
     "grossPnl": -1522.75,
     "cost": 60.62,
     "netPnl": -1583.38,
-    "navAfter": 149974.95,
+    "navAfter": 149975.17,
     "turnover": 80.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-07",
+    "strategy": "WQ Alpha 028 - Correlation Reversal",
+    "sleeve": "Correlation",
+    "navBefore": 149975.17,
+    "grossPnl": 606.13,
+    "cost": 15.0,
+    "netPnl": 591.13,
+    "navAfter": 150566.3,
+    "turnover": 20.0
   },
   {
     "date": "2026-06-09",
@@ -1688,7 +1772,7 @@
     "grossPnl": 415.51,
     "cost": 102.24,
     "netPnl": 313.28,
-    "navAfter": 255901.78,
+    "navAfter": 255901.77,
     "turnover": 80.0
   },
   {
@@ -1696,7 +1780,7 @@
     "strategyId": "STR-08",
     "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
     "sleeve": "Reversion",
-    "navBefore": 255901.78,
+    "navBefore": 255901.77,
     "grossPnl": -6831.19,
     "cost": 127.95,
     "netPnl": -6959.15,
@@ -1772,7 +1856,7 @@
     "grossPnl": -4809.08,
     "cost": 50.58,
     "netPnl": -4859.66,
-    "navAfter": 248024.05,
+    "navAfter": 248024.04,
     "turnover": 40.0
   },
   {
@@ -1780,7 +1864,7 @@
     "strategyId": "STR-08",
     "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
     "sleeve": "Reversion",
-    "navBefore": 248024.05,
+    "navBefore": 248024.04,
     "grossPnl": -4040.76,
     "cost": 49.6,
     "netPnl": -4090.36,
@@ -1856,7 +1940,7 @@
     "grossPnl": -1849.42,
     "cost": 99.35,
     "netPnl": -1948.77,
-    "navAfter": 246433.26,
+    "navAfter": 246433.25,
     "turnover": 80.0
   },
   {
@@ -1864,7 +1948,7 @@
     "strategyId": "STR-08",
     "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
     "sleeve": "Reversion",
-    "navBefore": 246433.26,
+    "navBefore": 246433.25,
     "grossPnl": 3822.93,
     "cost": 98.57,
     "netPnl": 3724.35,
@@ -1920,15 +2004,27 @@
     "turnover": 60.0
   },
   {
+    "date": "2026-07-09",
+    "strategyId": "STR-08",
+    "strategy": "WQ Alpha 032 - VWAP Mean Reversion",
+    "sleeve": "Reversion",
+    "navBefore": 256726.67,
+    "grossPnl": 5834.06,
+    "cost": 51.35,
+    "netPnl": 5782.71,
+    "navAfter": 262509.38,
+    "turnover": 40.0
+  },
+  {
     "date": "2026-06-09",
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 30077.73,
+    "navBefore": 30077.69,
     "grossPnl": 1.65,
     "cost": 24.06,
     "netPnl": -22.42,
-    "navAfter": 30055.32,
+    "navAfter": 30055.28,
     "turnover": 160.0
   },
   {
@@ -1936,11 +2032,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 30055.32,
-    "grossPnl": -168.06,
+    "navBefore": 30055.28,
+    "grossPnl": -168.05,
     "cost": 27.05,
     "netPnl": -195.1,
-    "navAfter": 29860.21,
+    "navAfter": 29860.17,
     "turnover": 180.0
   },
   {
@@ -1948,11 +2044,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29860.21,
+    "navBefore": 29860.17,
     "grossPnl": 146.33,
     "cost": 29.86,
     "netPnl": 116.47,
-    "navAfter": 29976.68,
+    "navAfter": 29976.64,
     "turnover": 200.0
   },
   {
@@ -1960,11 +2056,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29976.68,
+    "navBefore": 29976.64,
     "grossPnl": 281.82,
     "cost": 20.98,
     "netPnl": 260.84,
-    "navAfter": 30237.52,
+    "navAfter": 30237.48,
     "turnover": 140.0
   },
   {
@@ -1972,11 +2068,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 30237.52,
+    "navBefore": 30237.48,
     "grossPnl": 413.55,
     "cost": 27.21,
     "netPnl": 386.34,
-    "navAfter": 30623.86,
+    "navAfter": 30623.82,
     "turnover": 180.0
   },
   {
@@ -1984,11 +2080,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 30623.86,
+    "navBefore": 30623.82,
     "grossPnl": -136.69,
     "cost": 24.5,
     "netPnl": -161.19,
-    "navAfter": 30462.67,
+    "navAfter": 30462.63,
     "turnover": 160.0
   },
   {
@@ -1996,11 +2092,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 30462.67,
+    "navBefore": 30462.63,
     "grossPnl": -538.96,
     "cost": 21.32,
     "netPnl": -560.28,
-    "navAfter": 29902.39,
+    "navAfter": 29902.35,
     "turnover": 140.0
   },
   {
@@ -2008,11 +2104,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29902.39,
+    "navBefore": 29902.35,
     "grossPnl": -119.85,
     "cost": 26.91,
     "netPnl": -146.76,
-    "navAfter": 29755.62,
+    "navAfter": 29755.59,
     "turnover": 180.0
   },
   {
@@ -2020,11 +2116,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29755.62,
+    "navBefore": 29755.59,
     "grossPnl": 201.46,
     "cost": 26.78,
     "netPnl": 174.68,
-    "navAfter": 29930.3,
+    "navAfter": 29930.26,
     "turnover": 180.0
   },
   {
@@ -2032,11 +2128,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29930.3,
+    "navBefore": 29930.26,
     "grossPnl": -798.89,
     "cost": 26.94,
     "netPnl": -825.83,
-    "navAfter": 29104.47,
+    "navAfter": 29104.43,
     "turnover": 180.0
   },
   {
@@ -2044,11 +2140,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29104.47,
+    "navBefore": 29104.43,
     "grossPnl": -89.13,
     "cost": 26.19,
     "netPnl": -115.33,
-    "navAfter": 28989.15,
+    "navAfter": 28989.11,
     "turnover": 180.0
   },
   {
@@ -2056,11 +2152,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 28989.15,
+    "navBefore": 28989.11,
     "grossPnl": -124.94,
     "cost": 23.19,
     "netPnl": -148.13,
-    "navAfter": 28841.01,
+    "navAfter": 28840.98,
     "turnover": 160.0
   },
   {
@@ -2068,11 +2164,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 28841.01,
+    "navBefore": 28840.98,
     "grossPnl": 469.23,
     "cost": 25.96,
     "netPnl": 443.27,
-    "navAfter": 29284.28,
+    "navAfter": 29284.25,
     "turnover": 180.0
   },
   {
@@ -2080,11 +2176,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29284.28,
+    "navBefore": 29284.25,
     "grossPnl": -136.46,
     "cost": 26.36,
     "netPnl": -162.82,
-    "navAfter": 29121.46,
+    "navAfter": 29121.43,
     "turnover": 180.0
   },
   {
@@ -2092,11 +2188,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29121.46,
+    "navBefore": 29121.43,
     "grossPnl": -91.32,
     "cost": 17.47,
     "netPnl": -108.79,
-    "navAfter": 29012.67,
+    "navAfter": 29012.63,
     "turnover": 120.0
   },
   {
@@ -2104,11 +2200,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29012.67,
+    "navBefore": 29012.63,
     "grossPnl": 157.99,
     "cost": 26.11,
     "netPnl": 131.87,
-    "navAfter": 29144.54,
+    "navAfter": 29144.51,
     "turnover": 180.0
   },
   {
@@ -2116,11 +2212,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29144.54,
+    "navBefore": 29144.51,
     "grossPnl": 151.86,
     "cost": 26.23,
     "netPnl": 125.63,
-    "navAfter": 29270.17,
+    "navAfter": 29270.13,
     "turnover": 180.0
   },
   {
@@ -2128,11 +2224,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29270.17,
+    "navBefore": 29270.13,
     "grossPnl": -118.56,
     "cost": 29.27,
-    "netPnl": -147.84,
-    "navAfter": 29122.34,
+    "netPnl": -147.83,
+    "navAfter": 29122.3,
     "turnover": 200.0
   },
   {
@@ -2140,11 +2236,11 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29122.34,
+    "navBefore": 29122.3,
     "grossPnl": 58.14,
     "cost": 20.39,
     "netPnl": 37.75,
-    "navAfter": 29160.09,
+    "navAfter": 29160.05,
     "turnover": 140.0
   },
   {
@@ -2152,11 +2248,23 @@
     "strategyId": "STR-09",
     "strategy": "WQ Alpha 041 - High-Low Range",
     "sleeve": "Volatility",
-    "navBefore": 29160.09,
+    "navBefore": 29160.05,
     "grossPnl": -358.78,
     "cost": 26.24,
     "netPnl": -385.02,
-    "navAfter": 28775.07,
+    "navAfter": 28775.03,
+    "turnover": 180.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-09",
+    "strategy": "WQ Alpha 041 - High-Low Range",
+    "sleeve": "Volatility",
+    "navBefore": 28775.03,
+    "grossPnl": 326.2,
+    "cost": 25.9,
+    "netPnl": 300.3,
+    "navAfter": 29075.33,
     "turnover": 180.0
   },
   {
@@ -2164,11 +2272,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 87170.37,
+    "navBefore": 87170.27,
     "grossPnl": -502.1,
     "cost": 34.87,
     "netPnl": -536.97,
-    "navAfter": 86633.4,
+    "navAfter": 86633.3,
     "turnover": 80.0
   },
   {
@@ -2176,11 +2284,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 86633.4,
-    "grossPnl": -1670.28,
+    "navBefore": 86633.3,
+    "grossPnl": -1670.27,
     "cost": 43.32,
     "netPnl": -1713.59,
-    "navAfter": 84919.81,
+    "navAfter": 84919.71,
     "turnover": 100.0
   },
   {
@@ -2188,11 +2296,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 84919.81,
+    "navBefore": 84919.71,
     "grossPnl": 1674.84,
     "cost": 42.46,
     "netPnl": 1632.38,
-    "navAfter": 86552.18,
+    "navAfter": 86552.09,
     "turnover": 100.0
   },
   {
@@ -2200,11 +2308,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 86552.18,
+    "navBefore": 86552.09,
     "grossPnl": -415.8,
     "cost": 34.62,
     "netPnl": -450.42,
-    "navAfter": 86101.76,
+    "navAfter": 86101.67,
     "turnover": 80.0
   },
   {
@@ -2212,11 +2320,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 86101.76,
+    "navBefore": 86101.67,
     "grossPnl": 1414.63,
     "cost": 43.05,
     "netPnl": 1371.58,
-    "navAfter": 87473.35,
+    "navAfter": 87473.25,
     "turnover": 100.0
   },
   {
@@ -2224,11 +2332,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 87473.35,
+    "navBefore": 87473.25,
     "grossPnl": -243.0,
     "cost": 34.99,
     "netPnl": -277.99,
-    "navAfter": 87195.36,
+    "navAfter": 87195.26,
     "turnover": 80.0
   },
   {
@@ -2236,11 +2344,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 87195.36,
+    "navBefore": 87195.26,
     "grossPnl": -1010.96,
     "cost": 34.88,
     "netPnl": -1045.83,
-    "navAfter": 86149.53,
+    "navAfter": 86149.43,
     "turnover": 80.0
   },
   {
@@ -2248,11 +2356,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 86149.53,
+    "navBefore": 86149.43,
     "grossPnl": 1384.83,
     "cost": 34.46,
     "netPnl": 1350.37,
-    "navAfter": 87499.9,
+    "navAfter": 87499.8,
     "turnover": 80.0
   },
   {
@@ -2260,11 +2368,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 87499.9,
+    "navBefore": 87499.8,
     "grossPnl": -362.2,
     "cost": 61.25,
     "netPnl": -423.45,
-    "navAfter": 87076.45,
+    "navAfter": 87076.35,
     "turnover": 140.0
   },
   {
@@ -2272,11 +2380,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 87076.45,
+    "navBefore": 87076.35,
     "grossPnl": 258.91,
     "cost": 43.54,
     "netPnl": 215.37,
-    "navAfter": 87291.82,
+    "navAfter": 87291.72,
     "turnover": 100.0
   },
   {
@@ -2284,11 +2392,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 87291.82,
+    "navBefore": 87291.72,
     "grossPnl": -576.5,
     "cost": 52.38,
     "netPnl": -628.87,
-    "navAfter": 86662.94,
+    "navAfter": 86662.85,
     "turnover": 120.0
   },
   {
@@ -2296,11 +2404,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 86662.94,
+    "navBefore": 86662.85,
     "grossPnl": -919.34,
     "cost": 43.33,
     "netPnl": -962.67,
-    "navAfter": 85700.27,
+    "navAfter": 85700.17,
     "turnover": 100.0
   },
   {
@@ -2308,11 +2416,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 85700.27,
+    "navBefore": 85700.17,
     "grossPnl": 1900.15,
     "cost": 25.71,
     "netPnl": 1874.44,
-    "navAfter": 87574.71,
+    "navAfter": 87574.61,
     "turnover": 60.0
   },
   {
@@ -2320,11 +2428,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 87574.71,
+    "navBefore": 87574.61,
     "grossPnl": 1238.43,
     "cost": 35.03,
     "netPnl": 1203.4,
-    "navAfter": 88778.1,
+    "navAfter": 88778.01,
     "turnover": 80.0
   },
   {
@@ -2332,11 +2440,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 88778.1,
+    "navBefore": 88778.01,
     "grossPnl": -284.77,
     "cost": 35.51,
     "netPnl": -320.28,
-    "navAfter": 88457.82,
+    "navAfter": 88457.72,
     "turnover": 80.0
   },
   {
@@ -2344,11 +2452,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 88457.82,
+    "navBefore": 88457.72,
     "grossPnl": 628.92,
     "cost": 44.23,
     "netPnl": 584.69,
-    "navAfter": 89042.52,
+    "navAfter": 89042.42,
     "turnover": 100.0
   },
   {
@@ -2356,11 +2464,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 89042.52,
+    "navBefore": 89042.42,
     "grossPnl": 633.04,
     "cost": 35.62,
-    "netPnl": 597.43,
-    "navAfter": 89639.94,
+    "netPnl": 597.42,
+    "navAfter": 89639.84,
     "turnover": 80.0
   },
   {
@@ -2368,11 +2476,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 89639.94,
+    "navBefore": 89639.84,
     "grossPnl": 811.58,
     "cost": 35.86,
     "netPnl": 775.72,
-    "navAfter": 90415.66,
+    "navAfter": 90415.56,
     "turnover": 80.0
   },
   {
@@ -2380,11 +2488,11 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 90415.66,
+    "navBefore": 90415.56,
     "grossPnl": 400.32,
     "cost": 45.21,
     "netPnl": 355.11,
-    "navAfter": 90770.77,
+    "navAfter": 90770.67,
     "turnover": 100.0
   },
   {
@@ -2392,12 +2500,24 @@
     "strategyId": "STR-10",
     "strategy": "WQ Alpha 043 - Volume Acceleration",
     "sleeve": "Volume",
-    "navBefore": 90770.77,
+    "navBefore": 90770.67,
     "grossPnl": -196.07,
     "cost": 36.31,
     "netPnl": -232.38,
-    "navAfter": 90538.39,
+    "navAfter": 90538.29,
     "turnover": 80.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-10",
+    "strategy": "WQ Alpha 043 - Volume Acceleration",
+    "sleeve": "Volume",
+    "navBefore": 90538.29,
+    "grossPnl": 567.72,
+    "cost": 27.16,
+    "netPnl": 540.56,
+    "navAfter": 91078.85,
+    "turnover": 60.0
   },
   {
     "date": "2026-06-09",
@@ -2588,7 +2708,7 @@
     "grossPnl": -17508.17,
     "cost": 60.92,
     "netPnl": -17569.08,
-    "navAfter": 287007.08,
+    "navAfter": 287007.07,
     "turnover": 40.0
   },
   {
@@ -2596,7 +2716,7 @@
     "strategyId": "STR-11",
     "strategy": "WQ Alpha 051 - Decay Momentum",
     "sleeve": "Momentum",
-    "navBefore": 287007.08,
+    "navBefore": 287007.07,
     "grossPnl": -1529.63,
     "cost": 143.5,
     "netPnl": -1673.13,
@@ -2636,19 +2756,31 @@
     "grossPnl": -4196.25,
     "cost": 140.02,
     "netPnl": -4336.28,
-    "navAfter": 275713.17,
+    "navAfter": 275713.16,
     "turnover": 100.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-11",
+    "strategy": "WQ Alpha 051 - Decay Momentum",
+    "sleeve": "Momentum",
+    "navBefore": 275713.16,
+    "grossPnl": -1613.2,
+    "cost": 55.14,
+    "netPnl": -1668.34,
+    "navAfter": 274044.83,
+    "turnover": 40.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 107139.83,
+    "navBefore": 107139.76,
     "grossPnl": -2511.14,
     "cost": 75.0,
     "netPnl": -2586.14,
-    "navAfter": 104553.69,
+    "navAfter": 104553.62,
     "turnover": 140.0
   },
   {
@@ -2656,11 +2788,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 104553.69,
+    "navBefore": 104553.62,
     "grossPnl": -2835.73,
     "cost": 41.82,
-    "netPnl": -2877.56,
-    "navAfter": 101676.14,
+    "netPnl": -2877.55,
+    "navAfter": 101676.07,
     "turnover": 80.0
   },
   {
@@ -2668,11 +2800,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 101676.14,
+    "navBefore": 101676.07,
     "grossPnl": 4199.54,
     "cost": 50.84,
-    "netPnl": 4148.71,
-    "navAfter": 105824.84,
+    "netPnl": 4148.7,
+    "navAfter": 105824.77,
     "turnover": 100.0
   },
   {
@@ -2680,11 +2812,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 105824.84,
+    "navBefore": 105824.77,
     "grossPnl": -111.27,
     "cost": 52.91,
     "netPnl": -164.18,
-    "navAfter": 105660.66,
+    "navAfter": 105660.59,
     "turnover": 100.0
   },
   {
@@ -2692,11 +2824,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 105660.66,
-    "grossPnl": 1939.73,
+    "navBefore": 105660.59,
+    "grossPnl": 1939.72,
     "cost": 42.26,
     "netPnl": 1897.46,
-    "navAfter": 107558.12,
+    "navAfter": 107558.05,
     "turnover": 80.0
   },
   {
@@ -2704,11 +2836,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 107558.12,
+    "navBefore": 107558.05,
     "grossPnl": -695.25,
     "cost": 43.02,
     "netPnl": -738.28,
-    "navAfter": 106819.84,
+    "navAfter": 106819.77,
     "turnover": 80.0
   },
   {
@@ -2716,11 +2848,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 106819.84,
-    "grossPnl": -2201.01,
+    "navBefore": 106819.77,
+    "grossPnl": -2201.0,
     "cost": 21.36,
     "netPnl": -2222.37,
-    "navAfter": 104597.47,
+    "navAfter": 104597.4,
     "turnover": 40.0
   },
   {
@@ -2728,11 +2860,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 104597.47,
+    "navBefore": 104597.4,
     "grossPnl": -3172.52,
     "cost": 41.84,
     "netPnl": -3214.36,
-    "navAfter": 101383.11,
+    "navAfter": 101383.04,
     "turnover": 80.0
   },
   {
@@ -2740,11 +2872,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 101383.11,
+    "navBefore": 101383.04,
     "grossPnl": -422.86,
     "cost": 20.28,
     "netPnl": -443.14,
-    "navAfter": 100939.97,
+    "navAfter": 100939.9,
     "turnover": 40.0
   },
   {
@@ -2752,11 +2884,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 100939.97,
+    "navBefore": 100939.9,
     "grossPnl": 1453.03,
     "cost": 50.47,
     "netPnl": 1402.56,
-    "navAfter": 102342.53,
+    "navAfter": 102342.46,
     "turnover": 100.0
   },
   {
@@ -2764,11 +2896,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 102342.53,
+    "navBefore": 102342.46,
     "grossPnl": -1876.96,
     "cost": 61.41,
-    "netPnl": -1938.37,
-    "navAfter": 100404.16,
+    "netPnl": -1938.36,
+    "navAfter": 100404.09,
     "turnover": 120.0
   },
   {
@@ -2776,11 +2908,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 100404.16,
+    "navBefore": 100404.09,
     "grossPnl": -1014.44,
     "cost": 20.08,
     "netPnl": -1034.52,
-    "navAfter": 99369.64,
+    "navAfter": 99369.57,
     "turnover": 40.0
   },
   {
@@ -2788,11 +2920,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 99369.64,
-    "grossPnl": 2150.68,
+    "navBefore": 99369.57,
+    "grossPnl": 2150.67,
     "cost": 29.81,
     "netPnl": 2120.86,
-    "navAfter": 101490.5,
+    "navAfter": 101490.43,
     "turnover": 60.0
   },
   {
@@ -2800,11 +2932,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 101490.5,
+    "navBefore": 101490.43,
     "grossPnl": 1435.22,
     "cost": 50.75,
     "netPnl": 1384.47,
-    "navAfter": 102874.98,
+    "navAfter": 102874.9,
     "turnover": 100.0
   },
   {
@@ -2812,11 +2944,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 102874.98,
+    "navBefore": 102874.9,
     "grossPnl": 360.42,
     "cost": 61.72,
     "netPnl": 298.69,
-    "navAfter": 103173.67,
+    "navAfter": 103173.6,
     "turnover": 120.0
   },
   {
@@ -2824,11 +2956,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 103173.67,
+    "navBefore": 103173.6,
     "grossPnl": 372.88,
     "cost": 61.9,
     "netPnl": 310.97,
-    "navAfter": 103484.64,
+    "navAfter": 103484.57,
     "turnover": 120.0
   },
   {
@@ -2836,11 +2968,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 103484.64,
+    "navBefore": 103484.57,
     "grossPnl": 1347.73,
     "cost": 31.05,
     "netPnl": 1316.68,
-    "navAfter": 104801.32,
+    "navAfter": 104801.25,
     "turnover": 60.0
   },
   {
@@ -2848,11 +2980,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 104801.32,
+    "navBefore": 104801.25,
     "grossPnl": 1237.72,
     "cost": 62.88,
     "netPnl": 1174.84,
-    "navAfter": 105976.16,
+    "navAfter": 105976.09,
     "turnover": 120.0
   },
   {
@@ -2860,11 +2992,11 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 105976.16,
+    "navBefore": 105976.09,
     "grossPnl": -1388.56,
     "cost": 42.39,
     "netPnl": -1430.95,
-    "navAfter": 104545.22,
+    "navAfter": 104545.14,
     "turnover": 80.0
   },
   {
@@ -2872,23 +3004,35 @@
     "strategyId": "STR-12",
     "strategy": "WQ Alpha 055 - Turnover Reversal",
     "sleeve": "Liquidity",
-    "navBefore": 104545.22,
-    "grossPnl": 697.87,
+    "navBefore": 104545.14,
+    "grossPnl": 697.97,
     "cost": 52.27,
-    "netPnl": 645.6,
-    "navAfter": 105190.81,
+    "netPnl": 645.7,
+    "navAfter": 105190.84,
     "turnover": 100.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-12",
+    "strategy": "WQ Alpha 055 - Turnover Reversal",
+    "sleeve": "Liquidity",
+    "navBefore": 105190.84,
+    "grossPnl": 2672.37,
+    "cost": 31.56,
+    "netPnl": 2640.82,
+    "navAfter": 107831.66,
+    "turnover": 60.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 236252.49,
-    "grossPnl": -1928.78,
+    "navBefore": 236252.01,
+    "grossPnl": -1928.77,
     "cost": 70.88,
     "netPnl": -1999.65,
-    "navAfter": 234252.84,
+    "navAfter": 234252.37,
     "turnover": 60.0
   },
   {
@@ -2896,11 +3040,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 234252.84,
-    "grossPnl": -4705.14,
+    "navBefore": 234252.37,
+    "grossPnl": -4705.13,
     "cost": 70.28,
-    "netPnl": -4775.42,
-    "navAfter": 229477.42,
+    "netPnl": -4775.41,
+    "navAfter": 229476.96,
     "turnover": 60.0
   },
   {
@@ -2908,11 +3052,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 229477.42,
-    "grossPnl": 1478.56,
+    "navBefore": 229476.96,
+    "grossPnl": 1478.55,
     "cost": 91.79,
     "netPnl": 1386.76,
-    "navAfter": 230864.19,
+    "navAfter": 230863.72,
     "turnover": 80.0
   },
   {
@@ -2920,11 +3064,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 230864.19,
-    "grossPnl": 2481.61,
+    "navBefore": 230863.72,
+    "grossPnl": 2481.6,
     "cost": 115.43,
-    "netPnl": 2366.18,
-    "navAfter": 233230.37,
+    "netPnl": 2366.17,
+    "navAfter": 233229.89,
     "turnover": 100.0
   },
   {
@@ -2932,11 +3076,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 233230.37,
+    "navBefore": 233229.89,
     "grossPnl": 1731.66,
     "cost": 46.65,
     "netPnl": 1685.02,
-    "navAfter": 234915.38,
+    "navAfter": 234914.91,
     "turnover": 40.0
   },
   {
@@ -2944,11 +3088,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 234915.38,
-    "grossPnl": -4504.03,
+    "navBefore": 234914.91,
+    "grossPnl": -4504.02,
     "cost": 70.47,
-    "netPnl": -4574.5,
-    "navAfter": 230340.88,
+    "netPnl": -4574.49,
+    "navAfter": 230340.42,
     "turnover": 60.0
   },
   {
@@ -2956,11 +3100,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 230340.88,
+    "navBefore": 230340.42,
     "grossPnl": 1509.53,
     "cost": 92.14,
     "netPnl": 1417.39,
-    "navAfter": 231758.28,
+    "navAfter": 231757.81,
     "turnover": 80.0
   },
   {
@@ -2968,11 +3112,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 231758.28,
-    "grossPnl": 4091.92,
+    "navBefore": 231757.81,
+    "grossPnl": 4091.91,
     "cost": 46.35,
-    "netPnl": 4045.57,
-    "navAfter": 235803.84,
+    "netPnl": 4045.56,
+    "navAfter": 235803.36,
     "turnover": 40.0
   },
   {
@@ -2980,11 +3124,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 235803.84,
+    "navBefore": 235803.36,
     "grossPnl": 3709.45,
     "cost": 70.74,
     "netPnl": 3638.71,
-    "navAfter": 239442.56,
+    "navAfter": 239442.07,
     "turnover": 60.0
   },
   {
@@ -2992,11 +3136,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 239442.56,
-    "grossPnl": -15599.84,
+    "navBefore": 239442.07,
+    "grossPnl": -15599.81,
     "cost": 95.78,
-    "netPnl": -15695.62,
-    "navAfter": 223746.94,
+    "netPnl": -15695.59,
+    "navAfter": 223746.48,
     "turnover": 80.0
   },
   {
@@ -3004,11 +3148,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 223746.94,
+    "navBefore": 223746.48,
     "grossPnl": 1575.39,
     "cost": 44.75,
     "netPnl": 1530.64,
-    "navAfter": 225277.58,
+    "navAfter": 225277.12,
     "turnover": 40.0
   },
   {
@@ -3016,11 +3160,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 225277.58,
-    "grossPnl": 11279.8,
+    "navBefore": 225277.12,
+    "grossPnl": 11279.77,
     "cost": 45.06,
-    "netPnl": 11234.74,
-    "navAfter": 236512.32,
+    "netPnl": 11234.72,
+    "navAfter": 236511.83,
     "turnover": 40.0
   },
   {
@@ -3028,11 +3172,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 236512.32,
-    "grossPnl": -8041.59,
+    "navBefore": 236511.83,
+    "grossPnl": -8041.58,
     "cost": 23.65,
-    "netPnl": -8065.24,
-    "navAfter": 228447.07,
+    "netPnl": -8065.23,
+    "navAfter": 228446.61,
     "turnover": 20.0
   },
   {
@@ -3040,11 +3184,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 228447.07,
-    "grossPnl": 5504.15,
+    "navBefore": 228446.61,
+    "grossPnl": 5504.14,
     "cost": 68.53,
-    "netPnl": 5435.62,
-    "navAfter": 233882.69,
+    "netPnl": 5435.61,
+    "navAfter": 233882.22,
     "turnover": 60.0
   },
   {
@@ -3052,11 +3196,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 233882.69,
+    "navBefore": 233882.22,
     "grossPnl": 2694.89,
     "cost": 46.78,
-    "netPnl": 2648.12,
-    "navAfter": 236530.81,
+    "netPnl": 2648.11,
+    "navAfter": 236530.33,
     "turnover": 40.0
   },
   {
@@ -3064,11 +3208,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 236530.81,
-    "grossPnl": -12542.9,
+    "navBefore": 236530.33,
+    "grossPnl": -12542.87,
     "cost": 47.31,
-    "netPnl": -12590.2,
-    "navAfter": 223940.61,
+    "netPnl": -12590.18,
+    "navAfter": 223940.15,
     "turnover": 40.0
   },
   {
@@ -3076,11 +3220,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 223940.61,
+    "navBefore": 223940.15,
     "grossPnl": -3823.51,
     "cost": 67.18,
-    "netPnl": -3890.7,
-    "navAfter": 220049.91,
+    "netPnl": -3890.69,
+    "navAfter": 220049.46,
     "turnover": 60.0
   },
   {
@@ -3088,11 +3232,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 220049.91,
-    "grossPnl": -1664.19,
+    "navBefore": 220049.46,
+    "grossPnl": -1664.18,
     "cost": 132.03,
-    "netPnl": -1796.22,
-    "navAfter": 218253.69,
+    "netPnl": -1796.21,
+    "navAfter": 218253.25,
     "turnover": 120.0
   },
   {
@@ -3100,11 +3244,11 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 218253.69,
-    "grossPnl": 2757.54,
+    "navBefore": 218253.25,
+    "grossPnl": 2757.53,
     "cost": 43.65,
     "netPnl": 2713.88,
-    "navAfter": 220967.58,
+    "navAfter": 220967.13,
     "turnover": 40.0
   },
   {
@@ -3112,23 +3256,35 @@
     "strategyId": "STR-13",
     "strategy": "WQ Alpha 060 - Price Volume Rank",
     "sleeve": "Volume",
-    "navBefore": 220967.58,
-    "grossPnl": -3889.43,
+    "navBefore": 220967.13,
+    "grossPnl": -3889.42,
     "cost": 88.39,
-    "netPnl": -3977.82,
-    "navAfter": 216989.76,
+    "netPnl": -3977.81,
+    "navAfter": 216989.32,
     "turnover": 80.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-13",
+    "strategy": "WQ Alpha 060 - Price Volume Rank",
+    "sleeve": "Volume",
+    "navBefore": 216989.32,
+    "grossPnl": -982.74,
+    "cost": 43.4,
+    "netPnl": -1026.14,
+    "navAfter": 215963.18,
+    "turnover": 40.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 327151.31,
-    "grossPnl": -8520.18,
+    "navBefore": 327151.3,
+    "grossPnl": -8520.17,
     "cost": 32.72,
     "netPnl": -8552.89,
-    "navAfter": 318598.42,
+    "navAfter": 318598.41,
     "turnover": 20.0
   },
   {
@@ -3136,11 +3292,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 318598.42,
+    "navBefore": 318598.41,
     "grossPnl": -8242.45,
     "cost": 31.86,
     "netPnl": -8274.31,
-    "navAfter": 310324.1,
+    "navAfter": 310324.09,
     "turnover": 20.0
   },
   {
@@ -3148,11 +3304,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 310324.1,
+    "navBefore": 310324.09,
     "grossPnl": 15833.34,
     "cost": 31.03,
     "netPnl": 15802.31,
-    "navAfter": 326126.41,
+    "navAfter": 326126.4,
     "turnover": 20.0
   },
   {
@@ -3160,11 +3316,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 326126.41,
+    "navBefore": 326126.4,
     "grossPnl": 2153.21,
     "cost": 32.61,
     "netPnl": 2120.59,
-    "navAfter": 328247.01,
+    "navAfter": 328247.0,
     "turnover": 20.0
   },
   {
@@ -3172,11 +3328,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 328247.01,
+    "navBefore": 328247.0,
     "grossPnl": 8817.3,
     "cost": 65.65,
     "netPnl": 8751.65,
-    "navAfter": 336998.66,
+    "navAfter": 336998.65,
     "turnover": 40.0
   },
   {
@@ -3184,11 +3340,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 336998.66,
+    "navBefore": 336998.65,
     "grossPnl": -10054.38,
     "cost": 67.4,
     "netPnl": -10121.78,
-    "navAfter": 326876.88,
+    "navAfter": 326876.87,
     "turnover": 40.0
   },
   {
@@ -3196,11 +3352,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 326876.88,
+    "navBefore": 326876.87,
     "grossPnl": 803.7,
     "cost": 65.38,
     "netPnl": 738.32,
-    "navAfter": 327615.2,
+    "navAfter": 327615.19,
     "turnover": 40.0
   },
   {
@@ -3208,11 +3364,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 327615.2,
+    "navBefore": 327615.19,
     "grossPnl": 5335.97,
     "cost": 65.52,
     "netPnl": 5270.45,
-    "navAfter": 332885.65,
+    "navAfter": 332885.64,
     "turnover": 40.0
   },
   {
@@ -3220,11 +3376,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 332885.65,
+    "navBefore": 332885.64,
     "grossPnl": 7918.36,
     "cost": 33.29,
     "netPnl": 7885.07,
-    "navAfter": 340770.72,
+    "navAfter": 340770.71,
     "turnover": 20.0
   },
   {
@@ -3232,11 +3388,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 340770.72,
+    "navBefore": 340770.71,
     "grossPnl": -11192.03,
     "cost": 68.15,
     "netPnl": -11260.19,
-    "navAfter": 329510.54,
+    "navAfter": 329510.53,
     "turnover": 40.0
   },
   {
@@ -3244,11 +3400,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 329510.54,
+    "navBefore": 329510.53,
     "grossPnl": -514.3,
     "cost": 32.95,
     "netPnl": -547.25,
-    "navAfter": 328963.28,
+    "navAfter": 328963.27,
     "turnover": 20.0
   },
   {
@@ -3256,11 +3412,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 328963.28,
+    "navBefore": 328963.27,
     "grossPnl": 11955.49,
     "cost": 32.9,
     "netPnl": 11922.6,
-    "navAfter": 340885.88,
+    "navAfter": 340885.87,
     "turnover": 20.0
   },
   {
@@ -3268,11 +3424,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 340885.88,
-    "grossPnl": -7424.63,
+    "navBefore": 340885.87,
+    "grossPnl": -7424.62,
     "cost": 34.09,
     "netPnl": -7458.71,
-    "navAfter": 333427.17,
+    "navAfter": 333427.16,
     "turnover": 20.0
   },
   {
@@ -3280,11 +3436,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 333427.17,
+    "navBefore": 333427.16,
     "grossPnl": 9651.3,
     "cost": 66.69,
     "netPnl": 9584.62,
-    "navAfter": 343011.79,
+    "navAfter": 343011.77,
     "turnover": 40.0
   },
   {
@@ -3292,11 +3448,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 343011.79,
+    "navBefore": 343011.77,
     "grossPnl": 6303.04,
     "cost": 68.6,
     "netPnl": 6234.44,
-    "navAfter": 349246.23,
+    "navAfter": 349246.22,
     "turnover": 40.0
   },
   {
@@ -3304,11 +3460,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 349246.23,
+    "navBefore": 349246.22,
     "grossPnl": -14026.82,
     "cost": 34.92,
     "netPnl": -14061.75,
-    "navAfter": 335184.48,
+    "navAfter": 335184.47,
     "turnover": 20.0
   },
   {
@@ -3316,11 +3472,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 335184.48,
+    "navBefore": 335184.47,
     "grossPnl": -9424.1,
     "cost": 67.04,
     "netPnl": -9491.14,
-    "navAfter": 325693.34,
+    "navAfter": 325693.33,
     "turnover": 40.0
   },
   {
@@ -3328,11 +3484,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 325693.34,
+    "navBefore": 325693.33,
     "grossPnl": 4244.5,
     "cost": 65.14,
     "netPnl": 4179.36,
-    "navAfter": 329872.7,
+    "navAfter": 329872.69,
     "turnover": 40.0
   },
   {
@@ -3340,11 +3496,11 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 329872.7,
+    "navBefore": 329872.69,
     "grossPnl": -5724.75,
     "cost": 131.95,
     "netPnl": -5856.7,
-    "navAfter": 324016.0,
+    "navAfter": 324015.99,
     "turnover": 80.0
   },
   {
@@ -3352,23 +3508,35 @@
     "strategyId": "STR-14",
     "strategy": "WQ Alpha 071 - Composite Rank",
     "sleeve": "Composite",
-    "navBefore": 324016.0,
-    "grossPnl": -526.17,
+    "navBefore": 324015.99,
+    "grossPnl": -525.86,
     "cost": 97.2,
-    "netPnl": -623.38,
-    "navAfter": 323392.62,
+    "netPnl": -623.07,
+    "navAfter": 323392.93,
     "turnover": 60.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-14",
+    "strategy": "WQ Alpha 071 - Composite Rank",
+    "sleeve": "Composite",
+    "navBefore": 323392.93,
+    "grossPnl": 6393.1,
+    "cost": 32.34,
+    "netPnl": 6360.76,
+    "navAfter": 329753.69,
+    "turnover": 20.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 183729.27,
+    "navBefore": 183728.82,
     "grossPnl": -1035.39,
     "cost": 36.75,
     "netPnl": -1072.14,
-    "navAfter": 182657.13,
+    "navAfter": 182656.68,
     "turnover": 40.0
   },
   {
@@ -3376,11 +3544,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 182657.13,
-    "grossPnl": -5358.64,
+    "navBefore": 182656.68,
+    "grossPnl": -5358.63,
     "cost": 36.53,
-    "netPnl": -5395.17,
-    "navAfter": 177261.96,
+    "netPnl": -5395.16,
+    "navAfter": 177261.53,
     "turnover": 40.0
   },
   {
@@ -3388,11 +3556,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 177261.96,
-    "grossPnl": 7385.2,
+    "navBefore": 177261.53,
+    "grossPnl": 7385.18,
     "cost": 70.9,
-    "netPnl": 7314.29,
-    "navAfter": 184576.25,
+    "netPnl": 7314.27,
+    "navAfter": 184575.8,
     "turnover": 80.0
   },
   {
@@ -3400,11 +3568,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 184576.25,
-    "grossPnl": 3051.8,
+    "navBefore": 184575.8,
+    "grossPnl": 3051.79,
     "cost": 73.83,
-    "netPnl": 2977.97,
-    "navAfter": 187554.22,
+    "netPnl": 2977.96,
+    "navAfter": 187553.76,
     "turnover": 80.0
   },
   {
@@ -3412,11 +3580,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 187554.22,
-    "grossPnl": 2724.93,
+    "navBefore": 187553.76,
+    "grossPnl": 2724.92,
     "cost": 75.02,
     "netPnl": 2649.9,
-    "navAfter": 190204.13,
+    "navAfter": 190203.66,
     "turnover": 80.0
   },
   {
@@ -3424,11 +3592,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 190204.13,
+    "navBefore": 190203.66,
     "grossPnl": 182.7,
     "cost": 95.1,
     "netPnl": 87.6,
-    "navAfter": 190291.73,
+    "navAfter": 190291.26,
     "turnover": 100.0
   },
   {
@@ -3436,11 +3604,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 190291.73,
-    "grossPnl": -4518.73,
+    "navBefore": 190291.26,
+    "grossPnl": -4518.72,
     "cost": 38.06,
-    "netPnl": -4556.79,
-    "navAfter": 185734.94,
+    "netPnl": -4556.78,
+    "navAfter": 185734.49,
     "turnover": 40.0
   },
   {
@@ -3448,11 +3616,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 185734.94,
+    "navBefore": 185734.49,
     "grossPnl": 970.5,
     "cost": 92.87,
     "netPnl": 877.63,
-    "navAfter": 186612.57,
+    "navAfter": 186612.12,
     "turnover": 100.0
   },
   {
@@ -3460,11 +3628,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 186612.57,
+    "navBefore": 186612.12,
     "grossPnl": 1633.57,
     "cost": 130.63,
     "netPnl": 1502.94,
-    "navAfter": 188115.51,
+    "navAfter": 188115.05,
     "turnover": 140.0
   },
   {
@@ -3472,11 +3640,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 188115.51,
+    "navBefore": 188115.05,
     "grossPnl": 1143.46,
     "cost": 75.25,
     "netPnl": 1068.21,
-    "navAfter": 189183.73,
+    "navAfter": 189183.27,
     "turnover": 80.0
   },
   {
@@ -3484,11 +3652,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 189183.73,
-    "grossPnl": -367.2,
+    "navBefore": 189183.27,
+    "grossPnl": -367.19,
     "cost": 18.92,
     "netPnl": -386.11,
-    "navAfter": 188797.62,
+    "navAfter": 188797.15,
     "turnover": 20.0
   },
   {
@@ -3496,11 +3664,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 188797.62,
+    "navBefore": 188797.15,
     "grossPnl": 34.25,
     "cost": 18.88,
     "netPnl": 15.37,
-    "navAfter": 188812.98,
+    "navAfter": 188812.52,
     "turnover": 20.0
   },
   {
@@ -3508,11 +3676,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 188812.98,
-    "grossPnl": 5095.92,
+    "navBefore": 188812.52,
+    "grossPnl": 5095.91,
     "cost": 37.76,
-    "netPnl": 5058.16,
-    "navAfter": 193871.15,
+    "netPnl": 5058.15,
+    "navAfter": 193870.67,
     "turnover": 40.0
   },
   {
@@ -3520,11 +3688,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 193871.15,
+    "navBefore": 193870.67,
     "grossPnl": 888.42,
     "cost": 58.16,
     "netPnl": 830.26,
-    "navAfter": 194701.41,
+    "navAfter": 194700.93,
     "turnover": 60.0
   },
   {
@@ -3532,11 +3700,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 194701.41,
+    "navBefore": 194700.93,
     "grossPnl": -996.28,
     "cost": 38.94,
     "netPnl": -1035.22,
-    "navAfter": 193666.19,
+    "navAfter": 193665.71,
     "turnover": 40.0
   },
   {
@@ -3544,11 +3712,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 193666.19,
-    "grossPnl": 1806.99,
+    "navBefore": 193665.71,
+    "grossPnl": 1806.98,
     "cost": 38.73,
     "netPnl": 1768.25,
-    "navAfter": 195434.44,
+    "navAfter": 195433.96,
     "turnover": 40.0
   },
   {
@@ -3556,11 +3724,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 195434.44,
-    "grossPnl": 4093.8,
+    "navBefore": 195433.96,
+    "grossPnl": 4093.79,
     "cost": 39.09,
-    "netPnl": 4054.71,
-    "navAfter": 199489.15,
+    "netPnl": 4054.7,
+    "navAfter": 199488.66,
     "turnover": 40.0
   },
   {
@@ -3568,11 +3736,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 199489.15,
+    "navBefore": 199488.66,
     "grossPnl": 1023.81,
     "cost": 59.85,
     "netPnl": 963.96,
-    "navAfter": 200453.12,
+    "navAfter": 200452.63,
     "turnover": 60.0
   },
   {
@@ -3580,11 +3748,11 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 200453.12,
-    "grossPnl": 2703.53,
+    "navBefore": 200452.63,
+    "grossPnl": 2703.52,
     "cost": 120.27,
-    "netPnl": 2583.26,
-    "navAfter": 203036.37,
+    "netPnl": 2583.25,
+    "navAfter": 203035.87,
     "turnover": 120.0
   },
   {
@@ -3592,23 +3760,35 @@
     "strategyId": "STR-15",
     "strategy": "WQ Alpha 078 - Correlation Break",
     "sleeve": "Correlation",
-    "navBefore": 203036.37,
+    "navBefore": 203035.87,
     "grossPnl": -694.85,
     "cost": 81.21,
     "netPnl": -776.06,
-    "navAfter": 202260.31,
+    "navAfter": 202259.81,
     "turnover": 80.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-15",
+    "strategy": "WQ Alpha 078 - Correlation Break",
+    "sleeve": "Correlation",
+    "navBefore": 202259.81,
+    "grossPnl": 493.72,
+    "cost": 40.45,
+    "netPnl": 453.27,
+    "navAfter": 202713.08,
+    "turnover": 40.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 176328.73,
+    "navBefore": 176328.74,
     "grossPnl": -1305.11,
     "cost": 88.16,
     "netPnl": -1393.27,
-    "navAfter": 174935.46,
+    "navAfter": 174935.47,
     "turnover": 100.0
   },
   {
@@ -3616,11 +3796,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 174935.46,
+    "navBefore": 174935.47,
     "grossPnl": -5224.94,
     "cost": 52.48,
     "netPnl": -5277.42,
-    "navAfter": 169658.03,
+    "navAfter": 169658.04,
     "turnover": 60.0
   },
   {
@@ -3628,11 +3808,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 169658.03,
+    "navBefore": 169658.04,
     "grossPnl": 7853.41,
     "cost": 33.93,
     "netPnl": 7819.48,
-    "navAfter": 177477.51,
+    "navAfter": 177477.52,
     "turnover": 40.0
   },
   {
@@ -3640,11 +3820,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 177477.51,
+    "navBefore": 177477.52,
     "grossPnl": 15.58,
     "cost": 88.74,
     "netPnl": -73.16,
-    "navAfter": 177404.35,
+    "navAfter": 177404.36,
     "turnover": 100.0
   },
   {
@@ -3652,11 +3832,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 177404.35,
+    "navBefore": 177404.36,
     "grossPnl": 5660.91,
     "cost": 70.96,
     "netPnl": 5589.95,
-    "navAfter": 182994.31,
+    "navAfter": 182994.32,
     "turnover": 80.0
   },
   {
@@ -3664,11 +3844,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 182994.31,
+    "navBefore": 182994.32,
     "grossPnl": -2985.95,
     "cost": 109.8,
     "netPnl": -3095.75,
-    "navAfter": 179898.56,
+    "navAfter": 179898.57,
     "turnover": 120.0
   },
   {
@@ -3676,11 +3856,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 179898.56,
+    "navBefore": 179898.57,
     "grossPnl": 1217.75,
     "cost": 89.95,
     "netPnl": 1127.8,
-    "navAfter": 181026.36,
+    "navAfter": 181026.37,
     "turnover": 100.0
   },
   {
@@ -3688,11 +3868,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 181026.36,
+    "navBefore": 181026.37,
     "grossPnl": 1181.59,
     "cost": 90.51,
     "netPnl": 1091.07,
-    "navAfter": 182117.44,
+    "navAfter": 182117.45,
     "turnover": 100.0
   },
   {
@@ -3700,11 +3880,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 182117.44,
+    "navBefore": 182117.45,
     "grossPnl": 5638.71,
     "cost": 36.42,
     "netPnl": 5602.28,
-    "navAfter": 187719.72,
+    "navAfter": 187719.73,
     "turnover": 40.0
   },
   {
@@ -3712,11 +3892,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 187719.72,
+    "navBefore": 187719.73,
     "grossPnl": -8830.96,
     "cost": 93.86,
     "netPnl": -8924.82,
-    "navAfter": 178794.9,
+    "navAfter": 178794.91,
     "turnover": 100.0
   },
   {
@@ -3724,11 +3904,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 178794.9,
+    "navBefore": 178794.91,
     "grossPnl": 1302.15,
     "cost": 53.64,
     "netPnl": 1248.51,
-    "navAfter": 180043.41,
+    "navAfter": 180043.43,
     "turnover": 60.0
   },
   {
@@ -3736,11 +3916,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 180043.41,
+    "navBefore": 180043.43,
     "grossPnl": 4380.32,
     "cost": 126.03,
     "netPnl": 4254.29,
-    "navAfter": 184297.71,
+    "navAfter": 184297.72,
     "turnover": 140.0
   },
   {
@@ -3748,11 +3928,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 184297.71,
+    "navBefore": 184297.72,
     "grossPnl": -5302.36,
     "cost": 129.01,
     "netPnl": -5431.37,
-    "navAfter": 178866.34,
+    "navAfter": 178866.35,
     "turnover": 140.0
   },
   {
@@ -3760,11 +3940,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 178866.34,
+    "navBefore": 178866.35,
     "grossPnl": 4312.3,
     "cost": 89.43,
     "netPnl": 4222.87,
-    "navAfter": 183089.21,
+    "navAfter": 183089.22,
     "turnover": 100.0
   },
   {
@@ -3772,11 +3952,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 183089.21,
+    "navBefore": 183089.22,
     "grossPnl": 6034.75,
     "cost": 73.24,
     "netPnl": 5961.52,
-    "navAfter": 189050.73,
+    "navAfter": 189050.74,
     "turnover": 80.0
   },
   {
@@ -3784,11 +3964,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 189050.73,
+    "navBefore": 189050.74,
     "grossPnl": -10666.91,
     "cost": 18.91,
     "netPnl": -10685.82,
-    "navAfter": 178364.91,
+    "navAfter": 178364.92,
     "turnover": 20.0
   },
   {
@@ -3796,11 +3976,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 178364.91,
+    "navBefore": 178364.92,
     "grossPnl": -3738.36,
     "cost": 89.18,
     "netPnl": -3827.55,
-    "navAfter": 174537.36,
+    "navAfter": 174537.38,
     "turnover": 100.0
   },
   {
@@ -3808,11 +3988,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 174537.36,
+    "navBefore": 174537.38,
     "grossPnl": 1408.0,
     "cost": 87.27,
     "netPnl": 1320.73,
-    "navAfter": 175858.1,
+    "navAfter": 175858.11,
     "turnover": 100.0
   },
   {
@@ -3820,11 +4000,11 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 175858.1,
+    "navBefore": 175858.11,
     "grossPnl": -3742.88,
     "cost": 123.1,
     "netPnl": -3865.98,
-    "navAfter": 171992.12,
+    "navAfter": 171992.13,
     "turnover": 140.0
   },
   {
@@ -3832,23 +4012,35 @@
     "strategyId": "STR-16",
     "strategy": "WQ Alpha 083 - Range Momentum",
     "sleeve": "Volatility",
-    "navBefore": 171992.12,
+    "navBefore": 171992.13,
     "grossPnl": -3158.64,
     "cost": 86.0,
     "netPnl": -3244.64,
-    "navAfter": 168747.48,
+    "navAfter": 168747.49,
     "turnover": 100.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-16",
+    "strategy": "WQ Alpha 083 - Range Momentum",
+    "sleeve": "Volatility",
+    "navBefore": 168747.49,
+    "grossPnl": -694.77,
+    "cost": 101.25,
+    "netPnl": -796.02,
+    "navAfter": 167951.47,
+    "turnover": 120.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 238932.94,
-    "grossPnl": -5506.49,
+    "navBefore": 238933.21,
+    "grossPnl": -5506.5,
     "cost": 23.89,
-    "netPnl": -5530.38,
-    "navAfter": 233402.56,
+    "netPnl": -5530.39,
+    "navAfter": 233402.82,
     "turnover": 20.0
   },
   {
@@ -3856,11 +4048,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 233402.56,
+    "navBefore": 233402.82,
     "grossPnl": -4957.77,
     "cost": 46.68,
     "netPnl": -5004.45,
-    "navAfter": 228398.11,
+    "navAfter": 228398.37,
     "turnover": 40.0
   },
   {
@@ -3868,11 +4060,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 228398.11,
-    "grossPnl": 14094.73,
+    "navBefore": 228398.37,
+    "grossPnl": 14094.75,
     "cost": 45.68,
-    "netPnl": 14049.05,
-    "navAfter": 242447.16,
+    "netPnl": 14049.07,
+    "navAfter": 242447.44,
     "turnover": 40.0
   },
   {
@@ -3880,11 +4072,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 242447.16,
-    "grossPnl": 1781.83,
+    "navBefore": 242447.44,
+    "grossPnl": 1781.84,
     "cost": 24.24,
     "netPnl": 1757.59,
-    "navAfter": 244204.75,
+    "navAfter": 244205.03,
     "turnover": 20.0
   },
   {
@@ -3892,11 +4084,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 244204.75,
-    "grossPnl": 8208.64,
+    "navBefore": 244205.03,
+    "grossPnl": 8208.65,
     "cost": 24.42,
-    "netPnl": 8184.22,
-    "navAfter": 252388.98,
+    "netPnl": 8184.23,
+    "navAfter": 252389.26,
     "turnover": 20.0
   },
   {
@@ -3904,11 +4096,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 252388.98,
-    "grossPnl": -8936.09,
+    "navBefore": 252389.26,
+    "grossPnl": -8936.1,
     "cost": 25.24,
-    "netPnl": -8961.33,
-    "navAfter": 243427.64,
+    "netPnl": -8961.34,
+    "navAfter": 243427.92,
     "turnover": 20.0
   },
   {
@@ -3916,11 +4108,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 243427.64,
+    "navBefore": 243427.92,
     "grossPnl": -103.67,
     "cost": 0.0,
     "netPnl": -103.67,
-    "navAfter": 243323.98,
+    "navAfter": 243324.25,
     "turnover": 0.0
   },
   {
@@ -3928,11 +4120,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 243323.98,
+    "navBefore": 243324.25,
     "grossPnl": 5767.75,
     "cost": 48.66,
-    "netPnl": 5719.08,
-    "navAfter": 249043.06,
+    "netPnl": 5719.09,
+    "navAfter": 249043.34,
     "turnover": 40.0
   },
   {
@@ -3940,11 +4132,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 249043.06,
-    "grossPnl": 5450.98,
+    "navBefore": 249043.34,
+    "grossPnl": 5450.99,
     "cost": 49.81,
-    "netPnl": 5401.17,
-    "navAfter": 254444.23,
+    "netPnl": 5401.18,
+    "navAfter": 254444.52,
     "turnover": 40.0
   },
   {
@@ -3952,11 +4144,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 254444.23,
-    "grossPnl": -15658.64,
+    "navBefore": 254444.52,
+    "grossPnl": -15658.66,
     "cost": 76.33,
-    "netPnl": -15734.98,
-    "navAfter": 238709.26,
+    "netPnl": -15734.99,
+    "navAfter": 238709.53,
     "turnover": 60.0
   },
   {
@@ -3964,11 +4156,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 238709.26,
+    "navBefore": 238709.53,
     "grossPnl": 112.43,
     "cost": 71.61,
     "netPnl": 40.82,
-    "navAfter": 238750.08,
+    "navAfter": 238750.35,
     "turnover": 60.0
   },
   {
@@ -3976,11 +4168,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 238750.08,
-    "grossPnl": 8970.76,
+    "navBefore": 238750.35,
+    "grossPnl": 8970.77,
     "cost": 71.63,
-    "netPnl": 8899.13,
-    "navAfter": 247649.21,
+    "netPnl": 8899.14,
+    "navAfter": 247649.49,
     "turnover": 60.0
   },
   {
@@ -3988,11 +4180,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 247649.21,
-    "grossPnl": -6879.31,
+    "navBefore": 247649.49,
+    "grossPnl": -6879.32,
     "cost": 49.53,
-    "netPnl": -6928.84,
-    "navAfter": 240720.37,
+    "netPnl": -6928.85,
+    "navAfter": 240720.64,
     "turnover": 40.0
   },
   {
@@ -4000,11 +4192,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 240720.37,
+    "navBefore": 240720.64,
     "grossPnl": 6186.76,
     "cost": 120.36,
     "netPnl": 6066.4,
-    "navAfter": 246786.76,
+    "navAfter": 246787.04,
     "turnover": 100.0
   },
   {
@@ -4012,11 +4204,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 246786.76,
-    "grossPnl": 5654.04,
+    "navBefore": 246787.04,
+    "grossPnl": 5654.05,
     "cost": 74.04,
     "netPnl": 5580.01,
-    "navAfter": 252366.77,
+    "navAfter": 252367.06,
     "turnover": 60.0
   },
   {
@@ -4024,11 +4216,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 252366.77,
-    "grossPnl": -12488.67,
+    "navBefore": 252367.06,
+    "grossPnl": -12488.68,
     "cost": 50.47,
-    "netPnl": -12539.14,
-    "navAfter": 239827.63,
+    "netPnl": -12539.15,
+    "navAfter": 239827.9,
     "turnover": 40.0
   },
   {
@@ -4036,11 +4228,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 239827.63,
-    "grossPnl": -5482.07,
+    "navBefore": 239827.9,
+    "grossPnl": -5482.08,
     "cost": 47.97,
     "netPnl": -5530.04,
-    "navAfter": 234297.59,
+    "navAfter": 234297.86,
     "turnover": 40.0
   },
   {
@@ -4048,11 +4240,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 234297.59,
+    "navBefore": 234297.86,
     "grossPnl": 1739.02,
     "cost": 46.86,
     "netPnl": 1692.16,
-    "navAfter": 235989.75,
+    "navAfter": 235990.02,
     "turnover": 40.0
   },
   {
@@ -4060,11 +4252,11 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 235989.75,
-    "grossPnl": -6112.26,
+    "navBefore": 235990.02,
+    "grossPnl": -6112.27,
     "cost": 70.8,
-    "netPnl": -6183.06,
-    "navAfter": 229806.69,
+    "netPnl": -6183.07,
+    "navAfter": 229806.95,
     "turnover": 60.0
   },
   {
@@ -4072,23 +4264,35 @@
     "strategyId": "STR-17",
     "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
     "sleeve": "Liquidity",
-    "navBefore": 229806.69,
-    "grossPnl": -3347.78,
+    "navBefore": 229806.95,
+    "grossPnl": -3347.79,
     "cost": 114.9,
     "netPnl": -3462.69,
-    "navAfter": 226344.0,
+    "navAfter": 226344.26,
     "turnover": 100.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-17",
+    "strategy": "WQ Alpha 088 - Liquidity Adjusted Momentum",
+    "sleeve": "Liquidity",
+    "navBefore": 226344.26,
+    "grossPnl": 4096.28,
+    "cost": 135.81,
+    "netPnl": 3960.47,
+    "navAfter": 230304.73,
+    "turnover": 120.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 233878.75,
+    "navBefore": 233878.51,
     "grossPnl": 1470.98,
     "cost": 70.16,
     "netPnl": 1400.82,
-    "navAfter": 235279.57,
+    "navAfter": 235279.32,
     "turnover": 60.0
   },
   {
@@ -4096,11 +4300,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 235279.57,
-    "grossPnl": -1767.14,
+    "navBefore": 235279.32,
+    "grossPnl": -1767.13,
     "cost": 23.53,
     "netPnl": -1790.66,
-    "navAfter": 233488.91,
+    "navAfter": 233488.66,
     "turnover": 20.0
   },
   {
@@ -4108,11 +4312,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 233488.91,
-    "grossPnl": 1293.99,
+    "navBefore": 233488.66,
+    "grossPnl": 1293.98,
     "cost": 46.7,
     "netPnl": 1247.29,
-    "navAfter": 234736.19,
+    "navAfter": 234735.95,
     "turnover": 40.0
   },
   {
@@ -4120,11 +4324,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 234736.19,
+    "navBefore": 234735.95,
     "grossPnl": 2393.55,
     "cost": 46.95,
     "netPnl": 2346.6,
-    "navAfter": 237082.8,
+    "navAfter": 237082.55,
     "turnover": 40.0
   },
   {
@@ -4132,11 +4336,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 237082.8,
+    "navBefore": 237082.55,
     "grossPnl": 1614.16,
     "cost": 47.42,
     "netPnl": 1566.74,
-    "navAfter": 238649.54,
+    "navAfter": 238649.29,
     "turnover": 40.0
   },
   {
@@ -4144,11 +4348,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 238649.54,
+    "navBefore": 238649.29,
     "grossPnl": -1429.19,
     "cost": 71.59,
     "netPnl": -1500.79,
-    "navAfter": 237148.75,
+    "navAfter": 237148.5,
     "turnover": 60.0
   },
   {
@@ -4156,11 +4360,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 237148.75,
+    "navBefore": 237148.5,
     "grossPnl": -1831.77,
     "cost": 94.86,
     "netPnl": -1926.63,
-    "navAfter": 235222.12,
+    "navAfter": 235221.88,
     "turnover": 80.0
   },
   {
@@ -4168,11 +4372,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 235222.12,
+    "navBefore": 235221.88,
     "grossPnl": 5619.62,
     "cost": 47.04,
-    "netPnl": 5572.58,
-    "navAfter": 240794.7,
+    "netPnl": 5572.57,
+    "navAfter": 240794.45,
     "turnover": 40.0
   },
   {
@@ -4180,11 +4384,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 240794.7,
-    "grossPnl": -4715.21,
+    "navBefore": 240794.45,
+    "grossPnl": -4715.2,
     "cost": 120.4,
     "netPnl": -4835.6,
-    "navAfter": 235959.1,
+    "navAfter": 235958.85,
     "turnover": 100.0
   },
   {
@@ -4192,11 +4396,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 235959.1,
+    "navBefore": 235958.85,
     "grossPnl": -3042.01,
     "cost": 47.19,
-    "netPnl": -3089.21,
-    "navAfter": 232869.89,
+    "netPnl": -3089.2,
+    "navAfter": 232869.65,
     "turnover": 40.0
   },
   {
@@ -4204,11 +4408,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 232869.89,
+    "navBefore": 232869.65,
     "grossPnl": -629.75,
     "cost": 69.86,
     "netPnl": -699.62,
-    "navAfter": 232170.28,
+    "navAfter": 232170.03,
     "turnover": 60.0
   },
   {
@@ -4216,11 +4420,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 232170.28,
+    "navBefore": 232170.03,
     "grossPnl": -2871.53,
     "cost": 92.87,
     "netPnl": -2964.4,
-    "navAfter": 229205.88,
+    "navAfter": 229205.64,
     "turnover": 80.0
   },
   {
@@ -4228,11 +4432,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 229205.88,
-    "grossPnl": 5280.18,
+    "navBefore": 229205.64,
+    "grossPnl": 5280.17,
     "cost": 45.84,
     "netPnl": 5234.33,
-    "navAfter": 234440.21,
+    "navAfter": 234439.97,
     "turnover": 40.0
   },
   {
@@ -4240,11 +4444,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 234440.21,
-    "grossPnl": -2298.68,
+    "navBefore": 234439.97,
+    "grossPnl": -2298.67,
     "cost": 0.0,
-    "netPnl": -2298.68,
-    "navAfter": 232141.53,
+    "netPnl": -2298.67,
+    "navAfter": 232141.29,
     "turnover": 0.0
   },
   {
@@ -4252,11 +4456,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 232141.53,
+    "navBefore": 232141.29,
     "grossPnl": -2194.83,
     "cost": 92.86,
     "netPnl": -2287.69,
-    "navAfter": 229853.85,
+    "navAfter": 229853.61,
     "turnover": 80.0
   },
   {
@@ -4264,11 +4468,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 229853.85,
-    "grossPnl": 6112.08,
+    "navBefore": 229853.61,
+    "grossPnl": 6112.07,
     "cost": 45.97,
-    "netPnl": 6066.11,
-    "navAfter": 235919.95,
+    "netPnl": 6066.1,
+    "navAfter": 235919.71,
     "turnover": 40.0
   },
   {
@@ -4276,11 +4480,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 235919.95,
-    "grossPnl": 2523.27,
+    "navBefore": 235919.71,
+    "grossPnl": 2523.26,
     "cost": 23.59,
-    "netPnl": 2499.68,
-    "navAfter": 238419.63,
+    "netPnl": 2499.67,
+    "navAfter": 238419.38,
     "turnover": 20.0
   },
   {
@@ -4288,11 +4492,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 238419.63,
+    "navBefore": 238419.38,
     "grossPnl": 1611.78,
     "cost": 23.84,
     "netPnl": 1587.94,
-    "navAfter": 240007.57,
+    "navAfter": 240007.32,
     "turnover": 20.0
   },
   {
@@ -4300,11 +4504,11 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 240007.57,
+    "navBefore": 240007.32,
     "grossPnl": 797.91,
     "cost": 48.0,
     "netPnl": 749.91,
-    "navAfter": 240757.48,
+    "navAfter": 240757.23,
     "turnover": 40.0
   },
   {
@@ -4312,23 +4516,35 @@
     "strategyId": "STR-18",
     "strategy": "WQ Alpha 092 - Delayed Reversal",
     "sleeve": "Reversal",
-    "navBefore": 240757.48,
+    "navBefore": 240757.23,
     "grossPnl": -2018.4,
     "cost": 96.3,
     "netPnl": -2114.71,
-    "navAfter": 238642.77,
+    "navAfter": 238642.52,
     "turnover": 80.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-18",
+    "strategy": "WQ Alpha 092 - Delayed Reversal",
+    "sleeve": "Reversal",
+    "navBefore": 238642.52,
+    "grossPnl": 939.72,
+    "cost": 23.86,
+    "netPnl": 915.86,
+    "navAfter": 239558.38,
+    "turnover": 20.0
   },
   {
     "date": "2026-06-09",
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 316117.55,
-    "grossPnl": -2804.48,
+    "navBefore": 316117.3,
+    "grossPnl": -2804.47,
     "cost": 63.22,
     "netPnl": -2867.7,
-    "navAfter": 313249.85,
+    "navAfter": 313249.6,
     "turnover": 40.0
   },
   {
@@ -4336,11 +4552,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 313249.85,
-    "grossPnl": -7342.12,
+    "navBefore": 313249.6,
+    "grossPnl": -7342.11,
     "cost": 0.0,
-    "netPnl": -7342.12,
-    "navAfter": 305907.73,
+    "netPnl": -7342.11,
+    "navAfter": 305907.49,
     "turnover": 0.0
   },
   {
@@ -4348,11 +4564,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 305907.73,
-    "grossPnl": 13769.47,
+    "navBefore": 305907.49,
+    "grossPnl": 13769.46,
     "cost": 30.59,
-    "netPnl": 13738.88,
-    "navAfter": 319646.61,
+    "netPnl": 13738.87,
+    "navAfter": 319646.36,
     "turnover": 20.0
   },
   {
@@ -4360,11 +4576,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 319646.61,
+    "navBefore": 319646.36,
     "grossPnl": 5121.01,
     "cost": 31.96,
     "netPnl": 5089.04,
-    "navAfter": 324735.66,
+    "navAfter": 324735.4,
     "turnover": 20.0
   },
   {
@@ -4372,11 +4588,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 324735.66,
+    "navBefore": 324735.4,
     "grossPnl": 8274.61,
     "cost": 0.0,
     "netPnl": 8274.61,
-    "navAfter": 333010.27,
+    "navAfter": 333010.01,
     "turnover": 0.0
   },
   {
@@ -4384,11 +4600,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 333010.27,
+    "navBefore": 333010.01,
     "grossPnl": -7204.21,
     "cost": 33.3,
     "netPnl": -7237.51,
-    "navAfter": 325772.76,
+    "navAfter": 325772.5,
     "turnover": 20.0
   },
   {
@@ -4396,11 +4612,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 325772.76,
+    "navBefore": 325772.5,
     "grossPnl": 1159.02,
     "cost": 32.58,
     "netPnl": 1126.45,
-    "navAfter": 326899.21,
+    "navAfter": 326898.95,
     "turnover": 20.0
   },
   {
@@ -4408,11 +4624,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 326899.21,
-    "grossPnl": 9757.37,
+    "navBefore": 326898.95,
+    "grossPnl": 9757.36,
     "cost": 32.69,
-    "netPnl": 9724.68,
-    "navAfter": 336623.88,
+    "netPnl": 9724.67,
+    "navAfter": 336623.62,
     "turnover": 20.0
   },
   {
@@ -4420,11 +4636,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 336623.88,
+    "navBefore": 336623.62,
     "grossPnl": 9745.65,
     "cost": 33.66,
-    "netPnl": 9711.99,
-    "navAfter": 346335.87,
+    "netPnl": 9711.98,
+    "navAfter": 346335.6,
     "turnover": 20.0
   },
   {
@@ -4432,11 +4648,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 346335.87,
-    "grossPnl": -14292.08,
+    "navBefore": 346335.6,
+    "grossPnl": -14292.07,
     "cost": 34.63,
-    "netPnl": -14326.72,
-    "navAfter": 332009.16,
+    "netPnl": -14326.71,
+    "navAfter": 332008.89,
     "turnover": 20.0
   },
   {
@@ -4444,11 +4660,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 332009.16,
+    "navBefore": 332008.89,
     "grossPnl": -1582.28,
     "cost": 33.2,
     "netPnl": -1615.48,
-    "navAfter": 330393.67,
+    "navAfter": 330393.41,
     "turnover": 20.0
   },
   {
@@ -4456,11 +4672,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 330393.67,
-    "grossPnl": 9707.23,
+    "navBefore": 330393.41,
+    "grossPnl": 9707.22,
     "cost": 66.08,
-    "netPnl": 9641.15,
-    "navAfter": 340034.82,
+    "netPnl": 9641.14,
+    "navAfter": 340034.55,
     "turnover": 40.0
   },
   {
@@ -4468,11 +4684,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 340034.82,
+    "navBefore": 340034.55,
     "grossPnl": -9831.83,
     "cost": 68.01,
-    "netPnl": -9899.84,
-    "navAfter": 330134.98,
+    "netPnl": -9899.83,
+    "navAfter": 330134.72,
     "turnover": 40.0
   },
   {
@@ -4480,11 +4696,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 330134.98,
+    "navBefore": 330134.72,
     "grossPnl": 6338.41,
     "cost": 66.03,
-    "netPnl": 6272.39,
-    "navAfter": 336407.37,
+    "netPnl": 6272.38,
+    "navAfter": 336407.1,
     "turnover": 40.0
   },
   {
@@ -4492,11 +4708,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 336407.37,
+    "navBefore": 336407.1,
     "grossPnl": 6626.16,
     "cost": 33.64,
     "netPnl": 6592.52,
-    "navAfter": 342999.89,
+    "navAfter": 342999.61,
     "turnover": 20.0
   },
   {
@@ -4504,11 +4720,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 342999.89,
-    "grossPnl": -16649.61,
+    "navBefore": 342999.61,
+    "grossPnl": -16649.6,
     "cost": 68.6,
-    "netPnl": -16718.21,
-    "navAfter": 326281.68,
+    "netPnl": -16718.2,
+    "navAfter": 326281.42,
     "turnover": 40.0
   },
   {
@@ -4516,11 +4732,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 326281.68,
-    "grossPnl": -11490.05,
+    "navBefore": 326281.42,
+    "grossPnl": -11490.04,
     "cost": 32.63,
-    "netPnl": -11522.68,
-    "navAfter": 314759.0,
+    "netPnl": -11522.67,
+    "navAfter": 314758.75,
     "turnover": 20.0
   },
   {
@@ -4528,11 +4744,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 314759.0,
+    "navBefore": 314758.75,
     "grossPnl": 3017.19,
     "cost": 62.95,
     "netPnl": 2954.24,
-    "navAfter": 317713.24,
+    "navAfter": 317712.99,
     "turnover": 40.0
   },
   {
@@ -4540,11 +4756,11 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 317713.24,
-    "grossPnl": -4865.41,
+    "navBefore": 317712.99,
+    "grossPnl": -4865.4,
     "cost": 31.77,
     "netPnl": -4897.18,
-    "navAfter": 312816.06,
+    "navAfter": 312815.81,
     "turnover": 20.0
   },
   {
@@ -4552,11 +4768,23 @@
     "strategyId": "STR-19",
     "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
     "sleeve": "Momentum",
-    "navBefore": 312816.06,
-    "grossPnl": -1936.63,
+    "navBefore": 312815.81,
+    "grossPnl": -1936.33,
     "cost": 31.28,
-    "netPnl": -1967.91,
-    "navAfter": 310848.15,
+    "netPnl": -1967.61,
+    "navAfter": 310848.2,
+    "turnover": 20.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-19",
+    "strategy": "WQ Alpha 096 - Risk Controlled Momentum",
+    "sleeve": "Momentum",
+    "navBefore": 310848.2,
+    "grossPnl": 5687.56,
+    "cost": 31.08,
+    "netPnl": 5656.47,
+    "navAfter": 316504.67,
     "turnover": 20.0
   },
   {
@@ -4564,11 +4792,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 43136.67,
+    "navBefore": 43136.7,
     "grossPnl": 135.64,
     "cost": 43.14,
     "netPnl": 92.51,
-    "navAfter": 43229.17,
+    "navAfter": 43229.2,
     "turnover": 200.0
   },
   {
@@ -4576,11 +4804,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 43229.17,
+    "navBefore": 43229.2,
     "grossPnl": -1143.82,
     "cost": 34.58,
     "netPnl": -1178.4,
-    "navAfter": 42050.77,
+    "navAfter": 42050.8,
     "turnover": 160.0
   },
   {
@@ -4588,11 +4816,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 42050.77,
-    "grossPnl": 2392.68,
+    "navBefore": 42050.8,
+    "grossPnl": 2392.69,
     "cost": 29.44,
     "netPnl": 2363.25,
-    "navAfter": 44414.02,
+    "navAfter": 44414.05,
     "turnover": 140.0
   },
   {
@@ -4600,11 +4828,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44414.02,
+    "navBefore": 44414.05,
     "grossPnl": -211.43,
     "cost": 44.41,
     "netPnl": -255.84,
-    "navAfter": 44158.18,
+    "navAfter": 44158.21,
     "turnover": 200.0
   },
   {
@@ -4612,11 +4840,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44158.18,
+    "navBefore": 44158.21,
     "grossPnl": 719.05,
     "cost": 39.74,
     "netPnl": 679.31,
-    "navAfter": 44837.49,
+    "navAfter": 44837.52,
     "turnover": 180.0
   },
   {
@@ -4624,11 +4852,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44837.49,
+    "navBefore": 44837.52,
     "grossPnl": -33.48,
     "cost": 40.35,
     "netPnl": -73.84,
-    "navAfter": 44763.65,
+    "navAfter": 44763.69,
     "turnover": 180.0
   },
   {
@@ -4636,11 +4864,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44763.65,
+    "navBefore": 44763.69,
     "grossPnl": 310.19,
     "cost": 44.76,
     "netPnl": 265.42,
-    "navAfter": 45029.08,
+    "navAfter": 45029.11,
     "turnover": 200.0
   },
   {
@@ -4648,11 +4876,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 45029.08,
+    "navBefore": 45029.11,
     "grossPnl": -896.1,
     "cost": 40.53,
     "netPnl": -936.63,
-    "navAfter": 44092.45,
+    "navAfter": 44092.48,
     "turnover": 180.0
   },
   {
@@ -4660,11 +4888,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44092.45,
+    "navBefore": 44092.48,
     "grossPnl": -237.51,
     "cost": 39.68,
     "netPnl": -277.19,
-    "navAfter": 43815.25,
+    "navAfter": 43815.29,
     "turnover": 180.0
   },
   {
@@ -4672,11 +4900,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 43815.25,
+    "navBefore": 43815.29,
     "grossPnl": -636.7,
     "cost": 43.82,
     "netPnl": -680.51,
-    "navAfter": 43134.74,
+    "navAfter": 43134.77,
     "turnover": 200.0
   },
   {
@@ -4684,11 +4912,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 43134.74,
+    "navBefore": 43134.77,
     "grossPnl": -305.0,
     "cost": 38.82,
     "netPnl": -343.82,
-    "navAfter": 42790.92,
+    "navAfter": 42790.95,
     "turnover": 180.0
   },
   {
@@ -4696,11 +4924,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 42790.92,
+    "navBefore": 42790.95,
     "grossPnl": -385.39,
     "cost": 34.23,
     "netPnl": -419.62,
-    "navAfter": 42371.3,
+    "navAfter": 42371.33,
     "turnover": 160.0
   },
   {
@@ -4708,11 +4936,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 42371.3,
+    "navBefore": 42371.33,
     "grossPnl": 1510.84,
     "cost": 29.66,
     "netPnl": 1481.18,
-    "navAfter": 43852.48,
+    "navAfter": 43852.51,
     "turnover": 140.0
   },
   {
@@ -4720,11 +4948,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 43852.48,
+    "navBefore": 43852.51,
     "grossPnl": 1423.08,
     "cost": 43.85,
     "netPnl": 1379.23,
-    "navAfter": 45231.71,
+    "navAfter": 45231.74,
     "turnover": 200.0
   },
   {
@@ -4732,11 +4960,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 45231.71,
+    "navBefore": 45231.74,
     "grossPnl": -1016.51,
     "cost": 45.23,
     "netPnl": -1061.74,
-    "navAfter": 44169.96,
+    "navAfter": 44170.0,
     "turnover": 200.0
   },
   {
@@ -4744,11 +4972,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44169.96,
+    "navBefore": 44170.0,
     "grossPnl": 483.52,
     "cost": 26.5,
     "netPnl": 457.01,
-    "navAfter": 44626.98,
+    "navAfter": 44627.01,
     "turnover": 120.0
   },
   {
@@ -4756,11 +4984,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44626.98,
-    "grossPnl": -1622.62,
+    "navBefore": 44627.01,
+    "grossPnl": -1622.63,
     "cost": 44.63,
     "netPnl": -1667.25,
-    "navAfter": 42959.73,
+    "navAfter": 42959.76,
     "turnover": 200.0
   },
   {
@@ -4768,11 +4996,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 42959.73,
+    "navBefore": 42959.76,
     "grossPnl": 1062.16,
     "cost": 17.18,
-    "netPnl": 1044.97,
-    "navAfter": 44004.7,
+    "netPnl": 1044.98,
+    "navAfter": 44004.73,
     "turnover": 80.0
   },
   {
@@ -4780,11 +5008,11 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44004.7,
+    "navBefore": 44004.73,
     "grossPnl": 701.72,
     "cost": 44.0,
-    "netPnl": 657.71,
-    "navAfter": 44662.42,
+    "netPnl": 657.72,
+    "navAfter": 44662.45,
     "turnover": 200.0
   },
   {
@@ -4792,11 +5020,23 @@
     "strategyId": "STR-20",
     "strategy": "WQ Alpha 101 - Close To Open Reversal",
     "sleeve": "Intraday",
-    "navBefore": 44662.42,
-    "grossPnl": 94.52,
+    "navBefore": 44662.45,
+    "grossPnl": 94.57,
     "cost": 44.66,
-    "netPnl": 49.86,
-    "navAfter": 44712.28,
+    "netPnl": 49.9,
+    "navAfter": 44712.35,
     "turnover": 200.0
+  },
+  {
+    "date": "2026-07-09",
+    "strategyId": "STR-20",
+    "strategy": "WQ Alpha 101 - Close To Open Reversal",
+    "sleeve": "Intraday",
+    "navBefore": 44712.35,
+    "grossPnl": 566.91,
+    "cost": 40.24,
+    "netPnl": 526.67,
+    "navAfter": 45239.02,
+    "turnover": 180.0
   }
 ]
