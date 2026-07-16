@@ -11,14 +11,14 @@
     "factor": "Growth / tech",
     "purpose": "Nasdaq growth proxy",
     "use": "Separate alpha from growth crowding",
-    "loading": 0.786
+    "loading": 0.785
   },
   {
     "ticker": "IWM",
     "factor": "Small cap",
     "purpose": "Size and domestic cyclicality proxy",
     "use": "Detect small-cap sensitivity",
-    "loading": 0.391
+    "loading": 0.39
   },
   {
     "ticker": "TLT",

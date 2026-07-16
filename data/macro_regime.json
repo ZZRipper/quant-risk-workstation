@@ -1,19 +1,19 @@
 {
   "source": "FRED + Yahoo ETF proxy",
-  "quadrant": "Rising growth + rising inflation",
+  "quadrant": "Rising growth + falling inflation",
   "businessCycle": "Recovery",
-  "riskTone": "Inflationary expansion",
+  "riskTone": "Risk-on",
   "growth": {
     "direction": "Rising",
     "score": 0.0394
   },
   "inflation": {
-    "direction": "Rising",
-    "score": 0.0048
+    "direction": "Falling",
+    "score": -0.0083
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.0204
+    "score": -0.0241
   },
   "indicators": [
     {
@@ -43,7 +43,7 @@
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "-0.17%",
+      "value": "-1.49%",
       "signal": "inflation"
     },
     {
@@ -53,28 +53,28 @@
     },
     {
       "name": "VIX 3m change",
-      "value": "-1.44 pts",
+      "value": "-1.81 pts",
       "signal": "stress"
     }
   ],
   "guidance": [
     {
-      "sleeve": "Value / Commodity-sensitive",
+      "sleeve": "Momentum / Trend",
       "tilt": "Prefer",
-      "reason": "Nominal growth and inflation proxies are both firming."
+      "reason": "Growth is improving while inflation pressure is easing."
     },
     {
-      "sleeve": "Long Duration / Growth",
-      "tilt": "Reduce",
-      "reason": "Rising inflation can pressure duration-sensitive equities."
+      "sleeve": "Credit / Cyclical",
+      "tilt": "Prefer",
+      "reason": "Risk appetite and credit conditions are usually more supportive."
     },
     {
-      "sleeve": "Momentum",
+      "sleeve": "Defensive / Low Vol",
       "tilt": "Neutral",
-      "reason": "Can work, but monitor reversal risk when rates move."
+      "reason": "Useful for balance, but not the primary regime beneficiary."
     }
   ],
   "warnings": [
-    "Monitor rates beta and long-duration growth exposure."
+    "No major macro-regime conflict detected; continue monitoring factor concentration."
   ]
 }
