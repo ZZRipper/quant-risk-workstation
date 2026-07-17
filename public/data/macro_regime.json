@@ -1,24 +1,24 @@
 {
   "source": "FRED + Yahoo ETF proxy",
-  "quadrant": "Rising growth + falling inflation",
+  "quadrant": "Rising growth + rising inflation",
   "businessCycle": "Recovery",
-  "riskTone": "Risk-on",
+  "riskTone": "Inflationary expansion",
   "growth": {
     "direction": "Rising",
-    "score": 0.0394
+    "score": 0.0348
   },
   "inflation": {
-    "direction": "Falling",
-    "score": -0.0083
+    "direction": "Rising",
+    "score": 0.0023
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.0241
+    "score": -0.0274
   },
   "indicators": [
     {
       "name": "Industrial production 6m",
-      "value": "1.60%",
+      "value": "1.13%",
       "signal": "growth"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "10Y breakeven change",
-      "value": "-0.07 pts",
+      "value": "-0.05 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "-1.49%",
+      "value": "-0.45%",
       "signal": "inflation"
     },
     {
@@ -53,28 +53,28 @@
     },
     {
       "name": "VIX 3m change",
-      "value": "-1.81 pts",
+      "value": "-2.14 pts",
       "signal": "stress"
     }
   ],
   "guidance": [
     {
-      "sleeve": "Momentum / Trend",
+      "sleeve": "Value / Commodity-sensitive",
       "tilt": "Prefer",
-      "reason": "Growth is improving while inflation pressure is easing."
+      "reason": "Nominal growth and inflation proxies are both firming."
     },
     {
-      "sleeve": "Credit / Cyclical",
-      "tilt": "Prefer",
-      "reason": "Risk appetite and credit conditions are usually more supportive."
+      "sleeve": "Long Duration / Growth",
+      "tilt": "Reduce",
+      "reason": "Rising inflation can pressure duration-sensitive equities."
     },
     {
-      "sleeve": "Defensive / Low Vol",
+      "sleeve": "Momentum",
       "tilt": "Neutral",
-      "reason": "Useful for balance, but not the primary regime beneficiary."
+      "reason": "Can work, but monitor reversal risk when rates move."
     }
   ],
   "warnings": [
-    "No major macro-regime conflict detected; continue monitoring factor concentration."
+    "Monitor rates beta and long-duration growth exposure."
   ]
 }
