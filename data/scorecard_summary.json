@@ -5,23 +5,23 @@
     "Revise": 17,
     "Reject": 1
   },
-  "averageScore": 51.2,
+  "averageScore": 50.5,
   "topStrategy": {
     "id": "STR-15",
     "name": "WQ Alpha 078 - Correlation Break",
-    "score": 65.0,
+    "score": 64.9,
     "decision": "Watch"
   },
   "middleStrategy": {
     "id": "STR-08",
     "name": "WQ Alpha 032 - VWAP Mean Reversion",
-    "score": 49.6,
+    "score": 48.9,
     "decision": "Revise"
   },
   "bottomStrategy": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "score": 39.7,
+    "score": 37.9,
     "decision": "Reject"
   },
   "mostCrowded": {
@@ -32,36 +32,36 @@
   "highestOosSharpe": {
     "id": "STR-14",
     "name": "WQ Alpha 071 - Composite Rank",
-    "oosSharpe": 1.45
+    "oosSharpe": 1.43
   },
   "worstOosDrawdown": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "oosDrawdown": -35.73
+    "oosDrawdown": -35.75
   },
   "deepDive": [
     {
       "id": "STR-15",
       "name": "WQ Alpha 078 - Correlation Break",
       "sleeve": "Correlation",
-      "score": 65.0,
+      "score": 64.9,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 78.3,
-        "robustness": 100.0,
+        "oosPerformance": 77.0,
+        "robustness": 99.4,
         "drawdownControl": 48.6,
         "costEfficiency": 0.0,
-        "diversification": 91.8,
-        "factorIndependence": 11.4,
-        "paperBehavior": 95.7,
-        "hitRate": 59.0
+        "diversification": 94.0,
+        "factorIndependence": 11.5,
+        "paperBehavior": 97.2,
+        "hitRate": 58.5
       },
-      "oosSharpe": 1.0,
+      "oosSharpe": 0.97,
       "oosDrawdown": -17.86,
-      "sharpeDecay": 0.27,
-      "paperPnl": 20971.71,
-      "maxCorrelation": 0.533,
+      "sharpeDecay": 0.24,
+      "paperPnl": 20946.68,
+      "maxCorrelation": 0.524,
       "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
@@ -78,24 +78,24 @@
       "id": "STR-08",
       "name": "WQ Alpha 032 - VWAP Mean Reversion",
       "sleeve": "Reversion",
-      "score": 49.6,
+      "score": 48.9,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 76.2,
+        "oosPerformance": 74.9,
         "robustness": 100.0,
         "drawdownControl": 30.2,
         "costEfficiency": 0.0,
-        "diversification": 40.5,
+        "diversification": 39.0,
         "factorIndependence": 0.0,
-        "paperBehavior": 12.1,
-        "hitRate": 75.0
+        "paperBehavior": 10.1,
+        "hitRate": 74.5
       },
-      "oosSharpe": 0.95,
+      "oosSharpe": 0.92,
       "oosDrawdown": -22.44,
-      "sharpeDecay": 0.34,
-      "paperPnl": -10425.09,
-      "maxCorrelation": 0.738,
+      "sharpeDecay": 0.3,
+      "paperPnl": -11398.07,
+      "maxCorrelation": 0.744,
       "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
@@ -112,24 +112,24 @@
       "id": "STR-20",
       "name": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "score": 39.7,
+      "score": 37.9,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
-        "oosPerformance": 20.5,
-        "robustness": 98.9,
+        "oosPerformance": 16.6,
+        "robustness": 96.0,
         "drawdownControl": 0.0,
         "costEfficiency": 0.0,
         "diversification": 100.0,
         "factorIndependence": 0.0,
-        "paperBehavior": 52.8,
-        "hitRate": 63.0
+        "paperBehavior": 48.9,
+        "hitRate": 62.5
       },
-      "oosSharpe": 0.29,
-      "oosDrawdown": -35.73,
-      "sharpeDecay": 0.23,
-      "paperPnl": 1521.67,
-      "maxCorrelation": 0.496,
+      "oosSharpe": 0.25,
+      "oosDrawdown": -35.75,
+      "sharpeDecay": 0.18,
+      "paperPnl": 1227.47,
+      "maxCorrelation": 0.497,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",
