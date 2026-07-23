@@ -5,29 +5,29 @@
     "Revise": 17,
     "Reject": 1
   },
-  "averageScore": 50.5,
+  "averageScore": 50.2,
   "topStrategy": {
     "id": "STR-15",
     "name": "WQ Alpha 078 - Correlation Break",
-    "score": 65.0,
+    "score": 64.4,
     "decision": "Watch"
   },
   "middleStrategy": {
     "id": "STR-19",
     "name": "WQ Alpha 096 - Risk Controlled Momentum",
-    "score": 49.5,
+    "score": 49.7,
     "decision": "Revise"
   },
   "bottomStrategy": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "score": 38.4,
+    "score": 37.5,
     "decision": "Reject"
   },
   "mostCrowded": {
-    "id": "STR-14",
-    "name": "WQ Alpha 071 - Composite Rank",
-    "maxCorrelation": 0.962
+    "id": "STR-05",
+    "name": "WQ Alpha 021 - Trend Stability",
+    "maxCorrelation": 0.963
   },
   "highestOosSharpe": {
     "id": "STR-02",
@@ -37,31 +37,31 @@
   "worstOosDrawdown": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "oosDrawdown": -35.75
+    "oosDrawdown": -35.73
   },
   "deepDive": [
     {
       "id": "STR-15",
       "name": "WQ Alpha 078 - Correlation Break",
       "sleeve": "Correlation",
-      "score": 65.0,
+      "score": 64.4,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 77.0,
-        "robustness": 98.9,
+        "oosPerformance": 76.6,
+        "robustness": 97.7,
         "drawdownControl": 48.6,
         "costEfficiency": 0.0,
-        "diversification": 94.0,
+        "diversification": 91.2,
         "factorIndependence": 11.3,
         "paperBehavior": 100.0,
         "hitRate": 59.0
       },
-      "oosSharpe": 0.97,
+      "oosSharpe": 0.96,
       "oosDrawdown": -17.86,
-      "sharpeDecay": 0.23,
-      "paperPnl": 25692.53,
-      "maxCorrelation": 0.524,
+      "sharpeDecay": 0.21,
+      "paperPnl": 26698.39,
+      "maxCorrelation": 0.535,
       "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
@@ -78,7 +78,7 @@
       "id": "STR-19",
       "name": "WQ Alpha 096 - Risk Controlled Momentum",
       "sleeve": "Momentum",
-      "score": 49.5,
+      "score": 49.7,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
@@ -88,13 +88,13 @@
         "costEfficiency": 0.0,
         "diversification": 0.0,
         "factorIndependence": 46.9,
-        "paperBehavior": 10.7,
-        "hitRate": 69.5
+        "paperBehavior": 13.1,
+        "hitRate": 70.0
       },
       "oosSharpe": 1.0,
       "oosDrawdown": -16.06,
       "sharpeDecay": -0.12,
-      "paperPnl": -5755.37,
+      "paperPnl": -5137.41,
       "maxCorrelation": 0.952,
       "dominantFactor": "Credit beta",
       "strengths": [
@@ -112,24 +112,24 @@
       "id": "STR-20",
       "name": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "score": 38.4,
+      "score": 37.5,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
-        "oosPerformance": 17.5,
-        "robustness": 96.6,
+        "oosPerformance": 16.5,
+        "robustness": 96.0,
         "drawdownControl": 0.0,
         "costEfficiency": 0.0,
         "diversification": 100.0,
         "factorIndependence": 0.0,
-        "paperBehavior": 51.5,
+        "paperBehavior": 45.4,
         "hitRate": 62.5
       },
-      "oosSharpe": 0.26,
-      "oosDrawdown": -35.75,
-      "sharpeDecay": 0.19,
-      "paperPnl": 1627.74,
-      "maxCorrelation": 0.496,
+      "oosSharpe": 0.25,
+      "oosDrawdown": -35.73,
+      "sharpeDecay": 0.18,
+      "paperPnl": 875.38,
+      "maxCorrelation": 0.489,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",

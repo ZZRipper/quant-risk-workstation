@@ -1,7 +1,7 @@
 [
   {
     "name": "Market beta",
-    "value": 0.977,
+    "value": 0.976,
     "limit": 0.3,
     "status": "Breach"
   },
@@ -37,7 +37,7 @@
   },
   {
     "name": "Volatility beta",
-    "value": -0.977,
+    "value": -0.976,
     "limit": 0.2,
     "status": "Breach"
   },
