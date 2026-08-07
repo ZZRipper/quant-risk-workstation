@@ -5,7 +5,7 @@
   "riskTone": "Risk-on",
   "growth": {
     "direction": "Rising",
-    "score": 0.0348
+    "score": 0.033
   },
   "inflation": {
     "direction": "Falling",
@@ -13,7 +13,7 @@
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.0176
+    "score": -0.0361
   },
   "indicators": [
     {
@@ -23,7 +23,7 @@
     },
     {
       "name": "Payrolls 6m",
-      "value": "0.35%",
+      "value": "0.17%",
       "signal": "growth"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "10Y breakeven change",
-      "value": "-0.06 pts",
+      "value": "-0.09 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "-4.47%",
+      "value": "-4.43%",
       "signal": "inflation"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "VIX 3m change",
-      "value": "-1.38 pts",
+      "value": "-3.23 pts",
       "signal": "stress"
     }
   ],
