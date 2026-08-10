@@ -18,14 +18,14 @@
     "factor": "Small cap",
     "purpose": "Size and domestic cyclicality proxy",
     "use": "Detect small-cap sensitivity",
-    "loading": 0.39
+    "loading": 0.389
   },
   {
     "ticker": "TLT",
     "factor": "Rates duration",
     "purpose": "Long-duration Treasury proxy",
     "use": "Map rate-sensitive growth exposure",
-    "loading": -0.178
+    "loading": -0.179
   },
   {
     "ticker": "HYG",
@@ -46,14 +46,14 @@
     "factor": "Gold / real asset",
     "purpose": "Inflation hedge proxy",
     "use": "Compare inflation sleeve behavior",
-    "loading": 0.326
+    "loading": 0.325
   },
   {
     "ticker": "DBC",
     "factor": "Commodities",
     "purpose": "Broad commodity proxy",
     "use": "Monitor commodity/inflation linkage",
-    "loading": 0.326
+    "loading": 0.325
   },
   {
     "ticker": "UUP",
