@@ -13,13 +13,13 @@
   },
   {
     "name": "Value beta",
-    "value": -0.785,
+    "value": -0.784,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Momentum beta",
-    "value": 0.785,
+    "value": 0.784,
     "limit": 0.25,
     "status": "Breach"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "USD beta",
-    "value": -0.315,
+    "value": -0.316,
     "limit": 0.2,
     "status": "Breach"
   },

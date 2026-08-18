@@ -11,7 +11,7 @@
     "factor": "Growth / tech",
     "purpose": "Nasdaq growth proxy",
     "use": "Separate alpha from growth crowding",
-    "loading": 0.785
+    "loading": 0.784
   },
   {
     "ticker": "IWM",
@@ -60,6 +60,6 @@
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.315
+    "loading": -0.316
   }
 ]
