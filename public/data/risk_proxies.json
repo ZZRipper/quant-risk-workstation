@@ -4,7 +4,7 @@
     "factor": "Market beta",
     "purpose": "Broad U.S. equity benchmark",
     "use": "Compare stock strategy returns against market beta",
-    "loading": 0.974
+    "loading": 0.973
   },
   {
     "ticker": "QQQ",
@@ -25,7 +25,7 @@
     "factor": "Rates duration",
     "purpose": "Long-duration Treasury proxy",
     "use": "Map rate-sensitive growth exposure",
-    "loading": -0.178
+    "loading": -0.177
   },
   {
     "ticker": "HYG",
@@ -46,20 +46,20 @@
     "factor": "Gold / real asset",
     "purpose": "Inflation hedge proxy",
     "use": "Compare inflation sleeve behavior",
-    "loading": 0.324
+    "loading": 0.323
   },
   {
     "ticker": "DBC",
     "factor": "Commodities",
     "purpose": "Broad commodity proxy",
     "use": "Monitor commodity/inflation linkage",
-    "loading": 0.324
+    "loading": 0.323
   },
   {
     "ticker": "UUP",
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.316
+    "loading": -0.317
   }
 ]
