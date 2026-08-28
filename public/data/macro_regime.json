@@ -9,11 +9,11 @@
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.0418
+    "score": 0.0463
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.0067
+    "score": -0.0049
   },
   "indicators": [
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "10Y breakeven change",
-      "value": "0.04 pts",
+      "value": "0.08 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "3.42%",
+      "value": "3.84%",
       "signal": "inflation"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "VIX 3m change",
-      "value": "-0.29 pts",
+      "value": "-0.11 pts",
       "signal": "stress"
     }
   ],
