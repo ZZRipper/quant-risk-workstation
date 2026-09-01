@@ -32,14 +32,14 @@
     "factor": "Credit spread",
     "purpose": "High-yield credit proxy",
     "use": "Stress-test credit-sensitive equities",
-    "loading": 1.054
+    "loading": 1.053
   },
   {
     "ticker": "LQD",
     "factor": "Investment grade credit",
     "purpose": "IG credit proxy",
     "use": "Benchmark spread-risk beta",
-    "loading": 1.054
+    "loading": 1.053
   },
   {
     "ticker": "GLD",
@@ -60,6 +60,6 @@
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.316
+    "loading": -0.317
   }
 ]
