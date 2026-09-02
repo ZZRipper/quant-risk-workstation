@@ -31,7 +31,7 @@
   },
   {
     "name": "Credit beta",
-    "value": 1.053,
+    "value": 1.054,
     "limit": 0.2,
     "status": "Breach"
   },
@@ -43,13 +43,13 @@
   },
   {
     "name": "USD beta",
-    "value": -0.317,
+    "value": -0.318,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Commodity beta",
-    "value": 0.323,
+    "value": 0.322,
     "limit": 0.2,
     "status": "Breach"
   }
