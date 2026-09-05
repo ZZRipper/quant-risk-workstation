@@ -5,15 +5,15 @@
   "riskTone": "Inflationary expansion",
   "growth": {
     "direction": "Rising",
-    "score": 0.041
+    "score": 0.0534
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.0757
+    "score": 0.1006
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.0667
+    "score": -0.0496
   },
   "indicators": [
     {
@@ -23,12 +23,12 @@
     },
     {
       "name": "Payrolls 6m",
-      "value": "0.17%",
+      "value": "0.40%",
       "signal": "growth"
     },
     {
       "name": "Unemployment 6m change",
-      "value": "-0.20 pts",
+      "value": "-0.30 pts",
       "signal": "growth"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "10Y breakeven change",
-      "value": "0.00 pts",
+      "value": "0.01 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "6.86%",
+      "value": "9.34%",
       "signal": "inflation"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "VIX 3m change",
-      "value": "-6.31 pts",
+      "value": "-4.60 pts",
       "signal": "stress"
     }
   ],
