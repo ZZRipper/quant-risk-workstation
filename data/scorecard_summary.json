@@ -9,25 +9,25 @@
   "topStrategy": {
     "id": "STR-07",
     "name": "WQ Alpha 028 - Correlation Reversal",
-    "score": 67.2,
+    "score": 66.7,
     "decision": "Watch"
   },
   "middleStrategy": {
     "id": "STR-02",
     "name": "WQ Alpha 004 - Rank Momentum",
-    "score": 52.4,
+    "score": 52.5,
     "decision": "Revise"
   },
   "bottomStrategy": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "score": 36.2,
+    "score": 36.4,
     "decision": "Reject"
   },
   "mostCrowded": {
     "id": "STR-12",
     "name": "WQ Alpha 055 - Turnover Reversal",
-    "maxCorrelation": 0.964
+    "maxCorrelation": 0.963
   },
   "highestOosSharpe": {
     "id": "STR-14",
@@ -37,31 +37,31 @@
   "worstOosDrawdown": {
     "id": "STR-20",
     "name": "WQ Alpha 101 - Close To Open Reversal",
-    "oosDrawdown": -29.26
+    "oosDrawdown": -29.23
   },
   "deepDive": [
     {
       "id": "STR-07",
       "name": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "score": 67.2,
+      "score": 66.7,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 80.9,
+        "oosPerformance": 81.4,
         "robustness": 100.0,
         "drawdownControl": 50.6,
         "costEfficiency": 0.0,
-        "diversification": 100.0,
-        "factorIndependence": 15.0,
-        "paperBehavior": 92.9,
-        "hitRate": 69.5
+        "diversification": 94.5,
+        "factorIndependence": 14.9,
+        "paperBehavior": 91.6,
+        "hitRate": 69.0
       },
-      "oosSharpe": 1.06,
+      "oosSharpe": 1.07,
       "oosDrawdown": -17.36,
-      "sharpeDecay": 0.54,
-      "paperPnl": 19481.77,
-      "maxCorrelation": 0.496,
+      "sharpeDecay": 0.56,
+      "paperPnl": 19558.92,
+      "maxCorrelation": 0.522,
       "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
@@ -78,24 +78,24 @@
       "id": "STR-02",
       "name": "WQ Alpha 004 - Rank Momentum",
       "sleeve": "Momentum",
-      "score": 52.4,
+      "score": 52.5,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 96.5,
+        "oosPerformance": 97.0,
         "robustness": 100.0,
         "drawdownControl": 33.7,
-        "costEfficiency": 0.3,
-        "diversification": 6.8,
-        "factorIndependence": 1.7,
-        "paperBehavior": 15.1,
-        "hitRate": 79.5
+        "costEfficiency": 0.0,
+        "diversification": 8.2,
+        "factorIndependence": 1.6,
+        "paperBehavior": 14.2,
+        "hitRate": 79.0
       },
-      "oosSharpe": 1.42,
+      "oosSharpe": 1.43,
       "oosDrawdown": -21.58,
-      "sharpeDecay": 0.66,
-      "paperPnl": -61352.84,
-      "maxCorrelation": 0.873,
+      "sharpeDecay": 0.69,
+      "paperPnl": -60901.36,
+      "maxCorrelation": 0.867,
       "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
@@ -112,24 +112,24 @@
       "id": "STR-20",
       "name": "WQ Alpha 101 - Close To Open Reversal",
       "sleeve": "Intraday",
-      "score": 36.2,
+      "score": 36.4,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
-        "oosPerformance": 27.1,
+        "oosPerformance": 28.2,
         "robustness": 100.0,
-        "drawdownControl": 3.0,
+        "drawdownControl": 3.1,
         "costEfficiency": 0.0,
-        "diversification": 36.3,
+        "diversification": 35.8,
         "factorIndependence": 0.0,
-        "paperBehavior": 60.1,
+        "paperBehavior": 59.0,
         "hitRate": 64.5
       },
-      "oosSharpe": 0.36,
-      "oosDrawdown": -29.26,
-      "sharpeDecay": 0.35,
-      "paperPnl": 2044.0,
-      "maxCorrelation": 0.755,
+      "oosSharpe": 0.37,
+      "oosDrawdown": -29.23,
+      "sharpeDecay": 0.36,
+      "paperPnl": 2040.93,
+      "maxCorrelation": 0.757,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay"
