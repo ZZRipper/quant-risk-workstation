@@ -5,20 +5,20 @@
   "riskTone": "Inflationary expansion",
   "growth": {
     "direction": "Rising",
-    "score": 0.0534
+    "score": 0.0454
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.2068
+    "score": 0.2061
   },
   "stress": {
-    "direction": "Rising",
-    "score": 0.0057
+    "direction": "Falling",
+    "score": -0.022
   },
   "indicators": [
     {
       "name": "Industrial production 6m",
-      "value": "1.93%",
+      "value": "1.14%",
       "signal": "growth"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "10Y breakeven change",
-      "value": "-0.04 pts",
+      "value": "-0.05 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "19.67%",
+      "value": "19.62%",
       "signal": "inflation"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "VIX 3m change",
-      "value": "0.93 pts",
+      "value": "-1.84 pts",
       "signal": "stress"
     }
   ],
@@ -75,7 +75,6 @@
     }
   ],
   "warnings": [
-    "Monitor rates beta and long-duration growth exposure.",
-    "Credit or volatility stress is rising; tighten risk limits before increasing allocation."
+    "Monitor rates beta and long-duration growth exposure."
   ]
 }
