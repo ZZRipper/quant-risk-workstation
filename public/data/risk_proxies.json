@@ -11,7 +11,7 @@
     "factor": "Growth / tech",
     "purpose": "Nasdaq growth proxy",
     "use": "Separate alpha from growth crowding",
-    "loading": 0.782
+    "loading": 0.781
   },
   {
     "ticker": "IWM",
@@ -25,7 +25,7 @@
     "factor": "Rates duration",
     "purpose": "Long-duration Treasury proxy",
     "use": "Map rate-sensitive growth exposure",
-    "loading": -0.176
+    "loading": -0.175
   },
   {
     "ticker": "HYG",
@@ -60,6 +60,6 @@
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.322
+    "loading": -0.323
   }
 ]
