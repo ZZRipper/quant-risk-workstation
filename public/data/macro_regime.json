@@ -9,7 +9,7 @@
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.2426
+    "score": 0.2313
   },
   "stress": {
     "direction": "Falling",
@@ -38,12 +38,12 @@
     },
     {
       "name": "10Y breakeven change",
-      "value": "0.04 pts",
+      "value": "-0.01 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "23.18%",
+      "value": "22.09%",
       "signal": "inflation"
     },
     {

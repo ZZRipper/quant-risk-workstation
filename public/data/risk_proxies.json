@@ -25,7 +25,7 @@
     "factor": "Rates duration",
     "purpose": "Long-duration Treasury proxy",
     "use": "Map rate-sensitive growth exposure",
-    "loading": -0.175
+    "loading": -0.174
   },
   {
     "ticker": "HYG",
@@ -60,6 +60,6 @@
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.322
+    "loading": -0.323
   }
 ]
