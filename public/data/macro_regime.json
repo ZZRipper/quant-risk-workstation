@@ -9,7 +9,7 @@
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.2596
+    "score": 0.2341
   },
   "stress": {
     "direction": "Falling",
@@ -43,7 +43,7 @@
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "24.88%",
+      "value": "22.33%",
       "signal": "inflation"
     },
     {
