@@ -5,29 +5,29 @@
     "Revise": 16,
     "Reject": 1
   },
-  "averageScore": 53.4,
+  "averageScore": 53.7,
   "topStrategy": {
-    "id": "STR-15",
-    "name": "WQ Alpha 078 - Correlation Break",
-    "score": 66.8,
+    "id": "STR-07",
+    "name": "WQ Alpha 028 - Correlation Reversal",
+    "score": 67.1,
     "decision": "Watch"
   },
   "middleStrategy": {
     "id": "STR-05",
     "name": "WQ Alpha 021 - Trend Stability",
-    "score": 54.0,
+    "score": 54.4,
     "decision": "Revise"
   },
   "bottomStrategy": {
     "id": "STR-09",
     "name": "WQ Alpha 041 - High-Low Range",
-    "score": 38.7,
+    "score": 38.3,
     "decision": "Reject"
   },
   "mostCrowded": {
     "id": "STR-12",
     "name": "WQ Alpha 055 - Turnover Reversal",
-    "maxCorrelation": 0.95
+    "maxCorrelation": 0.952
   },
   "highestOosSharpe": {
     "id": "STR-14",
@@ -41,27 +41,27 @@
   },
   "deepDive": [
     {
-      "id": "STR-15",
-      "name": "WQ Alpha 078 - Correlation Break",
+      "id": "STR-07",
+      "name": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "score": 66.8,
+      "score": 67.1,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
         "oosPerformance": 85.7,
         "robustness": 100.0,
-        "drawdownControl": 48.6,
+        "drawdownControl": 50.6,
         "costEfficiency": 0.0,
-        "diversification": 99.5,
-        "factorIndependence": 12.7,
-        "paperBehavior": 83.5,
-        "hitRate": 61.0
+        "diversification": 92.8,
+        "factorIndependence": 15.1,
+        "paperBehavior": 85.8,
+        "hitRate": 69.0
       },
       "oosSharpe": 1.17,
-      "oosDrawdown": -17.86,
-      "sharpeDecay": 0.56,
-      "paperPnl": 31266.88,
-      "maxCorrelation": 0.502,
+      "oosDrawdown": -17.36,
+      "sharpeDecay": 0.71,
+      "paperPnl": 13805.32,
+      "maxCorrelation": 0.529,
       "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
@@ -78,24 +78,24 @@
       "id": "STR-05",
       "name": "WQ Alpha 021 - Trend Stability",
       "sleeve": "Trend",
-      "score": 54.0,
+      "score": 54.4,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 88.7,
+        "oosPerformance": 89.2,
         "robustness": 100.0,
         "drawdownControl": 38.7,
         "costEfficiency": 0.0,
-        "diversification": 13.0,
+        "diversification": 14.5,
         "factorIndependence": 37.1,
-        "paperBehavior": 15.1,
-        "hitRate": 64.5
+        "paperBehavior": 16.0,
+        "hitRate": 65.0
       },
-      "oosSharpe": 1.24,
+      "oosSharpe": 1.25,
       "oosDrawdown": -20.33,
-      "sharpeDecay": 0.53,
-      "paperPnl": -21989.13,
-      "maxCorrelation": 0.848,
+      "sharpeDecay": 0.54,
+      "paperPnl": -22246.77,
+      "maxCorrelation": 0.842,
       "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
@@ -112,24 +112,24 @@
       "id": "STR-09",
       "name": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "score": 38.7,
+      "score": 38.3,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
         "oosPerformance": 2.2,
         "robustness": 100.0,
-        "drawdownControl": 32.1,
+        "drawdownControl": 30.1,
         "costEfficiency": 0.0,
-        "diversification": 92.2,
+        "diversification": 92.8,
         "factorIndependence": 32.3,
-        "paperBehavior": 16.5,
+        "paperBehavior": 14.8,
         "hitRate": 54.5
       },
       "oosSharpe": 0.05,
-      "oosDrawdown": -21.98,
-      "sharpeDecay": 0.34,
-      "paperPnl": -3225.84,
-      "maxCorrelation": 0.531,
+      "oosDrawdown": -22.47,
+      "sharpeDecay": 0.35,
+      "paperPnl": -3420.45,
+      "maxCorrelation": 0.529,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",
