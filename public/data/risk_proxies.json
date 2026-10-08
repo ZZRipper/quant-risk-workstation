@@ -4,7 +4,7 @@
     "factor": "Market beta",
     "purpose": "Broad U.S. equity benchmark",
     "use": "Compare stock strategy returns against market beta",
-    "loading": 0.975
+    "loading": 0.974
   },
   {
     "ticker": "QQQ",
@@ -25,21 +25,21 @@
     "factor": "Rates duration",
     "purpose": "Long-duration Treasury proxy",
     "use": "Map rate-sensitive growth exposure",
-    "loading": -0.173
+    "loading": -0.172
   },
   {
     "ticker": "HYG",
     "factor": "Credit spread",
     "purpose": "High-yield credit proxy",
     "use": "Stress-test credit-sensitive equities",
-    "loading": 1.046
+    "loading": 1.043
   },
   {
     "ticker": "LQD",
     "factor": "Investment grade credit",
     "purpose": "IG credit proxy",
     "use": "Benchmark spread-risk beta",
-    "loading": 1.046
+    "loading": 1.043
   },
   {
     "ticker": "GLD",
@@ -60,6 +60,6 @@
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.325
+    "loading": -0.327
   }
 ]
