@@ -7,31 +7,31 @@
   },
   {
     "name": "Size beta",
-    "value": 0.38,
+    "value": 0.379,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Value beta",
-    "value": -0.781,
+    "value": -0.782,
     "limit": 0.2,
     "status": "Breach"
   },
   {
     "name": "Momentum beta",
-    "value": 0.781,
+    "value": 0.782,
     "limit": 0.25,
     "status": "Breach"
   },
   {
     "name": "Rates beta",
-    "value": -0.172,
+    "value": -0.171,
     "limit": 0.2,
     "status": "Warning"
   },
   {
     "name": "Credit beta",
-    "value": 1.043,
+    "value": 1.044,
     "limit": 0.2,
     "status": "Breach"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "USD beta",
-    "value": -0.327,
+    "value": -0.329,
     "limit": 0.2,
     "status": "Breach"
   },
