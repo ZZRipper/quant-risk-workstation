@@ -5,7 +5,7 @@
     "Revise": 14,
     "Reject": 1
   },
-  "averageScore": 53.8,
+  "averageScore": 53.7,
   "topStrategy": {
     "id": "STR-07",
     "name": "WQ Alpha 028 - Correlation Reversal",
@@ -13,9 +13,9 @@
     "decision": "Watch"
   },
   "middleStrategy": {
-    "id": "STR-06",
-    "name": "WQ Alpha 024 - Delayed Momentum",
-    "score": 54.1,
+    "id": "STR-05",
+    "name": "WQ Alpha 021 - Trend Stability",
+    "score": 53.9,
     "decision": "Revise"
   },
   "bottomStrategy": {
@@ -37,7 +37,7 @@
   "worstOosDrawdown": {
     "id": "STR-16",
     "name": "WQ Alpha 083 - Range Momentum",
-    "oosDrawdown": -30.56
+    "oosDrawdown": -30.6
   },
   "deepDive": [
     {
@@ -48,20 +48,20 @@
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 86.6,
+        "oosPerformance": 87.0,
         "robustness": 100.0,
         "drawdownControl": 50.6,
         "costEfficiency": 0.0,
-        "diversification": 83.0,
+        "diversification": 83.3,
         "factorIndependence": 16.0,
-        "paperBehavior": 86.8,
+        "paperBehavior": 86.0,
         "hitRate": 70.5
       },
-      "oosSharpe": 1.19,
+      "oosSharpe": 1.2,
       "oosDrawdown": -17.36,
-      "sharpeDecay": 0.75,
-      "paperPnl": 14094.67,
-      "maxCorrelation": 0.568,
+      "sharpeDecay": 0.76,
+      "paperPnl": 14147.93,
+      "maxCorrelation": 0.567,
       "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
@@ -75,27 +75,27 @@
       "reviewBucket": "Top score"
     },
     {
-      "id": "STR-06",
-      "name": "WQ Alpha 024 - Delayed Momentum",
-      "sleeve": "Momentum",
-      "score": 54.1,
+      "id": "STR-05",
+      "name": "WQ Alpha 021 - Trend Stability",
+      "sleeve": "Trend",
+      "score": 53.9,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 89.2,
+        "oosPerformance": 87.0,
         "robustness": 100.0,
-        "drawdownControl": 28.2,
+        "drawdownControl": 35.7,
         "costEfficiency": 0.0,
-        "diversification": 48.3,
-        "factorIndependence": 9.9,
-        "paperBehavior": 17.1,
-        "hitRate": 65.0
+        "diversification": 23.8,
+        "factorIndependence": 36.9,
+        "paperBehavior": 12.0,
+        "hitRate": 63.0
       },
-      "oosSharpe": 1.25,
-      "oosDrawdown": -22.96,
-      "sharpeDecay": 0.62,
-      "paperPnl": -22101.4,
-      "maxCorrelation": 0.707,
+      "oosSharpe": 1.2,
+      "oosDrawdown": -21.08,
+      "sharpeDecay": 0.51,
+      "paperPnl": -26765.9,
+      "maxCorrelation": 0.805,
       "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
@@ -104,7 +104,7 @@
       "weaknesses": [
         "OOS drawdown is high",
         "Cost or turnover drag is high",
-        "Crowded factor beta: Value beta"
+        "High correlation with STR-14, STR-17, STR-06"
       ],
       "reviewBucket": "Middle score"
     },
@@ -120,16 +120,16 @@
         "robustness": 100.0,
         "drawdownControl": 25.6,
         "costEfficiency": 0.0,
-        "diversification": 83.0,
+        "diversification": 83.3,
         "factorIndependence": 33.3,
-        "paperBehavior": 16.0,
+        "paperBehavior": 15.0,
         "hitRate": 55.0
       },
       "oosSharpe": 0.04,
       "oosDrawdown": -23.59,
       "sharpeDecay": 0.3,
-      "paperPnl": -3318.99,
-      "maxCorrelation": 0.568,
+      "paperPnl": -3380.79,
+      "maxCorrelation": 0.567,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",
