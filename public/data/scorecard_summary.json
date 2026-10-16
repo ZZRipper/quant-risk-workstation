@@ -5,23 +5,23 @@
     "Revise": 15,
     "Reject": 1
   },
-  "averageScore": 53.7,
+  "averageScore": 53.9,
   "topStrategy": {
     "id": "STR-07",
     "name": "WQ Alpha 028 - Correlation Reversal",
-    "score": 67.3,
+    "score": 67.5,
     "decision": "Watch"
   },
   "middleStrategy": {
     "id": "STR-05",
     "name": "WQ Alpha 021 - Trend Stability",
-    "score": 54.2,
+    "score": 55.1,
     "decision": "Revise"
   },
   "bottomStrategy": {
     "id": "STR-09",
     "name": "WQ Alpha 041 - High-Low Range",
-    "score": 37.0,
+    "score": 37.7,
     "decision": "Reject"
   },
   "mostCrowded": {
@@ -32,36 +32,36 @@
   "highestOosSharpe": {
     "id": "STR-14",
     "name": "WQ Alpha 071 - Composite Rank",
-    "oosSharpe": 1.52
+    "oosSharpe": 1.5
   },
   "worstOosDrawdown": {
     "id": "STR-16",
     "name": "WQ Alpha 083 - Range Momentum",
-    "oosDrawdown": -31.05
+    "oosDrawdown": -31.73
   },
   "deepDive": [
     {
       "id": "STR-07",
       "name": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "score": 67.3,
+      "score": 67.5,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 87.4,
+        "oosPerformance": 87.9,
         "robustness": 100.0,
         "drawdownControl": 50.6,
         "costEfficiency": 0.0,
-        "diversification": 87.7,
-        "factorIndependence": 16.0,
-        "paperBehavior": 86.6,
-        "hitRate": 71.0
+        "diversification": 88.5,
+        "factorIndependence": 16.1,
+        "paperBehavior": 87.1,
+        "hitRate": 71.5
       },
-      "oosSharpe": 1.21,
+      "oosSharpe": 1.22,
       "oosDrawdown": -17.36,
-      "sharpeDecay": 0.77,
-      "paperPnl": 13824.21,
-      "maxCorrelation": 0.549,
+      "sharpeDecay": 0.78,
+      "paperPnl": 14817.31,
+      "maxCorrelation": 0.546,
       "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
@@ -78,24 +78,24 @@
       "id": "STR-05",
       "name": "WQ Alpha 021 - Trend Stability",
       "sleeve": "Trend",
-      "score": 54.2,
+      "score": 55.1,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 86.6,
+        "oosPerformance": 87.4,
         "robustness": 100.0,
         "drawdownControl": 35.7,
         "costEfficiency": 0.0,
-        "diversification": 27.2,
+        "diversification": 33.0,
         "factorIndependence": 37.0,
-        "paperBehavior": 12.8,
-        "hitRate": 63.0
+        "paperBehavior": 13.6,
+        "hitRate": 63.5
       },
-      "oosSharpe": 1.19,
+      "oosSharpe": 1.21,
       "oosDrawdown": -21.08,
-      "sharpeDecay": 0.51,
-      "paperPnl": -26558.79,
-      "maxCorrelation": 0.791,
+      "sharpeDecay": 0.52,
+      "paperPnl": -24072.3,
+      "maxCorrelation": 0.768,
       "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
@@ -112,24 +112,24 @@
       "id": "STR-09",
       "name": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "score": 37.0,
+      "score": 37.7,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
-        "oosPerformance": 1.7,
+        "oosPerformance": 3.0,
         "robustness": 100.0,
         "drawdownControl": 25.6,
         "costEfficiency": 0.0,
-        "diversification": 87.7,
-        "factorIndependence": 33.2,
-        "paperBehavior": 14.2,
-        "hitRate": 54.5
+        "diversification": 88.5,
+        "factorIndependence": 33.3,
+        "paperBehavior": 17.3,
+        "hitRate": 55.0
       },
-      "oosSharpe": 0.04,
+      "oosSharpe": 0.07,
       "oosDrawdown": -23.59,
-      "sharpeDecay": 0.28,
-      "paperPnl": -3426.51,
-      "maxCorrelation": 0.549,
+      "sharpeDecay": 0.32,
+      "paperPnl": -3029.29,
+      "maxCorrelation": 0.546,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay",
