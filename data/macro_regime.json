@@ -5,20 +5,20 @@
   "riskTone": "Inflationary expansion",
   "growth": {
     "direction": "Rising",
-    "score": 0.0239
+    "score": 0.0343
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.1554
+    "score": 0.1494
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.0234
+    "score": -0.0263
   },
   "indicators": [
     {
       "name": "Industrial production 6m",
-      "value": "1.14%",
+      "value": "2.18%",
       "signal": "growth"
     },
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "10Y breakeven change",
-      "value": "-0.07 pts",
+      "value": "-0.04 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "14.91%",
+      "value": "14.28%",
       "signal": "inflation"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "VIX 3m change",
-      "value": "-1.90 pts",
+      "value": "-2.19 pts",
       "signal": "stress"
     }
   ],

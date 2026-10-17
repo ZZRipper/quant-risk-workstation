@@ -7,32 +7,32 @@ This report validates the current prototype stock-alpha strategies using the sam
 - Macro regime: Rising growth + rising inflation (Inflationary expansion)
 - Macro source: FRED + Yahoo ETF proxy
 - Fallback note: none
-- IS/OOS split: 2016-10-18 to 2022-10-12 / 2022-10-13 to 2026-10-15
+- IS/OOS split: 2016-10-18 to 2022-10-12 / 2022-10-13 to 2026-10-16
 
 ## Validation Table
 
 | ID | Strategy | IS Sharpe | OOS Sharpe | Sharpe Decay | IS DD | OOS DD | OOS Hit Rate | OOS Status | Reason |
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
 | STR-01 | WQ Alpha 001 - Short-Term Reversal | 0.29 | 1.10 | 0.81 | -53.11% | -23.91% | 53.7% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
-| STR-02 | WQ Alpha 004 - Rank Momentum | 0.64 | 1.48 | 0.84 | -36.11% | -26.25% | 56.1% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
+| STR-02 | WQ Alpha 004 - Rank Momentum | 0.64 | 1.49 | 0.85 | -36.11% | -26.25% | 56.1% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
 | STR-03 | WQ Alpha 006 - Volume Price Divergence | 0.08 | 1.05 | 0.97 | -38.13% | -29.11% | 53.6% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
 | STR-04 | WQ Alpha 012 - Open-Close Pressure | -0.47 | 0.68 | 1.15 | -66.86% | -23.57% | 51.9% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
-| STR-05 | WQ Alpha 021 - Trend Stability | 0.68 | 1.21 | 0.52 | -28.39% | -21.08% | 52.7% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
+| STR-05 | WQ Alpha 021 - Trend Stability | 0.68 | 1.21 | 0.53 | -28.39% | -21.08% | 52.7% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
 | STR-06 | WQ Alpha 024 - Delayed Momentum | 0.62 | 1.24 | 0.62 | -32.49% | -22.96% | 53.1% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
-| STR-07 | WQ Alpha 028 - Correlation Reversal | 0.44 | 1.22 | 0.78 | -35.34% | -17.36% | 54.3% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
+| STR-07 | WQ Alpha 028 - Correlation Reversal | 0.44 | 1.21 | 0.77 | -35.34% | -17.36% | 54.3% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
 | STR-08 | WQ Alpha 032 - VWAP Mean Reversion | 0.53 | 1.24 | 0.71 | -44.45% | -18.31% | 56.4% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
 | STR-09 | WQ Alpha 041 - High-Low Range | -0.25 | 0.07 | 0.32 | -44.50% | -23.59% | 51.0% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
 | STR-10 | WQ Alpha 043 - Volume Acceleration | 0.01 | 1.08 | 1.07 | -52.72% | -17.30% | 54.2% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
-| STR-11 | WQ Alpha 051 - Decay Momentum | 0.54 | 1.26 | 0.71 | -33.92% | -23.79% | 51.6% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
+| STR-11 | WQ Alpha 051 - Decay Momentum | 0.54 | 1.25 | 0.71 | -33.92% | -23.80% | 51.6% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
 | STR-12 | WQ Alpha 055 - Turnover Reversal | 0.16 | 1.22 | 1.06 | -57.22% | -19.16% | 54.2% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
 | STR-13 | WQ Alpha 060 - Price Volume Rank | 0.39 | 1.50 | 1.11 | -31.69% | -20.97% | 53.5% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
-| STR-14 | WQ Alpha 071 - Composite Rank | 0.51 | 1.50 | 0.99 | -27.62% | -18.07% | 52.3% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
+| STR-14 | WQ Alpha 071 - Composite Rank | 0.51 | 1.50 | 0.98 | -27.62% | -18.07% | 52.3% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
 | STR-15 | WQ Alpha 078 - Correlation Break | 0.60 | 1.21 | 0.61 | -34.55% | -17.86% | 52.5% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
 | STR-16 | WQ Alpha 083 - Range Momentum | 0.26 | 0.91 | 0.65 | -33.71% | -31.73% | 50.1% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
 | STR-17 | WQ Alpha 088 - Liquidity Adjusted Momentum | 0.47 | 1.30 | 0.83 | -27.56% | -19.39% | 52.5% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
 | STR-18 | WQ Alpha 092 - Delayed Reversal | 0.52 | 1.02 | 0.50 | -39.67% | -17.62% | 53.5% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
 | STR-19 | WQ Alpha 096 - Risk Controlled Momentum | 0.85 | 1.15 | 0.30 | -30.79% | -19.68% | 54.6% | Pass | OOS performance remains positive with acceptable drawdown degradation. |
-| STR-20 | WQ Alpha 101 - Close To Open Reversal | -0.09 | 0.52 | 0.61 | -53.80% | -22.48% | 53.0% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
+| STR-20 | WQ Alpha 101 - Close To Open Reversal | -0.09 | 0.52 | 0.61 | -53.80% | -22.45% | 53.0% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
 
 ## Methodology Notes
 
