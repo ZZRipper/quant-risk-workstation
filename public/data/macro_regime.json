@@ -1,73 +1,80 @@
 {
-  "source": "Yahoo ETF proxy fallback",
-  "quadrant": "Falling growth + rising inflation",
-  "businessCycle": "Slowdown",
-  "riskTone": "Stagflation risk",
+  "source": "FRED + Yahoo ETF proxy",
+  "quadrant": "Rising growth + rising inflation",
+  "businessCycle": "Recovery",
+  "riskTone": "Inflationary expansion",
   "growth": {
-    "direction": "Falling",
-    "score": -0.0492
+    "direction": "Rising",
+    "score": 0.0343
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.1326
+    "score": 0.1194
   },
   "stress": {
     "direction": "Falling",
-    "score": -0.0455
+    "score": -0.0234
   },
   "indicators": [
     {
-      "name": "Equity proxy 3m",
-      "value": "4.44%",
+      "name": "Industrial production 6m",
+      "value": "2.18%",
       "signal": "growth"
     },
     {
-      "name": "Size proxy 3m",
-      "value": "-9.36%",
+      "name": "Payrolls 6m",
+      "value": "0.25%",
       "signal": "growth"
+    },
+    {
+      "name": "Unemployment 6m change",
+      "value": "-0.10 pts",
+      "signal": "growth"
+    },
+    {
+      "name": "CPI YoY",
+      "value": "4.02%",
+      "signal": "inflation"
+    },
+    {
+      "name": "10Y breakeven change",
+      "value": "-0.06 pts",
+      "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "10.76%",
+      "value": "11.30%",
       "signal": "inflation"
     },
     {
-      "name": "Rates proxy 3m",
-      "value": "-2.51%",
-      "signal": "inflation"
-    },
-    {
-      "name": "Volatility proxy 3m",
-      "value": "-4.52%",
+      "name": "Baa spread 3m change",
+      "value": "-0.44 pts",
       "signal": "stress"
     },
     {
-      "name": "Credit proxy 3m",
-      "value": "-0.03%",
+      "name": "VIX 3m change",
+      "value": "-1.90 pts",
       "signal": "stress"
     }
   ],
   "guidance": [
     {
-      "sleeve": "Low Vol / Quality",
+      "sleeve": "Value / Commodity-sensitive",
       "tilt": "Prefer",
-      "reason": "Weakening growth with inflation pressure argues for defensive exposure."
+      "reason": "Nominal growth and inflation proxies are both firming."
     },
     {
-      "sleeve": "Credit Carry",
+      "sleeve": "Long Duration / Growth",
       "tilt": "Reduce",
-      "reason": "Falling growth can widen credit risk even if carry looks attractive."
+      "reason": "Rising inflation can pressure duration-sensitive equities."
     },
     {
-      "sleeve": "High Beta Momentum",
-      "tilt": "Reduce",
-      "reason": "Crowded growth and beta can draw down quickly in stagflation risk."
+      "sleeve": "Momentum",
+      "tilt": "Neutral",
+      "reason": "Can work, but monitor reversal risk when rates move."
     }
   ],
   "warnings": [
-    "Growth is weakening while inflation pressure is firm; avoid adding broad beta without a hedge.",
-    "Review credit-sensitive and cyclical stock sleeves for drawdown risk.",
     "Monitor rates beta and long-duration growth exposure."
-  ],
-  "fallbackReason": "No FRED series available"
+  ]
 }
