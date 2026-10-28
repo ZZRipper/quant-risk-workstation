@@ -9,11 +9,11 @@
   },
   "inflation": {
     "direction": "Rising",
-    "score": 0.1873
+    "score": 0.1482
   },
   "stress": {
-    "direction": "Rising",
-    "score": 0.008
+    "direction": "Falling",
+    "score": -0.0271
   },
   "indicators": [
     {
@@ -38,12 +38,12 @@
     },
     {
       "name": "10Y breakeven change",
-      "value": "-0.08 pts",
+      "value": "-0.09 pts",
       "signal": "inflation"
     },
     {
       "name": "Commodity proxy 3m",
-      "value": "18.11%",
+      "value": "14.21%",
       "signal": "inflation"
     },
     {
@@ -53,7 +53,7 @@
     },
     {
       "name": "VIX 3m change",
-      "value": "1.24 pts",
+      "value": "-2.27 pts",
       "signal": "stress"
     }
   ],
@@ -75,7 +75,6 @@
     }
   ],
   "warnings": [
-    "Monitor rates beta and long-duration growth exposure.",
-    "Credit or volatility stress is rising; tighten risk limits before increasing allocation."
+    "Monitor rates beta and long-duration growth exposure."
   ]
 }

@@ -4,7 +4,7 @@
     "factor": "Market beta",
     "purpose": "Broad U.S. equity benchmark",
     "use": "Compare stock strategy returns against market beta",
-    "loading": 0.974
+    "loading": 0.973
   },
   {
     "ticker": "QQQ",
@@ -18,7 +18,7 @@
     "factor": "Small cap",
     "purpose": "Size and domestic cyclicality proxy",
     "use": "Detect small-cap sensitivity",
-    "loading": 0.379
+    "loading": 0.378
   },
   {
     "ticker": "TLT",
@@ -32,14 +32,14 @@
     "factor": "Credit spread",
     "purpose": "High-yield credit proxy",
     "use": "Stress-test credit-sensitive equities",
-    "loading": 1.04
+    "loading": 1.039
   },
   {
     "ticker": "LQD",
     "factor": "Investment grade credit",
     "purpose": "IG credit proxy",
     "use": "Benchmark spread-risk beta",
-    "loading": 1.04
+    "loading": 1.039
   },
   {
     "ticker": "GLD",
