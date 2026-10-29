@@ -46,20 +46,20 @@
     "factor": "Gold / real asset",
     "purpose": "Inflation hedge proxy",
     "use": "Compare inflation sleeve behavior",
-    "loading": 0.316
+    "loading": 0.317
   },
   {
     "ticker": "DBC",
     "factor": "Commodities",
     "purpose": "Broad commodity proxy",
     "use": "Monitor commodity/inflation linkage",
-    "loading": 0.316
+    "loading": 0.317
   },
   {
     "ticker": "UUP",
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.332
+    "loading": -0.333
   }
 ]
