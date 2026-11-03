@@ -4,7 +4,7 @@
     "factor": "Market beta",
     "purpose": "Broad U.S. equity benchmark",
     "use": "Compare stock strategy returns against market beta",
-    "loading": 0.973
+    "loading": 0.974
   },
   {
     "ticker": "QQQ",
@@ -60,6 +60,6 @@
     "factor": "Dollar FX",
     "purpose": "USD strength proxy",
     "use": "Explain multinational revenue exposure",
-    "loading": -0.332
+    "loading": -0.334
   }
 ]
