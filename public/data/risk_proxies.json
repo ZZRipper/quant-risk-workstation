@@ -4,7 +4,7 @@
     "factor": "Market beta",
     "purpose": "Broad U.S. equity benchmark",
     "use": "Compare stock strategy returns against market beta",
-    "loading": 0.974
+    "loading": 0.973
   },
   {
     "ticker": "QQQ",
@@ -18,7 +18,7 @@
     "factor": "Small cap",
     "purpose": "Size and domestic cyclicality proxy",
     "use": "Detect small-cap sensitivity",
-    "loading": 0.377
+    "loading": 0.376
   },
   {
     "ticker": "TLT",

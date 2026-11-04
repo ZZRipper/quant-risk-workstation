@@ -1,13 +1,13 @@
 [
   {
     "name": "Market beta",
-    "value": 0.974,
+    "value": 0.973,
     "limit": 0.3,
     "status": "Breach"
   },
   {
     "name": "Size beta",
-    "value": 0.377,
+    "value": 0.376,
     "limit": 0.2,
     "status": "Breach"
   },
@@ -27,7 +27,7 @@
     "name": "Rates beta",
     "value": -0.17,
     "limit": 0.2,
-    "status": "Warning"
+    "status": "Healthy"
   },
   {
     "name": "Credit beta",
@@ -37,7 +37,7 @@
   },
   {
     "name": "Volatility beta",
-    "value": -0.974,
+    "value": -0.973,
     "limit": 0.2,
     "status": "Breach"
   },
