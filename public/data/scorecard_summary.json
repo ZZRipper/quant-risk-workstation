@@ -1,38 +1,38 @@
 {
   "counts": {
     "Approve": 0,
-    "Watch": 3,
+    "Watch": 2,
     "Revise": 16,
-    "Reject": 1
+    "Reject": 2
   },
-  "averageScore": 52.6,
+  "averageScore": 51.0,
   "topStrategy": {
     "id": "STR-07",
     "name": "WQ Alpha 028 - Correlation Reversal",
-    "score": 67.5,
+    "score": 64.9,
     "decision": "Watch"
   },
   "middleStrategy": {
-    "id": "STR-02",
-    "name": "WQ Alpha 004 - Rank Momentum",
-    "score": 54.0,
+    "id": "STR-05",
+    "name": "WQ Alpha 021 - Trend Stability",
+    "score": 51.4,
     "decision": "Revise"
   },
   "bottomStrategy": {
     "id": "STR-09",
     "name": "WQ Alpha 041 - High-Low Range",
-    "score": 29.3,
+    "score": 29.0,
     "decision": "Reject"
   },
   "mostCrowded": {
     "id": "STR-12",
     "name": "WQ Alpha 055 - Turnover Reversal",
-    "maxCorrelation": 0.91
+    "maxCorrelation": 0.963
   },
   "highestOosSharpe": {
     "id": "STR-14",
     "name": "WQ Alpha 071 - Composite Rank",
-    "oosSharpe": 1.42
+    "oosSharpe": 1.41
   },
   "worstOosDrawdown": {
     "id": "STR-16",
@@ -44,24 +44,24 @@
       "id": "STR-07",
       "name": "WQ Alpha 028 - Correlation Reversal",
       "sleeve": "Correlation",
-      "score": 67.5,
+      "score": 64.9,
       "decision": "Watch",
       "recommendedAction": "Keep paper allocation and monitor decay",
       "components": {
-        "oosPerformance": 83.1,
+        "oosPerformance": 82.2,
         "robustness": 100.0,
         "drawdownControl": 50.6,
         "costEfficiency": 0.0,
-        "diversification": 100.0,
-        "factorIndependence": 16.1,
-        "paperBehavior": 87.9,
+        "diversification": 77.2,
+        "factorIndependence": 15.8,
+        "paperBehavior": 87.1,
         "hitRate": 71.0
       },
-      "oosSharpe": 1.11,
+      "oosSharpe": 1.09,
       "oosDrawdown": -17.36,
       "sharpeDecay": 0.62,
-      "paperPnl": 14617.66,
-      "maxCorrelation": 0.488,
+      "paperPnl": 7657.66,
+      "maxCorrelation": 0.591,
       "dominantFactor": "Credit beta",
       "strengths": [
         "OOS performance remains strong",
@@ -75,27 +75,27 @@
       "reviewBucket": "Top score"
     },
     {
-      "id": "STR-02",
-      "name": "WQ Alpha 004 - Rank Momentum",
-      "sleeve": "Momentum",
-      "score": 54.0,
+      "id": "STR-05",
+      "name": "WQ Alpha 021 - Trend Stability",
+      "sleeve": "Trend",
+      "score": 51.4,
       "decision": "Revise",
       "recommendedAction": "Research changes before adding capital",
       "components": {
-        "oosPerformance": 92.6,
+        "oosPerformance": 80.9,
         "robustness": 100.0,
-        "drawdownControl": 10.5,
+        "drawdownControl": 25.8,
         "costEfficiency": 0.0,
-        "diversification": 64.0,
-        "factorIndependence": 3.5,
-        "paperBehavior": 18.0,
-        "hitRate": 79.0
+        "diversification": 27.0,
+        "factorIndependence": 37.3,
+        "paperBehavior": 13.8,
+        "hitRate": 62.0
       },
-      "oosSharpe": 1.33,
-      "oosDrawdown": -27.38,
-      "sharpeDecay": 0.63,
-      "paperPnl": -89377.76,
-      "maxCorrelation": 0.644,
+      "oosSharpe": 1.06,
+      "oosDrawdown": -23.54,
+      "sharpeDecay": 0.32,
+      "paperPnl": -36395.42,
+      "maxCorrelation": 0.792,
       "dominantFactor": "Value beta",
       "strengths": [
         "OOS performance remains strong",
@@ -104,7 +104,7 @@
       "weaknesses": [
         "OOS drawdown is high",
         "Cost or turnover drag is high",
-        "Crowded factor beta: Value beta"
+        "High correlation with STR-06, STR-17, STR-14"
       ],
       "reviewBucket": "Middle score"
     },
@@ -112,7 +112,7 @@
       "id": "STR-09",
       "name": "WQ Alpha 041 - High-Low Range",
       "sleeve": "Volatility",
-      "score": 29.3,
+      "score": 29.0,
       "decision": "Reject",
       "recommendedAction": "Remove from active candidate set",
       "components": {
@@ -120,16 +120,16 @@
         "robustness": 92.0,
         "drawdownControl": 11.5,
         "costEfficiency": 0.0,
-        "diversification": 54.0,
-        "factorIndependence": 33.3,
-        "paperBehavior": 10.2,
+        "diversification": 54.7,
+        "factorIndependence": 33.2,
+        "paperBehavior": 6.4,
         "hitRate": 53.0
       },
-      "oosSharpe": -0.12,
+      "oosSharpe": -0.13,
       "oosDrawdown": -27.13,
       "sharpeDecay": 0.11,
-      "paperPnl": -4401.43,
-      "maxCorrelation": 0.684,
+      "paperPnl": -5012.38,
+      "maxCorrelation": 0.681,
       "dominantFactor": "Credit beta",
       "strengths": [
         "Limited Sharpe decay"
