@@ -43,7 +43,7 @@
   },
   {
     "name": "USD beta",
-    "value": -0.336,
+    "value": -0.335,
     "limit": 0.2,
     "status": "Breach"
   },
