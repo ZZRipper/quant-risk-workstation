@@ -25,13 +25,13 @@
   },
   {
     "name": "Rates beta",
-    "value": -0.171,
+    "value": -0.17,
     "limit": 0.2,
     "status": "Warning"
   },
   {
     "name": "Credit beta",
-    "value": 1.053,
+    "value": 1.052,
     "limit": 0.2,
     "status": "Breach"
   },
@@ -43,7 +43,7 @@
   },
   {
     "name": "USD beta",
-    "value": -0.337,
+    "value": -0.338,
     "limit": 0.2,
     "status": "Breach"
   },
