@@ -60,7 +60,7 @@
       "oosSharpe": 1.01,
       "oosDrawdown": -17.86,
       "sharpeDecay": 0.35,
-      "paperPnl": 29863.87,
+      "paperPnl": 29816.03,
       "maxCorrelation": 0.744,
       "dominantFactor": "Credit beta",
       "strengths": [
@@ -95,7 +95,7 @@
       "oosSharpe": 1.09,
       "oosDrawdown": -26.68,
       "sharpeDecay": 0.61,
-      "paperPnl": -38842.43,
+      "paperPnl": -38842.44,
       "maxCorrelation": 0.818,
       "dominantFactor": "Value beta",
       "strengths": [

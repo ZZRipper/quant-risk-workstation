@@ -15,7 +15,7 @@ This report validates the current prototype stock-alpha strategies using the sam
 |---|---|---:|---:|---:|---:|---:|---:|---|---|
 | STR-01 | WQ Alpha 001 - Short-Term Reversal | 0.33 | 0.95 | 0.62 | -53.11% | -23.91% | 53.3% | Watch | OOS performance is usable but needs monitoring before more capital is assigned. |
 | STR-02 | WQ Alpha 004 - Rank Momentum | 0.71 | 1.22 | 0.51 | -36.11% | -34.42% | 55.3% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
-| STR-03 | WQ Alpha 006 - Volume Price Divergence | 0.13 | 0.71 | 0.58 | -38.13% | -36.63% | 52.8% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
+| STR-03 | WQ Alpha 006 - Volume Price Divergence | 0.13 | 0.71 | 0.58 | -38.12% | -36.63% | 52.8% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
 | STR-04 | WQ Alpha 012 - Open-Close Pressure | -0.41 | 0.29 | 0.71 | -66.86% | -28.83% | 51.0% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
 | STR-05 | WQ Alpha 021 - Trend Stability | 0.75 | 1.02 | 0.27 | -28.39% | -27.27% | 52.3% | Fail | OOS performance or drawdown indicates the signal may not generalize. |
 | STR-06 | WQ Alpha 024 - Delayed Momentum | 0.69 | 1.04 | 0.35 | -32.49% | -25.66% | 52.5% | Fail | OOS performance or drawdown indicates the signal may not generalize. |

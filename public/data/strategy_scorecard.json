@@ -19,7 +19,7 @@
     "oosSharpe": 1.01,
     "oosDrawdown": -17.86,
     "sharpeDecay": 0.35,
-    "paperPnl": 29863.87,
+    "paperPnl": 29816.03,
     "maxCorrelation": 0.744,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -53,7 +53,7 @@
     "oosSharpe": 1.35,
     "oosDrawdown": -19.28,
     "sharpeDecay": 0.83,
-    "paperPnl": -21701.19,
+    "paperPnl": -21701.26,
     "maxCorrelation": 0.755,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -86,7 +86,7 @@
     "oosSharpe": 0.97,
     "oosDrawdown": -19.68,
     "sharpeDecay": 0.04,
-    "paperPnl": -23340.72,
+    "paperPnl": -23298.73,
     "maxCorrelation": 0.652,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -119,7 +119,7 @@
     "oosSharpe": 0.9,
     "oosDrawdown": -17.36,
     "sharpeDecay": 0.37,
-    "paperPnl": 5552.85,
+    "paperPnl": 5552.82,
     "maxCorrelation": 0.867,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -153,7 +153,7 @@
     "oosSharpe": 0.97,
     "oosDrawdown": -18.31,
     "sharpeDecay": 0.41,
-    "paperPnl": 11637.57,
+    "paperPnl": 11637.54,
     "maxCorrelation": 0.924,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -187,7 +187,7 @@
     "oosSharpe": 1.04,
     "oosDrawdown": -19.16,
     "sharpeDecay": 0.86,
-    "paperPnl": 22219.62,
+    "paperPnl": 22219.7,
     "maxCorrelation": 0.979,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -221,7 +221,7 @@
     "oosSharpe": 1.15,
     "oosDrawdown": -26.08,
     "sharpeDecay": 0.72,
-    "paperPnl": -33177.43,
+    "paperPnl": -33177.46,
     "maxCorrelation": 0.746,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -254,7 +254,7 @@
     "oosSharpe": 0.92,
     "oosDrawdown": -17.3,
     "sharpeDecay": 0.87,
-    "paperPnl": -3410.39,
+    "paperPnl": -3410.38,
     "maxCorrelation": 0.836,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -287,7 +287,7 @@
     "oosSharpe": 0.95,
     "oosDrawdown": -23.91,
     "sharpeDecay": 0.62,
-    "paperPnl": 24770.95,
+    "paperPnl": 24770.99,
     "maxCorrelation": 0.979,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -321,7 +321,7 @@
     "oosSharpe": 1.02,
     "oosDrawdown": -27.27,
     "sharpeDecay": 0.27,
-    "paperPnl": -39846.84,
+    "paperPnl": -39846.82,
     "maxCorrelation": 0.791,
     "dominantFactor": "Value beta",
     "strengths": [
@@ -354,7 +354,7 @@
     "oosSharpe": 1.09,
     "oosDrawdown": -26.68,
     "sharpeDecay": 0.61,
-    "paperPnl": -38842.43,
+    "paperPnl": -38842.44,
     "maxCorrelation": 0.818,
     "dominantFactor": "Value beta",
     "strengths": [
@@ -387,7 +387,7 @@
     "oosSharpe": 1.04,
     "oosDrawdown": -25.66,
     "sharpeDecay": 0.35,
-    "paperPnl": -54510.49,
+    "paperPnl": -54510.36,
     "maxCorrelation": 0.818,
     "dominantFactor": "Value beta",
     "strengths": [
@@ -420,7 +420,7 @@
     "oosSharpe": 1.22,
     "oosDrawdown": -34.42,
     "sharpeDecay": 0.51,
-    "paperPnl": -126082.52,
+    "paperPnl": -126082.4,
     "maxCorrelation": 0.818,
     "dominantFactor": "Value beta",
     "strengths": [
@@ -453,7 +453,7 @@
     "oosSharpe": 0.71,
     "oosDrawdown": -36.63,
     "sharpeDecay": 0.58,
-    "paperPnl": -32096.56,
+    "paperPnl": -32096.6,
     "maxCorrelation": 0.613,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -486,7 +486,7 @@
     "oosSharpe": 1.03,
     "oosDrawdown": -27.29,
     "sharpeDecay": 0.45,
-    "paperPnl": -37920.64,
+    "paperPnl": -37920.65,
     "maxCorrelation": 0.866,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -519,7 +519,7 @@
     "oosSharpe": 0.78,
     "oosDrawdown": -32.54,
     "sharpeDecay": 0.51,
-    "paperPnl": -33279.59,
+    "paperPnl": -33279.52,
     "maxCorrelation": 0.866,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -551,7 +551,7 @@
     "oosSharpe": 0.29,
     "oosDrawdown": -28.83,
     "sharpeDecay": 0.71,
-    "paperPnl": -9331.35,
+    "paperPnl": -9331.41,
     "maxCorrelation": 0.488,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -584,7 +584,7 @@
     "oosSharpe": 0.63,
     "oosDrawdown": -24.18,
     "sharpeDecay": 0.02,
-    "paperPnl": -39697.6,
+    "paperPnl": -39758.73,
     "maxCorrelation": 0.867,
     "dominantFactor": "Credit beta",
     "strengths": [
@@ -616,7 +616,7 @@
     "oosSharpe": 0.3,
     "oosDrawdown": -28.01,
     "sharpeDecay": 0.33,
-    "paperPnl": -4794.03,
+    "paperPnl": -4794.04,
     "maxCorrelation": 0.775,
     "dominantFactor": "Credit beta",
     "strengths": [
